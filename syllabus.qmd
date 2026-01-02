@@ -24,6 +24,7 @@ format:
 -   {{< fa university >}}   {{< var instructor.office >}}
 -   {{< fa envelope >}}  
     [{{< var instructor.email >}}](mailto:{{< var instructor.email >}})
+-   {{< fa phone >}}   {{< var instructor.phone >}}  
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -68,7 +69,7 @@ The scheduling details of the course are as follows
 
 | Section |      Time      | Location |
 |:-------:|:--------------:|:--------:|
-|    A    | MW 2:30-3:50pm |  LH2066  |
+|    B    | TR 2:30-3:50pm |  2C15  |
 
 ### Office Hours
 
@@ -103,7 +104,7 @@ Hill. Here are the approximate prices you can expect
 
 | Source        | Book Type              | Price |
 |:--------------|:-----------------------|:------|
-| WLU Bookstore | Physical, Paperback    | TBD   |
+| WLU Bookstore | Physical, Paperback    | \$140 |
 | Amazon        | Physical, Paperback    | \$165 |
 | McGraw Hill   | Physical, Paperback    | \$140 |
 | McGraw Hill   | Online, 180 Day Rental | \$59  |
@@ -157,9 +158,9 @@ follows:
 
 | Assessment   | Due Date                              | Weight |
 |:-------------|:--------------------------------------|:-------|
-| Assignment 1 | Friday, October 3, 2025 at 9:00pm     | 5%     |
-| Assignment 2 | Friday, November 21, 2025 at 9:00pm   | 5%     |
-| Midterm      | Wednesday, October 29, 2025, in class | 40%    |
+| Assignment 1 | Friday, January 30, 2026 at 9:00pm     | 5%     |
+| Assignment 2 | Friday, March 27, 2026 at 9:00pm   | 5%     |
+| Midterm      | Tuesday, March 3, 2026, in class | 40%    |
 | Final Exam   | TBA                                   | 50%    |
 
 Assignments will ask you to manipulate and interpret data, and answer
