@@ -22,7 +22,7 @@ editor: visual
 
 <h2>Wilfrid Laurier University</h2>
 
-<h2>Fall 2025</h2>
+<h2>Winter 2026</h2>
 
 ![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
 

@@ -36,24 +36,24 @@ website:
           contents:
             - text: "Intro to Labour Economics"
               file: content/introtolme.qmd
-            - text: "Labour Supply 1: Individual Attachment to the Labour Market"
-              file: content/lsupply1.qmd  
-            - text: "Labour Supply 2: Labour Supply and Public Policy"
-              file: content/lsupply2.qmd   
-            - text: "Introduction to Stata"
-              file: content/introtostata.qmd
-            - text: "Labour Supply 3: Labour Supply Over the Life Cycle"
-              file: content/lsupply3.qmd   
-            - text: "Labour Demand 1: Competitive Labour Markets"
-              file: content/ldemand1.qmd
-            - text: "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-              file: content/ldemand2.qmd                
-            - text: "Wages and Employment in a Single Labour Market"
-              file: content/lmarket.qmd  
-            - text: "Human Capital Theory"
-              file: content/hcapital.qmd 
-            - text: "Discrimination and Male-Female Earnings Differentials"
-              file: content/discrim.qmd 
+#            - text: "Labour Supply 1: Individual Attachment to the Labour Market" 
+#              file: content/lsupply1.qmd  
+#            - text: "Labour Supply 2: Labour Supply and Public Policy"
+#              file: content/lsupply2.qmd   
+#            - text: "Introduction to Stata"
+#              file: content/introtostata.qmd
+#            - text: "Labour Supply 3: Labour Supply Over the Life Cycle"
+#              file: content/lsupply3.qmd   
+#            - text: "Labour Demand 1: Competitive Labour Markets"
+#              file: content/ldemand1.qmd
+#            - text: "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+#              file: content/ldemand2.qmd                
+#            - text: "Wages and Employment in a Single Labour Market"
+#              file: content/lmarket.qmd  
+#            - text: "Human Capital Theory"
+#              file: content/hcapital.qmd 
+#            - text: "Discrimination and Male-Female Earnings Differentials"
+#              file: content/discrim.qmd 
               
     - title: "Assignments"
       style: "docked"
