@@ -24,7 +24,7 @@ format:
 -   {{< fa university >}}   {{< var instructor.office >}}
 -   {{< fa envelope >}}  
     [{{< var instructor.email >}}](mailto:{{< var instructor.email >}})
--   {{< fa phone >}}   {{< var instructor.phone >}}  
+-   {{< fa phone >}}   {{< var instructor.phone >}}\
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -47,19 +47,17 @@ format:
 
 ## Course Description
 
-This course examines the economics of taxation through both theoretical
-and empirical lenses. Using tools from microeconomics and econometrics,
-we analyze how different forms of taxation affect individual behavior,
-economic efficiency, and the distribution of resources. The course
-introduces key concepts in tax incidence, optimal taxation, pigouvian
-taxes, and the trade-offs between equity and efficiency. Students will
-engage with current research to understand how economists estimate the
-behavioral and welfare effects of tax policy. They are also asked to
-apply their knowledge to data based assignments. While the course is
-centered on the Canadian tax system, the main concepts are applicable
-more widely. By the end of the course, students will be equipped to
-critically assess tax policy using the theoretical and empirical
-techniques in public economics.
+This course introduces the fundamentals of labour market economics,
+focusing on how the decisions of workers, firms, and governments shape
+employment outcomes. Students will examine how individuals choose
+whether and how much to work, how firms determine hiring and wages, and
+how policies such as welfare, employment insurance, and taxation
+influence those decisions. Core concepts include labour supply and
+demand, human capital, gender wage gaps, and the economics of
+immigration. The course combines theory with empirical evidence from
+Canada and other countries. Students will also build analytical skills
+using statistical software and real-world data to evaluate contemporary
+labour market issues.
 
 ## Course Structure
 
@@ -69,7 +67,7 @@ The scheduling details of the course are as follows
 
 | Section |      Time      | Location |
 |:-------:|:--------------:|:--------:|
-|    B    | TR 2:30-3:50pm |  2C15  |
+|    B    | TR 2:30-3:50pm |   2C15   |
 
 ### Office Hours
 
@@ -156,12 +154,12 @@ You will be evaluated on two equally weighted assignments, one midterm,
 and one final exam. The weights and due dates for each assessment are as
 follows:
 
-| Assessment   | Due Date                              | Weight |
-|:-------------|:--------------------------------------|:-------|
-| Assignment 1 | Friday, January 30, 2026 at 9:00pm     | 5%     |
+| Assessment   | Due Date                           | Weight |
+|:-------------|:-----------------------------------|:-------|
+| Assignment 1 | Friday, January 30, 2026 at 9:00pm | 5%     |
 | Assignment 2 | Friday, March 27, 2026 at 9:00pm   | 5%     |
-| Midterm      | Tuesday, March 3, 2026, in class | 40%    |
-| Final Exam   | TBA                                   | 50%    |
+| Midterm      | Tuesday, March 3, 2026, in class   | 40%    |
+| Final Exam   | TBA                                | 50%    |
 
 Assignments will ask you to manipulate and interpret data, and answer
 some short answer or mathematical questions. Instructions will be posted
@@ -206,12 +204,12 @@ This course covers the following
 
 | **GOAL** | **OBJECTIVE** |
 |------------------------------------|------------------------------------|
-| **1. Graduates will have a broad understanding of Economic Theory and Practice.** | 1.2 Apply appropriate microeconomic models to economic problems. |
+| **1. Graduates will have a broad understanding of Economic Theory and Practice.** | 1.1 Identify important economic institutions nationally and globally |
+|  | 1.2 Apply appropriate microeconomic models to economic problems. |
 |  | 1.4 Demonstrate understanding of empirical techniques in economics. |
 | **2. Graduates will have effective communication skills.** | 2.1 Write effectively in a range of different formats. |
 | **3. Graduates will have professional skills relevant for careers in economics.** | 3.1 Manage large datasets for the purpose of analysis. |
 |  | 3.2 Use computer software common in economic research, including statistical analysis software. |
-| **5. Graduates will have a broad understanding of concepts in financial management.** | 5.1 Understand and apply the principles necessary to pursue a professional career in finance or related fields. |
 
 ## Course Policies
 
@@ -260,7 +258,10 @@ submit late assignments or quizzes will receive a grade of zero.
 
 ### Deferred Final Examinations
 
-Students are strongly urged not to make any commitments (e.g., vacation) during the examination period. Students are required to be available for examinations during the examination periods of all terms in which they register.
+Students are strongly urged not to make any commitments (e.g., vacation)
+during the examination period. Students are required to be available for
+examinations during the examination periods of all terms in which they
+register.
 
 Students who miss a final examination should follow the [university
 policy on deferred final
