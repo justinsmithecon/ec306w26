@@ -1691,21 +1691,36 @@
     "href": "content/lsupply1.html",
     "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "",
-    "text": "BGLRS Chapter 2"
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
   },
   {
     "objectID": "content/lsupply1.html#readings",
     "href": "content/lsupply1.html#readings",
     "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "",
-    "text": "BGLRS Chapter 2"
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
   },
   {
     "objectID": "content/lsupply1.html#slides",
     "href": "content/lsupply1.html#slides",
     "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF."
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
   },
   {
     "objectID": "content/ldemand2.html",
@@ -3151,14 +3166,14 @@
     "href": "slides/lsupply1/index.html#constraints-1",
     "title": "EC306 - Wages and Employment",
     "section": "Constraints",
-    "text": "Constraints\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows a linear budget constraint\nAssume no saving, so consumption = income\nThere are \\(T\\) total hours to allocate to work or leisure\nIndividual earns \\(Y_{n}\\) non-labour income\n\nEarned even with zero work hours (full leisure hours)\n\nEach hour worked gets wage of \\(w\\)\nPerson working \\(T\\) hours (no leisure) earns \\(WT+Y_{n}\\) income\n\nCalled “full income”"
+    "text": "Constraints\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows a linear budget constraint\nAssume no saving, so consumption = income\nThere are \\(T\\) total hours to allocate to work or leisure\nIndividual earns \\(Y_{n}\\) non-labour income\n\nEarned even with zero work hours (full leisure hours)\n\nEach hour worked gets wage of \\(w\\)\nPerson working \\(T\\) hours (no leisure) earns \\(wT+Y_{n}\\) income\n\nCalled “full income”"
   },
   {
     "objectID": "slides/lsupply1/index.html#constraints-2",
     "href": "slides/lsupply1/index.html#constraints-2",
     "title": "EC306 - Wages and Employment",
     "section": "Constraints",
-    "text": "Constraints\n\nMathematically, the budget constraint is\n\n\\[C = w(T - L) + Y_{n}\\] - Consumption is equal to income from working \\((w(T - L))\\) plus non-labour income \\((Y_{n})\\)\n\nThe slope of the budget constraint is \\(-w\\)\n\nThe opportunity cost of leisure is the wage rate\nEach hour of leisure means one less hour worked, which means \\(w\\) less income\n\nSomeone who works zero hours has \\(T\\) leisure hours and \\(Y_{n}\\) consumption\nSomeone who works \\(T\\) hours has zero leisure hours and \\(wT + Y_{n}\\) consumption"
+    "text": "Constraints\n\nMathematically, the budget constraint is\n\n\\[C = w(T - L) + Y_{n}\\]\n\nConsumption is equal to income from working \\((w(T - L))\\) plus non-labour income \\((Y_{n})\\)\nThe slope of the budget constraint is \\(-w\\)\n\nThe opportunity cost of leisure is the wage rate\nEach hour of leisure means one less hour worked, which means \\(w\\) less income\n\nSomeone who works zero hours has \\(T\\) leisure hours and \\(Y_{n}\\) consumption\nSomeone who works \\(T\\) hours has zero leisure hours and \\(wT + Y_{n}\\) consumption"
   },
   {
     "objectID": "slides/lsupply1/index.html#constraints-3",
@@ -3371,11 +3386,11 @@
     "text": "Hidden Unemployment\n\nWe discussed a problem with the unemployment rate in that it does not include discouraged workers\nDiscouraged workers: people who could work but have given up looking and dropped out of the labour force\nOur model can explain this behaviour\nIn bad times, the wage falls\nIf the wage falls below a person’s reservation wage, they will drop out of the labour force"
   },
   {
-    "objectID": "slides/lsupply1/index.html#hidden-uneployment",
-    "href": "slides/lsupply1/index.html#hidden-uneployment",
+    "objectID": "slides/lsupply1/index.html#hidden-unemployment-1",
+    "href": "slides/lsupply1/index.html#hidden-unemployment-1",
     "title": "EC306 - Wages and Employment",
-    "section": "Hidden Uneployment",
-    "text": "Hidden Uneployment\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows worker initially working positive hours\nWage falls from \\(w_{0}\\) to \\(w_{1}\\)\n\\(w_{1}\\) is below the reservation wage \\(w_{r}\\)\n\nThe person will drop out of the labour force\n\nNow use all their time for leisure\n\nConsume non-labour income \\(Y_{n}\\)"
+    "section": "Hidden Unemployment",
+    "text": "Hidden Unemployment\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows worker initially working positive hours\nWage falls from \\(w_{0}\\) to \\(w_{1}\\)\n\\(w_{1}\\) is below the reservation wage \\(w_{r}\\)\n\nThe person will drop out of the labour force\n\nNow use all their time for leisure\n\nConsume non-labour income \\(Y_{n}\\)"
   },
   {
     "objectID": "slides/lsupply1/index.html#moonlighting",

@@ -23,7 +23,7 @@ editor: visual
 
 <h2>Wilfrid Laurier University</h2>
 
-<h2>Fall 2025</h2>
+<h2>Winter 2026</h2>
 
 ![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
 
@@ -310,7 +310,7 @@ ggplot(lfsapr %>%
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3521250779.png)
+![](images/clipboard-3427210665.png)
 :::
 ::::
 
@@ -352,7 +352,7 @@ ggplot(lfsapr %>%
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3078736069.png)
+![](images/clipboard-1858892680.png)
 :::
 ::::
 
@@ -388,7 +388,7 @@ ggplot(lfsapr %>%
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-825607925.png)
+![](images/clipboard-1529467225.png)
 :::
 ::::
 
@@ -405,7 +405,7 @@ ggplot(lfsapr %>%
 
 -   Each hour worked gets wage of $w$
 
--   Person working $T$ hours (no leisure) earns $WT+Y_{n}$ income
+-   Person working $T$ hours (no leisure) earns $wT+Y_{n}$ income
 
     -   Called "full income"
 :::
@@ -415,7 +415,9 @@ ggplot(lfsapr %>%
 
 -   Mathematically, the budget constraint is
 
-$$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L))$ plus non-labour income $(Y_{n})$
+$$C = w(T - L) + Y_{n}$$
+
+-   Consumption is equal to income from working $(w(T - L))$ plus non-labour income $(Y_{n})$
 
 -   The slope of the budget constraint is $-w$
 
@@ -432,7 +434,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-1709908520.png)
+![](images/clipboard-2375514152.png)
 :::
 ::::
 
@@ -456,7 +458,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-4290394048.png)
+![](images/clipboard-3852538713.png)
 :::
 ::::
 
@@ -476,7 +478,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-4290394048.png)
+![](images/clipboard-3852538713.png)
 :::
 ::::
 
@@ -505,7 +507,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-225087360.png)
+![](images/clipboard-3788449471.png)
 :::
 ::::
 
@@ -529,7 +531,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-1788868047.png)
+![](images/clipboard-1296214873.png)
 :::
 ::::
 
@@ -555,7 +557,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3088812582.png)
+![](images/clipboard-3077285541.png)
 :::
 ::::
 
@@ -613,7 +615,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-1982597966.png)
+![](images/clipboard-2043642056.png)
 :::
 ::::
 
@@ -641,7 +643,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-556936835.png)
+![](images/clipboard-2786950424.png)
 :::
 ::::
 
@@ -669,7 +671,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-1709444195.png)
+![](images/clipboard-1628767380.png)
 :::
 ::::
 
@@ -691,7 +693,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-1709444195.png)
+![](images/clipboard-1628767380.png)
 :::
 ::::
 
@@ -713,7 +715,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-1709444195.png)
+![](images/clipboard-1628767380.png)
 :::
 ::::
 
@@ -737,7 +739,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-1483426332.png)
+![](images/clipboard-2974261154.png)
 :::
 ::::
 
@@ -771,7 +773,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-2266967012.png)
+![](images/clipboard-3368964101.png)
 :::
 ::::
 
@@ -795,13 +797,13 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 ::::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-2266967012.png)
+![](images/clipboard-3368964101.png)
 :::
 ::::
 
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-2149340392.png)
+![](images/clipboard-1109791928.png)
 :::
 ::::
 :::::::
@@ -940,7 +942,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-2909473170.png)
+![](images/clipboard-4255772323.png)
 :::
 ::::
 
@@ -960,7 +962,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-339840249.png)
+![](images/clipboard-1090985300.png)
 :::
 ::::
 
@@ -991,12 +993,12 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 
 -   If the wage falls below a person's reservation wage, they will drop out of the labour force
 
-## Hidden Uneployment
+## Hidden Unemployment
 
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3028747801.png)
+![](images/clipboard-2258857482.png)
 :::
 ::::
 
@@ -1035,7 +1037,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-4213768835.png)
+![](images/clipboard-254523120.png)
 :::
 ::::
 
@@ -1059,7 +1061,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-464866633.png)
+![](images/clipboard-4205255804.png)
 :::
 ::::
 
@@ -1095,7 +1097,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-586542092.png)
+![](images/clipboard-2190994419.png)
 :::
 ::::
 
@@ -1119,7 +1121,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-4253424211.png)
+![](images/clipboard-1948304920.png)
 :::
 ::::
 
@@ -1156,45 +1158,42 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-2925305428.png)
+![](images/clipboard-1493246787.png)
 :::
 ::::
 
 ::: {.column width="50%"}
-- Straight-time equivalent work is depicted to the left
+-   Straight-time equivalent work is depicted to the left
 
-- The blue line goes from the fixed hours point with slope $w_{1}$
+-   The blue line goes from the fixed hours point with slope $w_{1}$
 
-  - Generates the equivalent income as overtime pay at the optimum
-  
-- Worker chooses fewer work hours than overtime
+    -   Generates the equivalent income as overtime pay at the optimum
 
-  - Due to income effect of having higher wage at all work hours
-  
+-   Worker chooses fewer work hours than overtime
 
+    -   Due to income effect of having higher wage at all work hours
 :::
 ::::::
-
 
 # Summary
 
 ## Summary
 
-- We have explored the labour-leisure model for labour supply
+-   We have explored the labour-leisure model for labour supply
 
-- The model is based on utility maximization subject to a budget constraint
+-   The model is based on utility maximization subject to a budget constraint
 
-- The model can explain both participation and work hours decisions
+-   The model can explain both participation and work hours decisions
 
-- Changes in non-labour income and the wage affect work decisions
+-   Changes in non-labour income and the wage affect work decisions
 
-- The labour supply curve can be backward bending
+-   The labour supply curve can be backward bending
 
-- The model can be used to analyze various situations faced by workers
+-   The model can be used to analyze various situations faced by workers
 
-    - Added worker effects
-    - Discouraged workers
-    - Moonlighting
-    - Overtime
-- Next chapter we will analyze government policy within this model
+    -   Added worker effects
+    -   Discouraged workers
+    -   Moonlighting
+    -   Overtime
 
+-   Next chapter we will analyze government policy within this model
