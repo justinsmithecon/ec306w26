@@ -2,15 +2,13 @@
 title: "Introduction to Labour Market Economics"
 ---
 
-
 ## Readings
 
-- BGLRS Chapter 1
+-   BGLRS Chapter 1
 
 ## Slides
 
-The slides are embedded in this page, and you can scroll through them with the arrow keys.  If you prefer you can instead <a href="/slides/intro/index.html" target="_blank">pop them out in a new window</a> or <a href="/slides/intro/index.pdf" target="_blank">download a PDF</a>.
-
+The slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead <a href="/slides/intro/index.html" target="_blank">pop them out in a new window</a> or <a href="/slides/intro/index.pdf" target="_blank">download a PDF</a>.
 
 <div>
 
@@ -20,8 +18,6 @@ The slides are embedded in this page, and you can scroll through them with the a
 
 </div>
 
+## Additional Information
 
-
-
-
-
+-   As I discussed in class, [this paper](https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3) by David Autor is a nice non-technical disscussion about the labour market effects of automation:

@@ -1,0 +1,1031 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+    post-render: "scripts/decktape.sh"
+editor: visual
+---
+
+<h1>Labour Supply 2: Labour Supply and Public Policy</h1>
+
+<hr>
+
+<h2>EC306- Wages and Employment</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+-   Discuss various public policies that affect labour supply
+
+    -   Taxes/subsidies
+
+    -   Transfers
+
+    -   Employment Insurance
+
+    -   Worker Compensation
+
+-   Show effect of these policies on work decisions
+
+-   Examine statistical evidence for the model predictions
+
+# Income Maintenance Programs
+
+## Overview of Income Maintenance Programs
+
+-   Represent about 10% of GDP in Canada\
+
+-   Aim to
+
+    -   Raise income of specific groups of people (e.g. parents, elderly)
+    -   Supplement low wages
+
+-   Include child benefits, employment insurance, social assistance, pensions\
+
+-   Key challenge is balancing income support with work incentives
+
+## Government Transfers in Canada
+
+-   In 2017, 83% of families received some form of government transfer\
+-   Major programs:
+    -   Federal Child Benefits (20.2%) – avg. \$6,314\
+    -   Employment Insurance (14.0%) – avg. \$8,352\
+    -   Social Assistance (11.3%) – avg. \$8,367\
+    -   Old Age Security (25.1%) – avg. \$8,566\
+    -   Canada/Quebec Pension Plan (32.4%) – avg. \$10,092
+
+## Issues in Program Design
+
+-   Universal vs. Targeted Programs
+
+    -   Universal programs easy to implement, but expensive and flows to people not in need
+    -   Targeted programs benefit only those in need, but can be costly to implement
+
+-   Work Disincentives
+
+    -   Some programs that support income reduce the incentive to work
+    -   Example: a welfare benefit that increases non-work income
+        -   Can encourage people with preference for leisure to drop out of labour force
+
+-   Permanent vs. transitory income loss
+
+    -   Need different design for each situation
+    -   Temporary layoff requires short-term support
+    -   Long-term disability requires longer support and potentially more costs to reintegrate into workforce
+
+# Demogrants, Welfare, Wage Subsidies
+
+## Introduction
+
+-   We first examine standard income support programs
+
+-   Demogrants
+
+    -   A fixed payment to all individuals regardless of income or employment status
+
+-   Welfare
+
+    -   Lump-sum payment for non-workers, reduced dollar for dollar with earned income
+
+-   Negative Income Tax (NIT)
+
+    -   A welfare payment that decreases at a lower rate than dollar for dollar with earned income
+
+-   Wage Subsidies
+
+    -   An addition to the wage rate
+
+## Demogrant
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-77876364.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Demogrant is an unconditional lump sum income transfer
+
+-   Shifts the budget line up by the amount $D$
+
+-   Because wage does not change, this is a pure income effect
+
+-   If leisure is a normal good, optimal leisure falls
+
+-   Unambiguously negative work incentive effects
+
+    -   Leads to lower work hours
+
+    -   Can also lead to non-participation
+:::
+::::::
+
+## Demogrant
+
+-   Universal Child Care Benefit (UCCB) is a Canadian policy similar to a demogrant
+
+    -   Paid to families with children under 18
+
+    -   \$160/month for each child under 6
+
+    -   \$60/month for each child aged 6-17
+
+    -   Canada Child Benefit (CCB) replaced UCCB, Canada Child Tax Benefit (CCTB) and National Child Benefit Supplement (NCBS) in 2016
+
+        -   More targeted to low and middle income families
+
+-   Research (Schirle, 2015) shows that UCCB reduced labour supply of women with children under 6
+
+    -   By about 3.2 percentage points for low-educated married women
+
+## Welfare
+
+-   Welfare is a lump-sum payment to non-workers that is reduced dollar for dollar with earned income
+
+    -   People do not really use the term welfare in Canada
+    -   Usually called social assistance or income assistance
+
+-   These programs have been criticized historically for negative work incentives
+
+    -   Creates incentives for some not to work
+    -   Important to balance this against the need to provide income support
+
+## Welfare
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2002953472.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Budget line is initially the black line
+
+    -   Leisure optimized at $L_{0}$ hours
+
+-   With welfare benefit is initially red line, then black line after they intersect
+
+    -   Welfare benefit $B$ at zero hours of work
+
+    -   Benefit reduced by one dollar for each one dollar earned
+
+        -   Like a 100% tax on earned income
+
+    -   Income stays constant at welfare benefit until earned income exactly equals benefit
+
+    -   After that, person earns wage $w_{0}$ for each hour worked
+:::
+::::::
+
+## Welfare
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-366250763.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   For some people welfare has no effect on work hours
+
+-   In this graph, person is working $H_{0}$ hours prior to benefit
+
+-   After benefit, still maximize utility at $H_{0}$ hours
+
+-   Happens generally with people already working many hours
+:::
+::::::
+
+## Welfare
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3642856784.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Others may face work disincentive
+-   A person like the left graph would choose to work zero hours after the welfare benefit
+-   Would happen because
+    -   Welfare benefit is generous
+    -   Individual puts high value on leisure
+-   This is not an ideal effect of welfare programs
+:::
+::::::
+
+## Welfare
+
+-   How to combat work disincentive?
+
+    -   Reduce benefit level
+
+        -   But may not provide enough income support
+
+    -   Increase wages
+
+        -   Through minimum wages, subsidies, job training, unions
+
+        -   Can be expensive, which might reduce labour demand
+
+    -   Change preferences
+
+        -   Alter personal feelings towards work/leisure
+
+        -   Hard to do
+
+    -   Negative income tax
+
+        -   Reduce the tax back rate of extra earnings
+        -   Discussed in detail in a few slides
+
+## Welfare
+
+-   Some evidence comes from a policy change in Quebec
+
+-   Until 1989 welfare benefits for singles or couples with no kids was based on age
+
+    -   Under 30: \$185/month
+    -   30 and over: \$507/month
+
+-   Turning 30 is associated with a big jump in welfare benefits
+
+-   Compared to 29 year olds, 30 year olds were
+
+    -   Spending much longer on welfare
+    -   Less likely to be employed
+
+## Negative Income Tax
+
+-   Negative Income Tax (NIT) is a welfare program where the benefit is reduced at a rate less than one dollar for each dollar earned
+
+    -   For example, a benefit of \$10,000 that is reduced by 50 cents for each dollar earned
+
+-   Idea is to provide income support with fewer work disincentives
+
+    -   Because the benefit is reduced at a lower rate, there is still an incentive to work
+
+-   Same as a Guaranteed Annual Income (GAI) or Basic Income
+
+    -   A minimum income level guaranteed by the government
+
+## Negative Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-795578817.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Negative Income Tax (NIT) has two components
+
+    -   A benefit $B$ at zero hours of work
+
+    -   A tax rate $t$ on earned income until earned income exactly equals benefit
+
+-   This pivots the budget line up relative to pure welfare scheme
+
+-   Individual will reduce work hours from $H_{0}$ to $H_{1}$
+
+-   Work disincentive is less than pure welfare case
+
+    -   This person would drop out of the labour force with pure welfare, but still works some hours with NIT
+:::
+::::::
+
+## Negative Income Tax
+
+-   Introducing NIT has income and substitution effects
+
+    -   Income effects
+
+        -   The benefit increases non-labour income, so increases leisure
+
+        -   The tax has a negative income effect, so reduces leisure
+
+        -   On net, income effect of benefit will dominate
+
+    -   Substitution effect
+
+        -   Because of the tax rate, the effective wage is lower
+
+        -   This makes leisure relatively cheaper, which reduces work hours
+
+-   Overall effect on work hours is negative, but smaller than pure welfare case
+
+## Negative Income Tax
+
+-   Mathematically, the budget constraint with the NIT is
+
+$$
+C = 
+\begin{cases}
+wh + B - twh, & \text{if } B - t wh \geq 0 \\
+wh, & \text{otherwise}
+\end{cases}
+$$
+
+-   Says that consumption is
+
+    -   Earned income ($wh$) plus net benefit ($B - twh$) if net benefit is positive
+
+    -   Just earned income ($wh$) if the benefit is zero or negative
+
+-   The point at which the benefit is zero is called the break-even point
+
+    -   Occurs when $wh = \frac{B}{t}$
+
+## Negative Income Tax
+
+-   The province of Manitoba implemented a NIT program called MINCOME in the 1970s
+
+-   Randomized controlled trial
+
+    -   Some people were given NIT (treatment), others not (control)
+    -   Randomly allocated to treatment and control groups
+
+-   Conducted in the cities of Dauphin and Winnipeg
+
+    -   Dauphin is a small town, Winnipeg is a large city
+    -   Dauphin was saturated, meaning everyone got NIT
+
+-   There were 7 treatments with different benefit levels and tax rates
+
+-   Program was short lived, and ended in 1979 due to political changes
+
+## Negative Income Tax
+
+![MINCOME Treatment Groups. Source: Wikipedia](images/clipboard-3993304423.jpeg){fig-align="center"}
+
+## Negative Income Tax
+
+-   Results show small decline in hours worked
+
+    -   Mainly by mothers of newborns and women in two-parent families
+    -   No significant decline for men
+
+-   But significant improvements in health outcomes
+
+    -   Fewer hospitalizations and doctor visits
+    -   Especially for mental health and accidents
+
+-   Increase in adolescents finishing high school
+
+## Wage Subsidies
+
+-   A **wage subsidy** is a payment to workers that increases their wage rate
+
+    -   For example, a subsidy of \$5/hour increases a wage of \$15/hour to \$20/hour
+
+-   This simply increases the wage rate
+
+    -   Budget line pivots up
+
+-   There are both income and substitution effects
+
+    -   Income effect increases leisure
+
+    -   Substitution effect decreases leisure
+
+-   Overall effect on work hours is ambiguous
+
+## Wage Subsidies
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-4160848271.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Budget line pivots up with wage subsidy
+
+-   Graph shows person working more with subsidy
+
+-   But effect is ambiguous
+
+    -   Income and substitution effects work in opposite directions
+:::
+::::::
+
+## Wage Subsidies
+
+-   Wage subsidies have less negative work incentives than welfare or NIT
+
+    -   Because they do not reduce the effective wage rate
+
+-   But they do not provide income support to non-workers
+
+    -   So may not help those in most need
+
+-   Examples of pure wages subsidies in Canada mostly go to *employers*
+
+    -   Unclear if any of this gets passed on to workers
+
+## Tax Credits
+
+-   Income support is sometimes provided through the tax credits
+
+-   A **tax credit** reduces the amount of tax owed, and there are two types
+
+    -   Non-refundable: can reduce tax owed to zero, but not below zero
+
+    -   Refundable tax: can reduce tax owed below zero, resulting in a payment to the individual
+
+-   Some income maintenance programs are delivered through refundable tax credits
+
+    -   Canada Worker Benefit (CWB) in Canada
+    -   Earned Income Tax Credit (EITC) in the US
+
+-   They have a similar structure to the following graph
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-479908668.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Budget line shows program similar to CWB or EITC
+
+-   Has three segments
+
+    -   Phase-in: subsidy proportional to earned income
+
+    -   Plateau: maximum benefit
+
+    -   Phase-out: benefit reduced with earned income
+
+-   Has elements of wage subsidy, demogrant, and NIT
+:::
+::::::
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-4273926113.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Picture someone initially in middle range
+
+-   Tax credit gives them maximum benefit
+
+-   Acts like pure income effect
+
+-   If leisure is a normal good, they will reduce work hours
+:::
+::::::
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1125348181.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Someone in the phase-in range will see an increase in the wage
+
+-   Acts like a pure wage subsidy
+
+-   Has income and substitution effects that move in opposite directions
+
+-   Effect on hours is ambiguous
+:::
+::::::
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2441762854.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Finally imagine someone in the phase-out range
+
+-   This is like a negative income tax
+
+-   Income and substitution effects both reduce work hours
+
+-   Effect on work is unambiguously negative
+:::
+::::::
+
+# Unemployment Insurance
+
+## Introduction
+
+-   Unemployment insurance schemes create a safety net for workers who lose their job
+
+    -   Collect income for a period while not working
+
+-   In Canada, this is called Employment Insurance (EI)
+
+    -   Funded by payroll taxes on employers and employees
+
+-   The EI program has two main components
+
+    -   Regular benefits for those unemployed through no fault of their own
+
+    -   Special benefits for sickness, maternity, parental leave, caregiving
+
+-   For regular benefits you could get
+
+    -   55% of your average insurable weekly earnings, up to a maximum amount
+
+    -   Benefits last between 14 and 45 weeks depending on unemployment rate and hours worked in last year
+
+## Introduction
+
+-   We can analyze EI with the income-leisure diagram
+
+-   To do this, simplify the program to have two parameters
+
+    -   Must work 14 weeks in the year to qualify
+    -   Benefit is 60% of weekly wage up to a maximum of 20 weeks
+
+-   Person can therefore work up to 32 weeks in the year and get full benefits
+
+    -   For each week worked beyond 32, the lose benefits for that week
+    -   Because benefits are 60% of wage, this is like a 60% tax on earned income beyond 32 weeks
+
+-   Cannot work and get EI simultaneously
+
+## EI Budget Constraint
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2817365693.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   First 14 weeks are paid at usual wage $w_{0}$
+
+-   If person consumes 20-38 weeks of leisure (works 14 to 32 weeks), gets 20 weeks of benefits
+
+    -   Benefit is 60% of 20 weeks of wage, or $.6\times 20 \times w_{0}$
+
+-   Less than 20 weeks of leisure (more than 32 weeks of work) reduces amount of benefit week for week
+
+    -   Benefits are paid at 60% of wage
+
+    -   Work is paid at 100% of wage
+
+    -   So person keeps 40% of wage in this range
+:::
+::::::
+
+## EI Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-869943131.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Behaviour depends on position on budget line
+
+-   A non-participant might start working to get the benefit
+
+-   Happens because large increase in non-labour income happens after 14 hours of work
+:::
+::::::
+
+## EI Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1593181295.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   In the middle portion of the budget line, the person is getting full benefits
+
+-   This is like a pure income effect, so they will reduce work weeks
+:::
+::::::
+
+## EI Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2763805097.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   On the left, it again acts like a negative income tax
+
+-   Income and substitution effects both reduce work hours
+
+-   Effect on work is unambiguously negative
+:::
+::::::
+
+## Evidence on EI and Labour Supply
+
+-   Maine vs New Brunswick
+
+-   Initially, had very similar employment insurance schemes
+
+-   Later, New Brunswick increased generosity of benefits relative to Maine
+
+-   Analyze with a difference-in-differences approach
+
+    -   Compare changes in labour supply in New Brunswick before and after change to Maine over same period
+
+    -   Maine acts as a control group for the change in New Brunswick
+
+        -   Cannot look just at New Brunswick over time because other factors may be changing
+        -   Changes in Maine over time capture and control for the change in these other factors
+
+## Evidence on EI and Labour Supply
+
+-   Analysis finds
+
+    -   Higher labour force participation in NB for marginally-attached workers
+    -   Lower hours for those with stronger attachments
+
+-   This corresponds exactly to the model predictions
+
+-   Highlights work disincentive effects of income maintenance programs
+
+# Disability and Workers Compensation
+
+## Introduction
+
+-   Disability insurance and workers compensation provide income support to workers who are injured or become ill
+
+    -   Can come from public and private sources
+
+    -   Premiums usually paid by both employers and employees
+
+-   In cases of sever injury or disability work incentives are not a concern
+
+    -   People are unable to work
+
+-   In others people may still be able to work
+
+## Effect of a Disability on Labour Supply
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1381248606.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Initially person chooses $L_{0}$ leisure and works $H_{0}$ hours
+
+-   If they become injured but can still work, the might choose $L_{1}$ leisure and work $H_{1}$ hours
+
+    -   Now on a lower, non-optimal indifference curve
+
+-   If they become completely disabled, they choose $T$ leisure and work zero hours
+
+    -   On an even lower indifference curve
+:::
+::::::
+
+## Effect of a Disability on Labour Supply
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-655917126.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A disability might also change their preferences
+
+-   If work becomes more difficult, preferences would tilt towards leisure
+
+    -   Indifference curve becomes steeper
+
+    -   MRS increases at each point
+
+    -   More willing to give up consumption to get leisure
+
+-   Even if the person can still work unconstrained, they will choose more leisure
+
+    -   Person would go from $L_{0}$ to $L_{2}$
+:::
+::::::
+
+# Effect of Compensation
+
+-   If a person now receives disability insurance, their budget constraint changes
+
+-   These programs usually pay a fraction of previous earnings
+
+    -   In Ontario, the Workplace Safety and Insurance Board (WSIB) pays 85% of net earnings (up to a max)
+    -   Lasts until you can return to work or age 65
+        -   Another program would take over at that point
+
+-   Below we examine two schemes
+
+    -   An income replacement of two-thirds
+    -   Full income replacement
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2891228753.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A two thirds compensation scheme looks like a negative income tax
+
+-   At zero hours of work, person gets two-thirds of previous income
+
+-   For each hour of work beyond zero
+
+    -   They gain their full wage
+    -   But lose the benefit (two thirds of wage)
+    -   So they keep one third of their wage
+
+-   For workers that can chooose any level or work hours, effects on labour supply match NIT
+
+    -   Negative effects on hours
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2133115874.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   What if the worker cannot choose any level of work hours?
+
+-   Imagine they can only work $H_{0}$ hours or zero hours
+
+-   If scheme is generous enough, person chooses zero hours
+
+    -   Utility at zero hours is higher than at $H_{0}$ hours
+
+-   Strong work disincentives of such a scheme
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3682704295.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Not providing any compensation could be problematic
+
+-   A person who can work would choose to work $H_{0}$ hours
+
+-   If the person cannot work, they get lower utility
+
+    -   End up substantially worse off
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1350737678.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Things get worse if there are medical expenses
+
+-   These expenses act like a reduction in non-labour income
+
+-   If large enough, non-labour income could go negative
+
+    -   Would happen with non workers compensation or very low compensation
+
+-   This is an extreme scenario
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2397031445.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   How much compensation should we provide to someone who does not work?
+
+-   One option is full income replacement
+
+    -   Would put the person on a higher indifference curve ($U_{1}$) than working
+
+-   Could also maintain the same satisfaction level as working
+
+    -   Would put the person on the same indifference curve as working
+    -   Lower compensation than full income replacement ($Y_{p}$)
+
+-   The optimal level is a policy question
+:::
+::::::
+
+# Child Care Subsidies
+
+## Introduction
+
+-   Child care subsidies are payments to parents to help cover the cost of child care
+
+-   Canada is currently expanding child care subsidies
+
+    -   Goal is to reduce average cost of child care to \$10/day by 2026
+
+    -   To date more than half of provinces have a \$10/day average
+
+    -   In some provinces, subsidy is very substantial
+
+    -   Complicated because agreements must be reached with provinces
+
+-   Quebec has had a \$10/day child care program since 1997
+
+    -   Provides a useful case study of the effects of child care subsidies
+
+-   Here we study how this affects labour supply
+
+## Child Care Costs
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2110629069.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   With child care costs the budget line becomes discontinuous
+
+    -   At zero hours of work, it is red dot
+    -   For any amount of work, it drops down by the amount of child care costs
+    -   Then is a straight line with slope equal to wage rate
+
+-   Child care costs increase reservation wage
+
+    -   Due to costs, person needs higher wage to induce them to work
+
+-   In this graph the person chooses not to work
+:::
+::::::
+
+## Child Care Costs
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1851752876.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A person working would choose more hours
+
+-   This person has reservation wage above the wage rate with child car are costs, so works positive hours
+
+-   Child care costs act as a negative pure income effect
+
+    -   Choose less leisure, more work
+
+-   Must work more to make up income loss from child care costs
+:::
+::::::
+
+## Child Care Costs
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2110629069.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Child care costs create a gap in the labour supply schedule
+
+-   A person who chooses to work will work a minimum of $H_{0} = T- L_{0}$ hours
+
+    -   Not worth it to work less than this amount
+    -   Due to large child care costs
+
+-   This means labour supply schedule jumps from zero hours to $H_{0}$ hours\
+:::
+::::::
+
+## Child Care Subsidies
+
+-   A child care subsidy reduces the cost of child care
+
+-   For example, a full subsidy (driving costs to zero) would
+
+    -   Move the budget line up in parallel
+
+    -   Reduce the reservation wage
+
+-   The lower reservation wage would induce participation
+
+    -   Because barrier of child care is removed
+    -   This would encourage part time work in particular
+
+-   Shift up in the budget line would reduce work hours
+
+    -   Pure positive income effect
+    -   Increases consumption of leisure, reduce work hours
+
+## Evidence on Child Care Subsidies
+
+-   Quebec implemented a \$5/day child care program in 2000
+
+    -   Now a sliding scale between \$8.25 and \$21.45 today
+
+-   Researchers used a difference in differences approach to analyze the effect
+
+    -   Compared changes in labour supply of mothers in Quebec to those in other provinces over same period
+
+    -   Other provinces act as a control group for changes in Quebec
+
+-   Found that labour force participation of mothers with young children increased by 7.7 percentage points
+
+-   Unfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life
+
+## Evidence on Child Care Subsidies
+
+![Source: Fortin (2019)](images/clipboard-2237171618.png){fig-align="center"}
+
+# Summary
+
+## Summary
+
+-   Income maintenance programs provide income support to various groups for various reasons
+
+-   Some of these programs can create work disincentives
+
+    - Need to balance this against the need to provide income support
+    
+- We examined several different programs that exist today with labour supply model
+
+- In next section, we look at labour supply over the life cycle
+
