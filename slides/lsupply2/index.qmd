@@ -14,21 +14,26 @@ format:
 editor: visual
 ---
 
-## Labour Supply 2: Labour Supply and Public Policy {.center}
 
-**EC306 - Wages and Employment**
+<h1>Labour Supply 2: Labour Supply and Public Policy</h1>
 
-Justin Smith\
-Wilfrid Laurier University\
-Fall 2025
+<hr>
 
-![](/files/img/hexEC306.png){.absolute top="300" left="900"}
+<h2>EC306- Wages and Employment</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC306.png){.absolute top="275" left="900" width="550"}
 
 # Goals of This Section
 
 ## Goals of This Section
 
-Today we will:
+In this section we will:
 
 ::: {.incremental}
 - Discuss various public policies that affect labour supply
@@ -123,7 +128,7 @@ We will examine four policy approaches:
 
 [Labor supply impact:]{.fg style="color: #2780e3;"}
 
-- If leisure is normal good → optimal leisure rises
+- If leisure is normal → optimal leisure rises
 - Reduces hours worked
 - May induce non-participation
 :::
@@ -320,7 +325,7 @@ Provides income support with fewer work disincentives. Still maintains incentive
 
 - Pivots budget line up vs. pure welfare
 - Work hours reduced from $H_0$ to $H_1$
-- Person still works some hours (vs. dropping out with pure welfare)
+- Person still works some hours 
 :::
 :::
 
@@ -394,7 +399,7 @@ $$
 
 ## MINCOME Treatment Groups
 
-![Source: Wikipedia](images/clipboard-3993304423.jpeg){fig-align="center" width="80%"}
+![Source: Wikipedia](images/clipboard-3993304423.jpeg){fig-align="center" width="50%"}
 
 ## MINCOME: Results
 
@@ -799,6 +804,7 @@ Effect [unambiguously negative]{.fg style="color: #d9534f;"}
 - MRS increases at each point
 - More willing to give up consumption for leisure
 
+. . .
 
 [Result:]{.fg style="color: #c7254e;"}
 
@@ -844,6 +850,7 @@ Effect [unambiguously negative]{.fg style="color: #d9534f;"}
   - Lose 2/3 of wage in benefits
   - [Keep 1/3 of wage]{.fg style="color: #c7254e;"}
 
+. . .
 
 [For workers with flexible hours:]{.fg style="color: #2780e3;"}
 
@@ -970,6 +977,7 @@ Had $10/day child care since 1997. Provides useful evidence on effects.
 - For any work: drops by child care costs
 - Then straight line with slope = wage
 
+. . .
 
 [Effect:]{.fg style="color: #2780e3;"}
 
@@ -1030,27 +1038,30 @@ Had $10/day child care since 1997. Provides useful evidence on effects.
 
 ## Evidence: Quebec's $5/Day Program
 
+::: columns
+::: {.column width="50%"}
+
 [Program details:]{.fg style="color: #2780e3;"}
 
 - Implemented in 2000
 - Currently sliding scale: $8.25 to $21.45
 
-. . .
-
+:::
+::: {.column width="50%"}
 [Research design:]{.fg style="color: #2780e3;"}
 
 - Difference-in-differences approach
 - Compared Quebec mothers to mothers in other provinces
 - Other provinces = control group
+:::
+:::
 
-. . .
 
 ::: {.callout-note}
 ## Key Finding
 Labour force participation of mothers with young children ↑ [7.7 percentage points]{.fg style="color: #c7254e;"}
 :::
 
-. . .
 
 ::: {.callout-warning}
 Unfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life
@@ -1081,9 +1092,3 @@ Unfortunately also found negative effects on child mental health, non-cognitive 
 - Disability and workers compensation
 - Child care subsidies
 
-. . .
-
-::: {.callout-tip}
-## Next
-Labour supply over the life cycle
-:::

@@ -3836,7 +3836,7 @@
     "href": "slides/lsupply2/index.html#demogrant-theory",
     "title": "EC306 - Wages and Employment",
     "section": "Demogrant: Theory",
-    "text": "Demogrant: Theory\n\n\n\n\nHow it works:\n\nUnconditional lump sum transfer \\(D\\)\nShifts budget line up parallel\nWage unchanged → pure income effect\n\nLabor supply impact:\n\nIf leisure is normal good → optimal leisure rises\nReduces hours worked\nMay induce non-participation\n\n\n\n\n\n\n\n\n\nWork Incentive Effect\n\n\nUnambiguously negative"
+    "text": "Demogrant: Theory\n\n\n\n\nHow it works:\n\nUnconditional lump sum transfer \\(D\\)\nShifts budget line up parallel\nWage unchanged → pure income effect\n\nLabor supply impact:\n\nIf leisure is normal → optimal leisure rises\nReduces hours worked\nMay induce non-participation\n\n\n\n\n\n\n\n\n\nWork Incentive Effect\n\n\nUnambiguously negative"
   },
   {
     "objectID": "slides/lsupply2/index.html#demogrant-canadian-example",
@@ -3899,7 +3899,7 @@
     "href": "slides/lsupply2/index.html#negative-income-tax-budget-constraint",
     "title": "EC306 - Wages and Employment",
     "section": "Negative Income Tax: Budget Constraint",
-    "text": "Negative Income Tax: Budget Constraint\n\n\n\n\nNIT has two components:\n\nBenefit \\(B\\) at zero hours of work\nTax rate \\(t\\) on earned income (until earned income equals benefit)\n\nEffect on labour supply:\n\nPivots budget line up vs. pure welfare\nWork hours reduced from \\(H_0\\) to \\(H_1\\)\nPerson still works some hours (vs. dropping out with pure welfare)\n\n\n\n\n\n\n\n\n\nImportant\n\n\nWork disincentive less than pure welfare"
+    "text": "Negative Income Tax: Budget Constraint\n\n\n\n\nNIT has two components:\n\nBenefit \\(B\\) at zero hours of work\nTax rate \\(t\\) on earned income (until earned income equals benefit)\n\nEffect on labour supply:\n\nPivots budget line up vs. pure welfare\nWork hours reduced from \\(H_0\\) to \\(H_1\\)\nPerson still works some hours\n\n\n\n\n\n\n\n\n\nImportant\n\n\nWork disincentive less than pure welfare"
   },
   {
     "objectID": "slides/lsupply2/index.html#negative-income-tax-income-and-substitution-effects",
@@ -3969,7 +3969,7 @@
     "href": "slides/lsupply2/index.html#tax-credits-budget-constraint",
     "title": "EC306 - Wages and Employment",
     "section": "Tax Credits: Budget Constraint",
-    "text": "Tax Credits: Budget Constraint\n\n\n\n\nThree segments:\n\nPhase-in: Subsidy proportional to earned income\nPlateau: Maximum benefit level\nPhase-out: Benefit reduced with earned income\n\n. . .\nCombines elements of:\n\nWage subsidy (phase-in)\nDemogrant (plateau)\nNIT (phase-out)"
+    "text": "Tax Credits: Budget Constraint\n\n\n\n\nThree segments:\n\nPhase-in: Subsidy proportional to earned income\nPlateau: Maximum benefit level\nPhase-out: Benefit reduced with earned income\n\nCombines elements of:\n\nWage subsidy (phase-in)\nDemogrant (plateau)\nNIT (phase-out)"
   },
   {
     "objectID": "slides/lsupply2/index.html#tax-credits-effect-in-plateau-range",
@@ -4137,7 +4137,7 @@
     "href": "slides/lsupply2/index.html#evidence-quebecs-5day-program",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence: Quebec’s $5/Day Program",
-    "text": "Evidence: Quebec’s $5/Day Program\nProgram details:\n\nImplemented in 2000\nCurrently sliding scale: $8.25 to $21.45\n\n\nResearch design:\n\nDifference-in-differences approach\nCompared Quebec mothers to mothers in other provinces\nOther provinces = control group\n\n\n\n\n\n\n\n\n\nKey Finding\n\n\nLabour force participation of mothers with young children ↑ 7.7 percentage points\n\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
+    "text": "Evidence: Quebec’s $5/Day Program\n\n\nProgram details:\n\nImplemented in 2000\nCurrently sliding scale: $8.25 to $21.45\n\n\nResearch design:\n\nDifference-in-differences approach\nCompared Quebec mothers to mothers in other provinces\nOther provinces = control group\n\n\n\n\n\n\n\n\nKey Finding\n\n\nLabour force participation of mothers with young children ↑ 7.7 percentage points\n\n\n\n\n\n\n\n\n\nWarning\n\n\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
   },
   {
     "objectID": "slides/lsupply2/index.html#evidence-visual-summary",
@@ -4151,6 +4151,6 @@
     "href": "slides/lsupply2/index.html#key-takeaways",
     "title": "EC306 - Wages and Employment",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\nIncome maintenance programs:\n\nProvide crucial income support to various groups\nCan create work disincentives in some cases\nMust balance support needs against incentive effects\n\n\nWe examined several programs through the labour supply model:\n\nDemogrants, welfare, NIT, wage subsidies, tax credits\nEmployment insurance\nDisability and workers compensation\nChild care subsidies\n\n\n\n\n\n\n\n\n\nNext\n\n\nLabour supply over the life cycle"
+    "text": "Key Takeaways\nIncome maintenance programs:\n\nProvide crucial income support to various groups\nCan create work disincentives in some cases\nMust balance support needs against incentive effects\n\n\nWe examined several programs through the labour supply model:\n\nDemogrants, welfare, NIT, wage subsidies, tax credits\nEmployment insurance\nDisability and workers compensation\nChild care subsidies"
   }
 ]
