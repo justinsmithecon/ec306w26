@@ -38,8 +38,8 @@ website:
               file: content/introtolme.qmd
             - text: "Labour Supply 1: Individual Attachment to the Labour Market" 
               file: content/lsupply1.qmd  
-#            - text: "Labour Supply 2: Labour Supply and Public Policy"
-#              file: content/lsupply2.qmd   
+            - text: "Labour Supply 2: Labour Supply and Public Policy"
+              file: content/lsupply2.qmd   
 #            - text: "Introduction to Stata"
 #              file: content/introtostata.qmd
 #            - text: "Labour Supply 3: Labour Supply Over the Life Cycle"

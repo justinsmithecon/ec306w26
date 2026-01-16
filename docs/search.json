@@ -60,14 +60,14 @@
     "href": "slides/lsupply2/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\nToday we will:\n\nDiscuss various public policies that affect labour supply\n\nTaxes/subsidies, transfers, employment insurance, worker compensation\n\nShow effect of these policies on work decisions using economic models\nExamine statistical evidence for the model predictions"
+    "text": "Goals of This Section\nIn this section we will:\n\nDiscuss various public policies that affect labour supply\n\nTaxes/subsidies, transfers, employment insurance, worker compensation\n\nShow effect of these policies on work decisions using economic models\nExamine statistical evidence for the model predictions"
   },
   {
     "objectID": "slides/lsupply2/index.html#overview-of-income-maintenance-programs",
     "href": "slides/lsupply2/index.html#overview-of-income-maintenance-programs",
     "title": "EC306 - Wages and Employment",
     "section": "Overview of Income Maintenance Programs",
-    "text": "Overview of Income Maintenance Programs\n\nRepresent about 10% of GDP in Canada\nPrimary aims:\n\nRaise income of specific groups (parents, elderly)\nSupplement low wages\n\nMajor programs: child benefits, employment insurance, social assistance, pensions\n\n\n\n\n\n\n\n\nKey Challenge\n\n\nBalancing income support with work incentives"
+    "text": "Overview of Income Maintenance Programs\n\nRepresent about 10% of GDP in Canada\nPrimary aims:\n\nRaise income of specific groups (parents, elderly)\nSupplement low wages\n\nMajor programs: child benefits, employment insurance, social assistance, pensions\n\n\n\n\n\n\n\nKey Challenge\n\n\nBalancing income support with work incentives"
   },
   {
     "objectID": "slides/lsupply2/index.html#government-transfers-in-canada",
@@ -81,189 +81,196 @@
     "href": "slides/lsupply2/index.html#issues-in-program-design",
     "title": "EC306 - Wages and Employment",
     "section": "Issues in Program Design",
-    "text": "Issues in Program Design\n\n\nUniversal vs. Targeted Programs\n\nUniversal: easy to implement but expensive\nTargeted: benefits only those in need but costly to administer\n\n\nWork Disincentives\n\nSome programs reduce incentive to work\nExample: welfare benefits can encourage labour force dropout for those with strong preference for leisure\n\n\n\nPermanent vs. Transitory Income Loss\n\nDifferent situations require different program designs\nTemporary layoff → short-term support\nLong-term disability → longer support + reintegration costs"
+    "text": "Issues in Program Design\n\n\nUniversal vs. Targeted Programs\n\nUniversal: easy to implement but expensive\nTargeted: benefits only those in need but costly to administer\n\n\nWork Disincentives\n\nSome programs reduce incentive to work\nExample: welfare benefits can encourage labour force dropout for those with strong preference for leisure\n\n\nPermanent vs. Transitory Income Loss\n\nDifferent situations require different program designs\nTemporary layoff → short-term support\nLong-term disability → longer support + reintegration costs"
   },
   {
-    "objectID": "slides/lsupply2/index.html#introduction",
-    "href": "slides/lsupply2/index.html#introduction",
+    "objectID": "slides/lsupply2/index.html#four-standard-income-support-programs",
+    "href": "slides/lsupply2/index.html#four-standard-income-support-programs",
     "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\nWhat are these programs?\n\nProvide income support to injured/ill workers\nCome from public and private sources\nPremiums paid by employers and employees\n\n\n\n\n\n\n\n\nWork Incentive Considerations\n\n\n\nSevere injury/disability: work incentives not a concern (unable to work)\nPartial disability: people may still be able to work"
+    "section": "Four Standard Income Support Programs",
+    "text": "Four Standard Income Support Programs\nWe will examine four policy approaches:\n\nDemogrants - Fixed payment to all regardless of income/employment\nWelfare - Lump-sum payment for non-workers, reduced dollar-for-dollar with earnings\nNegative Income Tax (NIT) - Welfare payment that decreases at rate &lt; 100% with earnings\nWage Subsidies - Addition to the wage rate"
   },
   {
-    "objectID": "slides/lsupply2/index.html#demogrant",
-    "href": "slides/lsupply2/index.html#demogrant",
+    "objectID": "slides/lsupply2/index.html#demogrant-theory",
+    "href": "slides/lsupply2/index.html#demogrant-theory",
     "title": "EC306 - Wages and Employment",
-    "section": "Demogrant",
-    "text": "Demogrant\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDemogrant is an unconditional lump sum income transfer\nShifts the budget line up by the amount \\(D\\)\nBecause wage does not change, this is a pure income effect\nIf leisure is a normal good, optimal leisure falls\nUnambiguously negative work incentive effects\n\nLeads to lower work hours\nCan also lead to non-participation"
+    "section": "Demogrant: Theory",
+    "text": "Demogrant: Theory\n\n\n\n\nHow it works:\n\nUnconditional lump sum transfer \\(D\\)\nShifts budget line up parallel\nWage unchanged → pure income effect\n\nLabor supply impact:\n\nIf leisure is normal → optimal leisure rises\nReduces hours worked\nMay induce non-participation\n\n\n\n\n\n\n\n\nWork Incentive Effect\n\n\nUnambiguously negative"
   },
   {
-    "objectID": "slides/lsupply2/index.html#demogrant-1",
-    "href": "slides/lsupply2/index.html#demogrant-1",
+    "objectID": "slides/lsupply2/index.html#demogrant-canadian-example",
+    "href": "slides/lsupply2/index.html#demogrant-canadian-example",
     "title": "EC306 - Wages and Employment",
-    "section": "Demogrant",
-    "text": "Demogrant\n\nUniversal Child Care Benefit (UCCB) is a Canadian policy similar to a demogrant\n\nPaid to families with children under 18\n$160/month for each child under 6\n$60/month for each child aged 6-17\nCanada Child Benefit (CCB) replaced UCCB, Canada Child Tax Benefit (CCTB) and National Child Benefit Supplement (NCBS) in 2016\n\nMore targeted to low and middle income families\n\n\nResearch (Schirle, 2015) shows that UCCB reduced labour supply of women with children under 6\n\nBy about 3.2 percentage points for low-educated married women"
+    "section": "Demogrant: Canadian Example",
+    "text": "Demogrant: Canadian Example\nUniversal Child Care Benefit (UCCB)\n\nPaid to families with children under 18\n\n$160/month per child under 6\n$60/month per child aged 6-17\n\nReplaced in 2016 by Canada Child Benefit (CCB)\n\nMore targeted to low/middle income families\n\n\n\n\n\n\n\n\nEvidence (Schirle, 2015)\n\n\nUCCB reduced labour supply of women with children under 6 by ~3.2 percentage points for low-educated married women"
   },
   {
-    "objectID": "slides/lsupply2/index.html#welfare",
-    "href": "slides/lsupply2/index.html#welfare",
+    "objectID": "slides/lsupply2/index.html#welfare-overview",
+    "href": "slides/lsupply2/index.html#welfare-overview",
     "title": "EC306 - Wages and Employment",
-    "section": "Welfare",
-    "text": "Welfare\n\nWelfare is a lump-sum payment to non-workers that is reduced dollar for dollar with earned income\n\nPeople do not really use the term welfare in Canada\nUsually called social assistance or income assistance\n\nThese programs have been criticized historically for negative work incentives\n\nCreates incentives for some not to work\nImportant to balance this against the need to provide income support"
+    "section": "Welfare: Overview",
+    "text": "Welfare: Overview\nWelfare = Social/Income Assistance in Canada\n\nLump-sum payment to non-workers\nReduced dollar-for-dollar with earned income\n\n\n\n\n\n\n\nHistorical Criticism\n\n\nCreates negative work incentives for some, but must balance against need for income support"
   },
   {
-    "objectID": "slides/lsupply2/index.html#welfare-1",
-    "href": "slides/lsupply2/index.html#welfare-1",
+    "objectID": "slides/lsupply2/index.html#welfare-budget-constraint",
+    "href": "slides/lsupply2/index.html#welfare-budget-constraint",
     "title": "EC306 - Wages and Employment",
-    "section": "Welfare",
-    "text": "Welfare\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line is initially the black line\n\nLeisure optimized at \\(L_{0}\\) hours\n\nWith welfare benefit is initially red line, then black line after they intersect\n\nWelfare benefit \\(B\\) at zero hours of work\nBenefit reduced by one dollar for each one dollar earned\n\nLike a 100% tax on earned income\n\nIncome stays constant at welfare benefit until earned income exactly equals benefit\nAfter that, person earns wage \\(w_{0}\\) for each hour worked"
+    "section": "Welfare: Budget Constraint",
+    "text": "Welfare: Budget Constraint\n\n\n\n\nBudget line structure:\n\nBlack line: original budget (leisure at \\(L_0\\))\nRed then black: with welfare benefit \\(B\\)\n\nKey features:\n\nBenefit \\(B\\) at zero hours of work\nReduced $1 for each $1 earned\n\nEquivalent to 100% tax rate on earnings\n\nIncome constant at \\(B\\) until earned income equals benefit\nAfter that, earn wage \\(w_0\\) per hour worked"
   },
   {
-    "objectID": "slides/lsupply2/index.html#welfare-2",
-    "href": "slides/lsupply2/index.html#welfare-2",
+    "objectID": "slides/lsupply2/index.html#welfare-no-effect-case",
+    "href": "slides/lsupply2/index.html#welfare-no-effect-case",
     "title": "EC306 - Wages and Employment",
-    "section": "Welfare",
-    "text": "Welfare\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFor some people welfare has no effect on work hours\nIn this graph, person is working \\(H_{0}\\) hours prior to benefit\nAfter benefit, still maximize utility at \\(H_{0}\\) hours\nHappens generally with people already working many hours"
+    "section": "Welfare: No Effect Case",
+    "text": "Welfare: No Effect Case\n\n\n\n\nFor some workers, welfare has no effect:\n\nPerson working \\(H_0\\) hours before benefit\nStill maximizes utility at \\(H_0\\) hours after\nGenerally occurs with people already working many hours"
   },
   {
-    "objectID": "slides/lsupply2/index.html#welfare-3",
-    "href": "slides/lsupply2/index.html#welfare-3",
+    "objectID": "slides/lsupply2/index.html#welfare-work-disincentive-case",
+    "href": "slides/lsupply2/index.html#welfare-work-disincentive-case",
     "title": "EC306 - Wages and Employment",
-    "section": "Welfare",
-    "text": "Welfare\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOthers may face work disincentive\nA person like the left graph would choose to work zero hours after the welfare benefit\nWould happen because\n\nWelfare benefit is generous\nIndividual puts high value on leisure\n\nThis is not an ideal effect of welfare programs"
+    "section": "Welfare: Work Disincentive Case",
+    "text": "Welfare: Work Disincentive Case\n\n\n\n\nOthers face strong work disincentive:\n\nPerson chooses zero hours after welfare benefit\n\nThis occurs when:\n\nWelfare benefit is generous\nIndividual places high value on leisure\n\n\n\n\n\n\n\n\nWarning\n\n\nThis is the problematic effect of welfare programs"
   },
   {
-    "objectID": "slides/lsupply2/index.html#welfare-4",
-    "href": "slides/lsupply2/index.html#welfare-4",
+    "objectID": "slides/lsupply2/index.html#combating-work-disincentives",
+    "href": "slides/lsupply2/index.html#combating-work-disincentives",
     "title": "EC306 - Wages and Employment",
-    "section": "Welfare",
-    "text": "Welfare\n\nHow to combat work disincentive?\n\nReduce benefit level\n\nBut may not provide enough income support\n\nIncrease wages\n\nThrough minimum wages, subsidies, job training, unions\nCan be expensive, which might reduce labour demand\n\nChange preferences\n\nAlter personal feelings towards work/leisure\nHard to do\n\nNegative income tax\n\nReduce the tax back rate of extra earnings\nDiscussed in detail in a few slides"
+    "section": "Combating Work Disincentives",
+    "text": "Combating Work Disincentives\nPolicy options:\n\n\n\nReduce benefit level\n\nBut may not provide adequate support\n\nIncrease wages\n\nThrough minimum wages, subsidies, training, unions\nCan be expensive and may reduce labour demand\n\n\n\n\nChange preferences\n\nAlter attitudes toward work/leisure\nDifficult to achieve\n\nNegative income tax\n\nReduce tax-back rate on earnings\nDiscussed next…"
   },
   {
-    "objectID": "slides/lsupply2/index.html#welfare-5",
-    "href": "slides/lsupply2/index.html#welfare-5",
+    "objectID": "slides/lsupply2/index.html#welfare-evidence-from-quebec",
+    "href": "slides/lsupply2/index.html#welfare-evidence-from-quebec",
     "title": "EC306 - Wages and Employment",
-    "section": "Welfare",
-    "text": "Welfare\n\nSome evidence comes from a policy change in Quebec\nUntil 1989 welfare benefits for singles or couples with no kids was based on age\n\nUnder 30: $185/month\n30 and over: $507/month\n\nTurning 30 is associated with a big jump in welfare benefits\nCompared to 29 year olds, 30 year olds were\n\nSpending much longer on welfare\nLess likely to be employed"
+    "section": "Welfare: Evidence from Quebec",
+    "text": "Welfare: Evidence from Quebec\nNatural experiment: Welfare benefit structure changed in 1989\n\n\nBefore 1989:\n\nAge-based benefits for singles/couples with no kids\nUnder 30: $185/month\n30 and over: $507/month\n\n\nResults at age 30:\n\nMuch longer time on welfare\nLower employment rates\n\n\n\n\n\n\n\n\nNote\n\n\nTurning 30 created a large discontinuous jump in benefits"
   },
   {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax",
-    "href": "slides/lsupply2/index.html#negative-income-tax",
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-overview",
+    "href": "slides/lsupply2/index.html#negative-income-tax-overview",
     "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax",
-    "text": "Negative Income Tax\n\nNegative Income Tax (NIT) is a welfare program where the benefit is reduced at a rate less than one dollar for each dollar earned\n\nFor example, a benefit of $10,000 that is reduced by 50 cents for each dollar earned\n\nIdea is to provide income support with fewer work disincentives\n\nBecause the benefit is reduced at a lower rate, there is still an incentive to work\n\nSame as a Guaranteed Annual Income (GAI) or Basic Income\n\nA minimum income level guaranteed by the government"
+    "section": "Negative Income Tax: Overview",
+    "text": "Negative Income Tax: Overview\nWhat is NIT?\n\nWelfare program where benefit reduced at rate &lt; 100% of earnings\nExample: $10,000 benefit reduced by 50¢ per dollar earned\n\n\n\n\n\n\n\nAdvantages\n\n\nProvides income support with fewer work disincentives. Still maintains incentive to work since benefit reduces slowly.\n\n\n\nAlso known as: Guaranteed Annual Income (GAI) or Basic Income"
   },
   {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-1",
-    "href": "slides/lsupply2/index.html#negative-income-tax-1",
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-budget-constraint",
+    "href": "slides/lsupply2/index.html#negative-income-tax-budget-constraint",
     "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax",
-    "text": "Negative Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNegative Income Tax (NIT) has two components\n\nA benefit \\(B\\) at zero hours of work\nA tax rate \\(t\\) on earned income until earned income exactly equals benefit\n\nThis pivots the budget line up relative to pure welfare scheme\nIndividual will reduce work hours from \\(H_{0}\\) to \\(H_{1}\\)\nWork disincentive is less than pure welfare case\n\nThis person would drop out of the labour force with pure welfare, but still works some hours with NIT"
+    "section": "Negative Income Tax: Budget Constraint",
+    "text": "Negative Income Tax: Budget Constraint\n\n\n\n\nNIT has two components:\n\nBenefit \\(B\\) at zero hours of work\nTax rate \\(t\\) on earned income (until earned income equals benefit)\n\nEffect on labour supply:\n\nPivots budget line up vs. pure welfare\nWork hours reduced from \\(H_0\\) to \\(H_1\\)\nPerson still works some hours\n\n\n\n\n\n\n\n\nImportant\n\n\nWork disincentive less than pure welfare"
   },
   {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-2",
-    "href": "slides/lsupply2/index.html#negative-income-tax-2",
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-income-and-substitution-effects",
+    "href": "slides/lsupply2/index.html#negative-income-tax-income-and-substitution-effects",
     "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax",
-    "text": "Negative Income Tax\n\nIntroducing NIT has income and substitution effects\n\nIncome effects\n\nThe benefit increases non-labour income, so increases leisure\nThe tax has a negative income effect, so reduces leisure\nOn net, income effect of benefit will dominate\n\nSubstitution effect\n\nBecause of the tax rate, the effective wage is lower\nThis makes leisure relatively cheaper, which reduces work hours\n\n\nOverall effect on work hours is negative, but smaller than pure welfare case"
+    "section": "Negative Income Tax: Income and Substitution Effects",
+    "text": "Negative Income Tax: Income and Substitution Effects\nIncome effects:\n\nBenefit increases non-labour income → increases leisure ↑\nTax has negative income effect → reduces leisure ↓\nNet: benefit effect dominates → leisure ↑\n\nSubstitution effect:\n\nTax rate reduces effective wage\nMakes leisure relatively cheaper → reduces work hours ↓\n\n\n\n\n\n\n\nOverall Effect\n\n\nNegative effect on work hours, but smaller than pure welfare"
   },
   {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-3",
-    "href": "slides/lsupply2/index.html#negative-income-tax-3",
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-math",
+    "href": "slides/lsupply2/index.html#negative-income-tax-math",
     "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax",
-    "text": "Negative Income Tax\n\nMathematically, the budget constraint with the NIT is\n\n\\[\nC =\n\\begin{cases}\nwh + B - twh, & \\text{if } B - t wh \\geq 0 \\\\\nwh, & \\text{otherwise}\n\\end{cases}\n\\]\n\nSays that consumption is\n\nEarned income (\\(wh\\)) plus net benefit (\\(B - twh\\)) if net benefit is positive\nJust earned income (\\(wh\\)) if the benefit is zero or negative\n\nThe point at which the benefit is zero is called the break-even point\n\nOccurs when \\(wh = \\frac{B}{t}\\)"
+    "section": "Negative Income Tax: Math",
+    "text": "Negative Income Tax: Math\nThe budget constraint with NIT:\n\\[\nC =\n\\begin{cases}\nwh + B - twh, & \\text{if } B - t wh \\geq 0 \\\\\nwh, & \\text{otherwise}\n\\end{cases}\n\\]\nInterpretation:\n\nConsumption = earned income (\\(wh\\)) + net benefit (\\(B - twh\\)) if net benefit &gt; 0\nOtherwise just earned income (\\(wh\\))\n\nBreak-even point: benefit reaches zero when \\(wh = \\frac{B}{t}\\)"
   },
   {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-4",
-    "href": "slides/lsupply2/index.html#negative-income-tax-4",
+    "objectID": "slides/lsupply2/index.html#mincome-manitobas-nit-experiment",
+    "href": "slides/lsupply2/index.html#mincome-manitobas-nit-experiment",
     "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax",
-    "text": "Negative Income Tax\n\nThe province of Manitoba implemented a NIT program called MINCOME in the 1970s\nRandomized controlled trial\n\nSome people were given NIT (treatment), others not (control)\nRandomly allocated to treatment and control groups\n\nConducted in the cities of Dauphin and Winnipeg\n\nDauphin is a small town, Winnipeg is a large city\nDauphin was saturated, meaning everyone got NIT\n\nThere were 7 treatments with different benefit levels and tax rates\nProgram was short lived, and ended in 1979 due to political changes"
+    "section": "MINCOME: Manitoba’s NIT Experiment",
+    "text": "MINCOME: Manitoba’s NIT Experiment\nProgram details (1970s):\n\nRandomized controlled trial\n\nTreatment group received NIT\nControl group did not\n\nConducted in Dauphin (saturated - everyone got NIT) and Winnipeg\n7 treatment groups with different benefit levels and tax rates\nEnded in 1979 due to political changes"
   },
   {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-5",
-    "href": "slides/lsupply2/index.html#negative-income-tax-5",
+    "objectID": "slides/lsupply2/index.html#mincome-treatment-groups",
+    "href": "slides/lsupply2/index.html#mincome-treatment-groups",
     "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax",
-    "text": "Negative Income Tax\n\nMINCOME Treatment Groups. Source: Wikipedia"
+    "section": "MINCOME Treatment Groups",
+    "text": "MINCOME Treatment Groups\n\nSource: Wikipedia"
   },
   {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-6",
-    "href": "slides/lsupply2/index.html#negative-income-tax-6",
+    "objectID": "slides/lsupply2/index.html#mincome-results",
+    "href": "slides/lsupply2/index.html#mincome-results",
     "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax",
-    "text": "Negative Income Tax\n\nResults show small decline in hours worked\n\nMainly by mothers of newborns and women in two-parent families\nNo significant decline for men\n\nBut significant improvements in health outcomes\n\nFewer hospitalizations and doctor visits\nEspecially for mental health and accidents\n\nIncrease in adolescents finishing high school"
+    "section": "MINCOME: Results",
+    "text": "MINCOME: Results\n\n\nLabour supply effects:\n\nSmall decline in hours worked\n\nMainly mothers of newborns\nWomen in two-parent families\nNo significant decline for men\n\n\n\nHealth outcomes:\n\nFewer hospitalizations and doctor visits\nEspecially for mental health and accidents\n\n\nEducation:\n\nIncrease in adolescents finishing high school"
   },
   {
-    "objectID": "slides/lsupply2/index.html#wage-subsidies",
-    "href": "slides/lsupply2/index.html#wage-subsidies",
+    "objectID": "slides/lsupply2/index.html#wage-subsidies-theory",
+    "href": "slides/lsupply2/index.html#wage-subsidies-theory",
     "title": "EC306 - Wages and Employment",
-    "section": "Wage Subsidies",
-    "text": "Wage Subsidies\n\nA wage subsidy is a payment to workers that increases their wage rate\n\nFor example, a subsidy of $5/hour increases a wage of $15/hour to $20/hour\n\nThis simply increases the wage rate\n\nBudget line pivots up\n\nThere are both income and substitution effects\n\nIncome effect increases leisure\nSubstitution effect decreases leisure\n\nOverall effect on work hours is ambiguous"
+    "section": "Wage Subsidies: Theory",
+    "text": "Wage Subsidies: Theory\nWhat is a wage subsidy?\n\nPayment to workers that increases their wage rate\nExample: $5/hour subsidy increases $15/hour wage to $20/hour\n\nEffect on budget constraint:\n\nBudget line pivots upward\n\nLabour supply effects:\n\n\n\nIncome effect → increases leisure ↑\n\n\n\nSubstitution effect → decreases leisure ↓\n\n\n\n\n\n\n\n\nWarning\n\n\nOverall effect on work hours is ambiguous"
   },
   {
-    "objectID": "slides/lsupply2/index.html#wage-subsidies-1",
-    "href": "slides/lsupply2/index.html#wage-subsidies-1",
+    "objectID": "slides/lsupply2/index.html#wage-subsidies-diagram",
+    "href": "slides/lsupply2/index.html#wage-subsidies-diagram",
     "title": "EC306 - Wages and Employment",
-    "section": "Wage Subsidies",
-    "text": "Wage Subsidies\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line pivots up with wage subsidy\nGraph shows person working more with subsidy\nBut effect is ambiguous\n\nIncome and substitution effects work in opposite directions"
+    "section": "Wage Subsidies: Diagram",
+    "text": "Wage Subsidies: Diagram\n\n\n\n\nBudget line pivots up with subsidy\n\nGraph shows person working more\nBut effect is theoretically ambiguous\nIncome and substitution effects work in opposite directions"
   },
   {
-    "objectID": "slides/lsupply2/index.html#wage-subsidies-2",
-    "href": "slides/lsupply2/index.html#wage-subsidies-2",
+    "objectID": "slides/lsupply2/index.html#wage-subsidies-policy-implications",
+    "href": "slides/lsupply2/index.html#wage-subsidies-policy-implications",
     "title": "EC306 - Wages and Employment",
-    "section": "Wage Subsidies",
-    "text": "Wage Subsidies\n\nWage subsidies have less negative work incentives than welfare or NIT\n\nBecause they do not reduce the effective wage rate\n\nBut they do not provide income support to non-workers\n\nSo may not help those in most need\n\nExamples of pure wages subsidies in Canada mostly go to employers\n\nUnclear if any of this gets passed on to workers"
+    "section": "Wage Subsidies: Policy Implications",
+    "text": "Wage Subsidies: Policy Implications\n\n\n\n\n\n\n\n\nAdvantages\n\n\n\nLess negative work incentives than welfare or NIT\nNo reduction in effective wage rate\n\n\n\n\n\n\n\n\n\n\n\nDisadvantages\n\n\n\nDo not provide income support to non-workers\nMay not help those in most need\n\n\n\n\n\nIn Canada:\n\nPure wage subsidies mostly go to employers\nUnclear if any benefits passed on to workers"
   },
   {
-    "objectID": "slides/lsupply2/index.html#tax-credits",
-    "href": "slides/lsupply2/index.html#tax-credits",
+    "objectID": "slides/lsupply2/index.html#tax-credits-overview",
+    "href": "slides/lsupply2/index.html#tax-credits-overview",
     "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits",
-    "text": "Tax Credits\n\nIncome support is sometimes provided through the tax credits\nA tax credit reduces the amount of tax owed, and there are two types\n\nNon-refundable: can reduce tax owed to zero, but not below zero\nRefundable tax: can reduce tax owed below zero, resulting in a payment to the individual\n\nSome income maintenance programs are delivered through refundable tax credits\n\nCanada Worker Benefit (CWB) in Canada\nEarned Income Tax Credit (EITC) in the US\n\nThey have a similar structure to the following graph"
+    "section": "Tax Credits: Overview",
+    "text": "Tax Credits: Overview\nTwo types of tax credits:\n\nNon-refundable: Can reduce tax owed to zero (but not below)\nRefundable: Can reduce tax owed below zero (results in payment)\n\n\n\n\n\n\n\nIncome Maintenance Programs via Refundable Tax Credits\n\n\n\nCanada Worker Benefit (CWB) - Canada\nEarned Income Tax Credit (EITC) - US"
   },
   {
-    "objectID": "slides/lsupply2/index.html#tax-credits-1",
-    "href": "slides/lsupply2/index.html#tax-credits-1",
+    "objectID": "slides/lsupply2/index.html#tax-credits-budget-constraint",
+    "href": "slides/lsupply2/index.html#tax-credits-budget-constraint",
     "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits",
-    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line shows program similar to CWB or EITC\nHas three segments\n\nPhase-in: subsidy proportional to earned income\nPlateau: maximum benefit\nPhase-out: benefit reduced with earned income\n\nHas elements of wage subsidy, demogrant, and NIT"
+    "section": "Tax Credits: Budget Constraint",
+    "text": "Tax Credits: Budget Constraint\n\n\n\n\nThree segments:\n\nPhase-in: Subsidy proportional to earned income\nPlateau: Maximum benefit level\nPhase-out: Benefit reduced with earned income\n\nCombines elements of:\n\nWage subsidy (phase-in)\nDemogrant (plateau)\nNIT (phase-out)"
   },
   {
-    "objectID": "slides/lsupply2/index.html#tax-credits-2",
-    "href": "slides/lsupply2/index.html#tax-credits-2",
+    "objectID": "slides/lsupply2/index.html#tax-credits-effect-in-plateau-range",
+    "href": "slides/lsupply2/index.html#tax-credits-effect-in-plateau-range",
     "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits",
-    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nPicture someone initially in middle range\nTax credit gives them maximum benefit\nActs like pure income effect\nIf leisure is a normal good, they will reduce work hours"
+    "section": "Tax Credits: Effect in Plateau Range",
+    "text": "Tax Credits: Effect in Plateau Range\n\n\n\n\nPerson initially in middle range:\n\nTax credit gives maximum benefit\nActs like pure income effect\nIf leisure is normal good → reduce work hours"
   },
   {
-    "objectID": "slides/lsupply2/index.html#tax-credits-3",
-    "href": "slides/lsupply2/index.html#tax-credits-3",
+    "objectID": "slides/lsupply2/index.html#tax-credits-effect-in-phase-in-range",
+    "href": "slides/lsupply2/index.html#tax-credits-effect-in-phase-in-range",
     "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits",
-    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSomeone in the phase-in range will see an increase in the wage\nActs like a pure wage subsidy\nHas income and substitution effects that move in opposite directions\nEffect on hours is ambiguous"
+    "section": "Tax Credits: Effect in Phase-In Range",
+    "text": "Tax Credits: Effect in Phase-In Range\n\n\n\n\nPerson in phase-in range:\n\nSees increase in effective wage\nActs like pure wage subsidy\nIncome and substitution effects in opposite directions\n\n\n\n\n\n\n\n\nWarning\n\n\nEffect on hours is ambiguous"
   },
   {
-    "objectID": "slides/lsupply2/index.html#tax-credits-4",
-    "href": "slides/lsupply2/index.html#tax-credits-4",
+    "objectID": "slides/lsupply2/index.html#tax-credits-effect-in-phase-out-range",
+    "href": "slides/lsupply2/index.html#tax-credits-effect-in-phase-out-range",
     "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits",
-    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFinally imagine someone in the phase-out range\nThis is like a negative income tax\nIncome and substitution effects both reduce work hours\nEffect on work is unambiguously negative"
+    "section": "Tax Credits: Effect in Phase-Out Range",
+    "text": "Tax Credits: Effect in Phase-Out Range\n\n\n\n\nPerson in phase-out range:\n\nSimilar to negative income tax\nIncome effect → reduce hours ↓\nSubstitution effect → reduce hours ↓\n\n\n\n\n\n\n\n\nImportant\n\n\nEffect on work is unambiguously negative"
   },
   {
-    "objectID": "slides/lsupply2/index.html#introduction-1",
-    "href": "slides/lsupply2/index.html#introduction-1",
+    "objectID": "slides/lsupply2/index.html#employment-insurance-overview",
+    "href": "slides/lsupply2/index.html#employment-insurance-overview",
     "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\nCanada’s child care expansion:\n\nGoal: reduce average cost to $10/day by 2026\nMore than half of provinces already at $10/day average\nSubsidy varies substantially by province\nRequires provincial-federal agreements\n\n\n\n\n\n\n\n\nQuebec Case Study\n\n\nHad $10/day child care since 1997. Provides useful evidence on effects."
+    "section": "Employment Insurance: Overview",
+    "text": "Employment Insurance: Overview\nPurpose:\n\nSafety net for workers who lose their job\nCollect income while unemployed\n\nFunding:\n\nPayroll taxes on employers and employees\n\nTwo main components:\n\nRegular benefits - for those unemployed through no fault of their own\nSpecial benefits - sickness, maternity, parental leave, caregiving"
   },
   {
-    "objectID": "slides/lsupply2/index.html#introduction-2",
-    "href": "slides/lsupply2/index.html#introduction-2",
+    "objectID": "slides/lsupply2/index.html#employment-insurance-benefits",
+    "href": "slides/lsupply2/index.html#employment-insurance-benefits",
     "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\n\nWe can analyze EI with the income-leisure diagram\nTo do this, simplify the program to have two parameters\n\nMust work 14 weeks in the year to qualify\nBenefit is 60% of weekly wage up to a maximum of 20 weeks\n\nPerson can therefore work up to 32 weeks in the year and get full benefits\n\nFor each week worked beyond 32, the lose benefits for that week\nBecause benefits are 60% of wage, this is like a 60% tax on earned income beyond 32 weeks\n\nCannot work and get EI simultaneously"
+    "section": "Employment Insurance: Benefits",
+    "text": "Employment Insurance: Benefits\n\n\n\n\n\n\nRegular Benefits Structure\n\n\n\n55% of average insurable weekly earnings\nUp to a maximum amount\nDuration: 14 to 45 weeks\n\nDepends on unemployment rate and hours worked in last year"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#ei-simplified-model-parameters",
+    "href": "slides/lsupply2/index.html#ei-simplified-model-parameters",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI: Simplified Model Parameters",
+    "text": "EI: Simplified Model Parameters\nTo analyze with income-leisure diagram:\n\nMust work 14 weeks in the year to qualify\nBenefit is 60% of weekly wage\nMaximum of 20 weeks of benefits\nCan work up to 32 weeks and get full benefits\nEach week worked beyond 32 → lose benefits for that week\n60% benefit = 60% tax on earnings beyond 32 weeks\nCannot work and collect EI simultaneously"
   },
   {
     "objectID": "slides/lsupply2/index.html#ei-budget-constraint",
@@ -273,116 +280,543 @@
     "text": "EI: Budget Constraint\n\n\n\n\nThree segments:\n\nFirst 14 weeks: Paid at usual wage \\(w_0\\)\nWeeks 14-32 of work: Get 20 weeks of benefits\n\nBenefit = \\(0.6 \\times 20 \\times w_0\\)\n\nMore than 32 weeks of work: Benefits reduced week-for-week\n\nBenefits paid at 60% of wage\nWork paid at 100% of wage\nKeep 40% of wage in this range"
   },
   {
-    "objectID": "slides/lsupply2/index.html#ei-optimum",
-    "href": "slides/lsupply2/index.html#ei-optimum",
+    "objectID": "slides/lsupply2/index.html#ei-effect-on-non-participants",
+    "href": "slides/lsupply2/index.html#ei-effect-on-non-participants",
     "title": "EC306 - Wages and Employment",
-    "section": "EI Optimum",
-    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBehaviour depends on position on budget line\nA non-participant might start working to get the benefit\nHappens because large increase in non-labour income happens after 14 hours of work"
+    "section": "EI: Effect on Non-Participants",
+    "text": "EI: Effect on Non-Participants\n\n\n\n\n\n\n\n\n\n\nEffect on Non-Workers\n\n\nA non-participant might start working due to large increase in non-labour income after 14 hours of work. Induces labour force entry."
   },
   {
-    "objectID": "slides/lsupply2/index.html#ei-optimum-1",
-    "href": "slides/lsupply2/index.html#ei-optimum-1",
+    "objectID": "slides/lsupply2/index.html#ei-effect-in-middle-range",
+    "href": "slides/lsupply2/index.html#ei-effect-in-middle-range",
     "title": "EC306 - Wages and Employment",
-    "section": "EI Optimum",
-    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn the middle portion of the budget line, the person is getting full benefits\nThis is like a pure income effect, so they will reduce work weeks"
+    "section": "EI: Effect in Middle Range",
+    "text": "EI: Effect in Middle Range\n\n\n\n\nPerson getting full benefits:\n\nActs like pure income effect\nWill reduce work weeks"
   },
   {
-    "objectID": "slides/lsupply2/index.html#ei-optimum-2",
-    "href": "slides/lsupply2/index.html#ei-optimum-2",
+    "objectID": "slides/lsupply2/index.html#ei-effect-on-high-hour-workers",
+    "href": "slides/lsupply2/index.html#ei-effect-on-high-hour-workers",
     "title": "EC306 - Wages and Employment",
-    "section": "EI Optimum",
-    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOn the left, it again acts like a negative income tax\nIncome and substitution effects both reduce work hours\nEffect on work is unambiguously negative"
+    "section": "EI: Effect on High-Hour Workers",
+    "text": "EI: Effect on High-Hour Workers\n\n\n\n\nIn phase-out range:\n\nActs like negative income tax\nIncome effect → reduce hours ↓\nSubstitution effect → reduce hours ↓\n\n\n\n\n\n\n\n\nImportant\n\n\nEffect unambiguously negative"
   },
   {
-    "objectID": "slides/lsupply2/index.html#evidence-on-ei-and-labour-supply",
-    "href": "slides/lsupply2/index.html#evidence-on-ei-and-labour-supply",
+    "objectID": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick",
+    "href": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick",
     "title": "EC306 - Wages and Employment",
-    "section": "Evidence on EI and Labour Supply",
-    "text": "Evidence on EI and Labour Supply\n\nMaine vs New Brunswick\nInitially, had very similar employment insurance schemes\nLater, New Brunswick increased generosity of benefits relative to Maine\nAnalyze with a difference-in-differences approach\n\nCompare changes in labour supply in New Brunswick before and after change to Maine over same period\nMaine acts as a control group for the change in New Brunswick\n\nCannot look just at New Brunswick over time because other factors may be changing\nChanges in Maine over time capture and control for the change in these other factors"
+    "section": "Evidence: Maine vs. New Brunswick",
+    "text": "Evidence: Maine vs. New Brunswick\nNatural experiment:\n\nInitially had very similar EI schemes\nLater, New Brunswick increased benefit generosity relative to Maine\nDifference-in-differences approach:\n\nCompare changes in NB before/after to Maine over same period\nMaine acts as control group\nControls for other time-varying factors"
   },
   {
-    "objectID": "slides/lsupply2/index.html#evidence-on-ei-and-labour-supply-1",
-    "href": "slides/lsupply2/index.html#evidence-on-ei-and-labour-supply-1",
+    "objectID": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick-results",
+    "href": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick-results",
     "title": "EC306 - Wages and Employment",
-    "section": "Evidence on EI and Labour Supply",
-    "text": "Evidence on EI and Labour Supply\n\nAnalysis finds\n\nHigher labour force participation in NB for marginally-attached workers\nLower hours for those with stronger attachments\n\nThis corresponds exactly to the model predictions\nHighlights work disincentive effects of income maintenance programs"
+    "section": "Evidence: Maine vs. New Brunswick Results",
+    "text": "Evidence: Maine vs. New Brunswick Results\n\n\nNew Brunswick experienced:\n\nHigher labour force participation for marginally-attached workers\nLower hours for those with stronger attachments\n\n\n\n\n\n\n\n\nInterpretation\n\n\n\nCorresponds exactly to model predictions\nHighlights work disincentive effects of income maintenance programs"
   },
   {
-    "objectID": "slides/lsupply2/index.html#introduction-3",
-    "href": "slides/lsupply2/index.html#introduction-3",
+    "objectID": "slides/lsupply2/index.html#introduction",
+    "href": "slides/lsupply2/index.html#introduction",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nDisability insurance and workers compensation provide income support to workers who are injured or become ill\n\nCan come from public and private sources\nPremiums usually paid by both employers and employees\n\nIn cases of sever injury or disability work incentives are not a concern\n\nPeople are unable to work\n\nIn others people may still be able to work"
+    "text": "Introduction\nWhat are these programs?\n\nProvide income support to injured/ill workers\nCome from public and private sources\nPremiums paid by employers and employees\n\n\n\n\n\n\n\nWork Incentive Considerations\n\n\n\nSevere injury/disability: work incentives not a concern (unable to work)\nPartial disability: people may still be able to work"
   },
   {
-    "objectID": "slides/lsupply2/index.html#effect-of-a-disability-on-labour-supply",
-    "href": "slides/lsupply2/index.html#effect-of-a-disability-on-labour-supply",
+    "objectID": "slides/lsupply2/index.html#effect-of-disability-on-labour-supply",
+    "href": "slides/lsupply2/index.html#effect-of-disability-on-labour-supply",
     "title": "EC306 - Wages and Employment",
-    "section": "Effect of a Disability on Labour Supply",
-    "text": "Effect of a Disability on Labour Supply\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nInitially person chooses \\(L_{0}\\) leisure and works \\(H_{0}\\) hours\nIf they become injured but can still work, the might choose \\(L_{1}\\) leisure and work \\(H_{1}\\) hours\n\nNow on a lower, non-optimal indifference curve\n\nIf they become completely disabled, they choose \\(T\\) leisure and work zero hours\n\nOn an even lower indifference curve"
+    "section": "Effect of Disability on Labour Supply",
+    "text": "Effect of Disability on Labour Supply\n\n\n\n\nThree scenarios:\n\nInitially: Choose \\(L_0\\) leisure, work \\(H_0\\) hours\nInjured but can work: Choose \\(L_1\\) leisure, work \\(H_1\\) hours\n\nLower (non-optimal) indifference curve\n\nCompletely disabled: Choose \\(T\\) leisure, zero work\n\nEven lower indifference curve"
   },
   {
-    "objectID": "slides/lsupply2/index.html#effect-of-a-disability-on-labour-supply-1",
-    "href": "slides/lsupply2/index.html#effect-of-a-disability-on-labour-supply-1",
+    "objectID": "slides/lsupply2/index.html#disability-and-preferences",
+    "href": "slides/lsupply2/index.html#disability-and-preferences",
     "title": "EC306 - Wages and Employment",
-    "section": "Effect of a Disability on Labour Supply",
-    "text": "Effect of a Disability on Labour Supply\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA disability might also change their preferences\nIf work becomes more difficult, preferences would tilt towards leisure\n\nIndifference curve becomes steeper\nMRS increases at each point\nMore willing to give up consumption to get leisure\n\nEven if the person can still work unconstrained, they will choose more leisure\n\nPerson would go from \\(L_{0}\\) to \\(L_{2}\\)"
+    "section": "Disability and Preferences",
+    "text": "Disability and Preferences\n\n\n\n\nDisability may change preferences:\n\nWork becomes more difficult\nPreferences tilt toward leisure\nIndifference curve becomes steeper\nMRS increases at each point\nMore willing to give up consumption for leisure\n\nResult:\n\nEven if unconstrained, choose more leisure\nPerson moves from \\(L_0\\) to \\(L_2\\)"
   },
   {
-    "objectID": "slides/lsupply2/index.html#introduction-4",
-    "href": "slides/lsupply2/index.html#introduction-4",
+    "objectID": "slides/lsupply2/index.html#compensation-schemes",
+    "href": "slides/lsupply2/index.html#compensation-schemes",
+    "title": "EC306 - Wages and Employment",
+    "section": "Compensation Schemes",
+    "text": "Compensation Schemes\nTypical disability insurance structure:\n\nPays a fraction of previous earnings\n\n\n\n\n\n\n\nExample: Ontario WSIB\n\n\n\n85% of net earnings (up to maximum)\nLasts until return to work or age 65\n\n\n\n\nTwo schemes we’ll examine:\n\nTwo-thirds income replacement\nFull income replacement"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#two-thirds-compensation",
+    "href": "slides/lsupply2/index.html#two-thirds-compensation",
+    "title": "EC306 - Wages and Employment",
+    "section": "Two-Thirds Compensation",
+    "text": "Two-Thirds Compensation\n\n\n\n\nLooks like negative income tax:\n\nAt zero hours: get 2/3 of previous income\nFor each hour worked:\n\nGain full wage\nLose 2/3 of wage in benefits\nKeep 1/3 of wage\n\n\nFor workers with flexible hours:\n\nEffects match NIT\nNegative effect on hours worked"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#restricted-hours-generous-compensation",
+    "href": "slides/lsupply2/index.html#restricted-hours-generous-compensation",
+    "title": "EC306 - Wages and Employment",
+    "section": "Restricted Hours: Generous Compensation",
+    "text": "Restricted Hours: Generous Compensation\n\n\n\n\nWhat if worker can only work \\(H_0\\) hours or zero?\n\nIf scheme generous enough → choose zero hours\nUtility at zero hours &gt; utility at \\(H_0\\) hours\n\n\n\n\n\n\n\n\nImplication\n\n\nStrong work disincentives of generous scheme"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#no-compensation-case",
+    "href": "slides/lsupply2/index.html#no-compensation-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "No Compensation Case",
+    "text": "No Compensation Case\n\n\n\n\n\n\n\n\n\n\nNot Providing Compensation is Problematic\n\n\n\nPerson who can work chooses \\(H_0\\) hours\nPerson who cannot work gets lower utility\nEnd up substantially worse off"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#medical-expenses-case",
+    "href": "slides/lsupply2/index.html#medical-expenses-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "Medical Expenses Case",
+    "text": "Medical Expenses Case\n\n\n\n\nMedical expenses worsen situation:\n\nAct like reduction in non-labour income\nIf large enough, non-labour income could go negative\nOccurs with no/very low compensation\n\nThis is an extreme scenario"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#optimal-compensation-level",
+    "href": "slides/lsupply2/index.html#optimal-compensation-level",
+    "title": "EC306 - Wages and Employment",
+    "section": "Optimal Compensation Level",
+    "text": "Optimal Compensation Level\n\n\n\n\nHow much to compensate non-workers?\nTwo options:\n\nFull income replacement\n\nHigher indifference curve (\\(U_1\\)) than working\n\nSame satisfaction as working\n\nSame indifference curve as working\nLower compensation (\\(Y_p\\))\n\n\n\n\n\n\n\n\n\nNote\n\n\nThe optimal level is a policy question"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#introduction-1",
+    "href": "slides/lsupply2/index.html#introduction-1",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nChild care subsidies are payments to parents to help cover the cost of child care\nCanada is currently expanding child care subsidies\n\nGoal is to reduce average cost of child care to $10/day by 2026\nTo date more than half of provinces have a $10/day average\nIn some provinces, subsidy is very substantial\nComplicated because agreements must be reached with provinces\n\nQuebec has had a $10/day child care program since 1997\n\nProvides a useful case study of the effects of child care subsidies\n\nHere we study how this affects labour supply"
+    "text": "Introduction\nCanada’s child care expansion:\n\nGoal: reduce average cost to $10/day by 2026\nMore than half of provinces already at $10/day average\nSubsidy varies substantially by province\nRequires provincial-federal agreements\n\n\n\n\n\n\n\nQuebec Case Study\n\n\nHad $10/day child care since 1997. Provides useful evidence on effects."
   },
   {
-    "objectID": "slides/lsupply2/index.html#child-care-costs",
-    "href": "slides/lsupply2/index.html#child-care-costs",
+    "objectID": "slides/lsupply2/index.html#child-care-costs-non-working-case",
+    "href": "slides/lsupply2/index.html#child-care-costs-non-working-case",
     "title": "EC306 - Wages and Employment",
-    "section": "Child Care Costs",
-    "text": "Child Care Costs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nWith child care costs the budget line becomes discontinuous\n\nAt zero hours of work, it is red dot\nFor any amount of work, it drops down by the amount of child care costs\nThen is a straight line with slope equal to wage rate\n\nChild care costs increase reservation wage\n\nDue to costs, person needs higher wage to induce them to work\n\nIn this graph the person chooses not to work"
+    "section": "Child Care Costs: Non-Working Case",
+    "text": "Child Care Costs: Non-Working Case\n\n\n\n\nBudget line becomes discontinuous:\n\nAt zero hours: red dot\nFor any work: drops by child care costs\nThen straight line with slope = wage\n\nEffect:\n\nChild care costs increase reservation wage\nNeed higher wage to induce work\nThis person chooses not to work"
   },
   {
-    "objectID": "slides/lsupply2/index.html#child-care-costs-1",
-    "href": "slides/lsupply2/index.html#child-care-costs-1",
+    "objectID": "slides/lsupply2/index.html#child-care-costs-working-case",
+    "href": "slides/lsupply2/index.html#child-care-costs-working-case",
     "title": "EC306 - Wages and Employment",
-    "section": "Child Care Costs",
-    "text": "Child Care Costs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA person working would choose more hours\nThis person has reservation wage above the wage rate with child car are costs, so works positive hours\nChild care costs act as a negative pure income effect\n\nChoose less leisure, more work\n\nMust work more to make up income loss from child care costs"
+    "section": "Child Care Costs: Working Case",
+    "text": "Child Care Costs: Working Case\n\n\n\n\nPerson with reservation wage above wage + costs:\n\nWorks positive hours\nChild care costs = negative pure income effect\nChoose less leisure, more work\nMust work more to offset income loss"
   },
   {
-    "objectID": "slides/lsupply2/index.html#child-care-costs-2",
-    "href": "slides/lsupply2/index.html#child-care-costs-2",
+    "objectID": "slides/lsupply2/index.html#child-care-costs-labour-supply-gap",
+    "href": "slides/lsupply2/index.html#child-care-costs-labour-supply-gap",
     "title": "EC306 - Wages and Employment",
-    "section": "Child Care Costs",
-    "text": "Child Care Costs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nChild care costs create a gap in the labour supply schedule\nA person who chooses to work will work a minimum of \\(H_{0} = T- L_{0}\\) hours\n\nNot worth it to work less than this amount\nDue to large child care costs\n\nThis means labour supply schedule jumps from zero hours to \\(H_{0}\\) hours"
+    "section": "Child Care Costs: Labour Supply Gap",
+    "text": "Child Care Costs: Labour Supply Gap\n\n\n\n\n\n\n\n\n\n\nCreates Gap in Labour Supply Schedule\n\n\n\nPerson who works will work minimum of \\(H_0 = T - L_0\\) hours\nNot worth working less due to large child care costs\nLabour supply schedule jumps from zero to \\(H_0\\) hours"
   },
   {
-    "objectID": "slides/lsupply2/index.html#child-care-subsidies-1",
-    "href": "slides/lsupply2/index.html#child-care-subsidies-1",
+    "objectID": "slides/lsupply2/index.html#child-care-subsidies-effects",
+    "href": "slides/lsupply2/index.html#child-care-subsidies-effects",
     "title": "EC306 - Wages and Employment",
-    "section": "Child Care Subsidies",
-    "text": "Child Care Subsidies\n\nA child care subsidy reduces the cost of child care\nFor example, a full subsidy (driving costs to zero) would\n\nMove the budget line up in parallel\nReduce the reservation wage\n\nThe lower reservation wage would induce participation\n\nBecause barrier of child care is removed\nThis would encourage part time work in particular\n\nShift up in the budget line would reduce work hours\n\nPure positive income effect\nIncreases consumption of leisure, reduce work hours"
+    "section": "Child Care Subsidies: Effects",
+    "text": "Child Care Subsidies: Effects\nA full subsidy (costs → zero) would:\n\nMove budget line up in parallel\nReduce reservation wage\n\nLower barrier → encourages participation\nEspecially encourages part-time work\n\nCreate positive income effect\n\nIncreases consumption of leisure\nReduces work hours"
   },
   {
-    "objectID": "slides/lsupply2/index.html#evidence-on-child-care-subsidies",
-    "href": "slides/lsupply2/index.html#evidence-on-child-care-subsidies",
+    "objectID": "slides/lsupply2/index.html#evidence-quebecs-5day-program",
+    "href": "slides/lsupply2/index.html#evidence-quebecs-5day-program",
     "title": "EC306 - Wages and Employment",
-    "section": "Evidence on Child Care Subsidies",
-    "text": "Evidence on Child Care Subsidies\n\nQuebec implemented a $5/day child care program in 2000\n\nNow a sliding scale between $8.25 and $21.45 today\n\nResearchers used a difference in differences approach to analyze the effect\n\nCompared changes in labour supply of mothers in Quebec to those in other provinces over same period\nOther provinces act as a control group for changes in Quebec\n\nFound that labour force participation of mothers with young children increased by 7.7 percentage points\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
+    "section": "Evidence: Quebec’s $5/Day Program",
+    "text": "Evidence: Quebec’s $5/Day Program\n\n\nProgram details:\n\nImplemented in 2000\nCurrently sliding scale: $8.25 to $21.45\n\n\nResearch design:\n\nDifference-in-differences approach\nCompared Quebec mothers to mothers in other provinces\nOther provinces = control group\n\n\n\n\n\n\n\n\nKey Finding\n\n\nLabour force participation of mothers with young children ↑ 7.7 percentage points\n\n\n\n\n\n\n\n\n\nWarning\n\n\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
   },
   {
-    "objectID": "slides/lsupply2/index.html#evidence-on-child-care-subsidies-1",
-    "href": "slides/lsupply2/index.html#evidence-on-child-care-subsidies-1",
+    "objectID": "slides/lsupply2/index.html#evidence-visual-summary",
+    "href": "slides/lsupply2/index.html#evidence-visual-summary",
     "title": "EC306 - Wages and Employment",
-    "section": "Evidence on Child Care Subsidies",
-    "text": "Evidence on Child Care Subsidies\n\nSource: Fortin (2019)"
+    "section": "Evidence: Visual Summary",
+    "text": "Evidence: Visual Summary\n\nSource: Fortin (2019)"
   },
   {
-    "objectID": "slides/lsupply2/index.html#summary-1",
-    "href": "slides/lsupply2/index.html#summary-1",
+    "objectID": "slides/lsupply2/index.html#key-takeaways",
+    "href": "slides/lsupply2/index.html#key-takeaways",
     "title": "EC306 - Wages and Employment",
-    "section": "Summary",
-    "text": "Summary\n\nIncome maintenance programs provide income support to various groups for various reasons\nSome of these programs can create work disincentives\n\nNeed to balance this against the need to provide income support\n\nWe examined several different programs that exist today with labour supply model\nIn next section, we look at labour supply over the life cycle"
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\nIncome maintenance programs:\n\nProvide crucial income support to various groups\nCan create work disincentives in some cases\nMust balance support needs against incentive effects\n\nWe examined several programs through the labour supply model:\n\nDemogrants, welfare, NIT, wage subsidies, tax credits\nEmployment insurance\nDisability and workers compensation\nChild care subsidies"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#labour-supply-2-labour-supply-and-public-policy",
+    "href": "slides/lsupply2/CopyOfindex.html#labour-supply-2-labour-supply-and-public-policy",
+    "title": "EC306 - Wages and Employment",
+    "section": "Labour Supply 2: Labour Supply and Public Policy",
+    "text": "Labour Supply 2: Labour Supply and Public Policy\nEC306 - Wages and Employment\nJustin Smith\nWilfrid Laurier University\nFall 2025"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#goals-of-this-section-1",
+    "href": "slides/lsupply2/CopyOfindex.html#goals-of-this-section-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\nToday we will:\n\nDiscuss various public policies that affect labour supply\n\nTaxes/subsidies, transfers, employment insurance, worker compensation\n\nShow effect of these policies on work decisions using economic models\nExamine statistical evidence for the model predictions"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#overview-of-income-maintenance-programs",
+    "href": "slides/lsupply2/CopyOfindex.html#overview-of-income-maintenance-programs",
+    "title": "EC306 - Wages and Employment",
+    "section": "Overview of Income Maintenance Programs",
+    "text": "Overview of Income Maintenance Programs\n\nRepresent about 10% of GDP in Canada\nPrimary aims:\n\nRaise income of specific groups (parents, elderly)\nSupplement low wages\n\nMajor programs: child benefits, employment insurance, social assistance, pensions\nKey challenge: balancing income support with work incentives"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#government-transfers-in-canada",
+    "href": "slides/lsupply2/CopyOfindex.html#government-transfers-in-canada",
+    "title": "EC306 - Wages and Employment",
+    "section": "Government Transfers in Canada",
+    "text": "Government Transfers in Canada\nIn 2017, 83% of families received some form of government transfer:\n\n\n\nProgram\n% Receiving\nAverage Amount\n\n\n\n\nFederal Child Benefits\n20.2%\n$6,314\n\n\nEmployment Insurance\n14.0%\n$8,352\n\n\nSocial Assistance\n11.3%\n$8,367\n\n\nOld Age Security\n25.1%\n$8,566\n\n\nCPP/QPP\n32.4%\n$10,092"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#issues-in-program-design",
+    "href": "slides/lsupply2/CopyOfindex.html#issues-in-program-design",
+    "title": "EC306 - Wages and Employment",
+    "section": "Issues in Program Design",
+    "text": "Issues in Program Design\n\n\nUniversal vs. Targeted Programs\n\nUniversal: easy to implement but expensive\nTargeted: benefits only those in need but costly to administer\n\n\nWork Disincentives\n\nSome programs reduce incentive to work\nExample: welfare benefits can encourage labour force dropout for those with strong preference for leisure\n\n\n\nPermanent vs. Transitory Income Loss\n\nDifferent situations require different program designs\nTemporary layoff → short-term support\nLong-term disability → longer support + reintegration costs"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#four-standard-income-support-programs",
+    "href": "slides/lsupply2/CopyOfindex.html#four-standard-income-support-programs",
+    "title": "EC306 - Wages and Employment",
+    "section": "Four Standard Income Support Programs",
+    "text": "Four Standard Income Support Programs\nWe will examine four policy approaches:\n\nDemogrants - Fixed payment to all regardless of income/employment\nWelfare - Lump-sum payment for non-workers, reduced dollar-for-dollar with earnings\nNegative Income Tax (NIT) - Welfare payment that decreases at rate &lt; 100% with earnings\nWage Subsidies - Addition to the wage rate"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#demogrant-theory",
+    "href": "slides/lsupply2/CopyOfindex.html#demogrant-theory",
+    "title": "EC306 - Wages and Employment",
+    "section": "Demogrant: Theory",
+    "text": "Demogrant: Theory\n\n\n\n\nHow it works:\n\nUnconditional lump sum transfer \\(D\\)\nShifts budget line up parallel\nWage unchanged → pure income effect\n\nLabor supply impact:\n\nIf leisure is normal good → optimal leisure rises\nUnambiguously negative work incentive\nReduces hours worked\nMay induce non-participation"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#demogrant-canadian-example",
+    "href": "slides/lsupply2/CopyOfindex.html#demogrant-canadian-example",
+    "title": "EC306 - Wages and Employment",
+    "section": "Demogrant: Canadian Example",
+    "text": "Demogrant: Canadian Example\nUniversal Child Care Benefit (UCCB)\n\nPaid to families with children under 18\n\n$160/month per child under 6\n$60/month per child aged 6-17\n\nReplaced in 2016 by Canada Child Benefit (CCB)\n\nMore targeted to low/middle income families\n\n\n\nEvidence (Schirle, 2015):\n\nUCCB reduced labour supply of women with children under 6\nEffect: ~3.2 percentage points for low-educated married women"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#welfare-overview",
+    "href": "slides/lsupply2/CopyOfindex.html#welfare-overview",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare: Overview",
+    "text": "Welfare: Overview\nWelfare = Social/Income Assistance in Canada\n\nLump-sum payment to non-workers\nReduced dollar-for-dollar with earned income\n\n\nHistorical criticism:\n\nCreates negative work incentives for some\nBut must balance against need for income support"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#welfare-budget-constraint",
+    "href": "slides/lsupply2/CopyOfindex.html#welfare-budget-constraint",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare: Budget Constraint",
+    "text": "Welfare: Budget Constraint\n\n\n\n\nBudget line structure:\n\nBlack line: original budget (leisure at \\(L_0\\))\nRed then black: with welfare benefit \\(B\\)\n\nKey features:\n\nBenefit \\(B\\) at zero hours of work\nReduced $1 for each $1 earned\n\nEquivalent to 100% tax rate on earnings\n\nIncome constant at \\(B\\) until earned income equals benefit\nAfter that, earn wage \\(w_0\\) per hour worked"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#welfare-no-effect-case",
+    "href": "slides/lsupply2/CopyOfindex.html#welfare-no-effect-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare: No Effect Case",
+    "text": "Welfare: No Effect Case\n\n\n\n\nFor some workers, welfare has no effect:\n\nPerson working \\(H_0\\) hours before benefit\nStill maximizes utility at \\(H_0\\) hours after\nGenerally occurs with people already working many hours"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#welfare-work-disincentive-case",
+    "href": "slides/lsupply2/CopyOfindex.html#welfare-work-disincentive-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare: Work Disincentive Case",
+    "text": "Welfare: Work Disincentive Case\n\n\n\n\nOthers face strong work disincentive:\n\nPerson chooses zero hours after welfare benefit\n\nThis occurs when:\n\nWelfare benefit is generous\nIndividual places high value on leisure\n\nThis is the problematic effect of welfare programs"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#combating-work-disincentives",
+    "href": "slides/lsupply2/CopyOfindex.html#combating-work-disincentives",
+    "title": "EC306 - Wages and Employment",
+    "section": "Combating Work Disincentives",
+    "text": "Combating Work Disincentives\nPolicy options:\n\n\n\nReduce benefit level\n\nBut may not provide adequate support\n\nIncrease wages\n\nThrough minimum wages, subsidies, training, unions\nCan be expensive and may reduce labour demand\n\n\n\n\nChange preferences\n\nAlter attitudes toward work/leisure\nDifficult to achieve\n\nNegative income tax\n\nReduce tax-back rate on earnings\nDiscussed next…"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#welfare-evidence-from-quebec",
+    "href": "slides/lsupply2/CopyOfindex.html#welfare-evidence-from-quebec",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare: Evidence from Quebec",
+    "text": "Welfare: Evidence from Quebec\nNatural experiment: Welfare benefit structure changed in 1989\n\n\nBefore 1989:\n\nAge-based benefits for singles/couples with no kids\nUnder 30: $185/month\n30 and over: $507/month\n\n\nResults at age 30:\n\nMuch longer time on welfare\nLower employment rates\n\nTurning 30 created a large discontinuous jump in benefits"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#negative-income-tax-overview",
+    "href": "slides/lsupply2/CopyOfindex.html#negative-income-tax-overview",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax: Overview",
+    "text": "Negative Income Tax: Overview\nWhat is NIT?\n\nWelfare program where benefit reduced at rate &lt; 100% of earnings\nExample: $10,000 benefit reduced by 50¢ per dollar earned\n\n\nAdvantages:\n\nProvides income support with fewer work disincentives\nStill maintains incentive to work since benefit reduces slowly\n\n\n\nAlso known as:\n\nGuaranteed Annual Income (GAI)\nBasic Income"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#negative-income-tax-budget-constraint",
+    "href": "slides/lsupply2/CopyOfindex.html#negative-income-tax-budget-constraint",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax: Budget Constraint",
+    "text": "Negative Income Tax: Budget Constraint\n\n\n\n\nNIT has two components:\n\nBenefit \\(B\\) at zero hours of work\nTax rate \\(t\\) on earned income (until earned income equals benefit)\n\nEffect on labour supply:\n\nPivots budget line up vs. pure welfare\nWork hours reduced from \\(H_0\\) to \\(H_1\\)\nWork disincentive less than pure welfare\nPerson still works some hours (vs. dropping out with pure welfare)"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#negative-income-tax-income-and-substitution-effects",
+    "href": "slides/lsupply2/CopyOfindex.html#negative-income-tax-income-and-substitution-effects",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax: Income and Substitution Effects",
+    "text": "Negative Income Tax: Income and Substitution Effects\nIncome effects:\n\nBenefit increases non-labour income → increases leisure ↑\nTax has negative income effect → reduces leisure ↓\nNet: benefit effect dominates → leisure ↑\n\n\nSubstitution effect:\n\nTax rate reduces effective wage\nMakes leisure relatively cheaper → reduces work hours ↓\n\n\n\nOverall: Negative effect on work hours, but smaller than pure welfare"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#negative-income-tax-math",
+    "href": "slides/lsupply2/CopyOfindex.html#negative-income-tax-math",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax: Math",
+    "text": "Negative Income Tax: Math\nThe budget constraint with NIT:\n\\[\nC =\n\\begin{cases}\nwh + B - twh, & \\text{if } B - t wh \\geq 0 \\\\\nwh, & \\text{otherwise}\n\\end{cases}\n\\]\n\nInterpretation:\n\nConsumption = earned income (\\(wh\\)) + net benefit (\\(B - twh\\)) if net benefit &gt; 0\nOtherwise just earned income (\\(wh\\))\n\n\n\nBreak-even point: benefit reaches zero when \\(wh = \\frac{B}{t}\\)"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#mincome-manitobas-nit-experiment",
+    "href": "slides/lsupply2/CopyOfindex.html#mincome-manitobas-nit-experiment",
+    "title": "EC306 - Wages and Employment",
+    "section": "MINCOME: Manitoba’s NIT Experiment",
+    "text": "MINCOME: Manitoba’s NIT Experiment\nProgram details (1970s):\n\nRandomized controlled trial\n\nTreatment group received NIT\nControl group did not\n\nConducted in Dauphin (saturated - everyone got NIT) and Winnipeg\n7 treatment groups with different benefit levels and tax rates\nEnded in 1979 due to political changes"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#mincome-treatment-groups",
+    "href": "slides/lsupply2/CopyOfindex.html#mincome-treatment-groups",
+    "title": "EC306 - Wages and Employment",
+    "section": "MINCOME Treatment Groups",
+    "text": "MINCOME Treatment Groups\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#mincome-results",
+    "href": "slides/lsupply2/CopyOfindex.html#mincome-results",
+    "title": "EC306 - Wages and Employment",
+    "section": "MINCOME: Results",
+    "text": "MINCOME: Results\nLabour supply effects:\n\nSmall decline in hours worked\n\nMainly mothers of newborns\nWomen in two-parent families\nNo significant decline for men\n\n\n\nHealth outcomes:\n\nFewer hospitalizations and doctor visits\nEspecially for mental health and accidents\n\n\n\nEducation:\n\nIncrease in adolescents finishing high school"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#wage-subsidies-theory",
+    "href": "slides/lsupply2/CopyOfindex.html#wage-subsidies-theory",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies: Theory",
+    "text": "Wage Subsidies: Theory\nWhat is a wage subsidy?\n\nPayment to workers that increases their wage rate\nExample: $5/hour subsidy increases $15/hour wage to $20/hour\n\n\nEffect on budget constraint:\n\nBudget line pivots upward\n\n\n\nLabour supply effects:\n\n\n\nIncome effect → increases leisure ↑\n\n\n\nSubstitution effect → decreases leisure ↓\n\n\nOverall effect on work hours is ambiguous"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#wage-subsidies-diagram",
+    "href": "slides/lsupply2/CopyOfindex.html#wage-subsidies-diagram",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies: Diagram",
+    "text": "Wage Subsidies: Diagram\n\n\n\n\nBudget line pivots up with subsidy\n\nGraph shows person working more\nBut effect is theoretically ambiguous\nIncome and substitution effects work in opposite directions"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#wage-subsidies-policy-implications",
+    "href": "slides/lsupply2/CopyOfindex.html#wage-subsidies-policy-implications",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies: Policy Implications",
+    "text": "Wage Subsidies: Policy Implications\nAdvantages:\n\nLess negative work incentives than welfare or NIT\nNo reduction in effective wage rate\n\n\nDisadvantages:\n\nDo not provide income support to non-workers\nMay not help those in most need\n\n\n\nIn Canada:\n\nPure wage subsidies mostly go to employers\nUnclear if any benefits passed on to workers"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#tax-credits-overview",
+    "href": "slides/lsupply2/CopyOfindex.html#tax-credits-overview",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits: Overview",
+    "text": "Tax Credits: Overview\nTwo types of tax credits:\n\nNon-refundable: Can reduce tax owed to zero (but not below)\nRefundable: Can reduce tax owed below zero (results in payment)\n\n\nIncome maintenance via refundable tax credits:\n\nCanada Worker Benefit (CWB) - Canada\nEarned Income Tax Credit (EITC) - US\n\nSimilar structure shown in next diagram…"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#tax-credits-budget-constraint",
+    "href": "slides/lsupply2/CopyOfindex.html#tax-credits-budget-constraint",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits: Budget Constraint",
+    "text": "Tax Credits: Budget Constraint\n\n\n\n\nThree segments:\n\nPhase-in: Subsidy proportional to earned income\nPlateau: Maximum benefit level\nPhase-out: Benefit reduced with earned income\n\nCombines elements of:\n\nWage subsidy (phase-in)\nDemogrant (plateau)\nNIT (phase-out)"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#tax-credits-effect-in-plateau-range",
+    "href": "slides/lsupply2/CopyOfindex.html#tax-credits-effect-in-plateau-range",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits: Effect in Plateau Range",
+    "text": "Tax Credits: Effect in Plateau Range\n\n\n\n\nPerson initially in middle range:\n\nTax credit gives maximum benefit\nActs like pure income effect\nIf leisure is normal good → reduce work hours"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#tax-credits-effect-in-phase-in-range",
+    "href": "slides/lsupply2/CopyOfindex.html#tax-credits-effect-in-phase-in-range",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits: Effect in Phase-In Range",
+    "text": "Tax Credits: Effect in Phase-In Range\n\n\n\n\nPerson in phase-in range:\n\nSees increase in effective wage\nActs like pure wage subsidy\nIncome and substitution effects in opposite directions\nEffect on hours is ambiguous"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#tax-credits-effect-in-phase-out-range",
+    "href": "slides/lsupply2/CopyOfindex.html#tax-credits-effect-in-phase-out-range",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits: Effect in Phase-Out Range",
+    "text": "Tax Credits: Effect in Phase-Out Range\n\n\n\n\nPerson in phase-out range:\n\nSimilar to negative income tax\nIncome effect → reduce hours ↓\nSubstitution effect → reduce hours ↓\nEffect on work is unambiguously negative"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#employment-insurance-overview",
+    "href": "slides/lsupply2/CopyOfindex.html#employment-insurance-overview",
+    "title": "EC306 - Wages and Employment",
+    "section": "Employment Insurance: Overview",
+    "text": "Employment Insurance: Overview\nPurpose:\n\nSafety net for workers who lose their job\nCollect income while unemployed\n\n\nFunding:\n\nPayroll taxes on employers and employees\n\n\n\nTwo main components:\n\nRegular benefits - for those unemployed through no fault of their own\nSpecial benefits - sickness, maternity, parental leave, caregiving"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#employment-insurance-benefits",
+    "href": "slides/lsupply2/CopyOfindex.html#employment-insurance-benefits",
+    "title": "EC306 - Wages and Employment",
+    "section": "Employment Insurance: Benefits",
+    "text": "Employment Insurance: Benefits\nRegular benefits:\n\n55% of average insurable weekly earnings\nUp to a maximum amount\nDuration: 14 to 45 weeks\n\nDepends on unemployment rate and hours worked in last year"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#ei-simplified-model-parameters",
+    "href": "slides/lsupply2/CopyOfindex.html#ei-simplified-model-parameters",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI: Simplified Model Parameters",
+    "text": "EI: Simplified Model Parameters\nTo analyze with income-leisure diagram:\n\nMust work 14 weeks in the year to qualify\nBenefit is 60% of weekly wage\nMaximum of 20 weeks of benefits\nCan work up to 32 weeks and get full benefits\nEach week worked beyond 32 → lose benefits for that week\n60% benefit = 60% tax on earnings beyond 32 weeks\nCannot work and collect EI simultaneously"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#ei-budget-constraint",
+    "href": "slides/lsupply2/CopyOfindex.html#ei-budget-constraint",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI: Budget Constraint",
+    "text": "EI: Budget Constraint\n\n\n\n\nThree segments:\n\nFirst 14 weeks: Paid at usual wage \\(w_0\\)\nWeeks 14-32 of work (20-38 weeks leisure): Get 20 weeks of benefits\n\nBenefit = \\(0.6 \\times 20 \\times w_0\\)\n\nMore than 32 weeks of work (&lt;20 weeks leisure): Benefits reduced week-for-week\n\nBenefits paid at 60% of wage\nWork paid at 100% of wage\nKeep 40% of wage in this range"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#ei-effect-on-non-participants",
+    "href": "slides/lsupply2/CopyOfindex.html#ei-effect-on-non-participants",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI: Effect on Non-Participants",
+    "text": "EI: Effect on Non-Participants\n\n\n\n\nA non-participant might start working:\n\nLarge increase in non-labour income after 14 hours of work\nInduces labour force entry"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#ei-effect-in-middle-range",
+    "href": "slides/lsupply2/CopyOfindex.html#ei-effect-in-middle-range",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI: Effect in Middle Range",
+    "text": "EI: Effect in Middle Range\n\n\n\n\nPerson getting full benefits:\n\nActs like pure income effect\nWill reduce work weeks"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#ei-effect-on-high-hour-workers",
+    "href": "slides/lsupply2/CopyOfindex.html#ei-effect-on-high-hour-workers",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI: Effect on High-Hour Workers",
+    "text": "EI: Effect on High-Hour Workers\n\n\n\n\nIn phase-out range:\n\nActs like negative income tax\nIncome effect → reduce hours ↓\nSubstitution effect → reduce hours ↓\nEffect unambiguously negative"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#evidence-maine-vs.-new-brunswick",
+    "href": "slides/lsupply2/CopyOfindex.html#evidence-maine-vs.-new-brunswick",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence: Maine vs. New Brunswick",
+    "text": "Evidence: Maine vs. New Brunswick\nNatural experiment:\n\nInitially had very similar EI schemes\nLater, New Brunswick increased benefit generosity relative to Maine\nDifference-in-differences approach:\n\nCompare changes in NB before/after to Maine over same period\nMaine acts as control group\nControls for other time-varying factors"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#evidence-maine-vs.-new-brunswick-results",
+    "href": "slides/lsupply2/CopyOfindex.html#evidence-maine-vs.-new-brunswick-results",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence: Maine vs. New Brunswick Results",
+    "text": "Evidence: Maine vs. New Brunswick Results\nAnalysis findings:\n\n\nNew Brunswick experienced:\n\nHigher labour force participation for marginally-attached workers\nLower hours for those with stronger attachments\n\n\nInterpretation:\n\nCorresponds exactly to model predictions\nHighlights work disincentive effects of income maintenance programs"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#introduction",
+    "href": "slides/lsupply2/CopyOfindex.html#introduction",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\nWhat are these programs?\n\nProvide income support to injured/ill workers\nCome from public and private sources\nPremiums paid by employers and employees\n\n\nWork incentive considerations:\n\nSevere injury/disability: work incentives not a concern (unable to work)\nPartial disability: people may still be able to work"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#effect-of-disability-on-labour-supply",
+    "href": "slides/lsupply2/CopyOfindex.html#effect-of-disability-on-labour-supply",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Disability on Labour Supply",
+    "text": "Effect of Disability on Labour Supply\n\n\n\n\nThree scenarios:\n\nInitially: Choose \\(L_0\\) leisure, work \\(H_0\\) hours\nInjured but can work: Choose \\(L_1\\) leisure, work \\(H_1\\) hours\n\nLower (non-optimal) indifference curve\n\nCompletely disabled: Choose \\(T\\) leisure, zero work\n\nEven lower indifference curve"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#disability-and-preferences",
+    "href": "slides/lsupply2/CopyOfindex.html#disability-and-preferences",
+    "title": "EC306 - Wages and Employment",
+    "section": "Disability and Preferences",
+    "text": "Disability and Preferences\n\n\n\n\nDisability may change preferences:\n\nWork becomes more difficult\nPreferences tilt toward leisure\nIndifference curve becomes steeper\nMRS increases at each point\nMore willing to give up consumption for leisure\n\n. . .\nResult:\n\nEven if unconstrained, choose more leisure\nPerson moves from \\(L_0\\) to \\(L_2\\)"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#compensation-schemes",
+    "href": "slides/lsupply2/CopyOfindex.html#compensation-schemes",
+    "title": "EC306 - Wages and Employment",
+    "section": "Compensation Schemes",
+    "text": "Compensation Schemes\nTypical disability insurance structure:\n\nPays a fraction of previous earnings\nExample (Ontario WSIB):\n\n85% of net earnings (up to maximum)\nLasts until return to work or age 65\n\n\n\nTwo schemes we’ll examine:\n\nTwo-thirds income replacement\nFull income replacement"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#two-thirds-compensation",
+    "href": "slides/lsupply2/CopyOfindex.html#two-thirds-compensation",
+    "title": "EC306 - Wages and Employment",
+    "section": "Two-Thirds Compensation",
+    "text": "Two-Thirds Compensation\n\n\n\n\nLooks like negative income tax:\n\nAt zero hours: get 2/3 of previous income\nFor each hour worked:\n\nGain full wage\nLose 2/3 of wage in benefits\nKeep 1/3 of wage\n\n\n. . .\nFor workers with flexible hours:\n\nEffects match NIT\nNegative effect on hours worked"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#restricted-hours-generous-compensation",
+    "href": "slides/lsupply2/CopyOfindex.html#restricted-hours-generous-compensation",
+    "title": "EC306 - Wages and Employment",
+    "section": "Restricted Hours: Generous Compensation",
+    "text": "Restricted Hours: Generous Compensation\n\n\n\n\nWhat if worker can only work \\(H_0\\) hours or zero?\n\nIf scheme generous enough → choose zero hours\nUtility at zero hours &gt; utility at \\(H_0\\) hours\n\nImplication:\nStrong work disincentives of generous scheme"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#no-compensation-case",
+    "href": "slides/lsupply2/CopyOfindex.html#no-compensation-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "No Compensation Case",
+    "text": "No Compensation Case\n\n\n\n\nNot providing compensation is problematic:\n\nPerson who can work chooses \\(H_0\\) hours\nPerson who cannot work gets lower utility\nEnd up substantially worse off"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#medical-expenses-case",
+    "href": "slides/lsupply2/CopyOfindex.html#medical-expenses-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "Medical Expenses Case",
+    "text": "Medical Expenses Case\n\n\n\n\nMedical expenses worsen situation:\n\nAct like reduction in non-labour income\nIf large enough, non-labour income could go negative\nOccurs with no/very low compensation\n\nThis is an extreme scenario"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#optimal-compensation-level",
+    "href": "slides/lsupply2/CopyOfindex.html#optimal-compensation-level",
+    "title": "EC306 - Wages and Employment",
+    "section": "Optimal Compensation Level",
+    "text": "Optimal Compensation Level\n\n\n\n\nHow much to compensate non-workers?\nTwo options:\n\nFull income replacement\n\nHigher indifference curve (\\(U_1\\)) than working\n\nSame satisfaction as working\n\nSame indifference curve as working\nLower compensation (\\(Y_p\\))\n\n\nThe optimal level is a policy question"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#introduction-1",
+    "href": "slides/lsupply2/CopyOfindex.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\nCanada’s child care expansion:\n\nGoal: reduce average cost to $10/day by 2026\nMore than half of provinces already at $10/day average\nSubsidy varies substantially by province\nRequires provincial-federal agreements\n\n\nQuebec case study:\n\nHad $10/day child care since 1997\nProvides useful evidence on effects"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#child-care-costs-non-working-case",
+    "href": "slides/lsupply2/CopyOfindex.html#child-care-costs-non-working-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Costs: Non-Working Case",
+    "text": "Child Care Costs: Non-Working Case\n\n\n\n\nBudget line becomes discontinuous:\n\nAt zero hours: red dot\nFor any work: drops by child care costs\nThen straight line with slope = wage\n\n. . .\nEffect:\n\nChild care costs increase reservation wage\nNeed higher wage to induce work\nThis person chooses not to work"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#child-care-costs-working-case",
+    "href": "slides/lsupply2/CopyOfindex.html#child-care-costs-working-case",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Costs: Working Case",
+    "text": "Child Care Costs: Working Case\n\n\n\n\nPerson with reservation wage above wage + costs:\n\nWorks positive hours\nChild care costs = negative pure income effect\nChoose less leisure, more work\nMust work more to offset income loss"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#child-care-costs-labour-supply-gap",
+    "href": "slides/lsupply2/CopyOfindex.html#child-care-costs-labour-supply-gap",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Costs: Labour Supply Gap",
+    "text": "Child Care Costs: Labour Supply Gap\n\n\n\n\nCreates gap in labour supply schedule:\n\nPerson who works will work minimum of \\(H_0 = T - L_0\\) hours\nNot worth working less due to large child care costs\n\nResult:\nLabour supply schedule jumps from zero to \\(H_0\\) hours"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#child-care-subsidies-effects",
+    "href": "slides/lsupply2/CopyOfindex.html#child-care-subsidies-effects",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Subsidies: Effects",
+    "text": "Child Care Subsidies: Effects\nA full subsidy (costs → zero) would:\n\nMove budget line up in parallel\nReduce reservation wage\n\nLower barrier → encourages participation\nEspecially encourages part-time work\n\nCreate positive income effect\n\nIncreases consumption of leisure\nReduces work hours"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#evidence-quebecs-5day-program",
+    "href": "slides/lsupply2/CopyOfindex.html#evidence-quebecs-5day-program",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence: Quebec’s $5/Day Program",
+    "text": "Evidence: Quebec’s $5/Day Program\nProgram details:\n\nImplemented in 2000\nCurrently sliding scale: $8.25 to $21.45\n\n\nResearch design:\n\nDifference-in-differences approach\nCompared Quebec mothers to mothers in other provinces\nOther provinces = control group\n\n\n\nResults:\n\nLabour force participation of mothers with young children ↑ 7.7 percentage points\nBut: negative effects on child mental health, non-cognitive behaviour, crime later in life"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#evidence-visual-summary",
+    "href": "slides/lsupply2/CopyOfindex.html#evidence-visual-summary",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence: Visual Summary",
+    "text": "Evidence: Visual Summary\n\nSource: Fortin (2019)"
+  },
+  {
+    "objectID": "slides/lsupply2/CopyOfindex.html#key-takeaways",
+    "href": "slides/lsupply2/CopyOfindex.html#key-takeaways",
+    "title": "EC306 - Wages and Employment",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\nIncome maintenance programs:\n\nProvide crucial income support to various groups\nCan create work disincentives in some cases\nMust balance support needs against incentive effects\n\n\nWe examined several programs through the labour supply model:\n\nDemogrants, welfare, NIT, wage subsidies, tax credits\nEmployment insurance\nDisability and workers compensation\nChild care subsidies\n\n\n\nNext: Labour supply over the life cycle"
   },
   {
     "objectID": "slides/lmarket/index.html#goals-of-this-section-1",
@@ -1916,6 +2350,18 @@
     ]
   },
   {
+    "objectID": "content/introtolme.html#additional-information",
+    "href": "content/introtolme.html#additional-information",
+    "title": "Introduction to Labour Market Economics",
+    "section": "Additional Information",
+    "text": "Additional Information\n\nAs I discussed in class, this paper by David Autor is a nice non-technical disscussion about the labour market effects of automation:",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
     "objectID": "content/ldemand1.html",
     "href": "content/ldemand1.html",
     "title": "Labour Demand 1: Competitive Labour Markets",
@@ -1969,21 +2415,36 @@
     "href": "content/lsupply2.html",
     "title": "Labour Supply 2: Labour Supply and Public Policy",
     "section": "",
-    "text": "BGLRS Chapter 3"
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
   },
   {
     "objectID": "content/lsupply2.html#readings",
     "href": "content/lsupply2.html#readings",
     "title": "Labour Supply 2: Labour Supply and Public Policy",
     "section": "",
-    "text": "BGLRS Chapter 3"
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
   },
   {
     "objectID": "content/lsupply2.html#slides",
     "href": "content/lsupply2.html#slides",
     "title": "Labour Supply 2: Labour Supply and Public Policy",
     "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF."
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
   },
   {
     "objectID": "index.html",
@@ -3456,6 +3917,335 @@
     "text": "Summary\n\nWe have explored the labour-leisure model for labour supply\nThe model is based on utility maximization subject to a budget constraint\nThe model can explain both participation and work hours decisions\nChanges in non-labour income and the wage affect work decisions\nThe labour supply curve can be backward bending\nThe model can be used to analyze various situations faced by workers\n\nAdded worker effects\nDiscouraged workers\nMoonlighting\nOvertime\n\nNext chapter we will analyze government policy within this model"
   },
   {
+    "objectID": "slides/lsupply2/index copy.html#goals-of-this-section-1",
+    "href": "slides/lsupply2/index copy.html#goals-of-this-section-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDiscuss various public policies that affect labour supply\n\nTaxes/subsidies\nTransfers\nEmployment Insurance\nWorker Compensation\n\nShow effect of these policies on work decisions\nExamine statistical evidence for the model predictions"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#overview-of-income-maintenance-programs",
+    "href": "slides/lsupply2/index copy.html#overview-of-income-maintenance-programs",
+    "title": "EC306 - Wages and Employment",
+    "section": "Overview of Income Maintenance Programs",
+    "text": "Overview of Income Maintenance Programs\n\nRepresent about 10% of GDP in Canada\n\nAim to\n\nRaise income of specific groups of people (e.g. parents, elderly)\nSupplement low wages\n\nInclude child benefits, employment insurance, social assistance, pensions\n\nKey challenge is balancing income support with work incentives"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#government-transfers-in-canada",
+    "href": "slides/lsupply2/index copy.html#government-transfers-in-canada",
+    "title": "EC306 - Wages and Employment",
+    "section": "Government Transfers in Canada",
+    "text": "Government Transfers in Canada\n\nIn 2017, 83% of families received some form of government transfer\n\nMajor programs:\n\nFederal Child Benefits (20.2%) – avg. $6,314\n\nEmployment Insurance (14.0%) – avg. $8,352\n\nSocial Assistance (11.3%) – avg. $8,367\n\nOld Age Security (25.1%) – avg. $8,566\n\nCanada/Quebec Pension Plan (32.4%) – avg. $10,092"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#issues-in-program-design",
+    "href": "slides/lsupply2/index copy.html#issues-in-program-design",
+    "title": "EC306 - Wages and Employment",
+    "section": "Issues in Program Design",
+    "text": "Issues in Program Design\n\nUniversal vs. Targeted Programs\n\nUniversal programs easy to implement, but expensive and flows to people not in need\nTargeted programs benefit only those in need, but can be costly to implement\n\nWork Disincentives\n\nSome programs that support income reduce the incentive to work\nExample: a welfare benefit that increases non-work income\n\nCan encourage people with preference for leisure to drop out of labour force\n\n\nPermanent vs. transitory income loss\n\nNeed different design for each situation\nTemporary layoff requires short-term support\nLong-term disability requires longer support and potentially more costs to reintegrate into workforce"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#introduction",
+    "href": "slides/lsupply2/index copy.html#introduction",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe first examine standard income support programs\nDemogrants\n\nA fixed payment to all individuals regardless of income or employment status\n\nWelfare\n\nLump-sum payment for non-workers, reduced dollar for dollar with earned income\n\nNegative Income Tax (NIT)\n\nA welfare payment that decreases at a lower rate than dollar for dollar with earned income\n\nWage Subsidies\n\nAn addition to the wage rate"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#demogrant",
+    "href": "slides/lsupply2/index copy.html#demogrant",
+    "title": "EC306 - Wages and Employment",
+    "section": "Demogrant",
+    "text": "Demogrant\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDemogrant is an unconditional lump sum income transfer\nShifts the budget line up by the amount \\(D\\)\nBecause wage does not change, this is a pure income effect\nIf leisure is a normal good, optimal leisure falls\nUnambiguously negative work incentive effects\n\nLeads to lower work hours\nCan also lead to non-participation"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#demogrant-1",
+    "href": "slides/lsupply2/index copy.html#demogrant-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Demogrant",
+    "text": "Demogrant\n\nUniversal Child Care Benefit (UCCB) is a Canadian policy similar to a demogrant\n\nPaid to families with children under 18\n$160/month for each child under 6\n$60/month for each child aged 6-17\nCanada Child Benefit (CCB) replaced UCCB, Canada Child Tax Benefit (CCTB) and National Child Benefit Supplement (NCBS) in 2016\n\nMore targeted to low and middle income families\n\n\nResearch (Schirle, 2015) shows that UCCB reduced labour supply of women with children under 6\n\nBy about 3.2 percentage points for low-educated married women"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#welfare",
+    "href": "slides/lsupply2/index copy.html#welfare",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare",
+    "text": "Welfare\n\nWelfare is a lump-sum payment to non-workers that is reduced dollar for dollar with earned income\n\nPeople do not really use the term welfare in Canada\nUsually called social assistance or income assistance\n\nThese programs have been criticized historically for negative work incentives\n\nCreates incentives for some not to work\nImportant to balance this against the need to provide income support"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#welfare-1",
+    "href": "slides/lsupply2/index copy.html#welfare-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare",
+    "text": "Welfare\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line is initially the black line\n\nLeisure optimized at \\(L_{0}\\) hours\n\nWith welfare benefit is initially red line, then black line after they intersect\n\nWelfare benefit \\(B\\) at zero hours of work\nBenefit reduced by one dollar for each one dollar earned\n\nLike a 100% tax on earned income\n\nIncome stays constant at welfare benefit until earned income exactly equals benefit\nAfter that, person earns wage \\(w_{0}\\) for each hour worked"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#welfare-2",
+    "href": "slides/lsupply2/index copy.html#welfare-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare",
+    "text": "Welfare\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFor some people welfare has no effect on work hours\nIn this graph, person is working \\(H_{0}\\) hours prior to benefit\nAfter benefit, still maximize utility at \\(H_{0}\\) hours\nHappens generally with people already working many hours"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#welfare-3",
+    "href": "slides/lsupply2/index copy.html#welfare-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare",
+    "text": "Welfare\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOthers may face work disincentive\nA person like the left graph would choose to work zero hours after the welfare benefit\nWould happen because\n\nWelfare benefit is generous\nIndividual puts high value on leisure\n\nThis is not an ideal effect of welfare programs"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#welfare-4",
+    "href": "slides/lsupply2/index copy.html#welfare-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare",
+    "text": "Welfare\n\nHow to combat work disincentive?\n\nReduce benefit level\n\nBut may not provide enough income support\n\nIncrease wages\n\nThrough minimum wages, subsidies, job training, unions\nCan be expensive, which might reduce labour demand\n\nChange preferences\n\nAlter personal feelings towards work/leisure\nHard to do\n\nNegative income tax\n\nReduce the tax back rate of extra earnings\nDiscussed in detail in a few slides"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#welfare-5",
+    "href": "slides/lsupply2/index copy.html#welfare-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Welfare",
+    "text": "Welfare\n\nSome evidence comes from a policy change in Quebec\nUntil 1989 welfare benefits for singles or couples with no kids was based on age\n\nUnder 30: $185/month\n30 and over: $507/month\n\nTurning 30 is associated with a big jump in welfare benefits\nCompared to 29 year olds, 30 year olds were\n\nSpending much longer on welfare\nLess likely to be employed"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#negative-income-tax",
+    "href": "slides/lsupply2/index copy.html#negative-income-tax",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nNegative Income Tax (NIT) is a welfare program where the benefit is reduced at a rate less than one dollar for each dollar earned\n\nFor example, a benefit of $10,000 that is reduced by 50 cents for each dollar earned\n\nIdea is to provide income support with fewer work disincentives\n\nBecause the benefit is reduced at a lower rate, there is still an incentive to work\n\nSame as a Guaranteed Annual Income (GAI) or Basic Income\n\nA minimum income level guaranteed by the government"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#negative-income-tax-1",
+    "href": "slides/lsupply2/index copy.html#negative-income-tax-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNegative Income Tax (NIT) has two components\n\nA benefit \\(B\\) at zero hours of work\nA tax rate \\(t\\) on earned income until earned income exactly equals benefit\n\nThis pivots the budget line up relative to pure welfare scheme\nIndividual will reduce work hours from \\(H_{0}\\) to \\(H_{1}\\)\nWork disincentive is less than pure welfare case\n\nThis person would drop out of the labour force with pure welfare, but still works some hours with NIT"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#negative-income-tax-2",
+    "href": "slides/lsupply2/index copy.html#negative-income-tax-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nIntroducing NIT has income and substitution effects\n\nIncome effects\n\nThe benefit increases non-labour income, so increases leisure\nThe tax has a negative income effect, so reduces leisure\nOn net, income effect of benefit will dominate\n\nSubstitution effect\n\nBecause of the tax rate, the effective wage is lower\nThis makes leisure relatively cheaper, which reduces work hours\n\n\nOverall effect on work hours is negative, but smaller than pure welfare case"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#negative-income-tax-3",
+    "href": "slides/lsupply2/index copy.html#negative-income-tax-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nMathematically, the budget constraint with the NIT is\n\n\\[\nC =\n\\begin{cases}\nwh + B - twh, & \\text{if } B - t wh \\geq 0 \\\\\nwh, & \\text{otherwise}\n\\end{cases}\n\\]\n\nSays that consumption is\n\nEarned income (\\(wh\\)) plus net benefit (\\(B - twh\\)) if net benefit is positive\nJust earned income (\\(wh\\)) if the benefit is zero or negative\n\nThe point at which the benefit is zero is called the break-even point\n\nOccurs when \\(wh = \\frac{B}{t}\\)"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#negative-income-tax-4",
+    "href": "slides/lsupply2/index copy.html#negative-income-tax-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nThe province of Manitoba implemented a NIT program called MINCOME in the 1970s\nRandomized controlled trial\n\nSome people were given NIT (treatment), others not (control)\nRandomly allocated to treatment and control groups\n\nConducted in the cities of Dauphin and Winnipeg\n\nDauphin is a small town, Winnipeg is a large city\nDauphin was saturated, meaning everyone got NIT\n\nThere were 7 treatments with different benefit levels and tax rates\nProgram was short lived, and ended in 1979 due to political changes"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#negative-income-tax-5",
+    "href": "slides/lsupply2/index copy.html#negative-income-tax-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nMINCOME Treatment Groups. Source: Wikipedia"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#negative-income-tax-6",
+    "href": "slides/lsupply2/index copy.html#negative-income-tax-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nResults show small decline in hours worked\n\nMainly by mothers of newborns and women in two-parent families\nNo significant decline for men\n\nBut significant improvements in health outcomes\n\nFewer hospitalizations and doctor visits\nEspecially for mental health and accidents\n\nIncrease in adolescents finishing high school"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#wage-subsidies",
+    "href": "slides/lsupply2/index copy.html#wage-subsidies",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies",
+    "text": "Wage Subsidies\n\nA wage subsidy is a payment to workers that increases their wage rate\n\nFor example, a subsidy of $5/hour increases a wage of $15/hour to $20/hour\n\nThis simply increases the wage rate\n\nBudget line pivots up\n\nThere are both income and substitution effects\n\nIncome effect increases leisure\nSubstitution effect decreases leisure\n\nOverall effect on work hours is ambiguous"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#wage-subsidies-1",
+    "href": "slides/lsupply2/index copy.html#wage-subsidies-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies",
+    "text": "Wage Subsidies\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line pivots up with wage subsidy\nGraph shows person working more with subsidy\nBut effect is ambiguous\n\nIncome and substitution effects work in opposite directions"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#wage-subsidies-2",
+    "href": "slides/lsupply2/index copy.html#wage-subsidies-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies",
+    "text": "Wage Subsidies\n\nWage subsidies have less negative work incentives than welfare or NIT\n\nBecause they do not reduce the effective wage rate\n\nBut they do not provide income support to non-workers\n\nSo may not help those in most need\n\nExamples of pure wages subsidies in Canada mostly go to employers\n\nUnclear if any of this gets passed on to workers"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#tax-credits",
+    "href": "slides/lsupply2/index copy.html#tax-credits",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\nIncome support is sometimes provided through the tax credits\nA tax credit reduces the amount of tax owed, and there are two types\n\nNon-refundable: can reduce tax owed to zero, but not below zero\nRefundable tax: can reduce tax owed below zero, resulting in a payment to the individual\n\nSome income maintenance programs are delivered through refundable tax credits\n\nCanada Worker Benefit (CWB) in Canada\nEarned Income Tax Credit (EITC) in the US\n\nThey have a similar structure to the following graph"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#tax-credits-1",
+    "href": "slides/lsupply2/index copy.html#tax-credits-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line shows program similar to CWB or EITC\nHas three segments\n\nPhase-in: subsidy proportional to earned income\nPlateau: maximum benefit\nPhase-out: benefit reduced with earned income\n\nHas elements of wage subsidy, demogrant, and NIT"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#tax-credits-2",
+    "href": "slides/lsupply2/index copy.html#tax-credits-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nPicture someone initially in middle range\nTax credit gives them maximum benefit\nActs like pure income effect\nIf leisure is a normal good, they will reduce work hours"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#tax-credits-3",
+    "href": "slides/lsupply2/index copy.html#tax-credits-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSomeone in the phase-in range will see an increase in the wage\nActs like a pure wage subsidy\nHas income and substitution effects that move in opposite directions\nEffect on hours is ambiguous"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#tax-credits-4",
+    "href": "slides/lsupply2/index copy.html#tax-credits-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFinally imagine someone in the phase-out range\nThis is like a negative income tax\nIncome and substitution effects both reduce work hours\nEffect on work is unambiguously negative"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#introduction-1",
+    "href": "slides/lsupply2/index copy.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nUnemployment insurance schemes create a safety net for workers who lose their job\n\nCollect income for a period while not working\n\nIn Canada, this is called Employment Insurance (EI)\n\nFunded by payroll taxes on employers and employees\n\nThe EI program has two main components\n\nRegular benefits for those unemployed through no fault of their own\nSpecial benefits for sickness, maternity, parental leave, caregiving\n\nFor regular benefits you could get\n\n55% of your average insurable weekly earnings, up to a maximum amount\nBenefits last between 14 and 45 weeks depending on unemployment rate and hours worked in last year"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#introduction-2",
+    "href": "slides/lsupply2/index copy.html#introduction-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe can analyze EI with the income-leisure diagram\nTo do this, simplify the program to have two parameters\n\nMust work 14 weeks in the year to qualify\nBenefit is 60% of weekly wage up to a maximum of 20 weeks\n\nPerson can therefore work up to 32 weeks in the year and get full benefits\n\nFor each week worked beyond 32, the lose benefits for that week\nBecause benefits are 60% of wage, this is like a 60% tax on earned income beyond 32 weeks\n\nCannot work and get EI simultaneously"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#ei-budget-constraint",
+    "href": "slides/lsupply2/index copy.html#ei-budget-constraint",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Budget Constraint",
+    "text": "EI Budget Constraint\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFirst 14 weeks are paid at usual wage \\(w_{0}\\)\nIf person consumes 20-38 weeks of leisure (works 14 to 32 weeks), gets 20 weeks of benefits\n\nBenefit is 60% of 20 weeks of wage, or \\(.6\\times 20 \\times w_{0}\\)\n\nLess than 20 weeks of leisure (more than 32 weeks of work) reduces amount of benefit week for week\n\nBenefits are paid at 60% of wage\nWork is paid at 100% of wage\nSo person keeps 40% of wage in this range"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#ei-optimum",
+    "href": "slides/lsupply2/index copy.html#ei-optimum",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Optimum",
+    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBehaviour depends on position on budget line\nA non-participant might start working to get the benefit\nHappens because large increase in non-labour income happens after 14 hours of work"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#ei-optimum-1",
+    "href": "slides/lsupply2/index copy.html#ei-optimum-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Optimum",
+    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn the middle portion of the budget line, the person is getting full benefits\nThis is like a pure income effect, so they will reduce work weeks"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#ei-optimum-2",
+    "href": "slides/lsupply2/index copy.html#ei-optimum-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Optimum",
+    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOn the left, it again acts like a negative income tax\nIncome and substitution effects both reduce work hours\nEffect on work is unambiguously negative"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#evidence-on-ei-and-labour-supply",
+    "href": "slides/lsupply2/index copy.html#evidence-on-ei-and-labour-supply",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence on EI and Labour Supply",
+    "text": "Evidence on EI and Labour Supply\n\nMaine vs New Brunswick\nInitially, had very similar employment insurance schemes\nLater, New Brunswick increased generosity of benefits relative to Maine\nAnalyze with a difference-in-differences approach\n\nCompare changes in labour supply in New Brunswick before and after change to Maine over same period\nMaine acts as a control group for the change in New Brunswick\n\nCannot look just at New Brunswick over time because other factors may be changing\nChanges in Maine over time capture and control for the change in these other factors"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#evidence-on-ei-and-labour-supply-1",
+    "href": "slides/lsupply2/index copy.html#evidence-on-ei-and-labour-supply-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence on EI and Labour Supply",
+    "text": "Evidence on EI and Labour Supply\n\nAnalysis finds\n\nHigher labour force participation in NB for marginally-attached workers\nLower hours for those with stronger attachments\n\nThis corresponds exactly to the model predictions\nHighlights work disincentive effects of income maintenance programs"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#introduction-3",
+    "href": "slides/lsupply2/index copy.html#introduction-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nDisability insurance and workers compensation provide income support to workers who are injured or become ill\n\nCan come from public and private sources\nPremiums usually paid by both employers and employees\n\nIn cases of sever injury or disability work incentives are not a concern\n\nPeople are unable to work\n\nIn others people may still be able to work"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#effect-of-a-disability-on-labour-supply",
+    "href": "slides/lsupply2/index copy.html#effect-of-a-disability-on-labour-supply",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of a Disability on Labour Supply",
+    "text": "Effect of a Disability on Labour Supply\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nInitially person chooses \\(L_{0}\\) leisure and works \\(H_{0}\\) hours\nIf they become injured but can still work, the might choose \\(L_{1}\\) leisure and work \\(H_{1}\\) hours\n\nNow on a lower, non-optimal indifference curve\n\nIf they become completely disabled, they choose \\(T\\) leisure and work zero hours\n\nOn an even lower indifference curve"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#effect-of-a-disability-on-labour-supply-1",
+    "href": "slides/lsupply2/index copy.html#effect-of-a-disability-on-labour-supply-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of a Disability on Labour Supply",
+    "text": "Effect of a Disability on Labour Supply\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA disability might also change their preferences\nIf work becomes more difficult, preferences would tilt towards leisure\n\nIndifference curve becomes steeper\nMRS increases at each point\nMore willing to give up consumption to get leisure\n\nEven if the person can still work unconstrained, they will choose more leisure\n\nPerson would go from \\(L_{0}\\) to \\(L_{2}\\)"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#introduction-4",
+    "href": "slides/lsupply2/index copy.html#introduction-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nChild care subsidies are payments to parents to help cover the cost of child care\nCanada is currently expanding child care subsidies\n\nGoal is to reduce average cost of child care to $10/day by 2026\nTo date more than half of provinces have a $10/day average\nIn some provinces, subsidy is very substantial\nComplicated because agreements must be reached with provinces\n\nQuebec has had a $10/day child care program since 1997\n\nProvides a useful case study of the effects of child care subsidies\n\nHere we study how this affects labour supply"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#child-care-costs",
+    "href": "slides/lsupply2/index copy.html#child-care-costs",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Costs",
+    "text": "Child Care Costs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nWith child care costs the budget line becomes discontinuous\n\nAt zero hours of work, it is red dot\nFor any amount of work, it drops down by the amount of child care costs\nThen is a straight line with slope equal to wage rate\n\nChild care costs increase reservation wage\n\nDue to costs, person needs higher wage to induce them to work\n\nIn this graph the person chooses not to work"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#child-care-costs-1",
+    "href": "slides/lsupply2/index copy.html#child-care-costs-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Costs",
+    "text": "Child Care Costs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA person working would choose more hours\nThis person has reservation wage above the wage rate with child car are costs, so works positive hours\nChild care costs act as a negative pure income effect\n\nChoose less leisure, more work\n\nMust work more to make up income loss from child care costs"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#child-care-costs-2",
+    "href": "slides/lsupply2/index copy.html#child-care-costs-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Costs",
+    "text": "Child Care Costs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nChild care costs create a gap in the labour supply schedule\nA person who chooses to work will work a minimum of \\(H_{0} = T- L_{0}\\) hours\n\nNot worth it to work less than this amount\nDue to large child care costs\n\nThis means labour supply schedule jumps from zero hours to \\(H_{0}\\) hours"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#child-care-subsidies-1",
+    "href": "slides/lsupply2/index copy.html#child-care-subsidies-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Child Care Subsidies",
+    "text": "Child Care Subsidies\n\nA child care subsidy reduces the cost of child care\nFor example, a full subsidy (driving costs to zero) would\n\nMove the budget line up in parallel\nReduce the reservation wage\n\nThe lower reservation wage would induce participation\n\nBecause barrier of child care is removed\nThis would encourage part time work in particular\n\nShift up in the budget line would reduce work hours\n\nPure positive income effect\nIncreases consumption of leisure, reduce work hours"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#evidence-on-child-care-subsidies",
+    "href": "slides/lsupply2/index copy.html#evidence-on-child-care-subsidies",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence on Child Care Subsidies",
+    "text": "Evidence on Child Care Subsidies\n\nQuebec implemented a $5/day child care program in 2000\n\nNow a sliding scale between $8.25 and $21.45 today\n\nResearchers used a difference in differences approach to analyze the effect\n\nCompared changes in labour supply of mothers in Quebec to those in other provinces over same period\nOther provinces act as a control group for changes in Quebec\n\nFound that labour force participation of mothers with young children increased by 7.7 percentage points\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#evidence-on-child-care-subsidies-1",
+    "href": "slides/lsupply2/index copy.html#evidence-on-child-care-subsidies-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence on Child Care Subsidies",
+    "text": "Evidence on Child Care Subsidies\n\nSource: Fortin (2019)"
+  },
+  {
+    "objectID": "slides/lsupply2/index copy.html#summary-1",
+    "href": "slides/lsupply2/index copy.html#summary-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\n\nIncome maintenance programs provide income support to various groups for various reasons\nSome of these programs can create work disincentives\n\nNeed to balance this against the need to provide income support\n\nWe examined several different programs that exist today with labour supply model\nIn next section, we look at labour supply over the life cycle"
+  },
+  {
     "objectID": "slides/lsupply3/index.html#goals-of-this-section-1",
     "href": "slides/lsupply3/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
@@ -3804,353 +4594,5 @@
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
     "text": "Summary\n\nLabour supply varies over the life cycle\n\nParticipation highest in prime working years\n\nA life cycle approach helps us understand these patterns\nDynamic life cycle models can analyze effects of wage changes\n\nPermanent unanticipated changes\nAnticipated future changes\nTemporary unanticipated changes\n\nHousehold production is an important part of labour supply decisions\n\nPeople allocate time between work, household production, and leisure\nChanges in prices of goods and time costs affect these choices\n\nFertility decisions are affected by income, prices, tastes, and technology\nRetirement decisions are affected by age, wealth, health, family, and pensions"
-  },
-  {
-    "objectID": "content/introtolme.html#additional-information",
-    "href": "content/introtolme.html#additional-information",
-    "title": "Introduction to Labour Market Economics",
-    "section": "Additional Information",
-    "text": "Additional Information\n\nAs I discussed in class, this paper by David Autor is a nice non-technical disscussion about the labour market effects of automation:",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#labour-supply-2-labour-supply-and-public-policy",
-    "href": "slides/lsupply2/index.html#labour-supply-2-labour-supply-and-public-policy",
-    "title": "EC306 - Wages and Employment",
-    "section": "Labour Supply 2: Labour Supply and Public Policy",
-    "text": "Labour Supply 2: Labour Supply and Public Policy\nEC306 - Wages and Employment\nJustin Smith\nWilfrid Laurier University\nFall 2025"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#four-standard-income-support-programs",
-    "href": "slides/lsupply2/index.html#four-standard-income-support-programs",
-    "title": "EC306 - Wages and Employment",
-    "section": "Four Standard Income Support Programs",
-    "text": "Four Standard Income Support Programs\nWe will examine four policy approaches:\n\nDemogrants - Fixed payment to all regardless of income/employment\nWelfare - Lump-sum payment for non-workers, reduced dollar-for-dollar with earnings\nNegative Income Tax (NIT) - Welfare payment that decreases at rate &lt; 100% with earnings\nWage Subsidies - Addition to the wage rate"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#demogrant-theory",
-    "href": "slides/lsupply2/index.html#demogrant-theory",
-    "title": "EC306 - Wages and Employment",
-    "section": "Demogrant: Theory",
-    "text": "Demogrant: Theory\n\n\n\n\nHow it works:\n\nUnconditional lump sum transfer \\(D\\)\nShifts budget line up parallel\nWage unchanged → pure income effect\n\nLabor supply impact:\n\nIf leisure is normal → optimal leisure rises\nReduces hours worked\nMay induce non-participation\n\n\n\n\n\n\n\n\n\nWork Incentive Effect\n\n\nUnambiguously negative"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#demogrant-canadian-example",
-    "href": "slides/lsupply2/index.html#demogrant-canadian-example",
-    "title": "EC306 - Wages and Employment",
-    "section": "Demogrant: Canadian Example",
-    "text": "Demogrant: Canadian Example\nUniversal Child Care Benefit (UCCB)\n\nPaid to families with children under 18\n\n$160/month per child under 6\n$60/month per child aged 6-17\n\nReplaced in 2016 by Canada Child Benefit (CCB)\n\nMore targeted to low/middle income families\n\n\n\n\n\n\n\n\n\nEvidence (Schirle, 2015)\n\n\nUCCB reduced labour supply of women with children under 6 by ~3.2 percentage points for low-educated married women"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#welfare-overview",
-    "href": "slides/lsupply2/index.html#welfare-overview",
-    "title": "EC306 - Wages and Employment",
-    "section": "Welfare: Overview",
-    "text": "Welfare: Overview\nWelfare = Social/Income Assistance in Canada\n\nLump-sum payment to non-workers\nReduced dollar-for-dollar with earned income\n\n\n\n\n\n\n\n\nHistorical Criticism\n\n\nCreates negative work incentives for some, but must balance against need for income support"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#welfare-budget-constraint",
-    "href": "slides/lsupply2/index.html#welfare-budget-constraint",
-    "title": "EC306 - Wages and Employment",
-    "section": "Welfare: Budget Constraint",
-    "text": "Welfare: Budget Constraint\n\n\n\n\nBudget line structure:\n\nBlack line: original budget (leisure at \\(L_0\\))\nRed then black: with welfare benefit \\(B\\)\n\nKey features:\n\nBenefit \\(B\\) at zero hours of work\nReduced $1 for each $1 earned\n\nEquivalent to 100% tax rate on earnings\n\nIncome constant at \\(B\\) until earned income equals benefit\nAfter that, earn wage \\(w_0\\) per hour worked"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#welfare-no-effect-case",
-    "href": "slides/lsupply2/index.html#welfare-no-effect-case",
-    "title": "EC306 - Wages and Employment",
-    "section": "Welfare: No Effect Case",
-    "text": "Welfare: No Effect Case\n\n\n\n\nFor some workers, welfare has no effect:\n\nPerson working \\(H_0\\) hours before benefit\nStill maximizes utility at \\(H_0\\) hours after\nGenerally occurs with people already working many hours"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#welfare-work-disincentive-case",
-    "href": "slides/lsupply2/index.html#welfare-work-disincentive-case",
-    "title": "EC306 - Wages and Employment",
-    "section": "Welfare: Work Disincentive Case",
-    "text": "Welfare: Work Disincentive Case\n\n\n\n\nOthers face strong work disincentive:\n\nPerson chooses zero hours after welfare benefit\n\nThis occurs when:\n\nWelfare benefit is generous\nIndividual places high value on leisure\n\n\n\n\n\n\n\n\n\nWarning\n\n\nThis is the problematic effect of welfare programs"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#combating-work-disincentives",
-    "href": "slides/lsupply2/index.html#combating-work-disincentives",
-    "title": "EC306 - Wages and Employment",
-    "section": "Combating Work Disincentives",
-    "text": "Combating Work Disincentives\nPolicy options:\n\n\n\nReduce benefit level\n\nBut may not provide adequate support\n\nIncrease wages\n\nThrough minimum wages, subsidies, training, unions\nCan be expensive and may reduce labour demand\n\n\n\n\nChange preferences\n\nAlter attitudes toward work/leisure\nDifficult to achieve\n\nNegative income tax\n\nReduce tax-back rate on earnings\nDiscussed next…"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#welfare-evidence-from-quebec",
-    "href": "slides/lsupply2/index.html#welfare-evidence-from-quebec",
-    "title": "EC306 - Wages and Employment",
-    "section": "Welfare: Evidence from Quebec",
-    "text": "Welfare: Evidence from Quebec\nNatural experiment: Welfare benefit structure changed in 1989\n\n\nBefore 1989:\n\nAge-based benefits for singles/couples with no kids\nUnder 30: $185/month\n30 and over: $507/month\n\n\nResults at age 30:\n\nMuch longer time on welfare\nLower employment rates\n\n\n\n\n\n\n\n\n\nNote\n\n\nTurning 30 created a large discontinuous jump in benefits"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-overview",
-    "href": "slides/lsupply2/index.html#negative-income-tax-overview",
-    "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax: Overview",
-    "text": "Negative Income Tax: Overview\nWhat is NIT?\n\nWelfare program where benefit reduced at rate &lt; 100% of earnings\nExample: $10,000 benefit reduced by 50¢ per dollar earned\n\n\n\n\n\n\n\n\nAdvantages\n\n\nProvides income support with fewer work disincentives. Still maintains incentive to work since benefit reduces slowly.\n\n\n\n\n\nAlso known as: Guaranteed Annual Income (GAI) or Basic Income"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-budget-constraint",
-    "href": "slides/lsupply2/index.html#negative-income-tax-budget-constraint",
-    "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax: Budget Constraint",
-    "text": "Negative Income Tax: Budget Constraint\n\n\n\n\nNIT has two components:\n\nBenefit \\(B\\) at zero hours of work\nTax rate \\(t\\) on earned income (until earned income equals benefit)\n\nEffect on labour supply:\n\nPivots budget line up vs. pure welfare\nWork hours reduced from \\(H_0\\) to \\(H_1\\)\nPerson still works some hours\n\n\n\n\n\n\n\n\n\nImportant\n\n\nWork disincentive less than pure welfare"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-income-and-substitution-effects",
-    "href": "slides/lsupply2/index.html#negative-income-tax-income-and-substitution-effects",
-    "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax: Income and Substitution Effects",
-    "text": "Negative Income Tax: Income and Substitution Effects\nIncome effects:\n\nBenefit increases non-labour income → increases leisure ↑\nTax has negative income effect → reduces leisure ↓\nNet: benefit effect dominates → leisure ↑\n\n\nSubstitution effect:\n\nTax rate reduces effective wage\nMakes leisure relatively cheaper → reduces work hours ↓\n\n\n\n\n\n\n\n\n\nOverall Effect\n\n\nNegative effect on work hours, but smaller than pure welfare"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#negative-income-tax-math",
-    "href": "slides/lsupply2/index.html#negative-income-tax-math",
-    "title": "EC306 - Wages and Employment",
-    "section": "Negative Income Tax: Math",
-    "text": "Negative Income Tax: Math\nThe budget constraint with NIT:\n\\[\nC =\n\\begin{cases}\nwh + B - twh, & \\text{if } B - t wh \\geq 0 \\\\\nwh, & \\text{otherwise}\n\\end{cases}\n\\]\n\nInterpretation:\n\nConsumption = earned income (\\(wh\\)) + net benefit (\\(B - twh\\)) if net benefit &gt; 0\nOtherwise just earned income (\\(wh\\))\n\n\n\nBreak-even point: benefit reaches zero when \\(wh = \\frac{B}{t}\\)"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#mincome-manitobas-nit-experiment",
-    "href": "slides/lsupply2/index.html#mincome-manitobas-nit-experiment",
-    "title": "EC306 - Wages and Employment",
-    "section": "MINCOME: Manitoba’s NIT Experiment",
-    "text": "MINCOME: Manitoba’s NIT Experiment\nProgram details (1970s):\n\nRandomized controlled trial\n\nTreatment group received NIT\nControl group did not\n\nConducted in Dauphin (saturated - everyone got NIT) and Winnipeg\n7 treatment groups with different benefit levels and tax rates\nEnded in 1979 due to political changes"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#mincome-treatment-groups",
-    "href": "slides/lsupply2/index.html#mincome-treatment-groups",
-    "title": "EC306 - Wages and Employment",
-    "section": "MINCOME Treatment Groups",
-    "text": "MINCOME Treatment Groups\n\nSource: Wikipedia"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#mincome-results",
-    "href": "slides/lsupply2/index.html#mincome-results",
-    "title": "EC306 - Wages and Employment",
-    "section": "MINCOME: Results",
-    "text": "MINCOME: Results\n\n\nLabour supply effects:\n\nSmall decline in hours worked\n\nMainly mothers of newborns\nWomen in two-parent families\nNo significant decline for men\n\n\n\nHealth outcomes:\n\nFewer hospitalizations and doctor visits\nEspecially for mental health and accidents\n\n\nEducation:\n\nIncrease in adolescents finishing high school"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#wage-subsidies-theory",
-    "href": "slides/lsupply2/index.html#wage-subsidies-theory",
-    "title": "EC306 - Wages and Employment",
-    "section": "Wage Subsidies: Theory",
-    "text": "Wage Subsidies: Theory\nWhat is a wage subsidy?\n\nPayment to workers that increases their wage rate\nExample: $5/hour subsidy increases $15/hour wage to $20/hour\n\n\nEffect on budget constraint:\n\nBudget line pivots upward\n\n\n\nLabour supply effects:\n\n\n\nIncome effect → increases leisure ↑\n\n\n\nSubstitution effect → decreases leisure ↓\n\n\n\n\n\n\n\n\nWarning\n\n\nOverall effect on work hours is ambiguous"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#wage-subsidies-diagram",
-    "href": "slides/lsupply2/index.html#wage-subsidies-diagram",
-    "title": "EC306 - Wages and Employment",
-    "section": "Wage Subsidies: Diagram",
-    "text": "Wage Subsidies: Diagram\n\n\n\n\nBudget line pivots up with subsidy\n\nGraph shows person working more\nBut effect is theoretically ambiguous\nIncome and substitution effects work in opposite directions"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#wage-subsidies-policy-implications",
-    "href": "slides/lsupply2/index.html#wage-subsidies-policy-implications",
-    "title": "EC306 - Wages and Employment",
-    "section": "Wage Subsidies: Policy Implications",
-    "text": "Wage Subsidies: Policy Implications\n\n\n\n\n\n\n\n\nAdvantages\n\n\n\nLess negative work incentives than welfare or NIT\nNo reduction in effective wage rate\n\n\n\n\n\n\n\n\n\n\n\nDisadvantages\n\n\n\nDo not provide income support to non-workers\nMay not help those in most need\n\n\n\n\n\n\nIn Canada:\n\nPure wage subsidies mostly go to employers\nUnclear if any benefits passed on to workers"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#tax-credits-overview",
-    "href": "slides/lsupply2/index.html#tax-credits-overview",
-    "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits: Overview",
-    "text": "Tax Credits: Overview\nTwo types of tax credits:\n\nNon-refundable: Can reduce tax owed to zero (but not below)\nRefundable: Can reduce tax owed below zero (results in payment)\n\n\n\n\n\n\n\n\nIncome Maintenance Programs via Refundable Tax Credits\n\n\n\nCanada Worker Benefit (CWB) - Canada\nEarned Income Tax Credit (EITC) - US"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#tax-credits-budget-constraint",
-    "href": "slides/lsupply2/index.html#tax-credits-budget-constraint",
-    "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits: Budget Constraint",
-    "text": "Tax Credits: Budget Constraint\n\n\n\n\nThree segments:\n\nPhase-in: Subsidy proportional to earned income\nPlateau: Maximum benefit level\nPhase-out: Benefit reduced with earned income\n\nCombines elements of:\n\nWage subsidy (phase-in)\nDemogrant (plateau)\nNIT (phase-out)"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#tax-credits-effect-in-plateau-range",
-    "href": "slides/lsupply2/index.html#tax-credits-effect-in-plateau-range",
-    "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits: Effect in Plateau Range",
-    "text": "Tax Credits: Effect in Plateau Range\n\n\n\n\nPerson initially in middle range:\n\nTax credit gives maximum benefit\nActs like pure income effect\nIf leisure is normal good → reduce work hours"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#tax-credits-effect-in-phase-in-range",
-    "href": "slides/lsupply2/index.html#tax-credits-effect-in-phase-in-range",
-    "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits: Effect in Phase-In Range",
-    "text": "Tax Credits: Effect in Phase-In Range\n\n\n\n\nPerson in phase-in range:\n\nSees increase in effective wage\nActs like pure wage subsidy\nIncome and substitution effects in opposite directions\n\n\n\n\n\n\n\n\n\nWarning\n\n\nEffect on hours is ambiguous"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#tax-credits-effect-in-phase-out-range",
-    "href": "slides/lsupply2/index.html#tax-credits-effect-in-phase-out-range",
-    "title": "EC306 - Wages and Employment",
-    "section": "Tax Credits: Effect in Phase-Out Range",
-    "text": "Tax Credits: Effect in Phase-Out Range\n\n\n\n\nPerson in phase-out range:\n\nSimilar to negative income tax\nIncome effect → reduce hours ↓\nSubstitution effect → reduce hours ↓\n\n\n\n\n\n\n\n\n\nImportant\n\n\nEffect on work is unambiguously negative"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#employment-insurance-overview",
-    "href": "slides/lsupply2/index.html#employment-insurance-overview",
-    "title": "EC306 - Wages and Employment",
-    "section": "Employment Insurance: Overview",
-    "text": "Employment Insurance: Overview\nPurpose:\n\nSafety net for workers who lose their job\nCollect income while unemployed\n\n\nFunding:\n\nPayroll taxes on employers and employees\n\n\n\nTwo main components:\n\nRegular benefits - for those unemployed through no fault of their own\nSpecial benefits - sickness, maternity, parental leave, caregiving"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#employment-insurance-benefits",
-    "href": "slides/lsupply2/index.html#employment-insurance-benefits",
-    "title": "EC306 - Wages and Employment",
-    "section": "Employment Insurance: Benefits",
-    "text": "Employment Insurance: Benefits\n\n\n\n\n\n\nRegular Benefits Structure\n\n\n\n55% of average insurable weekly earnings\nUp to a maximum amount\nDuration: 14 to 45 weeks\n\nDepends on unemployment rate and hours worked in last year"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#ei-simplified-model-parameters",
-    "href": "slides/lsupply2/index.html#ei-simplified-model-parameters",
-    "title": "EC306 - Wages and Employment",
-    "section": "EI: Simplified Model Parameters",
-    "text": "EI: Simplified Model Parameters\nTo analyze with income-leisure diagram:\n\nMust work 14 weeks in the year to qualify\nBenefit is 60% of weekly wage\nMaximum of 20 weeks of benefits\nCan work up to 32 weeks and get full benefits\nEach week worked beyond 32 → lose benefits for that week\n60% benefit = 60% tax on earnings beyond 32 weeks\nCannot work and collect EI simultaneously"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#ei-effect-on-non-participants",
-    "href": "slides/lsupply2/index.html#ei-effect-on-non-participants",
-    "title": "EC306 - Wages and Employment",
-    "section": "EI: Effect on Non-Participants",
-    "text": "EI: Effect on Non-Participants\n\n\n\n\n\n\n\n\n\n\nEffect on Non-Workers\n\n\nA non-participant might start working due to large increase in non-labour income after 14 hours of work. Induces labour force entry."
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#ei-effect-in-middle-range",
-    "href": "slides/lsupply2/index.html#ei-effect-in-middle-range",
-    "title": "EC306 - Wages and Employment",
-    "section": "EI: Effect in Middle Range",
-    "text": "EI: Effect in Middle Range\n\n\n\n\nPerson getting full benefits:\n\nActs like pure income effect\nWill reduce work weeks"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#ei-effect-on-high-hour-workers",
-    "href": "slides/lsupply2/index.html#ei-effect-on-high-hour-workers",
-    "title": "EC306 - Wages and Employment",
-    "section": "EI: Effect on High-Hour Workers",
-    "text": "EI: Effect on High-Hour Workers\n\n\n\n\nIn phase-out range:\n\nActs like negative income tax\nIncome effect → reduce hours ↓\nSubstitution effect → reduce hours ↓\n\n\n\n\n\n\n\n\n\nImportant\n\n\nEffect unambiguously negative"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick",
-    "href": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick",
-    "title": "EC306 - Wages and Employment",
-    "section": "Evidence: Maine vs. New Brunswick",
-    "text": "Evidence: Maine vs. New Brunswick\nNatural experiment:\n\nInitially had very similar EI schemes\nLater, New Brunswick increased benefit generosity relative to Maine\nDifference-in-differences approach:\n\nCompare changes in NB before/after to Maine over same period\nMaine acts as control group\nControls for other time-varying factors"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick-results",
-    "href": "slides/lsupply2/index.html#evidence-maine-vs.-new-brunswick-results",
-    "title": "EC306 - Wages and Employment",
-    "section": "Evidence: Maine vs. New Brunswick Results",
-    "text": "Evidence: Maine vs. New Brunswick Results\n\n\nNew Brunswick experienced:\n\nHigher labour force participation for marginally-attached workers\nLower hours for those with stronger attachments\n\n\n\n\n\n\n\n\nInterpretation\n\n\n\nCorresponds exactly to model predictions\nHighlights work disincentive effects of income maintenance programs"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#effect-of-disability-on-labour-supply",
-    "href": "slides/lsupply2/index.html#effect-of-disability-on-labour-supply",
-    "title": "EC306 - Wages and Employment",
-    "section": "Effect of Disability on Labour Supply",
-    "text": "Effect of Disability on Labour Supply\n\n\n\n\nThree scenarios:\n\nInitially: Choose \\(L_0\\) leisure, work \\(H_0\\) hours\nInjured but can work: Choose \\(L_1\\) leisure, work \\(H_1\\) hours\n\nLower (non-optimal) indifference curve\n\nCompletely disabled: Choose \\(T\\) leisure, zero work\n\nEven lower indifference curve"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#disability-and-preferences",
-    "href": "slides/lsupply2/index.html#disability-and-preferences",
-    "title": "EC306 - Wages and Employment",
-    "section": "Disability and Preferences",
-    "text": "Disability and Preferences\n\n\n\n\nDisability may change preferences:\n\nWork becomes more difficult\nPreferences tilt toward leisure\nIndifference curve becomes steeper\nMRS increases at each point\nMore willing to give up consumption for leisure\n\n. . .\nResult:\n\nEven if unconstrained, choose more leisure\nPerson moves from \\(L_0\\) to \\(L_2\\)"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#compensation-schemes",
-    "href": "slides/lsupply2/index.html#compensation-schemes",
-    "title": "EC306 - Wages and Employment",
-    "section": "Compensation Schemes",
-    "text": "Compensation Schemes\nTypical disability insurance structure:\n\nPays a fraction of previous earnings\n\n\n\n\n\n\n\n\nExample: Ontario WSIB\n\n\n\n85% of net earnings (up to maximum)\nLasts until return to work or age 65\n\n\n\n\n\n\nTwo schemes we’ll examine:\n\nTwo-thirds income replacement\nFull income replacement"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#two-thirds-compensation",
-    "href": "slides/lsupply2/index.html#two-thirds-compensation",
-    "title": "EC306 - Wages and Employment",
-    "section": "Two-Thirds Compensation",
-    "text": "Two-Thirds Compensation\n\n\n\n\nLooks like negative income tax:\n\nAt zero hours: get 2/3 of previous income\nFor each hour worked:\n\nGain full wage\nLose 2/3 of wage in benefits\nKeep 1/3 of wage\n\n\n. . .\nFor workers with flexible hours:\n\nEffects match NIT\nNegative effect on hours worked"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#restricted-hours-generous-compensation",
-    "href": "slides/lsupply2/index.html#restricted-hours-generous-compensation",
-    "title": "EC306 - Wages and Employment",
-    "section": "Restricted Hours: Generous Compensation",
-    "text": "Restricted Hours: Generous Compensation\n\n\n\n\nWhat if worker can only work \\(H_0\\) hours or zero?\n\nIf scheme generous enough → choose zero hours\nUtility at zero hours &gt; utility at \\(H_0\\) hours\n\n\n\n\n\n\n\n\n\nImplication\n\n\nStrong work disincentives of generous scheme"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#no-compensation-case",
-    "href": "slides/lsupply2/index.html#no-compensation-case",
-    "title": "EC306 - Wages and Employment",
-    "section": "No Compensation Case",
-    "text": "No Compensation Case\n\n\n\n\n\n\n\n\n\n\nNot Providing Compensation is Problematic\n\n\n\nPerson who can work chooses \\(H_0\\) hours\nPerson who cannot work gets lower utility\nEnd up substantially worse off"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#medical-expenses-case",
-    "href": "slides/lsupply2/index.html#medical-expenses-case",
-    "title": "EC306 - Wages and Employment",
-    "section": "Medical Expenses Case",
-    "text": "Medical Expenses Case\n\n\n\n\nMedical expenses worsen situation:\n\nAct like reduction in non-labour income\nIf large enough, non-labour income could go negative\nOccurs with no/very low compensation\n\nThis is an extreme scenario"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#optimal-compensation-level",
-    "href": "slides/lsupply2/index.html#optimal-compensation-level",
-    "title": "EC306 - Wages and Employment",
-    "section": "Optimal Compensation Level",
-    "text": "Optimal Compensation Level\n\n\n\n\nHow much to compensate non-workers?\nTwo options:\n\nFull income replacement\n\nHigher indifference curve (\\(U_1\\)) than working\n\nSame satisfaction as working\n\nSame indifference curve as working\nLower compensation (\\(Y_p\\))\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThe optimal level is a policy question"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#child-care-costs-non-working-case",
-    "href": "slides/lsupply2/index.html#child-care-costs-non-working-case",
-    "title": "EC306 - Wages and Employment",
-    "section": "Child Care Costs: Non-Working Case",
-    "text": "Child Care Costs: Non-Working Case\n\n\n\n\nBudget line becomes discontinuous:\n\nAt zero hours: red dot\nFor any work: drops by child care costs\nThen straight line with slope = wage\n\n. . .\nEffect:\n\nChild care costs increase reservation wage\nNeed higher wage to induce work\nThis person chooses not to work"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#child-care-costs-working-case",
-    "href": "slides/lsupply2/index.html#child-care-costs-working-case",
-    "title": "EC306 - Wages and Employment",
-    "section": "Child Care Costs: Working Case",
-    "text": "Child Care Costs: Working Case\n\n\n\n\nPerson with reservation wage above wage + costs:\n\nWorks positive hours\nChild care costs = negative pure income effect\nChoose less leisure, more work\nMust work more to offset income loss"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#child-care-costs-labour-supply-gap",
-    "href": "slides/lsupply2/index.html#child-care-costs-labour-supply-gap",
-    "title": "EC306 - Wages and Employment",
-    "section": "Child Care Costs: Labour Supply Gap",
-    "text": "Child Care Costs: Labour Supply Gap\n\n\n\n\n\n\n\n\n\n\nCreates Gap in Labour Supply Schedule\n\n\n\nPerson who works will work minimum of \\(H_0 = T - L_0\\) hours\nNot worth working less due to large child care costs\nLabour supply schedule jumps from zero to \\(H_0\\) hours"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#child-care-subsidies-effects",
-    "href": "slides/lsupply2/index.html#child-care-subsidies-effects",
-    "title": "EC306 - Wages and Employment",
-    "section": "Child Care Subsidies: Effects",
-    "text": "Child Care Subsidies: Effects\nA full subsidy (costs → zero) would:\n\nMove budget line up in parallel\nReduce reservation wage\n\nLower barrier → encourages participation\nEspecially encourages part-time work\n\nCreate positive income effect\n\nIncreases consumption of leisure\nReduces work hours"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#evidence-quebecs-5day-program",
-    "href": "slides/lsupply2/index.html#evidence-quebecs-5day-program",
-    "title": "EC306 - Wages and Employment",
-    "section": "Evidence: Quebec’s $5/Day Program",
-    "text": "Evidence: Quebec’s $5/Day Program\n\n\nProgram details:\n\nImplemented in 2000\nCurrently sliding scale: $8.25 to $21.45\n\n\nResearch design:\n\nDifference-in-differences approach\nCompared Quebec mothers to mothers in other provinces\nOther provinces = control group\n\n\n\n\n\n\n\n\nKey Finding\n\n\nLabour force participation of mothers with young children ↑ 7.7 percentage points\n\n\n\n\n\n\n\n\n\nWarning\n\n\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#evidence-visual-summary",
-    "href": "slides/lsupply2/index.html#evidence-visual-summary",
-    "title": "EC306 - Wages and Employment",
-    "section": "Evidence: Visual Summary",
-    "text": "Evidence: Visual Summary\n\nSource: Fortin (2019)"
-  },
-  {
-    "objectID": "slides/lsupply2/index.html#key-takeaways",
-    "href": "slides/lsupply2/index.html#key-takeaways",
-    "title": "EC306 - Wages and Employment",
-    "section": "Key Takeaways",
-    "text": "Key Takeaways\nIncome maintenance programs:\n\nProvide crucial income support to various groups\nCan create work disincentives in some cases\nMust balance support needs against incentive effects\n\n\nWe examined several programs through the labour supply model:\n\nDemogrants, welfare, NIT, wage subsidies, tax credits\nEmployment insurance\nDisability and workers compensation\nChild care subsidies"
   }
 ]
