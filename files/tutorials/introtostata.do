@@ -1,4 +1,4 @@
-************INTRODUCTION TO STATA - EC306 - FALL 2025***************************
+************INTRODUCTION TO STATA - EC306 - WINTER 2026*************************
 
 
 **Preamble;
@@ -40,7 +40,7 @@
 	is stored in the windows finder, and then copy the path from the address
 	bar at the top and paste it in place of the XXX below;
 
-		cd "C:\Users\jusmith\OneDrive - Wilfrid Laurier University\Teaching\EC306";
+		cd "XXX";
 
 		
 **Logging Output;
