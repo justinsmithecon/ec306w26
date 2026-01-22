@@ -40,8 +40,8 @@ website:
               file: content/lsupply1.qmd  
             - text: "Labour Supply 2: Labour Supply and Public Policy"
               file: content/lsupply2.qmd   
-#            - text: "Introduction to Stata"
-#              file: content/introtostata.qmd
+            - text: "Introduction to Stata"
+              file: content/introtostata.qmd
 #            - text: "Labour Supply 3: Labour Supply Over the Life Cycle"
 #              file: content/lsupply3.qmd   
 #            - text: "Labour Demand 1: Competitive Labour Markets"

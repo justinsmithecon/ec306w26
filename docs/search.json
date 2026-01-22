@@ -2182,28 +2182,48 @@
     "href": "content/introtostata.html",
     "title": "Introduction to Stata",
     "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do"
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
   },
   {
     "objectID": "content/introtostata.html#tutorial",
     "href": "content/introtostata.html#tutorial",
     "title": "Introduction to Stata",
     "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do"
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
   },
   {
     "objectID": "content/introtostata.html#videos",
     "href": "content/introtostata.html#videos",
     "title": "Introduction to Stata",
     "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for."
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
   },
   {
     "objectID": "content/introtostata.html#other-resources",
     "href": "content/introtostata.html#other-resources",
     "title": "Introduction to Stata",
     "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them."
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
   },
   {
     "objectID": "content/index.html",
