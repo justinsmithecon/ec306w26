@@ -23,7 +23,7 @@ editor: visual
 
 <h2>Wilfrid Laurier University</h2>
 
-<h2>Fall 2025</h2>
+<h2>Winter 2026</h2>
 
 ![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
 
@@ -334,7 +334,7 @@ $$
 
 -   Like previous models, we can examine effects of wage changes
 
-- There are three types
+-   There are three types
 
     -   A permanent unanticipated change in the wage in all periods
     -   An anticipated future change in the wage
@@ -358,19 +358,17 @@ $$
 ::: {.column width="50%"}
 -   Consider first a permanent, unanticipated change in the wage
 
-    - Increases wage in all periods
-    - Shifts wage schedule up
-    
-- Higher wage has two effects
+    -   Increases wage in all periods
+    -   Shifts wage schedule up
 
-    - Income effect: higher wage means higher lifetime income, so person consumes more leisure (less work)
-    - Substitution effect: higher wage means leisure is more expensive, so person consumes less leisure (more work)
-    
-- Labour supply effect is ambiguous
+-   Higher wage has two effects
 
+    -   Income effect: higher wage means higher lifetime income, so person consumes more leisure (less work)
+    -   Substitution effect: higher wage means leisure is more expensive, so person consumes less leisure (more work)
+
+-   Labour supply effect is ambiguous
 :::
 ::::::
-
 
 ## Anticipated Wage Change
 
@@ -384,20 +382,18 @@ $$
 ::: {.column width="50%"}
 -   An anticipated wage change moves person along their wage schedule
 
-- There is no income effect in this case
+-   There is no income effect in this case
 
-  - Person optimized over their lifetime income
-  - Lifetime income has not changed
-  
-- The substitution effect shifts leisure towards periods where wage is lower
+    -   Person optimized over their lifetime income
+    -   Lifetime income has not changed
 
-  - If wage is higher in period 2, leisure is more expensive in period 2
-  - Less leisure in period 2 and more in period 1
-  - Person works more in period 2 and less in period 1
+-   The substitution effect shifts leisure towards periods where wage is lower
 
+    -   If wage is higher in period 2, leisure is more expensive in period 2
+    -   Less leisure in period 2 and more in period 1
+    -   Person works more in period 2 and less in period 1
 :::
 ::::::
-
 
 ## Temporary Unanticipated Wage Change
 
@@ -411,532 +407,513 @@ $$
 ::: {.column width="50%"}
 -   A temporary unanticipated wage change alters wage for one period (or a small number of them) only
 
-    - e.g. bonus pay, overtime pay
+    -   e.g. bonus pay, overtime pay
 
-- Creates a temporary blip upward in wage schedule
+-   Creates a temporary blip upward in wage schedule
 
-- Two effects
+-   Two effects
 
-    - Small Income effect: slightly higher lifetime income, so person consumes more leisure (less work)
-    - Substitution effect: leisure is more expensive in the period with the higher wage, so person consumes less leisure (more work)
-
+    -   Small Income effect: slightly higher lifetime income, so person consumes more leisure (less work)
+    -   Substitution effect: leisure is more expensive in the period with the higher wage, so person consumes less leisure (more work)
 :::
 ::::::
 
 ## Comparing Effects of Wage Changes
 
-- Strongest effect on labour supply is the anticipated wage change
+-   Strongest effect on labour supply is the anticipated wage change
 
     -   Pure substitution effect
-    - No offsetting income effect
+    -   No offsetting income effect
 
-- Next strongest is the temporary unanticipated wage change
+-   Next strongest is the temporary unanticipated wage change
 
     -   Substitution effect
     -   Small income effect
-    -   Person works more in period with higher wage  
-    
-- Permanent unanticipated wage change has ambiguous effect
+    -   Person works more in period with higher wage
+
+-   Permanent unanticipated wage change has ambiguous effect
 
     -   Substitution effect
     -   Larger income effect
-    -   Ambiguous effect on labour supply    
-
+    -   Ambiguous effect on labour supply
 
 ## Evidence on Life Cycle Labour Supply
 
-- Interesting experiment on bike messengers in Zurich
+-   Interesting experiment on bike messengers in Zurich
 
-- Messengers paid a percentage of daily revenues
+-   Messengers paid a percentage of daily revenues
 
-- Can choose their own total work hours
+-   Can choose their own total work hours
 
-- Researchers randomly assigned messengers to
+-   Researchers randomly assigned messengers to
 
-    - 25% higher wage for one month in September of one year (group A)
-    - Others to 25% higher wage for one month in November of the same year (group B)
-    
-- Each acted as control group for the other
+    -   25% higher wage for one month in September of one year (group A)
+    -   Others to 25% higher wage for one month in November of the same year (group B)
 
-- Both get same increase in lifetime income, so difference is substitution effect
+-   Each acted as control group for the other
 
-- Showed messengers shift labour supply to periods with higher wage
+-   Both get same increase in lifetime income, so difference is substitution effect
 
-
+-   Showed messengers shift labour supply to periods with higher wage
 
 # Household Production
 
 ## Introduction
 
-- So far we assumed that people choose between consumption and leisure
+-   So far we assumed that people choose between consumption and leisure
 
-    - Leisure is time not working for pay
-    - Encompasses pure leisure, household production, and other non-market activities
-    
-- In reality, people also spend time on household production
+    -   Leisure is time not working for pay
+    -   Encompasses pure leisure, household production, and other non-market activities
 
-    - Cooking, cleaning, childcare, home maintenance, shopping, etc.
-    
-- Household production produces goods and services that can be consumed
+-   In reality, people also spend time on household production
 
-    - Meals, clean clothes, child supervision, etc.
-    
-- In this section we explicitly model household production
+    -   Cooking, cleaning, childcare, home maintenance, shopping, etc.
 
+-   Household production produces goods and services that can be consumed
+
+    -   Meals, clean clothes, child supervision, etc.
+
+-   In this section we explicitly model household production
 
 ## Model
 
-- Assume that people gain utility from the consumption of goods and services
-
+-   Assume that people gain utility from the consumption of goods and services
 
 $$u = f(Z_{1}, Z_{2}, \ldots, Z_{N})$$
 
-- In this model
+-   In this model
 
-    - $Z_1, Z_2, \ldots, Z_n$ are final goods and services
-    - $f(.)$ is a function (e.g. cobb-douglas, logarithmic, etc.)
-    
-- Each of these goods and services are produced by the household using
+    -   $Z_1, Z_2, \ldots, Z_n$ are final goods and services
+    -   $f(.)$ is a function (e.g. cobb-douglas, logarithmic, etc.)
 
-    - A set of market inputs $X_1, X_2, \ldots, X_n$
-    - Time $h_{i}$
-    
-- In this setup, time is divided between
+-   Each of these goods and services are produced by the household using
 
-    - Market work
-    - Household production tasks
-    
-    
+    -   A set of market inputs $X_1, X_2, \ldots, X_n$
+    -   Time $h_{i}$
+
+-   In this setup, time is divided between
+
+    -   Market work
+    -   Household production tasks
+
 ## Model
 
-- What does it mean that households "produce" the goods they consume?
+-   What does it mean that households "produce" the goods they consume?
 
-- Does not mean that literally everyone is producing goods from raw materials
+-   Does not mean that literally everyone is producing goods from raw materials
 
-- Instead means that every good/service consumed requires some time to prepare
+-   Instead means that every good/service consumed requires some time to prepare
 
     -   Hiring contractors to remodel a home requires a small amount of home production
-        
-          - Time spent explaining what you need, keeping contractor on schedule
-          
-    - Remodelling your basement by yourself requires much more time
-    
-- In this model we explicitly account for substituting time between various uses
 
-  - Work, home production of various goods, leisure
+        -   Time spent explaining what you need, keeping contractor on schedule
 
+    -   Remodelling your basement by yourself requires much more time
+
+-   In this model we explicitly account for substituting time between various uses
+
+    -   Work, home production of various goods, leisure
 
 ## Model
 
-- Example: a household consumes two goods, nutrition and rest
+-   Example: a household consumes two goods, nutrition and rest
 
-    - These would be $Z_1$ and $Z_2$ in the utility function
-    
-- Nutrition is produced using processed or raw food, and time
+    -   These would be $Z_1$ and $Z_2$ in the utility function
 
-    - These are $X_1$, $X_{2}$ and $h$
-    - Raw food takes time to prepare equal to $h = d$ hours
-    
-- Each of the three purchased goods has a price
+-   Nutrition is produced using processed or raw food, and time
 
-- Processed food
+    -   These are $X_1$, $X_{2}$ and $h$
+    -   Raw food takes time to prepare equal to $h = d$ hours
 
-    - Price per unit of nutrition is $P_c$
-    - Takes no time to prepare 
- 
+-   Each of the three purchased goods has a price
+
+-   Processed food
+
+    -   Price per unit of nutrition is $P_c$
+    -   Takes no time to prepare
+
 ## Model
 
-    
-- Raw food
+-   Raw food
 
-    - Price per unit of nutrition is $P_r + W_{d}$
-    - The added time cost is valued at the wage rate $W$ times $d$ hours 
-    
-- Leisure
+    -   Price per unit of nutrition is $P_r + W_{d}$
+    -   The added time cost is valued at the wage rate $W$ times $d$ hours
 
-    - Price is the wage rate $W$
+-   Leisure
 
-    
+    -   Price is the wage rate $W$
+
 ## Comparative Statics
 
-- What happens when we start changing some of the prices?
+-   What happens when we start changing some of the prices?
 
-- Increase in wage rate $W$
+-   Increase in wage rate $W$
 
-    - Cost of time affects both rest and production of raw food
-    - Higher wage makes home production more expensive
-      
-        - Time spent cooking becomes more expensive
-        - Substitute away from home production to processed food
-        - Substitution effect: less home production, more processed food
-        - Income effect: higher wage means higher income, so more consumption of all goods
-        
-    - Effect on rest is same as before
+    -   Cost of time affects both rest and production of raw food
 
-        - Substitution effect: less rest, more work
-        - Income effect: higher income, so more rest
-    
+    -   Higher wage makes home production more expensive
+
+        -   Time spent cooking becomes more expensive
+        -   Substitute away from home production to processed food
+        -   Substitution effect: less home production, more processed food
+        -   Income effect: higher wage means higher income, so more consumption of all goods
+
+    -   Effect on rest is same as before
+
+        -   Substitution effect: less rest, more work
+        -   Income effect: higher income, so more rest
+
 ## Comparative Statics
 
-- Decrease in price of processed food $P_c$
+-   Decrease in price of processed food $P_c$
 
-    - Processed food becomes cheaper relative to other goods
-    - Substitution effect: more processed food, less home production
-    - Income effect: lower price of processed food means higher real income, so more consumption of all goods
-    
-- Decrease in price of raw food $P_r$
+    -   Processed food becomes cheaper relative to other goods
+    -   Substitution effect: more processed food, less home production
+    -   Income effect: lower price of processed food means higher real income, so more consumption of all goods
 
-    - Raw food becomes relatively cheaper
-    - Substitution effect: more raw food, less processed food
-    - Income effect: lower price of raw food means higher real income, so more consumption of all goods
-    
-    
+-   Decrease in price of raw food $P_r$
+
+    -   Raw food becomes relatively cheaper
+    -   Substitution effect: more raw food, less processed food
+    -   Income effect: lower price of raw food means higher real income, so more consumption of all goods
+
 ## Comparative Statics
 
-- Decrease in time required to prepare raw food $d$
+-   Decrease in time required to prepare raw food $d$
 
-
-    - Example: technology that reduces cooking time (e.g. Instant Pot)
-    - Home production becomes relatively cheaper (through lower time cost)
-    - Substitution effect: more raw food, less processed food
-    - Additional substitution effect: higher real wage (i.e. they keep more of their wage), less rest, more work
-    - Income effect: lower time cost of raw food means higher real income, so more consumption of all goods  
-
+    -   Example: technology that reduces cooking time (e.g. Instant Pot)
+    -   Home production becomes relatively cheaper (through lower time cost)
+    -   Substitution effect: more raw food, less processed food
+    -   Additional substitution effect: higher real wage (i.e. they keep more of their wage), less rest, more work
+    -   Income effect: lower time cost of raw food means higher real income, so more consumption of all goods
 
 ## Discussion
 
-- Model adds more real world complexity to match what people actually do
+-   Model adds more real world complexity to match what people actually do
 
-- Emphaszies that people do not just choose between work and leisure
+-   Emphaszies that people do not just choose between work and leisure
 
-- Also emphasizes the role of the household relative to the individual
+-   Also emphasizes the role of the household relative to the individual
 
-    - Household members can specialize in different tasks
-    - Changes for one household member can affect others
-    
-- Discussion above did not mention household production function, but it is important
+    -   Household members can specialize in different tasks
+    -   Changes for one household member can affect others
 
-    - Different households have different abilities to produce goods
-    - This can affect their choices and responses to changes in prices
-    
+-   Discussion above did not mention household production function, but it is important
+
+    -   Different households have different abilities to produce goods
+    -   This can affect their choices and responses to changes in prices
+
 # Fertility and Childbearing
 
 ## Introduction
 
-- Fertility is a key life event that affects labour supply
+-   Fertility is a key life event that affects labour supply
 
-    - Particularly for women, but also men to some degree
-    
-- Children are typically planned to some degree
+    -   Particularly for women, but also men to some degree
 
-    - Timing of children is often chosen to fit with work plans
-    - Number of children is often chosen based on lifetime work plans
-    
-- Economists have developed models to analyze fertility decisions
+-   Children are typically planned to some degree
 
-    - These models are similar to the life cycle labour supply model
- 
-- We will not go over the model because it is a bit beyond the scope of this course
+    -   Timing of children is often chosen to fit with work plans
+    -   Number of children is often chosen based on lifetime work plans
 
-- But we will discuss some of the key variables that affect fertility decisions 
- 
-    
-    
+-   Economists have developed models to analyze fertility decisions
+
+    -   These models are similar to the life cycle labour supply model
+
+-   We will not go over the model because it is a bit beyond the scope of this course
+
+-   But we will discuss some of the key variables that affect fertility decisions
+
 ## Variables Affecting Fertility - Income
 
-- Income is positively related to the number of children
+-   Income is positively related to the number of children
 
-    - Higher income means higher ability to pay for children
-    - Children are a "normal good"
-    
-- Some disagreement on whether children are considered a normal good in our models
+    -   Higher income means higher ability to pay for children
+    -   Children are a "normal good"
 
-    - Empirically, higher income families and countries have lower fertility rates
-    - Explanation is that substitution effect of higher income dominates income effect
-    
-        - Higher income means higher opportunity cost of time spent on children
-        
-        
+-   Some disagreement on whether children are considered a normal good in our models
+
+    -   Empirically, higher income families and countries have lower fertility rates
+
+    -   Explanation is that substitution effect of higher income dominates income effect
+
+        -   Higher income means higher opportunity cost of time spent on children
+
 ## Variables Affecting Fertility - Price of Children
 
-- Like goods, the demand curve for children slopes down
+-   Like goods, the demand curve for children slopes down
 
-    - Higher "price" of children means fewer children are chosen
-    
-- Several elements involves in the price of children
+    -   Higher "price" of children means fewer children are chosen
 
-    - Direct costs: food, clothing, housework, etc.
-    - Opportunity costs: time spent caring for children could be spent working for pay
-    
-- A higher price (wage rate) creates income and substitution effects
+-   Several elements involves in the price of children
 
-    - Income effect: higher price means higher lifetime income, so more children
-    - Substitution effect: higher price means time with children is more expensive, so fewer children
-    
-- Effect is theoretically ambiguous, but empirically substitution effect dominates
+    -   Direct costs: food, clothing, housework, etc.
+    -   Opportunity costs: time spent caring for children could be spent working for pay
 
+-   A higher price (wage rate) creates income and substitution effects
+
+    -   Income effect: higher price means higher lifetime income, so more children
+    -   Substitution effect: higher price means time with children is more expensive, so fewer children
+
+-   Effect is theoretically ambiguous, but empirically substitution effect dominates
 
 ## Variables Affecting Fertility - Price of Related Goods
 
-- Many goods are consumed as part of having children
+-   Many goods are consumed as part of having children
 
-    - Childcare, education, etc.
-    
-- These are complementary goods
+    -   Childcare, education, etc.
 
-    - If you have more children, you will consume more of these goods
-    - You could also consider these direct costs of children
-    
-- We know that an increase in the price of a complementary good reduces demand
+-   These are complementary goods
 
-    - Higher price of childcare or education means fewer children
-    
-    
+    -   If you have more children, you will consume more of these goods
+    -   You could also consider these direct costs of children
+
+-   We know that an increase in the price of a complementary good reduces demand
+
+    -   Higher price of childcare or education means fewer children
+
 ## Variables Affecting Fertility - Tastes
 
-- Tastes for children vary across people and over time
+-   Tastes for children vary across people and over time
 
-    - Some people really want children, others do not
-    - Some cultures value children more than others
-    - Attitudes towards children have changed over time
-    
-- A stronger taste for children means more children
+    -   Some people really want children, others do not
+    -   Some cultures value children more than others
+    -   Attitudes towards children have changed over time
 
-    - This is like a shift in the demand curve for children
-    
-- Over time in Canada, there has been a shift away from children
+-   A stronger taste for children means more children
 
-    - Fertility rates have declined over time
-    - People are having fewer children than in the past
+    -   This is like a shift in the demand curve for children
 
+-   Over time in Canada, there has been a shift away from children
+
+    -   Fertility rates have declined over time
+    -   People are having fewer children than in the past
 
 ## Variables Affecting Fertility - Technology
 
-- Technology in this case could mean several things
+-   Technology in this case could mean several things
 
-    - Could refer to the "production" of children
-    - Might also relate to the goods and services used with children
-    
-        - Home automation, disposable diapers, baby monitors, carriers
+    -   Could refer to the "production" of children
 
-- Some key developments in the last few decades
+    -   Might also relate to the goods and services used with children
 
-    - Birth control: allows people to better plan timing and number of children
-    - Fertility treatments: allows some people to have children who otherwise could not
-    - Medical care: reduces infant mortality, so fewer children needed to ensure some survive
-    - Home technology: reduces time cost of childcare, so lower opportunity cost of children
-    
-- Higher technology in any of these areas tends to increase demand for children
+        -   Home automation, disposable diapers, baby monitors, carriers
+
+-   Some key developments in the last few decades
+
+    -   Birth control: allows people to better plan timing and number of children
+    -   Fertility treatments: allows some people to have children who otherwise could not
+    -   Medical care: reduces infant mortality, so fewer children needed to ensure some survive
+    -   Home technology: reduces time cost of childcare, so lower opportunity cost of children
+
+-   Higher technology in any of these areas tends to increase demand for children
 
 ## Empirical Evidence
 
-- Economists have examined the relationship between income and fertility
+-   Economists have examined the relationship between income and fertility
 
-- Difficult because of omitted variables
+-   Difficult because of omitted variables
 
-    - A simple correlation between income and fertility tends to be negative
-    - Important to hold constant other variables that affect both income and fertility
-    
-        - Example: education levels are positively related to income and negatively related to fertility
-        
-- When other variables are held constant, income tends to be positively related to fertility
+    -   A simple correlation between income and fertility tends to be negative
 
-    - Consistent with children being a normal good
-    
-- Tax incentives also tend to increase fertility
+    -   Important to hold constant other variables that affect both income and fertility
+
+        -   Example: education levels are positively related to income and negatively related to fertility
+
+-   When other variables are held constant, income tends to be positively related to fertility
+
+    -   Consistent with children being a normal good
+
+-   Tax incentives also tend to increase fertility
 
 # Retirement and Pensions
 
 ## Introduction
 
-- Retirement is a key life event that affects labour supply
+-   Retirement is a key life event that affects labour supply
 
-    - Most people retire at some point
-    - Retirement age has been changing over time
-    
-- It can mean many things
+    -   Most people retire at some point
+    -   Retirement age has been changing over time
 
-    - Permanent exit from the labour force
-    - A reduction to part-time work
-    - Retiring from one full-time job and taking another
-    
-- For most people retirement means permanent exit from the labour force
+-   It can mean many things
 
+    -   Permanent exit from the labour force
+    -   A reduction to part-time work
+    -   Retiring from one full-time job and taking another
+
+-   For most people retirement means permanent exit from the labour force
 
 ## Determinants of Retirement - Age
 
-- Age is the most important determinant of retirement
+-   Age is the most important determinant of retirement
 
-    - Most people retire between ages 60 and 70
-    - Very few people retire before age 50 or after age 75
-    
-- Some places have mandatory retirement
+    -   Most people retire between ages 60 and 70
+    -   Very few people retire before age 50 or after age 75
 
-    - In Canada it is generally illegal to force retirement based on age
-    - Except if deemed a bona fide occupational requirement (BFOR), like for pilots, police, firefighters, air traffic controllers
-    - Still exits in other parts of the world (e.g. Japan, China, parts of Europe)
-    
+-   Some places have mandatory retirement
+
+    -   In Canada it is generally illegal to force retirement based on age
+    -   Except if deemed a bona fide occupational requirement (BFOR), like for pilots, police, firefighters, air traffic controllers
+    -   Still exits in other parts of the world (e.g. Japan, China, parts of Europe)
+
 ## Determinants of Retirement - Wealth/Earnings
 
-- Wealth in our model entered as non-labour earnings
+-   Wealth in our model entered as non-labour earnings
 
-    - Higher wealth means higher non-labour income
-    - Higher non-labour income means more leisure (less work)
-    
-- Earnings changes have income and substitution effects
+    -   Higher wealth means higher non-labour income
+    -   Higher non-labour income means more leisure (less work)
 
-    - Income effect: higher earnings means higher lifetime income, so more leisure (less work)
-    - Substitution effect: higher earnings means leisure is more expensive, so less leisure (more work)
-    
-- Can also think of this in a lifecycle. model
+-   Earnings changes have income and substitution effects
 
+    -   Income effect: higher earnings means higher lifetime income, so more leisure (less work)
+    -   Substitution effect: higher earnings means leisure is more expensive, so less leisure (more work)
+
+-   Can also think of this in a lifecycle. model
 
 ## Determinants of Retirement - Other
 
-- Health is an important determinant of retirement
+-   Health is an important determinant of retirement
 
-    - Poor health can force people to retire early
-    - Good health can allow people to work longer
-    - Health of family members can also play a role
-    - Might operate through non-labour income or preferences
-    
-- Changing nature of work can influence decisions
+    -   Poor health can force people to retire early
+    -   Good health can allow people to work longer
+    -   Health of family members can also play a role
+    -   Might operate through non-labour income or preferences
 
-  - Move towards less physically demanding jobs can prolong work life
-  - More flexible work arrangements can allow people to work longer
-  - Alternatively, more stressful jobs can lead to earlier retirement
-  - Automation might force early retirement
-  - Could affect the budget constraint or preferences
-  
+-   Changing nature of work can influence decisions
+
+    -   Move towards less physically demanding jobs can prolong work life
+    -   More flexible work arrangements can allow people to work longer
+    -   Alternatively, more stressful jobs can lead to earlier retirement
+    -   Automation might force early retirement
+    -   Could affect the budget constraint or preferences
+
 ## Determinants of Retirement - Other
 
-- Changing nature of family
+-   Changing nature of family
 
-    - There are many more two-earner families now
-    - This can lead to earlier retirement for one spouse
-    - Or could prolong work if spouses want to work together longer
-    - Children living at home for longer can also affect retirement timing
-    - Increase in caring for elderly parents can lead to earlier or later retirement
-    - Might affect budget constraint or preferences
-    
-    
+    -   There are many more two-earner families now
+    -   This can lead to earlier retirement for one spouse
+    -   Or could prolong work if spouses want to work together longer
+    -   Children living at home for longer can also affect retirement timing
+    -   Increase in caring for elderly parents can lead to earlier or later retirement
+    -   Might affect budget constraint or preferences
+
 ## Retirement Income
 
-- Public and private pension plans have major effect on retirement decisions
+-   Public and private pension plans have major effect on retirement decisions
 
-  - They determine most income in retirement
-  
-- The pension system in Canada consists of
+    -   They determine most income in retirement
 
-1. Old Age Security (OAS)
-    
-  - A flat rate pension available to most Canadians over age 65
-  - Funded out of general tax revenues
-  - Monthly max is \$740 for those aged 65-74, \$814 for those 75+
-  - Clawback for high income earners (above $148,000 in 2024)
-  - Supplemented by the Guaranteed Income Supplement (GIS) for low income seniors
-  
-  
+-   The pension system in Canada consists of
+
+1.  Old Age Security (OAS)
+
+-   A flat rate pension available to most Canadians over age 65
+-   Funded out of general tax revenues
+-   Monthly max is \$740 for those aged 65-74, \$814 for those 75+
+-   Clawback for high income earners (above \$148,000 in 2024)
+-   Supplemented by the Guaranteed Income Supplement (GIS) for low income seniors
+
 ## Retirement Income
-  
-2. Canada/Quebec Pension Plan (CPP/QPP)
-  
-    - Earnings-related pension available to those who have contributed
-    - Funded by contributions from employees, employers, and self-employed
-    - Monthly max is \$1,433 in 2025 (age 65)
-    - Can start receiving as early as age 60 (reduced) or as late as age 70 (increased)
-    - Based on average earnings over working life, up to a maximum limit
-  
-3. Employer Pension Plans
 
-    - Many employers offer pension plans to employees
-    - Can be defined benefit or defined contribution plans
-    - Vary widely in terms of benefits and eligibility
-    - Includes private savings from RRSPs
+2.  Canada/Quebec Pension Plan (CPP/QPP)
 
+    -   Earnings-related pension available to those who have contributed
+    -   Funded by contributions from employees, employers, and self-employed
+    -   Monthly max is \$1,433 in 2025 (age 65)
+    -   Can start receiving as early as age 60 (reduced) or as late as age 70 (increased)
+    -   Based on average earnings over working life, up to a maximum limit
+
+3.  Employer Pension Plans
+
+    -   Many employers offer pension plans to employees
+    -   Can be defined benefit or defined contribution plans
+    -   Vary widely in terms of benefits and eligibility
+    -   Includes private savings from RRSPs
 
 ## Old Age Security
 
-- What effect does OAS have on retirement decisions?
+-   What effect does OAS have on retirement decisions?
 
-- Operates as a lump sum transfer
+-   Operates as a lump sum transfer
 
-    - Increases non-labour income
-    - Creates income effect: more leisure (less work)
-    - No substitution effect because it does not change the wage rate
-    
-- GIS operates like a negative income tax
+    -   Increases non-labour income
+    -   Creates income effect: more leisure (less work)
+    -   No substitution effect because it does not change the wage rate
 
-    - People get a the lump sum payment
-    - Payments reduced by $0.50 for each dollar of work income
-    - Has work incentives equal to a negative income tax
-    
+-   GIS operates like a negative income tax
+
+    -   People get a the lump sum payment
+    -   Payments reduced by \$0.50 for each dollar of work income
+    -   Has work incentives equal to a negative income tax
+
 ## Canada/Quebec Pension Plan
 
-- The effect of pension income on retirement depends on how it is structured
+-   The effect of pension income on retirement depends on how it is structured
 
-- In Canada currently, it is simply a fixed payment
+-   In Canada currently, it is simply a fixed payment
 
-    - Increases non-labour income
-    - Creates income effect: more leisure (less work)
-    - No substitution effect because it does not change the wage rate
-    
-- In the past, there was a provision that reduced benefits if you worked
+    -   Increases non-labour income
+    -   Creates income effect: more leisure (less work)
+    -   No substitution effect because it does not change the wage rate
 
-    - Similar to a negative income tax
-    - If the tax back rate is 100%, then it is like pure welfare
-    - Could also not tax back until a certain income level
+-   In the past, there was a provision that reduced benefits if you worked
 
+    -   Similar to a negative income tax
+    -   If the tax back rate is 100%, then it is like pure welfare
+    -   Could also not tax back until a certain income level
 
 ## Employer Pension Plan
 
-- Generally involve a fixed payment based on years of service and earnings
+-   Generally involve a fixed payment based on years of service and earnings
 
-    - Increases non-labour income
-    - Creates income effect: more leisure (less work)
-    - No substitution effect because it does not change the wage rate
-    
-- Over time the parameters that determine the fixed payment can change
+    -   Increases non-labour income
+    -   Creates income effect: more leisure (less work)
+    -   No substitution effect because it does not change the wage rate
 
-    - This can alter work incentives at retirement
-    - Example: if the benefit formula is changed to require more years of service
-    
-        - Would reduce the income effect of the pension
-        - Could also create a substitution effect to work more to get the pension
-    
+-   Over time the parameters that determine the fixed payment can change
+
+    -   This can alter work incentives at retirement
+
+    -   Example: if the benefit formula is changed to require more years of service
+
+        -   Would reduce the income effect of the pension
+        -   Could also create a substitution effect to work more to get the pension
+
 ## Evidence on Effect of Pensions
 
-- Studies find that pensions affect retirement in expected ways
+-   Studies find that pensions affect retirement in expected ways
 
-    - Pensions that increase non-labour income lead to earlier retirement
-    - Pensions that create work incentives lead to later retirement
-    
-- More recent work
+    -   Pensions that increase non-labour income lead to earlier retirement
+    -   Pensions that create work incentives lead to later retirement
 
-    - Increase in retirement age increases working-age disability claims in UK
-    - Increasing public pension participation improves health behaviours (less smoking)
-    - Pension reform allowing Japanese spouses to claim half of pension earnings increased divorce
-    
-    
+-   More recent work
+
+    -   Increase in retirement age increases working-age disability claims in UK
+    -   Increasing public pension participation improves health behaviours (less smoking)
+    -   Pension reform allowing Japanese spouses to claim half of pension earnings increased divorce
+
 # Summary
 
 ## Summary
 
-- Labour supply varies over the life cycle
+-   Labour supply varies over the life cycle
 
-    - Participation highest in prime working years
+    -   Participation highest in prime working years
 
-- A life cycle approach helps us understand these patterns
-- Dynamic life cycle models can analyze effects of wage changes
+-   A life cycle approach helps us understand these patterns
 
-    - Permanent unanticipated changes
-    - Anticipated future changes
-    - Temporary unanticipated changes
-- Household production is an important part of labour supply decisions
+-   Dynamic life cycle models can analyze effects of wage changes
 
-    - People allocate time between work, household production, and leisure
-    - Changes in prices of goods and time costs affect these choices
-    
-- Fertility decisions are affected by income, prices, tastes, and technology
-- Retirement decisions are affected by age, wealth, health, family, and pensions
+    -   Permanent unanticipated changes
+    -   Anticipated future changes
+    -   Temporary unanticipated changes
 
+-   Household production is an important part of labour supply decisions
+
+    -   People allocate time between work, household production, and leisure
+    -   Changes in prices of goods and time costs affect these choices
+
+-   Fertility decisions are affected by income, prices, tastes, and technology
+
+-   Retirement decisions are affected by age, wealth, health, family, and pensions
