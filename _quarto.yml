@@ -42,8 +42,8 @@ website:
               file: content/lsupply2.qmd   
             - text: "Introduction to Stata"
               file: content/introtostata.qmd
-#            - text: "Labour Supply 3: Labour Supply Over the Life Cycle"
-#              file: content/lsupply3.qmd   
+            - text: "Labour Supply 3: Labour Supply Over the Life Cycle"
+              file: content/lsupply3.qmd   
 #            - text: "Labour Demand 1: Competitive Labour Markets"
 #              file: content/ldemand1.qmd
 #            - text: "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"

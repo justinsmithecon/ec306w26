@@ -2104,21 +2104,36 @@
     "href": "content/lsupply3.html",
     "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "",
-    "text": "BGLRS Chapter 4"
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
   },
   {
     "objectID": "content/lsupply3.html#readings",
     "href": "content/lsupply3.html#readings",
     "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "",
-    "text": "BGLRS Chapter 4"
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
   },
   {
     "objectID": "content/lsupply3.html#slides",
     "href": "content/lsupply3.html#slides",
     "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF."
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
   },
   {
     "objectID": "content/lsupply1.html",
@@ -4282,349 +4297,356 @@
     "href": "slides/lsupply3/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nShow patterns of labour supply over a person’s lifetime\nDiscuss issues comparing labour supply of people at different ages\nIntroduce lifetime labour supply model\nDiscuss household production\nAnalyze retirement decisions"
+    "text": "Goals of This Section\nToday we will:\n\nShow patterns of labour supply over a person’s lifetime\nDiscuss issues comparing labour supply of people at different ages\nIntroduce lifetime labour supply model\nDiscuss household production\nAnalyze retirement decisions"
   },
   {
     "objectID": "slides/lsupply3/index.html#introduction",
     "href": "slides/lsupply3/index.html#introduction",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nPrevious discussion focused on labour supply at a moment in time\n\nLabour supply changed immediately in response to changes in wages, non-labour income, or policies\n\nIn reality, people can plan work over their lifetime\n\nParticipation is highest in prime working years\nLife events alter labour supply decisions now and in the future\n\nMarriage, children, education, health, retirement\n\n\nA life cycle approach helps us understand these patterns"
+    "text": "Introduction\nPrevious discussion:\n\nFocused on labour supply at a moment in time\nSupply changed immediately in response to wages, non-labour income, or policies\n\nIn reality:\n\nPeople can plan work over their lifetime\nParticipation is highest in prime working years\nLife events alter labour supply decisions now and in the future\n\nMarriage, children, education, health, retirement\n\n\n\n\n\n\n\n\nTip\n\n\nA life cycle approach helps us understand these patterns"
   },
   {
     "objectID": "slides/lsupply3/index.html#life-cycle-participation-for-men",
     "href": "slides/lsupply3/index.html#life-cycle-participation-for-men",
     "title": "EC306 - Wages and Employment",
     "section": "Life Cycle Participation for Men",
-    "text": "Life Cycle Participation for Men\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph follows labour supply of men born in different years\nParticipation rises quickly in early 20s, peaks in late 40s, then declines\nThere are differences for different birth cohorts\n\nAt younger ages, younger cohorts participate a bit less\nAt older ages, younger cohorts participate more"
+    "text": "Life Cycle Participation for Men\n\n\n\n\nGraph follows labour supply of men born in different years\n\nParticipation rises quickly in early 20s, peaks in late 40s, then declines\n\nDifferences across birth cohorts:\n\nAt younger ages, younger cohorts participate a bit less\nAt older ages, younger cohorts participate more"
   },
   {
     "objectID": "slides/lsupply3/index.html#life-cycle-participation-for-women",
     "href": "slides/lsupply3/index.html#life-cycle-participation-for-women",
     "title": "EC306 - Wages and Employment",
     "section": "Life Cycle Participation for Women",
-    "text": "Life Cycle Participation for Women\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nWomen follow similar lifetime pattern\nRates are shifted down a bit relative to men\nParticipation higher for younger cohorts at all ages\n\nConsistent with rising female labour force participation over time"
+    "text": "Life Cycle Participation for Women\n\n\n\n\nWomen follow similar lifetime pattern\n\nRates are shifted down a bit relative to men\nParticipation higher for younger cohorts at all ages\n\nConsistent with rising female labour force participation over time"
   },
   {
     "objectID": "slides/lsupply3/index.html#cohort-effects-vs-age-effects",
     "href": "slides/lsupply3/index.html#cohort-effects-vs-age-effects",
     "title": "EC306 - Wages and Employment",
     "section": "Cohort Effects vs Age Effects",
-    "text": "Cohort Effects vs Age Effects\n\nPrevious graphs highlight a technical point\nEach graph contains a line that looks at life cycle pattern in year 2020\n\nParticipation of people in 2020 at different ages\n\nProblem: people at different ages are born at different times\n\n20 year olds in 2020 born in 2000\n60 year olds in 2020 born in 1960\n\nSo when we look at participation by age in a single year, we are mixing age effects and cohort effects\n\nAge effects: how labour supply changes as people get older\nCohort effects: how labour supply differs for people born at different times"
+    "text": "Cohort Effects vs Age Effects\n\n\n\n\n\n\nThe Problem with Cross-Sectional Data\n\n\nWhen we look at participation by age in a single year, we are mixing age effects and cohort effects\n\n\n\nPrevious graphs highlight a technical point:\n\nEach graph contains a line that looks at life cycle pattern in year 2020\n\nParticipation of people in 2020 at different ages\n\nProblem: people at different ages are born at different times\n\n20 year olds in 2020 born in 2000\n60 year olds in 2020 born in 1960"
   },
   {
     "objectID": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-1",
     "href": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-1",
     "title": "EC306 - Wages and Employment",
     "section": "Cohort Effects vs Age Effects",
-    "text": "Cohort Effects vs Age Effects\n\nCohort effects can be significant\n\nIn particular for women where it has been increasing for younger cohorts\n\nIt is not a good approach to look at participation by age in a single year and interpret as pure age effects\nIf pure age effects are of interest, better to look at participation by age for a single birth cohort\n\nThis is done in the graphs on the previous two slides\n\nNotice that the lines shift up and down for different birth cohorts\nPattern across age is similar but there are some differences"
+    "text": "Cohort Effects vs Age Effects\nDefinitions:\n\nAge effects: how labour supply changes as people get older\nCohort effects: how labour supply differs for people born at different times\n\nCohort effects can be significant\n\nIn particular for women where it has been increasing for younger cohorts\nCannot look at participation by age in a single year and interpret as pure age effects\n\nBetter approach:\n\nLook at participation by age for a single birth cohort\nThis is done in the graphs on the previous two slides\nNotice that the lines shift up and down for different birth cohorts\nPattern across age is similar but there are some differences"
   },
   {
     "objectID": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-2",
     "href": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-2",
     "title": "EC306 - Wages and Employment",
     "section": "Cohort Effects vs Age Effects",
-    "text": "Cohort Effects vs Age Effects\n\nPractically, it is difficult to do this\nVery few datasets have data on the same people over their entire life\n\nHard to track people over time\nPeople die, move, refuse to respond\nData that does track people are often restricted access\n\nAnother approach is to use quasi-cohorts\n\nGroup people by birth year in cross-sectional (single year) data\nLook at how participation changes for these groups over time\nThis is what the graphs on the previous two slides do"
+    "text": "Cohort Effects vs Age Effects\n\n\n\n\n\n\nPractical Challenge\n\n\nVery few datasets have data on the same people over their entire life\n\n\n\nDifficulties:\n\nHard to track people over time\nPeople die, move, refuse to respond\nData that does track people are often restricted access\n\nSolution: Quasi-cohorts\n\nGroup people by birth year in cross-sectional (single year) data\nLook at how participation changes for these groups over time\nThis is what the graphs on the previous two slides do\nCan be done with the Canada Census"
   },
   {
     "objectID": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-3",
     "href": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-3",
     "title": "EC306 - Wages and Employment",
     "section": "Cohort Effects vs Age Effects",
-    "text": "Cohort Effects vs Age Effects\n\nYou can do this with the Canada Census\n\nCensus is collected every 5 years\n\nEach Census collects information on age and labour force status (among many other things)\nCan follow a birth cohort across different Census years as they get older\n\n\n\n\n\n\nCensus\nYear\n\n\n\n\nBirth Cohort\n1981\n1986\n1991\n1996\n2001\n\n\n1950\n31\n36\n41\n46\n51\n\n\n1951\n30\n35\n40\n45\n50\n\n\n1952\n29\n34\n39\n44\n49\n\n\n1953\n28\n33\n38\n43\n48\n\n\n1954\n27\n32\n37\n42\n47\n\n\n1955\n26\n31\n36\n41\n46"
+    "text": "Cohort Effects vs Age Effects\nYou can do this with the Canada Census:\n\nCensus is collected every 5 years\nEach Census collects information on age and labour force status (among many other things)\nCan follow a birth cohort across different Census years as they get older\n\n\n\n\n\n\nCensus\nYear\n\n\n\n\nBirth Cohort\n1981\n1986\n1991\n1996\n2001\n\n\n1950\n31\n36\n41\n46\n51\n\n\n1951\n30\n35\n40\n45\n50\n\n\n1952\n29\n34\n39\n44\n49\n\n\n1953\n28\n33\n38\n43\n48\n\n\n1954\n27\n32\n37\n42\n47\n\n\n1955\n26\n31\n36\n41\n46"
   },
   {
     "objectID": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-4",
     "href": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-4",
     "title": "EC306 - Wages and Employment",
     "section": "Cohort Effects vs Age Effects",
-    "text": "Cohort Effects vs Age Effects\n\nOne caveat is that in each Census year, people in a birth cohort are different people\n\nNot following the exact same individuals over time\n\nThis is generally accepted as a reasonable approximation"
+    "text": "Cohort Effects vs Age Effects\n\n\n\n\n\n\nCaveat\n\n\nIn each Census year, people in a birth cohort are different people — not following the exact same individuals over time. This is generally accepted as a reasonable approximation."
   },
   {
     "objectID": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-5",
     "href": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-5",
     "title": "EC306 - Wages and Employment",
     "section": "Cohort Effects vs Age Effects",
-    "text": "Cohort Effects vs Age Effects\n\n\n\n\n\nBorn in 1975\n\n\n\n\n\n\n\nObserved in\n2000\n2005\n2010\n\n\nAge\n25\n30\n35\n\n\nParticipation Rate\n75%\n80%\n85%\n\n\nBorn in 1980\n\n\n\n\n\nObserved in\n2000\n2005\n2010\n\n\nAge\n20\n25\n30\n\n\nParticipation Rate\n75%\n80%\n85%\n\n\n\n\n\nTo illustrate problem with following ages in single Census year, examine this table\nTracks birth cohorts across Census years\nShows age and participation rate\nFor each cohort participation rises 5 points per year\nBut looking at ages in a single Census year, they appear not to change"
+    "text": "Cohort Effects vs Age Effects\n\n\n\n\n\nBorn in 1975\n\n\n\n\n\n\n\nObserved in\n2000\n2005\n2010\n\n\nAge\n25\n30\n35\n\n\nParticipation Rate\n75%\n80%\n85%\n\n\nBorn in 1980\n\n\n\n\n\nObserved in\n2000\n2005\n2010\n\n\nAge\n20\n25\n30\n\n\nParticipation Rate\n75%\n80%\n85%\n\n\n\n\nIllustrates problem with following ages in single Census year\n\nTracks birth cohorts across Census years\nShows age and participation rate\nFor each cohort participation rises 5 points per year\nBut looking at ages in a single Census year, they appear not to change"
   },
   {
     "objectID": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-6",
     "href": "slides/lsupply3/index.html#cohort-effects-vs-age-effects-6",
     "title": "EC306 - Wages and Employment",
     "section": "Cohort Effects vs Age Effects",
-    "text": "Cohort Effects vs Age Effects\n\nWhere do cohort effects come from? Why do we expect cohorts to be different?\nPeople in part are defined by their generation\n\nSocial attitudes change over time\nEconomic conditions and policies change over time\nGenerations experience different significant events (e.g. wars, disease)\n\nWe therefore expect cohorts to differ in their attitudes and behaviours\n\nReserach has shown women born in early 1930s had higher labour supply than previous generations\nThey were influenced by their mothers working during war\nMale children also more likely to be married to working women later in life\n\nImportant to separate these from effects of pure aging"
+    "text": "Cohort Effects vs Age Effects\nWhere do cohort effects come from?\nPeople are in part defined by their generation:\n\nSocial attitudes, cconomic conditions and policies change over time\nGenerations experience different significant events (e.g. wars, disease)\n\nWe therefore expect cohorts to differ:\n\nWomen born in early 1930s had higher labour supply than previous generations\nThey were influenced by their mothers working during war\nMale children also more likely to be married to working women later in life\n\n\n\n\n\n\n\nImportant\n\n\nImportant to separate these from effects of pure aging"
   },
   {
     "objectID": "slides/lsupply3/index.html#introduction-1",
     "href": "slides/lsupply3/index.html#introduction-1",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nWe now know that labour supply varies over the life cycle\nThe allocation of work over time can be modeled\nModels examine the effects on labour supply of wage changes\n\nWages can change at different ages\nThey can change for a short time or permanently\nThey can be anticipated or unanticipated\n\nDifferent types of changes have different effects on labour supply"
+    "text": "Introduction\nWe now know that labour supply varies over the life cycle\n\nThe allocation of work over time can be modeled\nModels examine the effects on labour supply of wage changes\n\nWages can change in different ways:\n\nAt different ages\nFor a short time or permanently\nAnticipated or unanticipated\n\n\n\n\n\n\n\nNote\n\n\nDifferent types of changes have different effects on labour supply"
   },
   {
     "objectID": "slides/lsupply3/index.html#model",
     "href": "slides/lsupply3/index.html#model",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nIndividuals will still maximize utility over consumption and leisure subject to a budget constraint\nThe utility is a function of consumption and leisure over the lifetime\n\n\\[\nu = U(C_1, C_2, \\ldots, C_N, L_1, L_2, \\ldots, L_N)\n\\]\n\nHere \\(U(.)\\) is a function\n\ne.g. could be logarithmic, cobb-douglas, etc.\n\nTo define the budget constraint, recognize that we can consume and work in each period\nIn theory, we can consume more than our income in a period by borrowing\n\nWe can also save some income to consume later\n\nWe therefore need to be conscious of the interest rate on saving and borrowing"
+    "text": "Model\nIndividuals maximize utility over consumption and leisure over their lifetime\n\\[\nu = U(C_1, C_2, \\ldots, C_N, L_1, L_2, \\ldots, L_N)\n\\]\n\nHere \\(U(.)\\) is a function (e.g. logarithmic, Cobb-Douglas, etc.)\n\nTo define the budget constraint:\n\nWe can consume and work in each period\nIn theory, we can consume more than our income in a period by borrowing\nWe can also save some income to consume later\nNeed to be conscious of the interest rate on saving and borrowing"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-1",
     "href": "slides/lsupply3/index.html#model-1",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nConsider a two period model\nThe budget constraint says that the present value of consumption equals the present value of income\n\n\\[\nC_1 + \\frac{C_2}{1+r} = W_1 H_1 + \\frac{W_2 H_2}{1+r}\n\\]\n\n\\(r\\) is the interest rate for borrowing and saving\nThis is the present (period 1) value formulation of the lifetime budget constraint\nYou can also express it in future (period 2) value\n\n\\[\n(1+r)C_1 + C_2 = (1+r)W_1 H_1 + W_2 H_2\n\\]"
+    "text": "Model\nConsider a two period model\nThe budget constraint says that the present value of consumption equals the present value of income:\n\\[\nC_1 + \\frac{C_2}{1+r} = W_1 H_1 + \\frac{W_2 H_2}{1+r}\n\\]\n\n\\(r\\) is the interest rate for borrowing and saving\nThis is the present (period 1) value formulation\n\nFuture (period 2) value formulation:\n\\[\n(1+r)C_1 + C_2 = (1+r)W_1 H_1 + W_2 H_2\n\\]"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-2",
     "href": "slides/lsupply3/index.html#model-2",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nThe ability to borrow and save means a person can consume more than their income in a period\nFor example, rearranging the future value of the budget we get\n\n\\[\nC_2 = (1+r)(W_1 H_1 - C1) + W_2 H_2\n\\]\n\nIf \\(W_1 H_1 &gt; C_1\\), then the person saved some income in period 1 to consume in period 2\n\nThat savings grows with interest, and they have \\((1+r)(W_1 H_1 - C1)\\) to spend in period 2\n\nIf \\(W_1 H_1 &lt; C_1\\), then the person borrowed to consume more than their income in period 1\n\n\\((1+r)(W_1 H_1 - C1)\\) is negative and it reduces their income in period 2"
+    "text": "Model\nThe ability to borrow and save means a person can consume more than their income in a period\nRearranging the future value of the budget:\n\\[\nC_2 = (1+r)(W_1 H_1 - C1) + W_2 H_2\n\\]\nTwo cases:\n\nIf \\(W_1 H_1 &gt; C_1\\): person saved some income in period 1\n\nSavings grows with interest: \\((1+r)(W_1 H_1 - C1)\\) to spend in period 2\n\nIf \\(W_1 H_1 &lt; C_1\\): person borrowed to consume more than income\n\n\\((1+r)(W_1 H_1 - C1)\\) is negative and reduces income in period 2"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-3",
     "href": "slides/lsupply3/index.html#model-3",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nIn our model, the choice is between consumption and leisure\nTo reexpress this in terms of leisure, note that \\(H_t = T - L_t\\), so\n\n\\[\nC_1 + \\frac{C_2}{1+r} + W_1 L_1 + \\frac{W_2 L_2}{1+r} = W_1 T + \\frac{W_2 T}{1+r}\n\\]\n\nYou can consume two goods (consumption and leisure)\nThe price of consumption is 1 in both periods\nThe price of leisure is \\(W_1\\) in period 1 and \\(W_2\\) in period 2\nYou consume these out of “full income”\n\nFull income is the income you would have if you worked all available hours in both periods\n\nPeriod 2 values are discounted by the interest rate"
+    "text": "Model\nReexpress in terms of leisure (note that \\(H_t = T - L_t\\)):\n\\[\nC_1 + \\frac{C_2}{1+r} + W_1 L_1 + \\frac{W_2 L_2}{1+r} = W_1 T + \\frac{W_2 T}{1+r}\n\\]\nInterpretation:\n\nYou can consume two goods (consumption and leisure)\nPrice of consumption is 1 in both periods\nPrice of leisure is \\(W_1\\) in period 1 and \\(W_2\\) in period 2\nYou consume these out of “full income”\n\nFull income = income if you worked all available hours in both periods\n\nPeriod 2 values are discounted by the interest rate"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-4",
     "href": "slides/lsupply3/index.html#model-4",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nIf you maximize utility subject to the budget constraints, you get a labour supply function\n\nTells you optimal labour supply as a function of wages, interest rates, lifetime resources\n\nLike previous models, we can examine effects of wage changes\nThere are three types\n\nA permanent unanticipated change in the wage in all periods\nAn anticipated future change in the wage\nA temporary unanticipated change in the wage in one period only\n\nThese lead to substitution and income effects\n\nMore complicated because of the extra time dimension of the model\n\nWe can see these effects in graph form"
+    "text": "Model\nIf you maximize utility subject to the budget constraints:\n\nYou get a labour supply function\nTells you optimal labour supply as a function of wages, interest rates, lifetime resources\n\nLike previous models, we can examine effects of wage changes\nThree types:\n\nPermanent unanticipated change in the wage in all periods\nAnticipated future change in the wage\nTemporary unanticipated change in the wage in one period only\n\nThese lead to substitution and income effects (more complicated because of the extra time dimension)"
   },
   {
     "objectID": "slides/lsupply3/index.html#permanent-wage-change",
     "href": "slides/lsupply3/index.html#permanent-wage-change",
     "title": "EC306 - Wages and Employment",
     "section": "Permanent Wage Change",
-    "text": "Permanent Wage Change\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider first a permanent, unanticipated change in the wage\n\nIncreases wage in all periods\nShifts wage schedule up\n\nHigher wage has two effects\n\nIncome effect: higher wage means higher lifetime income, so person consumes more leisure (less work)\nSubstitution effect: higher wage means leisure is more expensive, so person consumes less leisure (more work)\n\nLabour supply effect is ambiguous"
+    "text": "Permanent Wage Change\n\n\n\n\nPermanent, unanticipated change in the wage:\n\nIncreases wage in all periods\nShifts wage schedule up\n\nTwo effects:\n\nIncome effect: higher wage → higher lifetime income → more leisure (less work)\nSubstitution effect: higher wage → leisure more expensive → less leisure (more work)\n\n\n\n\n\n\n\n\nWarning\n\n\nLabour supply effect is ambiguous"
   },
   {
     "objectID": "slides/lsupply3/index.html#anticipated-wage-change",
     "href": "slides/lsupply3/index.html#anticipated-wage-change",
     "title": "EC306 - Wages and Employment",
     "section": "Anticipated Wage Change",
-    "text": "Anticipated Wage Change\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAn anticipated wage change moves person along their wage schedule\nThere is no income effect in this case\n\nPerson optimized over their lifetime income\nLifetime income has not changed\n\nThe substitution effect shifts leisure towards periods where wage is lower\n\nIf wage is higher in period 2, leisure is more expensive in period 2\nLess leisure in period 2 and more in period 1\nPerson works more in period 2 and less in period 1"
+    "text": "Anticipated Wage Change\n\n\n\n\nAn anticipated wage change moves person along their wage schedule\nNo income effect:\n\nPerson optimized over their lifetime income\nLifetime income has not changed\n\nSubstitution effect:\n\nShifts leisure to where wage is lower\nIf wage is higher in period 2, leisure is more expensive in period 2\nLess leisure in period 2 and more in period 1\nPerson works more in period 2 and less in period 1"
   },
   {
     "objectID": "slides/lsupply3/index.html#temporary-unanticipated-wage-change",
     "href": "slides/lsupply3/index.html#temporary-unanticipated-wage-change",
     "title": "EC306 - Wages and Employment",
     "section": "Temporary Unanticipated Wage Change",
-    "text": "Temporary Unanticipated Wage Change\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA temporary unanticipated wage change alters wage for one period (or a small number of them) only\n\ne.g. bonus pay, overtime pay\n\nCreates a temporary blip upward in wage schedule\nTwo effects\n\nSmall Income effect: slightly higher lifetime income, so person consumes more leisure (less work)\nSubstitution effect: leisure is more expensive in the period with the higher wage, so person consumes less leisure (more work)"
+    "text": "Temporary Unanticipated Wage Change\n\n\n\n\nA temporary unanticipated wage change:\n\nAlters wage for one period (or small number) only\ne.g. bonus pay, overtime pay\nCreates a temporary blip upward in wage schedule\n\nTwo effects:\n\nSmall income effect: slightly higher lifetime income → more leisure (less work)\nSubstitution effect: leisure more expensive in period with higher wage → less leisure (more work)"
   },
   {
     "objectID": "slides/lsupply3/index.html#comparing-effects-of-wage-changes",
     "href": "slides/lsupply3/index.html#comparing-effects-of-wage-changes",
     "title": "EC306 - Wages and Employment",
     "section": "Comparing Effects of Wage Changes",
-    "text": "Comparing Effects of Wage Changes\n\nStrongest effect on labour supply is the anticipated wage change\n\nPure substitution effect\nNo offsetting income effect\n\nNext strongest is the temporary unanticipated wage change\n\nSubstitution effect\nSmall income effect\nPerson works more in period with higher wage\n\nPermanent unanticipated wage change has ambiguous effect\n\nSubstitution effect\nLarger income effect\nAmbiguous effect on labour supply"
+    "text": "Comparing Effects of Wage Changes\n\n\n\n\n\n\nStrongest Effect: Anticipated Wage Change\n\n\n\nPure substitution effect\nNo offsetting income effect\n\n\n\n\n\n\n\n\n\n\nNext Strongest: Temporary Unanticipated Change\n\n\n\nSubstitution effect\nSmall income effect\nPerson works more in period with higher wage\n\n\n\n\n\n\n\n\n\n\nAmbiguous: Permanent Unanticipated Change\n\n\n\nSubstitution effect\nLarger income effect\nAmbiguous effect on labour supply"
   },
   {
     "objectID": "slides/lsupply3/index.html#evidence-on-life-cycle-labour-supply",
     "href": "slides/lsupply3/index.html#evidence-on-life-cycle-labour-supply",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence on Life Cycle Labour Supply",
-    "text": "Evidence on Life Cycle Labour Supply\n\nInteresting experiment on bike messengers in Zurich\nMessengers paid a percentage of daily revenues\nCan choose their own total work hours\nResearchers randomly assigned messengers to\n\n25% higher wage for one month in September of one year (group A)\nOthers to 25% higher wage for one month in November of the same year (group B)\n\nEach acted as control group for the other\nBoth get same increase in lifetime income, so difference is substitution effect\nShowed messengers shift labour supply to periods with higher wage"
+    "text": "Evidence on Life Cycle Labour Supply\nInteresting experiment on bike messengers in Zurich:\n\nMessengers paid a percentage of daily revenues\nCan choose their own total work hours\n\nResearch design:\n\nResearchers randomly assigned messengers to:\n\nGroup A: 25% higher wage for one month in September\nGroup B: 25% higher wage for one month in November\n\nEach acted as control group for the other\nBoth get same increase in lifetime income, so difference is substitution effect\n\n\n\n\n\n\n\nFinding\n\n\nMessengers shift labour supply to periods with higher wage"
   },
   {
     "objectID": "slides/lsupply3/index.html#introduction-2",
     "href": "slides/lsupply3/index.html#introduction-2",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nSo far we assumed that people choose between consumption and leisure\n\nLeisure is time not working for pay\nEncompasses pure leisure, household production, and other non-market activities\n\nIn reality, people also spend time on household production\n\nCooking, cleaning, childcare, home maintenance, shopping, etc.\n\nHousehold production produces goods and services that can be consumed\n\nMeals, clean clothes, child supervision, etc.\n\nIn this section we explicitly model household production"
+    "text": "Introduction\n\n\n\n\n\n\nPrevious Assumption\n\n\nPeople choose between consumption and leisure, where leisure = time not working for pay\n\n\n\nIn reality, people also spend time on household production:\n\nCooking, cleaning, childcare, home maintenance, shopping, etc.\nProduces goods and services that can be consumed\n\nMeals, clean clothes, child supervision, etc.\n\n\nIn this section we explicitly model household production"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-5",
     "href": "slides/lsupply3/index.html#model-5",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nAssume that people gain utility from the consumption of goods and services\n\n\\[u = f(Z_{1}, Z_{2}, \\ldots, Z_{N})\\]\n\nIn this model\n\n\\(Z_1, Z_2, \\ldots, Z_n\\) are final goods and services\n\\(f(.)\\) is a function (e.g. cobb-douglas, logarithmic, etc.)\n\nEach of these goods and services are produced by the household using\n\nA set of market inputs \\(X_1, X_2, \\ldots, X_n\\)\nTime \\(h_{i}\\)\n\nIn this setup, time is divided between\n\nMarket work\nHousehold production tasks"
+    "text": "Model\nPeople gain utility from the consumption of goods and services:\n\\[u = f(Z_{1}, Z_{2}, \\ldots, Z_{N})\\]\n\n\\(Z_1, Z_2, \\ldots, Z_n\\) are final goods and services\n\\(f(.)\\) is a function (e.g. Cobb-Douglas, logarithmic, etc.)\n\nEach good/service is produced by the household using:\n\nA set of market inputs \\(X_1, X_2, \\ldots, X_n\\)\nTime \\(h_{i}\\)\n\nTime is divided between:\n\nMarket work\nHousehold production tasks"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-6",
     "href": "slides/lsupply3/index.html#model-6",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nWhat does it mean that households “produce” the goods they consume?\nDoes not mean that literally everyone is producing goods from raw materials\nInstead means that every good/service consumed requires some time to prepare\n\nHiring contractors to remodel a home requires a small amount of home production\n\nTime spent explaining what you need, keeping contractor on schedule\n\nRemodelling your basement by yourself requires much more time\n\nIn this model we explicitly account for substituting time between various uses\n\nWork, home production of various goods, leisure"
+    "text": "Model\nWhat does it mean that households “produce” the goods they consume?\nDoes not mean that literally everyone is producing goods from raw materials\nInstead:\nEvery good/service consumed requires some time to prepare\n\nHiring contractors to remodel a home requires a small amount of home production\n\nTime spent explaining what you need, keeping contractor on schedule\n\nRemodelling your basement by yourself requires much more time\n\nIn this model:\nWe explicitly account for substituting time between various uses:\n\nWork, home production of various goods, leisure"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-7",
     "href": "slides/lsupply3/index.html#model-7",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nExample: a household consumes two goods, nutrition and rest\n\nThese would be \\(Z_1\\) and \\(Z_2\\) in the utility function\n\nNutrition is produced using processed or raw food, and time\n\nThese are \\(X_1\\), \\(X_{2}\\) and \\(h\\)\nRaw food takes time to prepare equal to \\(h = d\\) hours\n\nEach of the three purchased goods has a price\nProcessed food\n\nPrice per unit of nutrition is \\(P_c\\)\nTakes no time to prepare"
+    "text": "Model\n\n\n\n\n\n\nExample: Household Consumes Two Goods\n\n\nNutrition and rest — These would be \\(Z_1\\) and \\(Z_2\\) in the utility function\n\n\n\nNutrition is produced using:\n\nProcessed or raw food, and time\nThese are \\(X_1\\), \\(X_{2}\\) and \\(h\\)\nRaw food takes time to prepare equal to \\(h = d\\) hours\n\nEach of the three purchased goods has a price:\nProcessed food:\n\nPrice per unit of nutrition is \\(P_c\\)\nTakes no time to prepare"
   },
   {
     "objectID": "slides/lsupply3/index.html#model-8",
     "href": "slides/lsupply3/index.html#model-8",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nRaw food\n\nPrice per unit of nutrition is \\(P_r + W_{d}\\)\nThe added time cost is valued at the wage rate \\(W\\) times \\(d\\) hours\n\nLeisure\n\nPrice is the wage rate \\(W\\)"
+    "text": "Model\nRaw food:\n\nPrice per unit of nutrition is \\(P_r + W_{d}\\)\nThe added time cost is valued at the wage rate \\(W\\) times \\(d\\) hours\n\nLeisure:\n\nPrice is the wage rate \\(W\\)"
   },
   {
     "objectID": "slides/lsupply3/index.html#comparative-statics",
     "href": "slides/lsupply3/index.html#comparative-statics",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
-    "text": "Comparative Statics\n\nWhat happens when we start changing some of the prices?\nIncrease in wage rate \\(W\\)\n\nCost of time affects both rest and production of raw food\nHigher wage makes home production more expensive\n\nTime spent cooking becomes more expensive\nSubstitute away from home production to processed food\nSubstitution effect: less home production, more processed food\nIncome effect: higher wage means higher income, so more consumption of all goods\n\nEffect on rest is same as before\n\nSubstitution effect: less rest, more work\nIncome effect: higher income, so more rest"
+    "text": "Comparative Statics\nWhat happens when we start changing some of the prices?\nIncrease in wage rate \\(W\\):\n\nCost of time affects both rest and production of raw food\nHigher wage makes home production more expensive\n\nTime spent cooking becomes more expensive\nSubstitute away from home production to processed food\nSubstitution effect: less home production, more processed food\nIncome effect: higher wage → higher income → more consumption of all goods\n\nEffect on rest is same as before\n\nSubstitution effect: less rest, more work\nIncome effect: higher income → more rest"
   },
   {
     "objectID": "slides/lsupply3/index.html#comparative-statics-1",
     "href": "slides/lsupply3/index.html#comparative-statics-1",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
-    "text": "Comparative Statics\n\nDecrease in price of processed food \\(P_c\\)\n\nProcessed food becomes cheaper relative to other goods\nSubstitution effect: more processed food, less home production\nIncome effect: lower price of processed food means higher real income, so more consumption of all goods\n\nDecrease in price of raw food \\(P_r\\)\n\nRaw food becomes relatively cheaper\nSubstitution effect: more raw food, less processed food\nIncome effect: lower price of raw food means higher real income, so more consumption of all goods"
+    "text": "Comparative Statics\nDecrease in price of processed food \\(P_c\\):\n\nProcessed food becomes cheaper relative to other goods\nSubstitution effect: more processed food, less home production\nIncome effect: lower price → higher real income → more consumption of all goods\n\nDecrease in price of raw food \\(P_r\\):\n\nRaw food becomes relatively cheaper\nSubstitution effect: more raw food, less processed food\nIncome effect: lower price → higher real income → more consumption of all goods"
   },
   {
     "objectID": "slides/lsupply3/index.html#comparative-statics-2",
     "href": "slides/lsupply3/index.html#comparative-statics-2",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
-    "text": "Comparative Statics\n\nDecrease in time required to prepare raw food \\(d\\)\n\nExample: technology that reduces cooking time (e.g. Instant Pot)\nHome production becomes relatively cheaper (through lower time cost)\nSubstitution effect: more raw food, less processed food\nAdditional substitution effect: higher real wage (i.e. they keep more of their wage), less rest, more work\nIncome effect: lower time cost of raw food means higher real income, so more consumption of all goods"
+    "text": "Comparative Statics\nDecrease in time required to prepare raw food \\(d\\):\n\nExample: technology that reduces cooking time (e.g. Instant Pot)\nHome production becomes relatively cheaper (through lower time cost)\n\nEffects:\n\nSubstitution effect: more raw food, less processed food\nAdditional substitution effect: higher real wage (keep more of their wage) → less rest, more work\nIncome effect: lower time cost → higher real income → more consumption of all goods"
   },
   {
     "objectID": "slides/lsupply3/index.html#discussion",
     "href": "slides/lsupply3/index.html#discussion",
     "title": "EC306 - Wages and Employment",
     "section": "Discussion",
-    "text": "Discussion\n\nModel adds more real world complexity to match what people actually do\nEmphaszies that people do not just choose between work and leisure\nAlso emphasizes the role of the household relative to the individual\n\nHousehold members can specialize in different tasks\nChanges for one household member can affect others\n\nDiscussion above did not mention household production function, but it is important\n\nDifferent households have different abilities to produce goods\nThis can affect their choices and responses to changes in prices"
+    "text": "Discussion\nModel adds more real world complexity:\n\nMatches what people actually do\nEmphasizes that people do not just choose between work and leisure\nAlso emphasizes the role of the household relative to the individual\n\nHousehold members can specialize in different tasks\nChanges for one household member can affect others\n\n\n\n\n\n\n\n\nHousehold Production Function\n\n\nDifferent households have different abilities to produce goods. This can affect their choices and responses to changes in prices."
   },
   {
     "objectID": "slides/lsupply3/index.html#introduction-3",
     "href": "slides/lsupply3/index.html#introduction-3",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nFertility is a key life event that affects labour supply\n\nParticularly for women, but also men to some degree\n\nChildren are typically planned to some degree\n\nTiming of children is often chosen to fit with work plans\nNumber of children is often chosen based on lifetime work plans\n\nEconomists have developed models to analyze fertility decisions\n\nThese models are similar to the life cycle labour supply model\n\nWe will not go over the model because it is a bit beyond the scope of this course\nBut we will discuss some of the key variables that affect fertility decisions"
+    "text": "Introduction\nFertility is a key life event that affects labour supply\n\nParticularly for women, but also men to some degree\nChildren are typically planned to some degree\n\nTiming of children is often chosen to fit with work plans\nNumber of children is often chosen based on lifetime work plans\n\n\nEconomists have developed models to analyze fertility decisions\n\nThese models are similar to the life cycle labour supply model\nWe will not go over the model (beyond the scope of this course)\nBut we will discuss some of the key variables that affect fertility decisions"
   },
   {
     "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---income",
     "href": "slides/lsupply3/index.html#variables-affecting-fertility---income",
     "title": "EC306 - Wages and Employment",
     "section": "Variables Affecting Fertility - Income",
-    "text": "Variables Affecting Fertility - Income\n\nIncome is positively related to the number of children\n\nHigher income means higher ability to pay for children\nChildren are a “normal good”\n\nSome disagreement on whether children are considered a normal good in our models\n\nEmpirically, higher income families and countries have lower fertility rates\nExplanation is that substitution effect of higher income dominates income effect\n\nHigher income means higher opportunity cost of time spent on children"
+    "text": "Variables Affecting Fertility - Income\n\n\n\n\n\n\nTheoretical Prediction\n\n\nIncome is positively related to the number of children — higher income → higher ability to pay for children. Children are a “normal good.”\n\n\n\nSome disagreement on whether children are considered a normal good:\n\nEmpirically, higher income families and countries have lower fertility rates\nExplanation: substitution effect of higher income dominates income effect\n\nHigher income → higher opportunity cost of time spent on children"
   },
   {
     "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-children",
     "href": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-children",
     "title": "EC306 - Wages and Employment",
     "section": "Variables Affecting Fertility - Price of Children",
-    "text": "Variables Affecting Fertility - Price of Children\n\nLike goods, the demand curve for children slopes down\n\nHigher “price” of children means fewer children are chosen\n\nSeveral elements involves in the price of children\n\nDirect costs: food, clothing, housework, etc.\nOpportunity costs: time spent caring for children could be spent working for pay\n\nA higher price (wage rate) creates income and substitution effects\n\nIncome effect: higher price means higher lifetime income, so more children\nSubstitution effect: higher price means time with children is more expensive, so fewer children\n\nEffect is theoretically ambiguous, but empirically substitution effect dominates"
+    "text": "Variables Affecting Fertility - Price of Children\nLike goods, the demand curve for children slopes down\n\nHigher “price” of children → fewer children are chosen\n\nPrice of children includes:\n\nDirect costs: food, clothing, housework, etc.\nOpportunity costs: time spent caring for children could be spent working for pay\n\nA higher price (wage rate) creates income and substitution effects:\n\nIncome effect: higher price → higher lifetime income → more children\nSubstitution effect: higher price → time with children more expensive → fewer children\n\n\n\n\n\n\n\nNote\n\n\nEffect is theoretically ambiguous, but empirically substitution effect dominates"
   },
   {
     "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-related-goods",
     "href": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-related-goods",
     "title": "EC306 - Wages and Employment",
     "section": "Variables Affecting Fertility - Price of Related Goods",
-    "text": "Variables Affecting Fertility - Price of Related Goods\n\nMany goods are consumed as part of having children\n\nChildcare, education, etc.\n\nThese are complementary goods\n\nIf you have more children, you will consume more of these goods\nYou could also consider these direct costs of children\n\nWe know that an increase in the price of a complementary good reduces demand\n\nHigher price of childcare or education means fewer children"
+    "text": "Variables Affecting Fertility - Price of Related Goods\nMany goods are consumed as part of having children:\n\nChildcare, education, etc.\nThese are complementary goods\n\nIf you have more children, you will consume more of these goods\nYou could also consider these direct costs of children\n\n\n\n\n\n\n\n\nEconomic Principle\n\n\nAn increase in the price of a complementary good reduces demand. Higher price of childcare or education → fewer children."
   },
   {
     "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---tastes",
     "href": "slides/lsupply3/index.html#variables-affecting-fertility---tastes",
     "title": "EC306 - Wages and Employment",
     "section": "Variables Affecting Fertility - Tastes",
-    "text": "Variables Affecting Fertility - Tastes\n\nTastes for children vary across people and over time\n\nSome people really want children, others do not\nSome cultures value children more than others\nAttitudes towards children have changed over time\n\nA stronger taste for children means more children\n\nThis is like a shift in the demand curve for children\n\nOver time in Canada, there has been a shift away from children\n\nFertility rates have declined over time\nPeople are having fewer children than in the past"
+    "text": "Variables Affecting Fertility - Tastes\nTastes for children vary across people and over time:\n\nSome people really want children, others do not\nSome cultures value children more than others\nAttitudes towards children have changed over time\n\nA stronger taste for children means more children\n\nThis is like a shift in the demand curve for children\n\nOver time in Canada:\n\nThere has been a shift away from children\nFertility rates have declined over time\nPeople are having fewer children than in the past"
   },
   {
     "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---technology",
     "href": "slides/lsupply3/index.html#variables-affecting-fertility---technology",
     "title": "EC306 - Wages and Employment",
     "section": "Variables Affecting Fertility - Technology",
-    "text": "Variables Affecting Fertility - Technology\n\nTechnology in this case could mean several things\n\nCould refer to the “production” of children\nMight also relate to the goods and services used with children\n\nHome automation, disposable diapers, baby monitors, carriers\n\n\nSome key developments in the last few decades\n\nBirth control: allows people to better plan timing and number of children\nFertility treatments: allows some people to have children who otherwise could not\nMedical care: reduces infant mortality, so fewer children needed to ensure some survive\nHome technology: reduces time cost of childcare, so lower opportunity cost of children\n\nHigher technology in any of these areas tends to increase demand for children"
+    "text": "Variables Affecting Fertility - Technology\nTechnology in this case could mean several things:\n\nCould refer to the “production” of children\nMight also relate to the goods and services used with children (e.g. home automation, disposable diapers)\n\nKey developments in the last few decades:\n\nBirth control: allows people to better plan timing and number of children\nFertility treatments: allows some people to have children who otherwise could not\nMedical care: reduces infant mortality, so fewer children needed to ensure some survive\nHome technology: reduces time cost of childcare, so lower opportunity cost of children\n\n\n\n\n\n\n\nTip\n\n\nHigher technology in any of these areas tends to increase demand for children"
   },
   {
     "objectID": "slides/lsupply3/index.html#empirical-evidence",
     "href": "slides/lsupply3/index.html#empirical-evidence",
     "title": "EC306 - Wages and Employment",
     "section": "Empirical Evidence",
-    "text": "Empirical Evidence\n\nEconomists have examined the relationship between income and fertility\nDifficult because of omitted variables\n\nA simple correlation between income and fertility tends to be negative\nImportant to hold constant other variables that affect both income and fertility\n\nExample: education levels are positively related to income and negatively related to fertility\n\n\nWhen other variables are held constant, income tends to be positively related to fertility\n\nConsistent with children being a normal good\n\nTax incentives also tend to increase fertility"
+    "text": "Empirical Evidence\nEconomists have examined the relationship between income and fertility\n\n\n\n\n\n\nChallenge: Omitted Variables\n\n\nA simple correlation between income and fertility tends to be negative. Important to hold constant other variables that affect both income and fertility.\n\n\n\nExample:\n\nEducation levels are positively related to income and negatively related to fertility\n\nWhen other variables are held constant:\n\nIncome tends to be positively related to fertility\nConsistent with children being a normal good\nTax incentives also tend to increase fertility"
   },
   {
     "objectID": "slides/lsupply3/index.html#introduction-4",
     "href": "slides/lsupply3/index.html#introduction-4",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nRetirement is a key life event that affects labour supply\n\nMost people retire at some point\nRetirement age has been changing over time\n\nIt can mean many things\n\nPermanent exit from the labour force\nA reduction to part-time work\nRetiring from one full-time job and taking another\n\nFor most people retirement means permanent exit from the labour force"
+    "text": "Introduction\nRetirement is a key life event that affects labour supply\n\nMost people retire at some point\nRetirement age has been changing over time\n\nIt can mean many things:\n\nPermanent exit from the labour force\nA reduction to part-time work\nRetiring from one full-time job and taking another\n\nFor most people:\nRetirement means permanent exit from the labour force"
   },
   {
     "objectID": "slides/lsupply3/index.html#determinants-of-retirement---age",
     "href": "slides/lsupply3/index.html#determinants-of-retirement---age",
     "title": "EC306 - Wages and Employment",
     "section": "Determinants of Retirement - Age",
-    "text": "Determinants of Retirement - Age\n\nAge is the most important determinant of retirement\n\nMost people retire between ages 60 and 70\nVery few people retire before age 50 or after age 75\n\nSome places have mandatory retirement\n\nIn Canada it is generally illegal to force retirement based on age\nExcept if deemed a bona fide occupational requirement (BFOR), like for pilots, police, firefighters, air traffic controllers\nStill exits in other parts of the world (e.g. Japan, China, parts of Europe)"
+    "text": "Determinants of Retirement - Age\n\n\n\n\n\n\nMost Important Determinant\n\n\nAge is the most important determinant of retirement\n\n\n\n\nMost people retire between ages 60 and 70\nVery few people retire before age 50 or after age 75\n\nMandatory retirement:\n\nIn Canada it is generally illegal to force retirement based on age\nExcept if deemed a bona fide occupational requirement (BFOR)\n\nLike for pilots, police, firefighters, air traffic controllers\n\nStill exists in other parts of the world (e.g. Japan, China, parts of Europe)"
   },
   {
     "objectID": "slides/lsupply3/index.html#determinants-of-retirement---wealthearnings",
     "href": "slides/lsupply3/index.html#determinants-of-retirement---wealthearnings",
     "title": "EC306 - Wages and Employment",
     "section": "Determinants of Retirement - Wealth/Earnings",
-    "text": "Determinants of Retirement - Wealth/Earnings\n\nWealth in our model entered as non-labour earnings\n\nHigher wealth means higher non-labour income\nHigher non-labour income means more leisure (less work)\n\nEarnings changes have income and substitution effects\n\nIncome effect: higher earnings means higher lifetime income, so more leisure (less work)\nSubstitution effect: higher earnings means leisure is more expensive, so less leisure (more work)\n\nCan also think of this in a lifecycle. model"
+    "text": "Determinants of Retirement - Wealth/Earnings\nWealth in our model entered as non-labour earnings:\n\nHigher wealth → higher non-labour income\nHigher non-labour income → more leisure (less work)\n\nEarnings changes have income and substitution effects:\n\nIncome effect: higher earnings → higher lifetime income → more leisure (less work)\nSubstitution effect: higher earnings → leisure more expensive → less leisure (more work)\n\nCan also think of this in a lifecycle model"
   },
   {
     "objectID": "slides/lsupply3/index.html#determinants-of-retirement---other",
     "href": "slides/lsupply3/index.html#determinants-of-retirement---other",
     "title": "EC306 - Wages and Employment",
     "section": "Determinants of Retirement - Other",
-    "text": "Determinants of Retirement - Other\n\nHealth is an important determinant of retirement\n\nPoor health can force people to retire early\nGood health can allow people to work longer\nHealth of family members can also play a role\nMight operate through non-labour income or preferences\n\nChanging nature of work can influence decisions\n\nMove towards less physically demanding jobs can prolong work life\nMore flexible work arrangements can allow people to work longer\nAlternatively, more stressful jobs can lead to earlier retirement\nAutomation might force early retirement\nCould affect the budget constraint or preferences"
+    "text": "Determinants of Retirement - Other\nHealth is an important determinant:\n\nPoor health can force people to retire early\nGood health can allow people to work longer\nHealth of family members can also play a role\nMight operate through non-labour income or preferences\n\nChanging nature of work:\n\nMove towards less physically demanding jobs can prolong work life\nMore flexible work arrangements can allow people to work longer\nAlternatively, more stressful jobs can lead to earlier retirement\nAutomation might force early retirement\nCould affect the budget constraint or preferences"
   },
   {
     "objectID": "slides/lsupply3/index.html#determinants-of-retirement---other-1",
     "href": "slides/lsupply3/index.html#determinants-of-retirement---other-1",
     "title": "EC306 - Wages and Employment",
     "section": "Determinants of Retirement - Other",
-    "text": "Determinants of Retirement - Other\n\nChanging nature of family\n\nThere are many more two-earner families now\nThis can lead to earlier retirement for one spouse\nOr could prolong work if spouses want to work together longer\nChildren living at home for longer can also affect retirement timing\nIncrease in caring for elderly parents can lead to earlier or later retirement\nMight affect budget constraint or preferences"
+    "text": "Determinants of Retirement - Other\nChanging nature of family:\n\nMany more two-earner families now\n\nCan lead to earlier retirement for one spouse\nOr could prolong work if spouses want to work together longer\n\nChildren living at home for longer can affect retirement timing\nIncrease in caring for elderly parents can lead to earlier or later retirement\nMight affect budget constraint or preferences"
   },
   {
     "objectID": "slides/lsupply3/index.html#retirement-income",
     "href": "slides/lsupply3/index.html#retirement-income",
     "title": "EC306 - Wages and Employment",
     "section": "Retirement Income",
-    "text": "Retirement Income\n\nPublic and private pension plans have major effect on retirement decisions\n\nThey determine most income in retirement\n\nThe pension system in Canada consists of\n\n\nOld Age Security (OAS)\n\n\nA flat rate pension available to most Canadians over age 65\nFunded out of general tax revenues\nMonthly max is $740 for those aged 65-74, $814 for those 75+\nClawback for high income earners (above $148,000 in 2024)\nSupplemented by the Guaranteed Income Supplement (GIS) for low income seniors"
+    "text": "Retirement Income\n\n\n\n\n\n\nMajor Effect on Retirement Decisions\n\n\nPublic and private pension plans determine most income in retirement\n\n\n\nThe pension system in Canada consists of:\n1. Old Age Security (OAS)\n\nA flat rate pension available to most Canadians over age 65\nFunded out of general tax revenues\nMonthly max is $740 for those aged 65-74, $814 for those 75+\nClawback for high income earners (above $148,000 in 2024)\nSupplemented by the Guaranteed Income Supplement (GIS) for low income seniors"
   },
   {
     "objectID": "slides/lsupply3/index.html#retirement-income-1",
     "href": "slides/lsupply3/index.html#retirement-income-1",
     "title": "EC306 - Wages and Employment",
     "section": "Retirement Income",
-    "text": "Retirement Income\n\nCanada/Quebec Pension Plan (CPP/QPP)\n\nEarnings-related pension available to those who have contributed\nFunded by contributions from employees, employers, and self-employed\nMonthly max is $1,433 in 2025 (age 65)\nCan start receiving as early as age 60 (reduced) or as late as age 70 (increased)\nBased on average earnings over working life, up to a maximum limit\n\nEmployer Pension Plans\n\nMany employers offer pension plans to employees\nCan be defined benefit or defined contribution plans\nVary widely in terms of benefits and eligibility\nIncludes private savings from RRSPs"
+    "text": "Retirement Income\n2. Canada/Quebec Pension Plan (CPP/QPP)\n\nEarnings-related pension available to those who have contributed\nFunded by contributions from employees, employers, and self-employed\nMonthly max is $1,433 in 2025 (age 65)\nCan start receiving as early as age 60 (reduced) or as late as age 70 (increased)\nBased on average earnings over working life, up to a maximum limit\n\n3. Employer Pension Plans\n\nMany employers offer pension plans to employees\nCan be defined benefit or defined contribution plans\nVary widely in terms of benefits and eligibility\nIncludes private savings from RRSPs"
   },
   {
     "objectID": "slides/lsupply3/index.html#old-age-security",
     "href": "slides/lsupply3/index.html#old-age-security",
     "title": "EC306 - Wages and Employment",
     "section": "Old Age Security",
-    "text": "Old Age Security\n\nWhat effect does OAS have on retirement decisions?\nOperates as a lump sum transfer\n\nIncreases non-labour income\nCreates income effect: more leisure (less work)\nNo substitution effect because it does not change the wage rate\n\nGIS operates like a negative income tax\n\nPeople get a the lump sum payment\nPayments reduced by $0.50 for each dollar of work income\nHas work incentives equal to a negative income tax"
+    "text": "Old Age Security\nWhat effect does OAS have on retirement decisions?\nOperates as a lump sum transfer:\n\nIncreases non-labour income\nCreates income effect: more leisure (less work)\nNo substitution effect because it does not change the wage rate\n\nGIS operates like a negative income tax:\n\nPeople get the lump sum payment\nPayments reduced by $0.50 for each dollar of work income\nHas work incentives equal to a negative income tax"
   },
   {
     "objectID": "slides/lsupply3/index.html#canadaquebec-pension-plan",
     "href": "slides/lsupply3/index.html#canadaquebec-pension-plan",
     "title": "EC306 - Wages and Employment",
     "section": "Canada/Quebec Pension Plan",
-    "text": "Canada/Quebec Pension Plan\n\nThe effect of pension income on retirement depends on how it is structured\nIn Canada currently, it is simply a fixed payment\n\nIncreases non-labour income\nCreates income effect: more leisure (less work)\nNo substitution effect because it does not change the wage rate\n\nIn the past, there was a provision that reduced benefits if you worked\n\nSimilar to a negative income tax\nIf the tax back rate is 100%, then it is like pure welfare\nCould also not tax back until a certain income level"
+    "text": "Canada/Quebec Pension Plan\nThe effect of pension income on retirement depends on how it is structured\nIn Canada currently, it is simply a fixed payment:\n\nIncreases non-labour income\nCreates income effect: more leisure (less work)\nNo substitution effect because it does not change the wage rate\n\nIn the past, there was a provision that reduced benefits if you worked:\n\nSimilar to a negative income tax\nIf the tax back rate is 100%, then it is like pure welfare\nCould also not tax back until a certain income level"
   },
   {
     "objectID": "slides/lsupply3/index.html#employer-pension-plan",
     "href": "slides/lsupply3/index.html#employer-pension-plan",
     "title": "EC306 - Wages and Employment",
     "section": "Employer Pension Plan",
-    "text": "Employer Pension Plan\n\nGenerally involve a fixed payment based on years of service and earnings\n\nIncreases non-labour income\nCreates income effect: more leisure (less work)\nNo substitution effect because it does not change the wage rate\n\nOver time the parameters that determine the fixed payment can change\n\nThis can alter work incentives at retirement\nExample: if the benefit formula is changed to require more years of service\n\nWould reduce the income effect of the pension\nCould also create a substitution effect to work more to get the pension"
+    "text": "Employer Pension Plan\nGenerally involve a fixed payment based on years of service and earnings\n\nIncreases non-labour income\nCreates income effect: more leisure (less work)\nNo substitution effect because it does not change the wage rate\n\nOver time the parameters that determine the fixed payment can change:\n\nThis can alter work incentives at retirement\nExample: if the benefit formula is changed to require more years of service\n\nWould reduce the income effect of the pension\nCould also create a substitution effect to work more to get the pension"
   },
   {
     "objectID": "slides/lsupply3/index.html#evidence-on-effect-of-pensions",
     "href": "slides/lsupply3/index.html#evidence-on-effect-of-pensions",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence on Effect of Pensions",
-    "text": "Evidence on Effect of Pensions\n\nStudies find that pensions affect retirement in expected ways\n\nPensions that increase non-labour income lead to earlier retirement\nPensions that create work incentives lead to later retirement\n\nMore recent work\n\nIncrease in retirement age increases working-age disability claims in UK\nIncreasing public pension participation improves health behaviours (less smoking)\nPension reform allowing Japanese spouses to claim half of pension earnings increased divorce"
+    "text": "Evidence on Effect of Pensions\n\n\n\n\n\n\nMain Finding\n\n\nStudies find that pensions affect retirement in expected ways\n\n\n\n\nPensions that increase non-labour income lead to earlier retirement\nPensions that create work incentives lead to later retirement\n\nMore recent work:\n\nIncrease in retirement age increases working-age disability claims in UK\nIncreasing public pension participation improves health behaviours (less smoking)\nPension reform allowing Japanese spouses to claim half of pension earnings increased divorce"
   },
   {
     "objectID": "slides/lsupply3/index.html#summary-1",
     "href": "slides/lsupply3/index.html#summary-1",
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
-    "text": "Summary\n\nLabour supply varies over the life cycle\n\nParticipation highest in prime working years\n\nA life cycle approach helps us understand these patterns\nDynamic life cycle models can analyze effects of wage changes\n\nPermanent unanticipated changes\nAnticipated future changes\nTemporary unanticipated changes\n\nHousehold production is an important part of labour supply decisions\n\nPeople allocate time between work, household production, and leisure\nChanges in prices of goods and time costs affect these choices\n\nFertility decisions are affected by income, prices, tastes, and technology\nRetirement decisions are affected by age, wealth, health, family, and pensions"
+    "text": "Summary\nLabour supply varies over the life cycle\n\nParticipation highest in prime working years\nA life cycle approach helps us understand these patterns\n\nDynamic life cycle models can analyze effects of wage changes:\n\nPermanent unanticipated changes\nAnticipated future changes\nTemporary unanticipated changes\n\nHousehold production is an important part of labour supply decisions\n\nPeople allocate time between work, household production, and leisure\nChanges in prices of goods and time costs affect these choices"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#summary-2",
+    "href": "slides/lsupply3/index.html#summary-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\nFertility decisions are affected by:\nIncome, prices, tastes, and technology\nRetirement decisions are affected by:\nAge, wealth, health, family, and pensions"
   }
 ]
