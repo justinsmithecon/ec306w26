@@ -58,3 +58,35 @@ a\) EITC compared to welfare
 ## BGLRS Chapter 3 Problem 7
 
 b\) Wage subsidy compared to a negative income tax
+
+## BGLRS Chapter 3 Problem 3
+
+Use the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would.
+
+## MC1
+
+Suppose that a worker says that due to a refundable tax benefit, it appears to her that working pays more than it used to, and so she wants to work longer hours. What type of effect is involved?
+
+a\) Only a substitution effect
+
+b\) Only an income effect
+
+c\) Both a substitution and an income effect
+
+d\) A reservation wage effect
+
+e\) No impact on incentives at all
+
+## MC2
+
+Which of the following statements concerning subsidies for child care expenses is true?
+
+a\) They change the slope of the budget line.
+
+b\) They reduce the fixed costs of working.
+
+c\) They discourage labour force participation.
+
+d\) They tend to increase the reservation wage of working.
+
+e\) They cause a strong substitution effect toward more working activity.
