@@ -23,7 +23,7 @@ editor: visual
 
 <h2>Wilfrid Laurier University</h2>
 
-<h2>Fall 2025</h2>
+<h2>Winter 2026</h2>
 
 ![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
 
@@ -34,3 +34,25 @@ The evaluation of the labour supply response to a tax cut can be quite different
 ## BGLRS Chapter 4 Problem 2
 
 Consider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?
+
+## BGLRS Chapter 4 Problem 4
+
+Use your knowledge of household production theory to indicate the following
+
+a\) The expected effect of a wage increase on the wife's labour supply
+
+## BGLRS Chapter 4 Problem 4
+
+b\) The expected effect on the demand for children of an increase in the wage of a wife
+
+## BGLRS Chapter 4 Problem 4
+
+c\) Why the substitution effect for labour supply may be larger for women than men
+
+## BGLRS Chapter 4 Problem 4
+
+d\) The effect on one spouse's labour supply of his or her spouse's disability where the spouse requires home care
+
+## BGLRS Chapter 4 Problem 4
+
+e\) The effect on this same spouse's labour supply if the government provided financial compensation to the family
