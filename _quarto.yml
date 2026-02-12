@@ -46,8 +46,8 @@ website:
               file: content/lsupply3.qmd   
             - text: "Labour Demand 1: Competitive Labour Markets"
               file: content/ldemand1.qmd
-#            - text: "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-#              file: content/ldemand2.qmd                
+            - text: "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+              file: content/ldemand2.qmd                
 #            - text: "Wages and Employment in a Single Labour Market"
 #              file: content/lmarket.qmd  
 #            - text: "Human Capital Theory"

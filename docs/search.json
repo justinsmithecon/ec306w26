@@ -2244,21 +2244,36 @@
     "href": "content/ldemand2.html",
     "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
     "section": "",
-    "text": "BGLRS Chapter 6"
+    "text": "BGLRS Chapter 6",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
   },
   {
     "objectID": "content/ldemand2.html#readings",
     "href": "content/ldemand2.html#readings",
     "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
     "section": "",
-    "text": "BGLRS Chapter 6"
+    "text": "BGLRS Chapter 6",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
   },
   {
     "objectID": "content/ldemand2.html#slides",
     "href": "content/ldemand2.html#slides",
     "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
     "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF."
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
   },
   {
     "objectID": "content/introtostata.html",
@@ -3468,21 +3483,21 @@
     "href": "slides/ldemand2/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDistinguish between workers and hours as an input into production\nIncorporate non-wage benefits into the labour demand model\nAlso add costs that are independent of hours worked (quasi-fixed costs)\nDiscuss the implications of quasi-fixed costs for labour demand"
+    "text": "Goals of This Section\nToday we will:\n\nDistinguish between workers and hours as an input into production\nIncorporate non-wage benefits into the labour demand model\nAdd costs that are independent of hours worked (quasi-fixed costs)\nDiscuss the implications of quasi-fixed costs for labour demand"
   },
   {
     "objectID": "slides/ldemand2/index.html#background-1",
     "href": "slides/ldemand2/index.html#background-1",
     "title": "EC306 - Wages and Employment",
     "section": "Background",
-    "text": "Background\n\nSo far we have discussed labour as a purely variable input paid a wage per hour worked\nIn reality it is not so simple\n\nWorkers are sometimes paid other benefits besides wages\n\nCPP, EI, , retirement benefits, paid vacation, sick leave, etc.\n\nThere are costs beyond the hourly wage\n\nHiring and training costs\nCosts of dismissal\nNon-wage benefits described above\n\n\nThese benefits and costs complicate the labour demand decision"
+    "text": "Background\n\n\n\n\n\n\nPrevious Assumption\n\n\nLabour is a purely variable input paid a wage per hour worked\n\n\n\nIn reality it is not so simple:\n\nWorkers are sometimes paid other benefits besides wages\n\nCPP, EI, retirement benefits, paid vacation, sick leave, etc.\n\nThere are costs beyond the hourly wage\n\nHiring and training costs\nCosts of dismissal\nNon-wage benefits described above\n\n\nThese benefits and costs complicate the labour demand decision"
   },
   {
     "objectID": "slides/ldemand2/index.html#non-wage-benefits-1",
     "href": "slides/ldemand2/index.html#non-wage-benefits-1",
     "title": "EC306 - Wages and Employment",
     "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nAs discussed above, compensation typically includes more than just wages\nCommon non-wage benefits include\n\nHealth insurance (beyond public health care)\nRetirement benefits\nPaid vacation and sick leave\nOther perks (e.g. gym memberships, childcare, etc.)\n\nThese benefits have value to workers\nThey increased as a share of total compensation through the 90s and early 2000s"
+    "text": "Non-wage Benefits\nCompensation typically includes more than just wages\nCommon non-wage benefits:\n\nHealth insurance (beyond public health care)\nRetirement benefits\nPaid vacation and sick leave\nOther perks (gym memberships, childcare, etc.)\nThese benefits have value to workers\nIncreased as a share of total compensation through the 90s and early 2000s"
   },
   {
     "objectID": "slides/ldemand2/index.html#non-wage-benefits-2",
@@ -3503,74 +3518,67 @@
     "href": "slides/ldemand2/index.html#non-wage-benefits-4",
     "title": "EC306 - Wages and Employment",
     "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nWhy do firms pay these benefits instead of wages?\n\nSometimes they are not taxed\nEconomies of scale in providing benefits\n\nThings like pensions and insurance are cheaper when provided to a group\nBecause it avoids adverse selection problems\n\nWorker preferences\n\nSome workers may prefer benefits to wages\nE.g. risk-averse workers may prefer health insurance\n\nLegal requirements"
+    "text": "Non-wage Benefits\nWhy do firms pay benefits instead of wages?\n\nTax advantages: sometimes benefits are not taxed\nEconomies of scale: pensions and insurance are cheaper when provided to a group (avoids adverse selection)\nWorker preferences: risk-averse workers may prefer health insurance to wages\nLegal requirements"
   },
   {
     "objectID": "slides/ldemand2/index.html#non-wage-benefits-5",
     "href": "slides/ldemand2/index.html#non-wage-benefits-5",
     "title": "EC306 - Wages and Employment",
     "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nContinued…\n\nBetter firm planning\n\nSome benefits can reduce absenteeism\nContingency plans for worker illness or accidents through sick leave\n\nBetter for productivity\n\nSubsidized meals keep people working\n\nDeferred compensation\n\nRetirement benefits can help retain workers\nWorkers may accept lower wages in exchange for future benefits\nActs as a screen for good workers"
+    "text": "Non-wage Benefits\nMore reasons:\n\nBetter firm planning: benefits like sick leave reduce absenteeism and provide contingency plans\nProductivity: subsidized meals keep people working\nDeferred compensation: retirement benefits help retain workers\n\nWorkers may accept lower wages in exchange for future benefits\nActs as a screen for good workers"
   },
   {
     "objectID": "slides/ldemand2/index.html#non-wage-benefits-6",
     "href": "slides/ldemand2/index.html#non-wage-benefits-6",
     "title": "EC306 - Wages and Employment",
     "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nGovernments sometimes prefer (and mandate) them also\n\nFirm pensions reduce need for public pensions\nBetter health outcomes reduce public health care costs\nImprove the social safety net through sick leave and unemployment insurance\n\nWith all these reasons, it is not surprising that non-wage benefits are common"
+    "text": "Non-wage Benefits\nGovernments also prefer and mandate them:\n\nFirm pensions reduce need for public pensions\nBetter health outcomes reduce public health care costs\nImprove social safety net through sick leave and unemployment insurance\n\n\n\n\n\n\n\nTip\n\n\nWith all these reasons, it is not surprising that non-wage benefits are common"
   },
   {
     "objectID": "slides/ldemand2/index.html#introduction",
     "href": "slides/ldemand2/index.html#introduction",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nWe have been agnostic about whether labour is measured in workers or hours worked\nBut there is an important distinction\n\nSome costs are incurred per worker regardless of hours worked\nOther costs are incurred per hour worked\n\nCosts that occur per worker but are relatively independent of hours worked are quasi-fixed costs\n\nPure quasi-fixed costs do not vary with hours worked at all\nIn practice, many costs are partially quasi-fixed\nSome of these costs may be recurring (e.g. monthly EI premiums) and others one-time (e.g. hiring and training costs)"
+    "text": "Introduction\n\n\n\n\n\n\nImportant Distinction\n\n\nSome costs are incurred per worker regardless of hours worked. Others are incurred per hour worked.\n\n\n\nQuasi-fixed costs: costs that occur per worker but are relatively independent of hours worked\n\nPure quasi-fixed costs do not vary with hours worked at all\nIn practice, many costs are partially quasi-fixed\nSome recurring (e.g. monthly EI premiums), others one-time (e.g. hiring and training costs)"
   },
   {
     "objectID": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs",
     "href": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs",
     "title": "EC306 - Wages and Employment",
     "section": "Examples of Quasi-fixed Costs",
-    "text": "Examples of Quasi-fixed Costs\n\nHiring costs\n\nRecruiting, interviewing, and training are costly\nIncurred when a worker is hired regardless of hours worked\nFirms generally try to minimize hiring costs by retaining workers\n\nTermination costs\n\nSeverance pay, legal fees, and administrative costs\nInitially depend on time with company, but have a maximum so they become fixed\nFirms may be reluctant to lay off workers because of these costs"
+    "text": "Examples of Quasi-fixed Costs\nHiring costs:\n\nRecruiting, interviewing, and training are costly\nIncurred when a worker is hired regardless of hours worked\nFirms generally try to minimize hiring costs by retaining workers\n\nTermination costs:\n\nSeverance pay, legal fees, and administrative costs\nInitially depend on time with company, but have a maximum so become fixed\nFirms may be reluctant to lay off workers because of these costs"
   },
   {
     "objectID": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs-1",
     "href": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs-1",
     "title": "EC306 - Wages and Employment",
     "section": "Examples of Quasi-fixed Costs",
-    "text": "Examples of Quasi-fixed Costs\n\nEmployer contributions to payroll taxes\n\nEI and CPP are initially related to work hours\nBut they have a ceiling so they become quasi-fixed for high hours worked\n\nOther non-wage benefits\n\nEmployer contributions to life insurance, medical, dental plans\nOften have a fixed component regardless of hours worked\n\nNote that if a cost always varies with hours worked it is not quasi-fixed\n\nE.g. hourly wage, overtime premiums, per-hour health and safety costs, etc."
+    "text": "Examples of Quasi-fixed Costs\nEmployer contributions to payroll taxes:\n\nEI and CPP are initially related to work hours\nBut they have a ceiling so become quasi-fixed for high hours worked\n\nOther non-wage benefits:\n\nEmployer contributions to life insurance, medical, dental plans\nOften have a fixed component regardless of hours worked\n\n\n\n\n\n\n\nNote\n\n\nIf a cost always varies with hours worked it is not quasi-fixed — e.g. hourly wage, overtime premiums, per-hour health and safety costs"
   },
   {
     "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs",
     "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs",
     "title": "EC306 - Wages and Employment",
     "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nPreviously we saw that labour demand is determined by equating \\(MRP_L\\) to the wage rate\nThe decision is similar with quasi-fixed costs, but now the cost of hiring a worker is higher\nThere is also a dynamic component where firms amortize the costs over time\n\nFirms may pay high training costs now\nBut expect the worker to remain with the firm to recoup those costs"
+    "text": "Effects of Quasi-fixed Costs\nPreviously: labour demand determined by equating \\(MRP_L\\) to the wage rate\nWith quasi-fixed costs, the cost of hiring a worker is higher. There is also a dynamic component — firms amortize costs over time:\n\nFirms may pay high training costs now\nBut expect the worker to remain to recoup those costs\n\nA profit maximizing firm will hire workers up to the point where:\n\\[H + T + \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t} = \\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t}\\]\nWhere \\(H\\) = hiring cost, \\(T\\) = training cost, \\(w_t\\) = wage, \\(VMP_t\\) = value of marginal product, \\(r\\) = discount rate, \\(N\\) = expected tenure"
   },
   {
     "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-1",
     "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-1",
     "title": "EC306 - Wages and Employment",
     "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nA profit maximizing firm will hire workers up to the point where\n\n\\[H + T + \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t} = \\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t}\\]\n\nWhere\n\n\\(H\\) = hiring cost\n\\(T\\) = training cost\n\\(w_t\\) = wage in period \\(t\\)\n\\(VMP_t\\) = value of marginal product in period \\(t\\)\n\\(r\\) = discount rate\n\\(N\\) = expected tenure of worker"
+    "text": "Effects of Quasi-fixed Costs\nThis equation has several implications:\n\nFirms reluctant to hire workers for short periods if hiring costs are high\nWage does not have to equal marginal product in each period\nFuture productivity matters, but is discounted\nFirms may pay more than current marginal product if future productivity is expected to be high\n\nWhen hiring costs are a factor, future productivity must exceed the total wage:\n\\[\\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t} &gt; \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t}\\]"
   },
   {
     "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-2",
     "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-2",
     "title": "EC306 - Wages and Employment",
     "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nThis equation has several implications\n\nFirms will be reluctant to hire workers for short periods if hiring costs are high\nThe wage does not have to equal the marginal product of labour in each period\nFuture productivity matters, but is discounted\nFirms may be willing to pay more than the current marginal product if they expect future productivity to be high\n\nRelated to the last point, when hiring costs are a factor future productivity must exceed the total wage\n\n\\[\\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t} &gt; \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t}\\]"
+    "text": "Effects of Quasi-fixed Costs\n\n\n\n\n\n\nLike Any Other Investment Decision\n\n\nFirms invest in workers when the present value of future returns exceeds the present value of costs\n\n\n\n\nHiring and training costs → “upfront” investment costs\nWages → “ongoing” investment costs\nFuture productivity → returns on investment\nYou only make the investment if you expect to earn at least as much as you spend"
   },
   {
     "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-3",
     "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nThis is similar to any other investment decision\n\nFirms invest in workers when the present value of future returns exceeds the present value of costs\nHiring and training costs are like “upfront” costs of investment\nWages are like “ongoing” costs of investment\nFuture productivity is like the “returns” on that investment\nYou only make the investment if you expect to earn at least as much as you spend\n\nThe next slide presents an example"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-4",
-    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-4",
     "title": "EC306 - Wages and Employment",
     "section": "Effects of Quasi-fixed Costs",
     "text": "Effects of Quasi-fixed Costs"
@@ -3580,98 +3588,105 @@
     "href": "slides/ldemand2/index.html#overtime",
     "title": "EC306 - Wages and Employment",
     "section": "Overtime",
-    "text": "Overtime\n\nFirms sometimes work employees longer despite higher overtime wages\nCan be explained by high quasi-fixed costs of hiring additional workers\n\nMay be cheaper paying these higher wages to incurring hiring and training costs\nEspecially the case for high skill workers who require a lot of training"
+    "text": "Overtime\nFirms sometimes work employees longer despite higher overtime wages\n\n\n\n\n\n\nExplanation\n\n\nHigh quasi-fixed costs of hiring additional workers make it cheaper to pay overtime than incur hiring and training costs — especially true for high-skill workers requiring a lot of training"
   },
   {
     "objectID": "slides/ldemand2/index.html#temp-and-gig-workers",
     "href": "slides/ldemand2/index.html#temp-and-gig-workers",
     "title": "EC306 - Wages and Employment",
     "section": "Temp and Gig Workers",
-    "text": "Temp and Gig Workers\n\nFirms do not always hire part- or full-time employees directly\nThey sometimes use temp agencies, or “gig” workers\n\nLaurier hires a cleaning firm and does not employ many janitors directly\nUber classifies drivers as independent contractors\n\nBy doing this firms do not pay quasi-fixed costs"
+    "text": "Temp and Gig Workers\nFirms do not always hire part- or full-time employees directly\nThey sometimes use temp agencies or “gig” workers:\n\nLaurier hires a cleaning firm and does not employ many janitors directly\nUber classifies drivers as independent contractors\n\n\n\n\n\n\n\nExplanation\n\n\nBy doing this, firms avoid paying quasi-fixed costs"
   },
   {
     "objectID": "slides/ldemand2/index.html#layoffs",
     "href": "slides/ldemand2/index.html#layoffs",
     "title": "EC306 - Wages and Employment",
     "section": "Layoffs",
-    "text": "Layoffs\n\nDuring downturns in the economy firms sometimes keep workers around\nThis can be explained by quasi-fixed costs of hiring and termination\n\nPaying severance and incurring legal fees may be costly\nFirms may prefer to keep workers on payroll if they expect a quick recovery\nFirms may also be reluctant to lay off skilled workers due to high training costs\n\nThis can lead to labour hoarding during downturns\nAlso explains why highly educated workers tend to suffer less unemployment during recessions"
+    "text": "Layoffs\nDuring downturns firms sometimes keep workers around\n\n\n\n\n\n\nExplanation: Labour Hoarding\n\n\n\nPaying severance and legal fees may be costly\nFirms may prefer to keep workers on payroll if they expect a quick recovery\nFirms reluctant to lay off skilled workers due to high training costs\n\n\n\n\nThis also explains why highly educated workers tend to suffer less unemployment during recessions"
   },
   {
     "objectID": "slides/ldemand2/index.html#layoffs-1",
     "href": "slides/ldemand2/index.html#layoffs-1",
     "title": "EC306 - Wages and Employment",
     "section": "Layoffs",
-    "text": "Layoffs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph to left illustrates labour hoarding\nTop panel is without quasi-fixed costs\nFirm hires to point where \\(VMP = w\\)\nIn economic downturn, \\(VMP\\) shifts down\n\nBecause of lower demand for output, and therefore price\n\nWith the same wage, firms hire fewer workers"
+    "text": "Layoffs\n\n\n\n\nTop panel — without quasi-fixed costs:\n\nFirm hires to point where \\(VMP = w\\)\nIn downturn, \\(VMP\\) shifts down (lower demand for output)\nWith same wage, firms hire fewer workers"
   },
   {
     "objectID": "slides/ldemand2/index.html#layoffs-2",
     "href": "slides/ldemand2/index.html#layoffs-2",
     "title": "EC306 - Wages and Employment",
     "section": "Layoffs",
-    "text": "Layoffs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBottom panel is with quasi-fixed costs\nQuasi-fixed costs shift VMP curve down prior to downturn\n\nFirm hires to point where \\(VMP - (H + T) = w\\)\nFewer workers are hired initially because of these costs\n\nCreates wedge between VMP and wage\n\nVMP is now higher than wage\n\nAfter downturn, VMP shifts down\n\nBut because of wedge, firm may not change employment"
+    "text": "Layoffs\n\n\n\n\nBottom panel — with quasi-fixed costs:\n\nQuasi-fixed costs shift \\(VMP\\) curve down prior to downturn\n\nFirm hires to point where \\(VMP - (H + T) = w\\)\n\nCreates wedge between \\(VMP\\) and wage\nAfter downturn, \\(VMP\\) shifts down\n\nBut because of wedge, firm may not change employment"
   },
   {
     "objectID": "slides/ldemand2/index.html#segmentation",
     "href": "slides/ldemand2/index.html#segmentation",
     "title": "EC306 - Wages and Employment",
     "section": "Segmentation",
-    "text": "Segmentation\n\nHiring costs mean trained and untrained employees are different\n\nFirms may be reluctant to hire untrained workers because of high training costs\n\nWhen quasi-fixed costs are high, firms to prefer to retain or hire trained workers\nLeads to a segmentation into protected and unprotected workers in labour market\nAlso leads firms to work employees more intensively than hire new workers\n\nExample: big law firms that work associates long hours instead of hiring new associates"
+    "text": "Segmentation\nHiring costs mean trained and untrained employees are different\n\nFirms reluctant to hire untrained workers because of high training costs\nWhen quasi-fixed costs are high, firms prefer to retain or hire trained workers\nLeads to a segmentation into protected and unprotected workers\n\nAlso leads firms to work employees more intensively rather than hire new workers\n\n\n\n\n\n\nExample\n\n\nBig law firms work associates long hours instead of hiring new associates"
   },
   {
     "objectID": "slides/ldemand2/index.html#work-sharing",
     "href": "slides/ldemand2/index.html#work-sharing",
     "title": "EC306 - Wages and Employment",
     "section": "Work Sharing",
-    "text": "Work Sharing\n\nSome individuals would embrace work sharing\n\nTwo or more people share a job\nHiring more people to each work less hours for the same total hours\n\nQuasi-fixed costs explain why firms do not engage more in this activity\n\nHiring costs make it costly to bring on additional workers\nFirms prefer to have fewer workers working more hours each\nEven if total hours worked is the same"
+    "text": "Work Sharing\nSome individuals would embrace work sharing\n\nTwo or more people share a job\nHire more people to each work less hours for same total hours\n\n\n\n\n\n\n\nWhy Firms Resist\n\n\nQuasi-fixed costs make it costly to bring on additional workers — firms prefer fewer workers working more hours, even if total hours worked is the same"
   },
   {
     "objectID": "slides/ldemand2/index.html#introduction-1",
     "href": "slides/ldemand2/index.html#introduction-1",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nIn this section we expand on work sharing\nIn Canada work sharing is a government program that subsidizes employee wages during downturns\n\nAdministered through Employment Insurance\nAllows firms to reduce hours of employees instead of laying them off\nEmployees form a “work sharing group” and agree to reduce hours\nMaximum duration of 26 weeks, with possible extensions\n\nThe key idea is to avoid layoffs and employ more people\n\nThis is why the government is involved"
+    "text": "Introduction\n\n\n\n\n\n\nCanada’s Work Sharing Program\n\n\nGovernment program that subsidizes employee wages during downturns, administered through Employment Insurance\n\n\n\nHow it works:\n\nAllows firms to reduce hours instead of laying workers off\nEmployees form a “work sharing group” and agree to reduce hours\nMaximum duration of 26 weeks with possible extensions\n\nThe key idea is to avoid layoffs and employ more people"
   },
   {
     "objectID": "slides/ldemand2/index.html#introduction-2",
     "href": "slides/ldemand2/index.html#introduction-2",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nThere are other possible work sharing schemes\n\nDelayed entry into the labour force\nEarly retirement\nShort work weeks\nReduced overtime\nIncreased vacation time\n\nDo any of these schemes increase the number of jobs?"
+    "text": "Introduction\nOther possible work sharing schemes:\n\nDelayed entry into the labour force\nEarly retirement\nShort work weeks\nReduced overtime\nIncreased vacation time\n\n\n\n\n\n\n\nKey Question\n\n\nDo any of these schemes actually increase the number of jobs?"
   },
   {
     "objectID": "slides/ldemand2/index.html#overtime-restrictions",
     "href": "slides/ldemand2/index.html#overtime-restrictions",
     "title": "EC306 - Wages and Employment",
     "section": "Overtime Restrictions",
-    "text": "Overtime Restrictions\n\nAs noted above, one way to share work is to restrict overtime\n\nFirms do not like this because as noted it could increase costs\n\nSome governments have enacted legislation to prevent excessive overtime\nIt is not clear that these laws increase employment\n\nFirms may not hire more workers\nThe increased costs reduce overall demand for labour\nNew workers may not be as productive as existing workers, so firms may not want to hire them\nThere may not be enough employable workers available"
+    "text": "Overtime Restrictions\nOne way to share work is to restrict overtime\n\nSome governments have enacted legislation to prevent excessive overtime\nFirms do not like this because it could increase costs\n\nIt is not clear that these laws increase employment:\n\nFirms may not hire more workers\nIncreased costs reduce overall demand for labour\nNew workers may not be as productive as existing workers\nThere may not be enough employable workers available"
   },
   {
     "objectID": "slides/ldemand2/index.html#overtime-restrictions-1",
     "href": "slides/ldemand2/index.html#overtime-restrictions-1",
     "title": "EC306 - Wages and Employment",
     "section": "Overtime Restrictions",
-    "text": "Overtime Restrictions\n\nAlso the possibility that part of reason for work sharing is based on a fallacy\n\nLump of Labour Fallacy is that there is a fixed number of jobs in the economy\nLeads people to believe that employees working longer hours are taking jobs away from others\nBut in reality the number of jobs is not fixed\nAs people become employed, the economy grows, and more jobs are created\nFallacy is commonly used to argue against immigration\n\nStudies show that restricting work hours does not lead to increased employment\nBut may still be useful in the short term in economic downturns"
+    "text": "Overtime Restrictions\n\n\n\n\n\n\nLump of Labour Fallacy\n\n\nThe belief that there is a fixed number of jobs in the economy — leading people to think employees working longer hours take jobs away from others\n\n\n\nIn reality:\n\nThe number of jobs is not fixed\nAs people become employed, the economy grows and more jobs are created\nFallacy is commonly used to argue against immigration\n\n\n\n\n\n\n\nEvidence\n\n\nStudies show that restricting work hours does not lead to increased employment — but may still be useful in the short term during economic downturns"
   },
   {
     "objectID": "slides/ldemand2/index.html#subsidized-work-sharing",
     "href": "slides/ldemand2/index.html#subsidized-work-sharing",
     "title": "EC306 - Wages and Employment",
     "section": "Subsidized Work Sharing",
-    "text": "Subsidized Work Sharing\n\nAs noted, Canada subsidizes work sharing programs for economic downturns\nMain goal is to keep people employed during recessions\nBut would be good if it also protect jobs longer term\nEvidence suggests that\n\nMany firms use the program\nIt does help keep people employed during downturns\nBut there is little evidence that it increases employment longer term\n\nEmployees were laid off when subsidy ran out"
+    "text": "Subsidized Work Sharing\nCanada subsidizes work sharing programs for economic downturns\n\nMain goal: keep people employed during recessions\nWould be good if it also protects jobs longer term\n\n\n\n\n\n\n\nEvidence\n\n\n\nMany firms use the program\nIt does help keep people employed during downturns\nBut little evidence that it increases employment longer term\n\nEmployees were laid off when subsidy ran out"
   },
   {
     "objectID": "slides/ldemand2/index.html#employee-demand-for-work-sharing",
     "href": "slides/ldemand2/index.html#employee-demand-for-work-sharing",
     "title": "EC306 - Wages and Employment",
     "section": "Employee Demand for Work Sharing",
-    "text": "Employee Demand for Work Sharing\n\nWe have been discussing work sharing from persepective of employer\nEmployees need to also buy in for it to be successful\nIt is not clear that they do in many cases\nExample: union jobs\n\nUnions often resist work sharing programs\nPrefer to keep full-time jobs with benefits\nMay see work sharing as a threat to job security\nMay also see it as a way for employers to reduce wages and benefits"
+    "text": "Employee Demand for Work Sharing\n\n\n\n\n\n\nKey Point\n\n\nEmployees need to also buy in for work sharing to be successful — it is not clear that they do in many cases\n\n\n\nExample: union jobs\n\nUnions often resist work sharing programs\nPrefer to keep full-time jobs with benefits\nMay see work sharing as a threat to job security\nMay also see it as a way for employers to reduce wages and benefits"
   },
   {
     "objectID": "slides/ldemand2/index.html#summary-1",
     "href": "slides/ldemand2/index.html#summary-1",
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
-    "text": "Summary\n\nIn this section we expanded the labour demand model\nWe incorporated non-wage benefits and quasi-fixed costs\nNon-wage benefits are common and have many justifications\nQuasi-fixed costs complicate the labour demand decision\nThese costs can explain many labour market phenomena\nWork sharing is one possible response to quasi-fixed costs\nBut it is not clear that work sharing increases employment longer term"
+    "text": "Summary\nNon-wage benefits are common:\n\nTax advantages, economies of scale, worker preferences, legal requirements\nImprove productivity and act as deferred compensation\n\nQuasi-fixed costs complicate labour demand:\n\nCosts per worker independent of hours worked (hiring, training, termination, payroll taxes)\nFirm hires when present value of future productivity exceeds total costs\nWage does not have to equal marginal product in each period"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#summary-2",
+    "href": "slides/ldemand2/index.html#summary-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\nQuasi-fixed costs explain many labour market phenomena:\n\nOvertime, temp/gig workers, labour hoarding during downturns, market segmentation\n\nWork sharing:\n\nGovernment programs help during recessions, but little evidence of longer-term employment gains\nFirms resist due to quasi-fixed costs; unions resist to protect full-time jobs"
   },
   {
     "objectID": "slides/lsupply1/index.html#goals-of-this-section-1",
