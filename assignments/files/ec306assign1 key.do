@@ -1,7 +1,7 @@
 clear
 set more off
 
-use "/Users/jsmith/Library/CloudStorage/OneDrive-WilfridLaurierUniversity/Teaching/EC306/ec306w26/assignments/files/ec306assign1.dta"
+use "ec306assign1.dta", clear
 
 
 *Q1
