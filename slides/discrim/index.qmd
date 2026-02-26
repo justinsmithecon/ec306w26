@@ -1,5 +1,5 @@
 ---
-format: 
+format:
   revealjs:
     theme: [default, hygge.scss]
     center-title-slide: false
@@ -23,7 +23,7 @@ editor: visual
 
 <h2>Wilfrid Laurier University</h2>
 
-<h2>Fall 2025</h2>
+<h2>Winter 2026</h2>
 
 ![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
 
@@ -31,17 +31,13 @@ editor: visual
 
 ## Goals of This Section
 
--   Discuss trends in educational attainment in Canada
+Today we will:
 
--   Introduce Human Capital Theory of education investment
-
--   Introduce Signalling Model of education investment
-
--   Discuss empirical methods to estimate returns to schooling
-
--   Review empirical evidence on returns to schooling
-
--   Discuss job training
+- Discuss trends in male-female earnings differentials in Canada
+- Introduce taste-based and statistical discrimination theories
+- Explain supply-side and non-competitive theories of discrimination
+- Learn the Oaxaca-Blinder decomposition to measure discrimination
+- Review policies to address gender discrimination
 
 # Introduction
 
@@ -59,93 +55,72 @@ editor: visual
 
 ## Male and Female Earnings
 
--   Clearly men and women earn different amounts on average
-
--   There are two broad explanations for this gap:
-
-    1.  Differences in characteristics (education, experience, occupation, industry, hours worked, etc.)
-
-    2.  Differences in the returns to those characteristics (discrimination)
-
--   Our models so far have not left room for discrimination
-
-    -   We treated all workers as the same
-    -   So there should not be any differences in returns
+- Clearly men and women earn different amounts on average
+- There are [two broad explanations]{.fg style="color: #2780e3;"} for this gap:
+  1. [Differences in characteristics]{.fg style="color: #555;"} (education, experience, occupation, industry, hours worked, etc.)
+  2. [Differences in returns to those characteristics]{.fg style="color: #c7254e;"} (discrimination)
+- Our models so far have not left room for discrimination
+  - We treated all workers as the same
+  - So there should not be any differences in returns
 
 ## Male and Female Earnings
 
--   In this section, we explore economic theories of discrimination
+In this section, we explore [economic theories of discrimination]{.fg style="color: #2780e3;"}:
 
-    -   Can come from employers, customers, co-workers
-    -   Can be statistical or taste-based
+- Can come from [employers, customers, co-workers]{.fg style="color: #555;"}
+- Can be [statistical or taste-based]{.fg style="color: #555;"}
 
--   It is difficult empirically to estimate discrimination
+Estimating discrimination empirically is difficult:
 
-    -   Need to control for all relevant characteristics
-    -   Need to separate out differences in characteristics from differences in returns
+- Need to control for all relevant characteristics
+- Need to separate differences in characteristics from differences in returns
 
--   There are methods that can help us estimate discrimination
+Methods that can help:
 
-    -   Oaxaca-Blinder decomposition
-    -   Audit studies
-    -   Experiments
+- [Oaxaca-Blinder decomposition]{.fg style="color: #2780e3;"}
+- [Audit studies]{.fg style="color: #2780e3;"}
+- [Field experiments]{.fg style="color: #2780e3;"}
 
 # Demand Theories of Discrimination
 
 ## Demand-Side Theories
 
--   Demand theories focus on the behavior of employers in demanding labor
+[Demand-side theories]{.fg style="color: #2780e3;"} focus on the behaviour of employers in demanding labour. Discrimination can happen for various reasons:
 
--   Can happen for various reasons:
+- Pure prejudice against female workers
+- Customer preference to buy from male workers
+- Male workers' aversion to working with women
 
-    -   Pure prejudice
-    -   Customer preference to buy from male workers
-    -   Male aversion to working with women
-
--   These all cause a fall in the demand for women relative to men in the labour market
-
-    -   Reduces wages and employment of female workers
+::: {.callout-warning}
+These all cause a fall in the [demand for women]{.fg style="color: #c7254e;"} relative to men in the labour market — reducing wages and employment of female workers
+:::
 
 ## Taste-Based Discrimination
 
--   Theory of taste-based discrimination pioneered by Becker (1957)
+::: {.callout-important}
+## Becker (1957)
+[Taste-based discrimination:]{.fg style="color: #2780e3;"} employers have a "taste" for discrimination — they behave as if hiring women is more costly than it actually is
+:::
 
--   Imagine that firms produce according to the production function:
-
-$$y = f(N_m + N_w)$$
-
--   With $N_m$ indicating the number of male workers, and $N_f$ indicating the number of female workers
-
--   So in a competitive market their profits are
-
-$$ \pi = p \cdot f(N_m + N_w) - w_m N_m - w_w N_w $$
-
--   With $w_m$ indicating the wage of male workers, and $w_f$ indicating the wage of female workers
-
-## Taste-Based Discrimination
-
--   Firms do not maximize profit strictly, but instead maximize a utility function
-
-$$ U = \pi - d \cdot N_w $$
-
--   Utility is partly a function of profit
-
--   But also includes $d$, which measures the degree of discrimination
-
-    -   if $d = 0$, no discrimination and maximizing utility is the same as maximizing profit
-    -   if $d=0$ firms get a disutility from hiring women
+- Firms produce according to: $y = f(N_m + N_w)$
+- In a competitive market, profits are:
+  $$ \pi = p \cdot f(N_m + N_w) - w_m N_m - w_w N_w $$
+- Firms do not maximize profit strictly, but instead maximize:
+  $$ U = \pi - d \cdot N_w $$
+  - $d$ measures the [degree of discrimination]{.fg style="color: #c7254e;"}
+  - If $d = 0$: no discrimination; if $d > 0$: firms get disutility from hiring women
 
 ## Taste-Based Discrimination
 
--   The first order conditions for utility maximization are: $$ p \cdot MP_{N_m} = w_m $$ $$ p \cdot MP_{N_w} = w_w + d $$
+The first order conditions for utility maximization are:
 
--   For both men and women, firms hire up to the point where the value of the marginal product equals the cost of hiring
+$$ p \cdot MP_{N_m} = w_m $$
+$$ p \cdot MP_{N_w} = w_w + d $$
 
-    -   But for women, there is an additional cost $d$ due to discrimination
-
--   If $w_m = w_f$, and men and women are equally productive, this implies the firm hires less women
-
-    -   Discrimination drives a wedge between wages and the MRP
+- For both men and women, firms hire up to where VMP equals the [effective cost]{.fg style="color: #2780e3;"} of hiring
+- But for women, there is an [additional cost $d$]{.fg style="color: #c7254e;"} due to discrimination
+- If $w_m = w_f$ and men and women are equally productive, this implies firms hire [fewer women]{.fg style="color: #c7254e;"}
+  - Discrimination drives a wedge between wages and the MRP
 
 ## Taste-Based Discrimination
 
@@ -157,37 +132,23 @@ $$ U = \pi - d \cdot N_w $$
 ::::
 
 ::: {.column width="50%"}
--   Graph plots labour demand for women
-
--   Discrimination shifts demand curve left
-
--   Without discrimination, firm hires where $w_f = MRP_{ND}$
-
-    -   $ND$ = non-discriminatory
-
--   With discrimination, firm hires where $w_f + d = MRP_D$
-
-    -   Or equivalently $w_f = MRP_D - d$
-
--   Implies a lower level of female labour
+- Graph plots labour demand for women
+- [Discrimination shifts demand curve left]{.fg style="color: #c7254e;"}
+- Without discrimination: firm hires where $w_f = MRP_{ND}$
+- With discrimination: firm hires where $w_f + d = MRP_D$
+  - Or equivalently $w_f = MRP_D - d$
+- Implies a [lower level of female labour]{.fg style="color: #c7254e;"}
 :::
 ::::::
 
 ## Taste-Based Discrimination
 
--   Above analysis is for a single employer
-
--   Employers discriminate along a spectrum
-
-    -   Some have a high $d$, some have a low or no $d$
-
--   Suppose women are able to seek out the non-discriminating employers
-
--   If we order the firms from lowest to highest by the amount of discrimination
-
-    -   We can get the market demand curve by summing the individual demand curves horizontally
-
--   This demand curve is plotted on the next slide
+- Above analysis is for a single employer
+- Employers discriminate along a spectrum — some have a high $d$, some have a low or no $d$
+- Suppose women are able to seek out the [non-discriminating employers]{.fg style="color: #5cb85c;"}
+- If we order firms from lowest to highest by the amount of discrimination:
+  - We can get the market demand curve by summing individual demand curves horizontally
+- This demand curve is plotted on the next slide
 
 ## Taste-Based Discrimination
 
@@ -199,18 +160,11 @@ $$ U = \pi - d \cdot N_w $$
 ::::
 
 ::: {.column width="50%"}
--   Graph plots demand for female labour in the market
-
--   On the vertical axis is the ration of female to male wages
-
--   For non-discriminating firms, this ratio is 1
-
-    -   A certain set of firms will hire women at this ratio
-    -   This is the flat portion of the demand curve
-
--   As the supply of women grows, they must work at more discriminating firms
-
-    -   These firms will only hire when the wage ratio falls
+- Vertical axis is the ratio of female to male wages
+- For [non-discriminating firms]{.fg style="color: #5cb85c;"}, this ratio is 1
+  - A certain set of firms will hire women at this ratio (flat portion of demand curve)
+- As the supply of women grows, they must work at [more discriminating firms]{.fg style="color: #c7254e;"}
+  - These firms will only hire when the wage ratio falls
 :::
 ::::::
 
@@ -224,62 +178,55 @@ $$ U = \pi - d \cdot N_w $$
 ::::
 
 ::: {.column width="50%"}
--   If the supply of female labour is small enough, they can work at non-discriminating firms
-
-    -   Wage ratio is 1
-
--   With a larger supply, some will have to work at discriminating firms
-
-    -   Wage ratio falls below 1
-    -   This is where the demand curve slopes downwards
-    -   Wage gap emerges
+- If the supply of female labour is [small enough]{.fg style="color: #5cb85c;"}, they can work at non-discriminating firms
+  - Wage ratio is 1
+- With a [larger supply]{.fg style="color: #c7254e;"}, some will have to work at discriminating firms
+  - Wage ratio falls below 1
+  - This is where the demand curve slopes downwards
+  - [Wage gap emerges]{.fg style="color: #c7254e;"}
 :::
 ::::::
 
 ## Statistical Discrimination
 
--   Taste-based discrimination relies on employers having a "taste" for discrimination
+::: {.callout-important}
+## Statistical Discrimination
+[Statistical discrimination:]{.fg style="color: #2780e3;"} firms use group characteristics to infer individual productivity
 
-    -   Overt prejudice
+- Arises because of [imperfect information]{.fg style="color: #c7254e;"} — employers do not know individual worker productivity perfectly
+- Instead they use signals to infer worker quality
+- If one group has lower average productivity (or a noisier signal), firms may pay them less on average
+:::
 
--   Some discrimination may happen because of imperfect information
-
-    -   Employers do not know the productivity of workers perfectly
-
--   Instead they use signals to infer worker quality
-
--   With **statistical discrimination** firms use group characteristics to infer individual productivity
-
-    -   If one group has lower average productivity, firms may pay them less on average
+- Contrast with [taste-based discrimination]{.fg style="color: #555;"}, which relies on employers having overt prejudice
 
 ## Statistical Discrimination
 
 ## Theory
 
--   Assume that the abilities of male and female workers are distributed with means $\bar{a}_{m}$ and $\bar{a}_{f}$
--   Suppose the firm has access to a signal of ability $x$ for each person
--   Actual ability is not known with certainty, but expected ability is
+Assume that the abilities of male and female workers are distributed with means $\bar{a}_{m}$ and $\bar{a}_{f}$. The firm has access to a signal of ability $x$ for each person. Expected ability is:
 
 $$a(x) = \bar{a} + \alpha (x - \bar{a})$$
 
--   where $\alpha$ is the reliability of the signal
-    -   If $\alpha = 0$, the signal provides no information beyond the average\
-    -   If $\alpha = 1$, the signal is perfectly informative
--   Workers are paid a wage equal to their marginal revenue product
+Where $\alpha$ is the [reliability of the signal]{.fg style="color: #2780e3;"}:
+
+- If $\alpha = 0$: the signal provides no information beyond the average
+- If $\alpha = 1$: the signal is perfectly informative
+
+Workers are paid a wage equal to their marginal revenue product
 
 ## Statistical Discrimination
 
--   Paying workers their marginal revenue product implies
+Paying workers their marginal revenue product implies:
 
 $$w(x) = p a(x) = p \bar{a} + p \alpha (x - \bar{a})$$
 
--   To analyze discrimination, assume $\bar{a}_{m} = \bar{a}_{f}$
-    -   Men and women are equally productive on average
--   Assume the signal is more reliable for men than for women
-    -   If $\alpha_m > \alpha_f$
--   Differences arise between workers who score the same on the signal
-    -   If a man and woman score above average $(x - \bar{a} > 0)$, then $w(x)_m > w(x)_f$
-    -   If a man and woman score below average $(x - \bar{a} < 0)$, then $w(x)_m < w(x)_f$
+Assume $\bar{a}_{m} = \bar{a}_{f}$ (men and women are equally productive on average), but the signal is [more reliable for men]{.fg style="color: #c7254e;"}: $\alpha_m > \alpha_f$
+
+Differences arise between workers who score the same on the signal:
+
+- If a man and woman score above average ($x - \bar{a} > 0$), then [men are paid more]{.fg style="color: #c7254e;"}
+- If a man and woman score below average ($x - \bar{a} < 0$), then [women are paid more]{.fg style="color: #5cb85c;"}
 
 ## Statistical Discrimination
 
@@ -291,45 +238,31 @@ $$w(x) = p a(x) = p \bar{a} + p \alpha (x - \bar{a})$$
 ::::
 
 ::: {.column width="50%"}
--   In this graph we have wages as a function of the signal
-
--   The male line is steeper because the signal is more reliable ($\alpha_m > \alpha_f$)
-
--   For test scores above average, men are paid more
-
--   For test scores below average, women are paid more
-
--   At the average, they are paid the same
+- [Male line is steeper]{.fg style="color: #2780e3;"} because the signal is more reliable ($\alpha_m > \alpha_f$)
+- For test scores [above average]{.fg style="color: #c7254e;"}: men are paid more
+- For test scores [below average]{.fg style="color: #5cb85c;"}: women are paid more
+- At the average: they are paid the same
 :::
 ::::::
 
 ## Statistical Discrimination
 
--   There are no underlying differences between males and females
-
-    -   Differences in wages arise because of differences in the quality of the signal
-    -   Firms place more weight on average ability for female workers
-    -   Firms place more weight on the actual signal for male workers
-
--   At low levels of the signal, women are paid more than men
-
--   But where does the assumption $\alpha_m > \alpha_f$ come from
-
-    -   Possibly related to prejudicial attitudes of firms
-    -   Some believe standardized tests favour males
+- There are no underlying differences between males and females
+  - Differences in wages arise because of [differences in the quality of the signal]{.fg style="color: #c7254e;"}
+  - Firms place more weight on average ability for female workers
+  - Firms place more weight on the actual signal for male workers
+- But where does the assumption $\alpha_m > \alpha_f$ come from?
+  - Possibly related to prejudicial attitudes of firms
+  - Some believe standardized tests favour males
 
 ## Statistical Discrimination
 
--   There may also be differences in $\bar{a}_m$ and $\bar{a}_f$
-
-    -   Possibly due to pre-market discrimination leading to lower human capital among women
-
--   In this case, males are paid more at every signal level
-
--   Wage differences do not necessarily arise from overt discrimination
-
-    -   They may originate in differences in information signals
-    -   But it is difficult to explain why such differences in signal quality exist
+- There may also be differences in $\bar{a}_m$ and $\bar{a}_f$
+  - Possibly due to [pre-market discrimination]{.fg style="color: #c7254e;"} leading to lower human capital among women
+- In this case, males are paid more at [every signal level]{.fg style="color: #c7254e;"}
+- Wage differences do not necessarily arise from overt discrimination
+  - They may originate in differences in information signals or average productivity
+  - But it is difficult to explain why such differences in signal quality exist
 
 ## Statistical Discrimination
 
@@ -341,15 +274,10 @@ $$w(x) = p a(x) = p \bar{a} + p \alpha (x - \bar{a})$$
 ::::
 
 ::: {.column width="50%"}
--   In this graph the quality of the signal is the same
-
--   Slopes of the lines are the same
-
--   But there are differences in average productivity
-
-    -   Male line lies above female line
-
--   Men will be paid more because of the average difference
+- In this graph the quality of the signal is the same (equal slopes)
+- But there are [differences in average productivity]{.fg style="color: #c7254e;"}
+  - Male line lies above female line
+- Men will be paid more because of the average difference
 :::
 ::::::
 
@@ -357,287 +285,202 @@ $$w(x) = p a(x) = p \bar{a} + p \alpha (x - \bar{a})$$
 
 ## Supply-Side Theories
 
--   We discussed demand-side theories of discrimination
-
-    -   Focused on employer behaviour
-
--   Discrimination may also arise on the labour supply side
-
-    -   Factors that affect where women choose or are able to work
+- We discussed demand-side theories — focused on employer behaviour
+- [Discrimination may also arise on the labour supply side]{.fg style="color: #2780e3;"}
+  - Factors that affect where women choose or are able to work
 
 ## Crowding Hypothesis
 
--   Older theory emphasizing that women are overrepresented in certain occupations
+::: {.callout-note}
+## Crowding Hypothesis
+Women are [overrepresented in certain occupations]{.fg style="color: #c7254e;"}, pushing up their labour supply in those occupations — which [depresses wages]{.fg style="color: #c7254e;"} relative to men
 
--   This pushes up their labour supply in those occupations
-
-    -   Which depresses wages relative to men
-
--   Discrimination comes from the supply side
-
-    -   Women are paid their marginal product
-    -   But are corralled into a small set of jobs, which depresses wages
+- Women are paid their marginal product
+- But are corralled into a small set of jobs, which depresses wages
+:::
 
 ## Dual Labour Market Theory
 
--   Similar in spirit to the crowding hypothesis
+::: {.callout-important}
+## Dual Labour Market Theory
+There are two distinct labour markets:
 
--   Theory says there are two labour markets
+- [Primary market:]{.fg style="color: #5cb85c;"} high wages, good working conditions, opportunities for advancement; unionized, stable, expanding
+- [Secondary market:]{.fg style="color: #c7254e;"} low wages, poor working conditions, little opportunity for advancement; non-unionized, highly competitive, declining
+:::
 
-    -   Primary market
-
-        -   High wages, good working conditions, opportunities for advancement
-        -   Unionized, stable, expanding
-
-    -   Secondary market
-
-        -   Low wages, poor working conditions, little opportunity for advancement
-        -   Non-unionized, highly competitive, declining
-
--   Theory posits that women are concentrated in the secondary market
-
--   Prejudice prevents women from entering primary market
+Theory posits that women are concentrated in the secondary market — prejudice prevents women from entering the primary market
 
 ## Lower Reservation Wages
 
--   One theory is that female reservation wages are lower because
+Theory: female reservation wages are lower because:
 
-    -   Costly to search for non-discriminating employers
-    -   Job search is limited by strong household ties
-    -   Ability to negotiate higher pay limited by lower threat of leaving
+- Costly to search for non-discriminating employers
+- Job search is limited by strong household ties
+- Ability to negotiate higher pay limited by lower threat of leaving
 
--   With a lower reservation wage, women are more likely to be paid less
+::: {.callout-note}
+With a lower reservation wage, women are more likely to be paid less — contributing to the pay gap
 
-    -   Contributes to pay gap
-
--   Some evidence of this in empirical studies
+Some empirical evidence supports this
+:::
 
 ## Risk Aversion
 
--   Large literature documenting that women are less aggressive/competitive in bargaining
-
--   Also less confident in their abilities
-
--   Evidence of this in many studies in economics and psychology
-
--   Might mean women are less likely to compete for higher paying jobs
+- Large literature documenting that women are less aggressive/competitive in bargaining
+  - Also less confident in their abilities
+  - Evidence of this in many studies in economics and psychology
+- Might mean women are [less likely to compete for higher paying jobs]{.fg style="color: #c7254e;"}
 
 ## Differences in Preferences
 
--   May be differences in preferences for
+May be differences in preferences for education, training, hours, work conditions, occupation — all of these are correlated with pay
 
-    -   Education
-    -   Training
-    -   Hours
-    -   Work conditions
-    -   Occupation
+::: {.callout-warning}
+## The Endogeneity Problem
+These choices are sometimes a product of discrimination — so it is [hard to separate preferences from discrimination effects]{.fg style="color: #c7254e;"}
 
--   All of these are correlated with pay
-
--   Issue is that these choices are sometimes a product of discrimination
-
-    -   STEM fields are an example
-    -   History of discrimination in this field may lead women not to choose it
-
--   Hard to separate out preferences from discrimination effects
-
-    We will cover this in more detail in a few slides
+Example: STEM fields pay well, but are male dominated — history of discrimination in this field may lead women not to choose it
+:::
 
 # Non-Competitive Theories of Discrimination
 
 ## Non-Competitive Theories
 
--   One issue with the above theories is that they assume competitive markets
-
--   Men and women are assumed to have equal productivity
-
--   Discriminating firms hire less women because of prejudice
-
--   But non-discriminating firms can hire more women at lower wages
-
-    -   Would increase their profits
-
--   Non-discriminating firms would bid up the wages of women
-
-    -   Should close the gap
+- One issue with the above theories: they assume [competitive markets]{.fg style="color: #555;"}
+- Men and women are assumed to have equal productivity
+- Discriminating firms hire fewer women because of prejudice
+- But non-discriminating firms can hire more women at lower wages
+  - Would [increase their profits]{.fg style="color: #5cb85c;"}
+  - Non-discriminating firms would bid up wages of women
+  - Should [close the gap]{.fg style="color: #5cb85c;"}
 
 ## Non-Competitive Theories
 
--   But the gap continues to exist
-
--   Non-competitive theories of discrimination try to explain this
-
--   The unifying theme is that markets are not perfectly competitive
-
-    -   May be monopsony power, imperfect information, search frictions, etc.
-
--   This can lead to persistent wage gaps
+::: {.callout-note}
+## Why Does the Gap Persist?
+Non-competitive theories explain persistent wage gaps when markets are not perfectly competitive — due to monopsony power, imperfect information, search frictions, etc.
+:::
 
 ## Imperfect Information
 
--   Even if firms know that they can increase profits by hiring more women, they might not be able to immediately change workforce
-
--   Hiring and recruiting are costly
-
-    -   There are search frictions
-    -   Quasi-fixed costs
-
--   Firms may be slow to adjust to profit opportunities
-
--   This can lead to persistent wage gaps
-
--   But does not explain why the gaps have persisted for so long
+- Even if firms know they can increase profits by hiring more women, they might not be able to immediately change their workforce
+  - Hiring and recruiting are [costly]{.fg style="color: #c7254e;"} — search frictions, quasi-fixed costs
+- Firms may be slow to adjust to profit opportunities
+- This can lead to [persistent wage gaps]{.fg style="color: #c7254e;"}
+  - But does not explain why the gaps have persisted for so long
 
 ## Queueing Theory
 
--   Some firms pay **efficiency wages**
-
-    -   Wages above the market clearing level to increase productivity
-
--   This results in a queue of workers wanting to work at the firm
-
-    -   Due to the higher wages
-
--   While rationing jobs, firms may discriminate
+- Some firms pay [efficiency wages]{.fg style="color: #2780e3;"}
+  - Wages above the market clearing level to increase productivity
+- This results in a [queue of workers]{.fg style="color: #2780e3;"} wanting to work at the firm
+- While rationing jobs, firms may discriminate
 
 ## Political Pressure
 
--   It is sometimes the case that markets decisions are overriden by political pressures
-
--   A male-centric government or union may
-
-    -   Hire more men in government jobs
-    -   Be discriminatory with education and training
-
--   The political pressure could come from interest groups
-
-    -   May have a lot of money to lobby the government
+- Sometimes market decisions are overridden by political pressures
+- A male-centric government or union may:
+  - Hire more men in government jobs
+  - Be discriminatory with education and training
+- The political pressure could come from [interest groups]{.fg style="color: #2780e3;"}
+  - May have significant resources to lobby the government
 
 ## Monopsony Power
 
--   Monopsony gives firms power to set wages
-
--   Monopsonies may take advantage of relative immobility of women to lower their wages
-
-    -   Recall they may have stronger ties to household
-
--   They may also try to pit men and women against each other
-
-    -   Create competition between the groups to lower wages
+- Monopsony gives firms power to [set wages below competitive levels]{.fg style="color: #c7254e;"}
+- Monopsonies may take advantage of the [relative immobility of women]{.fg style="color: #c7254e;"} to lower their wages
+  - Recall women may have stronger ties to household
+- They may also try to pit men and women against each other
+  - Create competition between the groups to lower wages
 
 ## Systemic Discrimination
 
--   Idea is that discrimination is embedded in social and economic systems
+::: {.callout-note}
+## Systemic Discrimination
+Discrimination is embedded in social and economic systems — has been going on for so long that it is now [self-perpetuating]{.fg style="color: #c7254e;"}
 
--   Has been going on for so long, that it is now self-perpetuating
+Could come from:
 
--   Could come from
-
-    -   Existence of "old boys" mentality
-    -   Old job requirements that implicitly discriminate but continue to exist
+- Existence of "old boys" mentality
+- Old job requirements that implicitly discriminate but continue to exist
+:::
 
 # Productivity Differences
 
 ## Productivity Differences
 
--   It may be the case that men and women have productivity differences
-
-    -   This could determine pay differences even in competitive markets
-
--   Note: not *innate* productivity differences
-
--   Differences coming from acquisision of human capital over time
-
-    -   Education
-    -   Training
-    -   Work experience
-
--   If human capital investments are a choice, then pay differences are not discrimination
-
--   But it could be that choices are influenced by discrimination
+- It may be the case that men and women have [productivity differences]{.fg style="color: #2780e3;"}
+  - This could determine pay differences even in competitive markets
+- Note: not *innate* productivity differences
+- Differences coming from [acquisition of human capital]{.fg style="color: #2780e3;"} over time:
+  - Education
+  - Training
+  - Work experience
+- If human capital investments are a choice, then pay differences are [not discrimination]{.fg style="color: #5cb85c;"}
+- But it could be that choices are [influenced by discrimination]{.fg style="color: #c7254e;"}
 
 ## Dual Role
 
--   Traditionally women have more of a dual role than men
-
-    -   Balance household and market work
-
--   If this continues to be true, then women
-
-    -   Have less continuity in work (mainly from interruptions for children)
-    -   Are more likely to have periods of paid work and labour force withdrawals
-
--   This leads to lower accumulation of human capital
-
-    -   Because there is less time to recoup the costs
-
--   In some sense this is a rational choice
-
-    -   But is rooted in a society that does not accommodate enough for working mothers
+- Traditionally women have more of a [dual role]{.fg style="color: #2780e3;"} than men — balancing household and market work
+- If this continues to be true, then women:
+  - Have less continuity in work (mainly from interruptions for children)
+  - Are more likely to have periods of paid work and labour force withdrawals
+- This leads to [lower accumulation of human capital]{.fg style="color: #c7254e;"}
+  - Because there is less time to recoup the costs
+- In some sense this is a rational choice — but is rooted in a society that does not accommodate enough for working mothers
 
 ## Pre-Market Discrimination
 
--   Discrimination may influence choices in
+::: {.callout-important}
+## Pre-Market Discrimination
+[Pre-market discrimination:]{.fg style="color: #2780e3;"} discrimination that influences choices before workers even enter the labour market
 
-    -   Education
-    -   Training
-    -   Career path
+- Education
+- Training
+- Career path
 
--   Thus what looks like a rational choice is itself affected by discrimination
+What looks like a rational choice is itself affected by discrimination
+:::
 
-    -   In the literature this is called **pre-market discrimination**
-
--   Example: STEM jobs
-
-    -   Pay well, but are male dominated
-    -   Women are discouraged from entering these fields
-    -   Thus do not have access to the higher pay that comes with these jobs
+Example: STEM jobs pay well but are male dominated — women are discouraged from entering these fields, and thus do not have access to the higher pay that comes with them
 
 # Measuring Discrimination
 
 ## Introduction
 
--   Now that we have discussed theories of discrimination, how do we measure it?
-
--   Difficult because in most cases discrimination is not directly observable
-
-    -   There is not a "discrimination" variable in datasets
-
--   Can design experiments to measure discrimination
-
-    -   Audit studies
-    -   Field experiments
-
--   But in most cases we have to rely on observational data
+- Now that we have discussed theories of discrimination, how do we [measure it]{.fg style="color: #2780e3;"}?
+- Difficult because in most cases discrimination is [not directly observable]{.fg style="color: #c7254e;"}
+  - There is no "discrimination" variable in datasets
+- Can design experiments to measure discrimination:
+  - [Audit studies]{.fg style="color: #2780e3;"}
+  - [Field experiments]{.fg style="color: #2780e3;"}
+- But in most cases we have to rely on [observational data]{.fg style="color: #555;"}
 
 ## Introduction
 
--   Measuring discrimination involves comparing people of equal productivity
-
-    -   So that any left over wage differences could be due to discrimination
-
--   But we do not observe productivity directly
-
--   Instead, hold constant variables related to productivity
-
-    -   Education
-    -   Experience
-    -   Occupation
-    -   Industry
-    -   Hours worked
-
--   Then decompose wage difference into part due to characteristics and part due to other factors
+- Measuring discrimination involves comparing people of [equal productivity]{.fg style="color: #2780e3;"}
+  - So that any leftover wage differences could be due to discrimination
+- But we do not observe productivity directly
+- Instead, hold constant variables related to productivity:
+  - Education
+  - Experience
+  - Occupation
+  - Industry
+  - Hours worked
+- Then [decompose the wage difference]{.fg style="color: #2780e3;"} into part due to characteristics and part due to other factors
 
 ## Blinder-Oaxaca Decomposition
 
--   Method to decompose differences in average earnings between any two groups into
+::: {.callout-important}
+## Blinder-Oaxaca Decomposition
+Method to decompose differences in average earnings between two groups into:
 
-    -   Part due to differences in characteristics (explained)
-    -   Part due to differences in returns to those characteristics (unexplained)
+- [Explained part:]{.fg style="color: #555;"} due to differences in characteristics (endowments)
+- [Unexplained part:]{.fg style="color: #c7254e;"} due to differences in returns to those characteristics (potentially discrimination)
+:::
 
--   Suppose we estimate a regression of log earnings on observed characteristics for men and women
-
--   The predicted value (which is also equal to the mean of log earnings) is
+Suppose we estimate a regression of log earnings on observed characteristics for men and women:
 
 $$ \ln(Y_m) =\hat\beta_m  \bar{X}_m $$
 
@@ -645,32 +488,22 @@ $$ \ln(Y_f) =\hat\beta_f  \bar{X}_f $$
 
 ## Blinder-Oaxaca Decomposition
 
--   The difference in average log earnings is
+The difference in average log earnings is:
 
 $$ \ln(Y_m) - \ln(Y_f) = \hat\beta_m  \bar{X}_m - \hat\beta_f  \bar{X}_f $$
 
--   We can add and subtract $\hat\beta_m  \bar{X}_f$ to get
+Add and subtract $\hat\beta_m  \bar{X}_f$:
 
-$$ \ln(Y_m) - \ln(Y_f) = \hat\beta_m  (\bar{X}_m - \bar{X}_f) + \bar{X}_f (\hat\beta_m - \hat\beta_f) $$
+$$ \ln(Y_m) - \ln(Y_f) = \underbrace{\hat\beta_m  (\bar{X}_m - \bar{X}_f)}_{\text{explained}} + \underbrace{\bar{X}_f (\hat\beta_m - \hat\beta_f)}_{\text{unexplained}} $$
 
--   Doing this allows us to separate the difference into two parts
-
--   The first part is the explained part
-
-    -   Due to differences in characteristics
-    -   Holds the slope constant at $\hat\beta_m$ and looks at differences in average $X$
+- [Explained:]{.fg style="color: #555;"} holds slope constant at $\hat\beta_m$, looks at differences in average $X$
+- [Unexplained:]{.fg style="color: #c7254e;"} holds average characteristics constant at $\bar{X}_f$, looks at differences in slopes (returns)
 
 ## Blinder-Oaxaca Decomposition
 
--   The second part is the unexplained part
-
-    -   Due to differences in returns to characteristics
-    -   Holds the average characteristics constant at $\bar{X}_f$ and looks at differences in slopes
-    -   The slopes are the returns to characteristics
-
--   Traditionally, the unexplained part is interpreted as discrimination
-
-    -   But could also be due to unobserved productivity differences
+::: {.callout-warning}
+Traditionally, the [unexplained part is interpreted as discrimination]{.fg style="color: #c7254e;"} — but could also be due to unobserved productivity differences
+:::
 
 ## Blinder-Oaxaca Decomposition
 
@@ -678,162 +511,84 @@ $$ \ln(Y_m) - \ln(Y_f) = \hat\beta_m  (\bar{X}_m - \bar{X}_f) + \bar{X}_f (\hat\
 
 ## Blinder-Oaxaca Decomposition
 
--   Here is an example of how this works
+Suppose we have run the following regression separately for men and women:
 
--   Suppose we have run the following regression separately for men and women
+$$\ln Y  = \beta_0 + \beta_1 \text{Educ} + \beta_2 \text{Experience}$$
 
-$$
-\ln Y  = \beta_0 + \beta_1 \text{Educ} + \beta_2 \text{Experience}
-$$
+Estimated coefficients:
 
--   The estimated coefficients are:
-
--   Men: $\beta^M = (\beta_0^M, \beta_1^M, \beta_2^M) = (2.0,\; 0.10,\; 0.02)$\
-
--   Women: $\beta^F = (\beta_0^F, \beta_1^F, \beta_2^F) = (1.8,\; 0.08,\; 0.015)$
+- [Men:]{.fg style="color: #2780e3;"} $\beta^M = (2.0,\; 0.10,\; 0.02)$
+- [Women:]{.fg style="color: #5cb85c;"} $\beta^F = (1.8,\; 0.08,\; 0.015)$
 
 ## Blinder-Oaxaca Decomposition
 
--   The mean of the observed characteristics are
+Mean observed characteristics:
 
--   Men: $\bar{\text{Educ}}_M = 14$, $\bar{\text{Exp}}_M = 15$\
+- [Men:]{.fg style="color: #2780e3;"} $\bar{\text{Educ}}_M = 14$, $\bar{\text{Exp}}_M = 15$
+- [Women:]{.fg style="color: #5cb85c;"} $\bar{\text{Educ}}_F = 13$, $\bar{\text{Exp}}_F = 12$
 
--   Women: $\bar{\text{Educ}}_F = 13$, $\bar{\text{Exp}}_F = 12$
+Average predicted log wage for men:
 
--   The average predicted log wage for men
-
-$$
-\bar{ln Y}_M
-= 2.0 + 0.10 \cdot 14 + 0.02 \cdot 15
-= 2.0 + 1.4 + 0.3
-= 3.7
-$$
+$$\bar{\ln Y}_M = 2.0 + 0.10 \cdot 14 + 0.02 \cdot 15 = 2.0 + 1.4 + 0.3 = 3.7$$
 
 ## Blinder-Oaxaca Decomposition
 
--   The average predicted log wage for women
+Average predicted log wage for women:
 
-$$
-\bar{ln Y}_F
-= 1.8 + 0.08 \cdot 13 + 0.015 \cdot 12
-= 1.8 + 1.04 + 0.18
-= 3.02
-$$
+$$\bar{\ln Y}_F = 1.8 + 0.08 \cdot 13 + 0.015 \cdot 12 = 1.8 + 1.04 + 0.18 = 3.02$$
 
--   The wage gap us therefore
+The wage gap is therefore:
 
-$$
-\bar{ln Y}_M - \bar{ln Y}_F = 3.70 - 3.02 = 0.68
-$$
+$$\bar{\ln Y}_M - \bar{\ln Y}_F = 3.70 - 3.02 = 0.68$$
 
--   This says that the wage gap is about $0.68$ log points
-
-    -   Roughly a 68% higher wage for men
+This says that the wage gap is about [0.68 log points — roughly 68% higher wages for men]{.fg style="color: #c7254e;"}
 
 ## Blinder-Oaxaca Decomposition
 
-We decompose:
+We decompose: $\bar{\ln Y}_M - \bar{\ln Y}_F = \text{Explained} + \text{Unexplained}$
 
-$$
-\bar{\ln Y}_M - \bar{\ln Y}_F = \text{Explained} + \text{Unexplained}
-$$
+[Explained (due to characteristics):]{.fg style="color: #555;"}
 
--   Explained (due to characteristics) component is
+$$\text{Explained} = (\bar{X}_M - \bar{X}_F)\beta^M$$
 
-$$
-\text{Explained} 
-= (\bar{X}_M - \bar{X}_F)\beta^M
-$$
+Differences in means: Education: $14 - 13 = 1$, Experience: $15 - 12 = 3$
 
--   Compute differences in means:
+$$\text{Explained} = 1 \cdot 0.10 + 3 \cdot 0.02 = 0.10 + 0.06 = 0.16$$
 
--   Education: $14 - 13 = 1$\
-
--   Experience: $15 - 12 = 3$
+About $0.16$ log points of the gap are due to men having more education and experience.
 
 ## Blinder-Oaxaca Decomposition
 
--   Then:
+[Unexplained (returns to characteristics):]{.fg style="color: #c7254e;"}
 
-$$
-\text{Explained}
-= 1 \cdot 0.10 + 3 \cdot 0.02
-= 0.10 + 0.06
-= 0.16
-$$
+$$\text{Unexplained (slopes)} = \bar{X}_F \left(\beta_M - \beta_F\right)$$
 
--About $0.16$ log points of the gap are due to men having more education and experience.
+Coefficient differences: Education: $0.10 - 0.08 = 0.02$, Experience: $0.02 - 0.015 = 0.005$
 
--Unexplained (slopes) component is
+$$\text{Unexplained (slopes)} = 13 \cdot 0.02 + 12 \cdot 0.005 = 0.26 + 0.06 = 0.32$$
 
-$$
-\text{Unexplained (slopes)}
-= \bar{X}_F \left(\beta_M - \beta_F\right)
-$$
+Intercept difference: $\beta_{0M} - \beta_{0F} = 2.0 - 1.8 = 0.20$
 
--   Coefficient differences:
-
--   Education: $0.10 - 0.08 = 0.02$\
-
--   Experience: $0.02 - 0.015 = 0.005$
+Total unexplained: $0.32 + 0.20 = 0.52$
 
 ## Blinder-Oaxaca Decomposition
 
--   Then:
+::: {.callout-tip}
+## Final Decomposition
 
-$$
-\text{Unexplained (slopes)}
-= 13 \cdot 0.02 + 12 \cdot 0.005
-= 0.26 + 0.06
-= 0.32
-$$
+$$0.68 = \underbrace{0.16}_{\text{explained (24\%)}} + \underbrace{0.52}_{\text{unexplained (76\%)}}$$
 
--   Intercept difference:
-
-$$
-\beta_{0M} - \beta_{0F} = 2.0 - 1.8 = 0.20
-$$
-
--   This is also part of the unexplained component (baseline difference not due to $X$).
-
--   Total unexplained:
-
-$$
-\text{Unexplained (total)} 
-= 0.32 + 0.20 = 0.52
-$$
+- [Explained ($0.16$, ~24%):]{.fg style="color: #555;"} due to men having higher average education and experience
+- [Unexplained ($0.52$, ~76%):]{.fg style="color: #c7254e;"} due to different returns to characteristics and intercept differences
+:::
 
 ## Blinder-Oaxaca Decomposition
 
--   The decomposition is therefore:
+Here is an example using real data from Canada:
 
-$$
-0.68 = \underbrace{0.16}_{\text{explained}} + \underbrace{0.52}_{\text{unexplained}}
-$$
-
--   Interpretation:
-
--   Explained: $0.16$ (about $24\%$ of the gap)
-
-    -   Due to men having higher average education and experience.\
-
--   Unexplained: $0.52$ (about $76\%$ of the gap)
-
-    -   Due to different returns to characteristics and intercept differences
-
-## Blinder-Oaxaca Decomposition
-
--   Here is an example using real data from Canada
-
-    -   Labour Force Survey from September 2025
-    -   Restricted to people aged 35-54
-    -   Have wages $>0$
-
--   First examine some summary statistics
-
--   Then do a regular regression
-
--   Finish with decomposition
+- Labour Force Survey from September 2025
+- Restricted to people aged 35–54 with wages > 0
+- First examine summary statistics, then run a regular regression, then the decomposition
 
 ## Blinder-Oaxaca Decomposition
 
@@ -850,17 +605,17 @@ lfs <- read_csv("pub0925.csv") %>%
          hrlyearn = hrlyearn/100,
          gender = fct_recode(as.factor(gender), "Men" = "1", "Women" = "2"),
          educ = fct_recode(as.factor(educ),"0-8 yrs" = "0", "Some HS" = "1", "HS Grad" = "2", "Some PS" = "3", "PS Diploma" = "4", "BA" = "5", ">BA" = "6"),
-         prov = fct_recode(as.factor(prov), "NL" = "10", "PEI" = "11", "NS" = "12", "NB" = "13", "QC" = "24", "ON" = "35", "MB" = "46", 
+         prov = fct_recode(as.factor(prov), "NL" = "10", "PEI" = "11", "NS" = "12", "NB" = "13", "QC" = "24", "ON" = "35", "MB" = "46",
                            "SK" = "47", "AB" = "48", "BC" = "59"),
          female = gender == "Women") %>%
-  filter(between(age_12, 5,8), 
-         hrlyearn > 0) 
+  filter(between(age_12, 5,8),
+         hrlyearn > 0)
 
 
 ## Kernel density plot of male and female hourly earnings
 
 ggplot(lfs, aes(x=hrlyearn, group = gender, colour = gender)) +
-  geom_density() + 
+  geom_density() +
   theme_minimal() +
   labs(title = "Wage Distribution by Gender",
        subtitle = "Age 35-54, September 2025",
@@ -872,7 +627,7 @@ ggplot(lfs, aes(x=hrlyearn, group = gender, colour = gender)) +
 
 ```{r}
 ggplot(lfs, aes(x=log(hrlyearn), group = gender, colour = gender)) +
-  geom_density() + 
+  geom_density() +
   theme_minimal() +
   labs(title = "Wage Distribution by Gender (Log Scale)",
        subtitle = "Age 35-54, September 2025",
@@ -962,33 +717,25 @@ kable(tab, digits = 3)
 
 ## Collider Bias
 
--   Sometimes researchers will control for variables in a regression to adjust the wage gap
+- Sometimes researchers control for variables in a regression to adjust the wage gap
+  - What is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.?
+- The idea is to compare people who are the same on all relevant characteristics
 
-    -   What is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.
-
--   The idea is to compare people who are the same on all relevant characteristics
-
-    -   So that any remaining difference is (possibly) due to discrimination
-
--   When doing this, you run into a tricky issue called **collider bias**
-
-    -   Controlling for certain variables can actually **create bias** in estimates
+::: {.callout-warning}
+## Collider Bias
+[Collider bias:]{.fg style="color: #c7254e;"} controlling for certain variables (like occupation) can actually **create bias** in discrimination estimates if those variables are themselves outcomes of discrimination
+:::
 
 ## Collider Bias
 
--   Easiest to understand with an example
+Example — the tech industry:
 
--   Suppose we examine the tech industry
-
-    -   Men and women have equal ability in the general population
-    -   Ability is positively related to wages
-    -   Women face discrimination in tech, so to get the job they must have very high ability
-    -   Men can enter even with moderate ability
-
--   If you look at the wage gap in tech jobs, it might appear to favour women
-
-    -   In the same occupation, women will have **higher** ability because they had to overcome discrimination
-    -   So comparing men and women within occupation **creates** ability bias
+- Men and women have equal ability in the general population
+- Women face discrimination in tech, so to get the job they must have [very high ability]{.fg style="color: #c7254e;"}
+- Men can enter even with moderate ability
+- If you look at the wage gap in tech jobs, it might appear to [favour women]{.fg style="color: #5cb85c;"}
+  - In the same occupation, women will have higher ability because they had to overcome discrimination
+  - Comparing men and women within occupation **creates** ability bias
 
 ## Collider Bias
 
@@ -1000,125 +747,94 @@ kable(tab, digits = 3)
 ::::
 
 ::: {.column width="50%"}
--   This happened at Google several years back
+This happened at [Google]{.fg style="color: #2780e3;"}:
 
--   There was a complaint that women were being underpaid
-
--   But they did an analysis and found that **men** were underpaid
-
--   Was a perfect example of collider bias
-
-    -   They looked within jobs
-    -   Women of very high ability were likely selected into those jobs
-    -   Their wages were higher because of that
+- There was a complaint that women were being underpaid
+- An analysis found that **men** were underpaid
+- A perfect example of collider bias
+  - They looked within jobs
+  - Women of very high ability were selected into those jobs
+  - Their wages were higher because of that
 :::
 ::::::
 
 ## Collider Bias
 
--   How to avoid collider bias?
+How to avoid collider bias:
 
--   Do not add variables that are outcomes of discrimination to regression
+::: {.callout-tip}
+## Best Practice
+[Do not add variables that are outcomes of discrimination]{.fg style="color: #2780e3;"} to the regression
 
-    -   Occupation is often an outcome of discrimination
-    -   Industry may also be an outcome
+- [Occupation]{.fg style="color: #c7254e;"} is often an outcome of discrimination
+- [Industry]{.fg style="color: #c7254e;"} may also be an outcome
 
--   Instead include only predetermined characteristics
-
-    -   Things that are not affected by discrimination
-    -   Includes mainly basic demographics, possibly education and exprience
+Instead include only [predetermined characteristics]{.fg style="color: #5cb85c;"}: things that are not affected by discrimination — mainly basic demographics, possibly education and experience
+:::
 
 # Additional Evidence on Gender Pay Gaps
 
 ## Introduction
 
--   There has been significant statistical work on this issue
-
--   Why?
-
-    -   Its importance
-    -   Availability of data
-
--   We will briefly review some of the evidence here
-
-    -   A slightly greater focus on Canadian studies
+- Significant statistical work has been done on this issue
+  - Why? Its importance and availability of data
+- We will briefly review some of the evidence here, with a focus on Canadian studies
 
 ## Evidence
 
--   Across several studies, women in Canada earn about 60% of what men earn
+Key findings:
 
--   After controlling for characteristics, the gap shrinks to about 85%
-
--   Pay gap is smaller in the public sector
-
-    -   Pay practices are more egalitarian in the government
-
--   Gap has been falling over time
-
-    -   Many factors could contribute to this
-
--   Internationally, gaps are smaller with stronger bargaining structures
-
--   Gap is smaller the more competitive the industry
+- Women in Canada earn about [60% of what men earn]{.fg style="color: #c7254e;"} (unconditional gap)
+- After controlling for characteristics, the gap [shrinks to about 85%]{.fg style="color: #555;"}
+- [Pay gap is smaller in the public sector]{.fg style="color: #5cb85c;"} — pay practices are more egalitarian in government
+- Gap has been [falling over time]{.fg style="color: #5cb85c;"} — many factors could contribute
+- Internationally, gaps are [smaller with stronger bargaining structures]{.fg style="color: #5cb85c;"}
+- Gap is [smaller the more competitive the industry]{.fg style="color: #5cb85c;"}
 
 ## Evidence
 
--   Occupational segregation does not explain a large part of the gap
+Additional findings:
 
-    -   Gap is explained more by *industry* rather than occupation
-
--   Women face career penalties from family responsibilities
-
--   Glass ceilings are an observed phenomenon
-
-    -   At the top end of the pay distribution, gaps are larger
-    -   Lots of international evidence of differences in career advancement
-
--   Unions have a higher impact on women than men
-
-    -   Offset by the fact that women are less likely to be unionized
+- [Occupational segregation does not explain a large part of the gap]{.fg style="color: #2780e3;"}
+  - Gap is explained more by *industry* than occupation
+- Women face [career penalties from family responsibilities]{.fg style="color: #c7254e;"}
+- [Glass ceilings]{.fg style="color: #c7254e;"} are an observed phenomenon
+  - At the top end of the pay distribution, gaps are larger
+  - Lots of international evidence of differences in career advancement
+- [Unions have a higher impact on women than men]{.fg style="color: #2780e3;"}
+  - Offset by the fact that women are less likely to be unionized
 
 ## Evidence
 
--   Mixed evidence on job protected leave
-
-    -   Leave is good because it protects jobs for women
-    -   But might make employers less likely to hire women in the first place
-    -   Evidence shows it lowers wages for women in the U.S.
-    -   In Canada it increases job continuity
-
--   Some evidence that gap grows with more work experience
-
-    -   Upon initial entry, gap is small
-    -   Grows over time
+- [Mixed evidence on job-protected leave]{.fg style="color: #2780e3;"}
+  - Leave is good because it protects jobs for women
+  - But might make employers less likely to hire women in the first place
+  - Evidence shows it [lowers wages for women in the U.S.]{.fg style="color: #c7254e;"}
+  - In Canada it [increases job continuity]{.fg style="color: #5cb85c;"}
+- Some evidence that [gap grows with more work experience]{.fg style="color: #c7254e;"}
+  - Upon initial entry, gap is small
+  - Grows over time
 
 # Other Groups
 
 ## Introduction
 
--   The chapter is nominally about gender wage gaps
-
--   But the same techniques can be used to estimate gaps for other groups
-
--   This is usually done by race or ethnicity
-
-    -   U.S. studies have focused in particular on racial discrimination
-
--   We will briefly cover this here
+- The same techniques used to analyze gender wage gaps can be used to estimate gaps for other groups
+- This is usually done by [race or ethnicity]{.fg style="color: #2780e3;"}
+  - U.S. studies have focused in particular on racial discrimination
 
 ## Evidence for Other Groups
 
--   Indigenous peoples in Canada face significant wage gaps
+[Indigenous peoples in Canada]{.fg style="color: #2780e3;"}:
 
-    -   About 85% of non-Indigenous wages off reserve
-    -   Shrinks after controlling for characteristics
+- About [85% of non-Indigenous wages]{.fg style="color: #c7254e;"} off reserve
+- Shrinks after controlling for characteristics
 
--   Some work on ethnic-white wage gaps in Canada
+[Ethnic-white wage gaps in Canada]{.fg style="color: #2780e3;"}:
 
-    -   Complicated by the fact that many non-white Canadians are also immigrants
-    -   Immigration has its own independent effect on wages
-    -   Controlling for this, gaps are very high
-    -   Summarized on next slide
+- Complicated by the fact that many non-white Canadians are also immigrants
+- Immigration has its own independent effect on wages
+- Controlling for this, gaps are very high — summarized on next slide
 
 ## Evidence for Other Groups
 
@@ -1126,62 +842,37 @@ kable(tab, digits = 3)
 
 ## Evidence for Other Groups
 
--   Evidence is different in the U.S.
+[Evidence in the U.S.:]{.fg style="color: #2780e3;"}
 
--   Large literature on Black-white wage gaps
-
-    -   About 68% of white wages
-
-    -   Shrinks when controlling for past test scores (as measure of pre-market productivity)
-
-        -   Discrimination also coming from pre-market factors
-
-    -   Large component of discrimination
-
--   Gaps favour Chinese and Southeast Asian workers
-
-    -   Not the same in Canada
+- Large literature on [Black-white wage gaps]{.fg style="color: #c7254e;"} — about 68% of white wages
+  - Shrinks when controlling for past test scores (measure of pre-market productivity)
+  - Pre-market discrimination also plays a large role
+  - Large component of discrimination remains
+- Gaps [favour Chinese and Southeast Asian workers]{.fg style="color: #5cb85c;"} — not the same in Canada
 
 # Policies to Combat Gender Discrimination
 
 ## Introduction
 
--   Gender discrimination has been an issue for a long time
-
--   Several policies are enacted to combat these
-
--   Some examples:
-
-    -   Equal pay
-    -   Equal employment opportunity
-    -   Policies to facilitate female employment
+- Gender discrimination has been an issue for a long time
+- Several policies are enacted to combat it:
+  - [Equal pay]{.fg style="color: #2780e3;"}
+  - [Equal employment opportunity]{.fg style="color: #2780e3;"}
+  - [Policies to facilitate female employment]{.fg style="color: #2780e3;"}
 
 ## Equal Pay
 
--   Equal pay legislation takes two forms
+[Pay equity:]{.fg style="color: #2780e3;"} requires that jobs which are substantially similar receive equal pay
 
-    -   Pay equity
-    -   Equal pay for equal work
+- Looks at very similar jobs; minor differences are allowed
+- Issue: deals with similar jobs in similar establishments — does not address equity issues across jobs/industries
 
--   Pay equity requires that jobs which are substantially similar receive equal pay
+[Equal pay for equal work:]{.fg style="color: #2780e3;"} broadens the scope
 
-    -   Looks at very similar jobs
-
-    -   Minor differences are allowed
-
-    -   Issue is that it deals with similar jobs in similar establishments
-
-        -   Does not address equity issues across jobs/industries
-
-## Equal Pay
-
--   Equal pay for equal work broadens the scope of pay equity
-
-    -   Assigns points to jobs based on skill, effort, responsibility, working conditions
-    -   Jobs with similar points should receive similar pay
-    -   Can apply to different occupations, but still in same firm/industry
-    -   Applies only to jobs that are predominantly male or female (>70 percent in one gender)
-    -   Pay in female dominated jobs adjusted to that of male dominated jobs
+- Assigns points to jobs based on skill, effort, responsibility, working conditions
+- Jobs with similar points should receive similar pay
+- Can apply to different occupations, but still in same firm/industry
+- Applies only to jobs that are predominantly male or female (>70%) — pay in female-dominated jobs adjusted to that of male-dominated jobs
 
 ## Equal Pay
 
@@ -1193,189 +884,133 @@ kable(tab, digits = 3)
 ::::
 
 ::: {.column width="50%"}
--  Equal pay for equal work example to the left
+Equal pay for equal work example:
 
-- Pay is plotted against point scores
-
+- Pay plotted against point scores
 - In this example, male dominated jobs have generally higher pay
-
-- Solutions could be
-
+- Solutions could be:
   - Raise female line to male line
-  - Raise female pay to male pay point by point for similar scores
+  - Raise female pay to male pay point-by-point for similar scores
   - Raise female points to male line at each point value
 :::
 ::::::
 
 ## Equal Pay
 
-- Worth noting that equal pay for equal work is based on administrative concept of value
+::: {.callout-note}
+Equal pay for equal work is based on [administrative concept of value]{.fg style="color: #2780e3;"} (points for skill, effort, responsibility, working conditions) — **not** based on economic (market) value
 
-  - Points assigned for skill, effort, responsibility, working conditions
-  
-- It is not based on economic (market) value
-
-  - Jobs may be worth different amounts in the market
-  
-- This is purposeful
-
-  - Market value reflects discrimination
-  - Administrative value tries to remove this
-  
-## Equal Employment Opportunity   
-
-- As the name suggests, equal pay focused on equalizing wages
-
-- Equal opportunity focused on equalizing access to jobs
-
-  - But by equalizing access, we also expect wages to equalize
-
-- Key initiative is affirmative action (aka employment equity)
+- This is purposeful: market value reflects discrimination; administrative value tries to remove this
+:::
 
 ## Equal Employment Opportunity
 
-- Affirmative action is the most salient equal employment policy
+- [Equal pay]{.fg style="color: #555;"} focused on equalizing wages
+- [Equal employment opportunity]{.fg style="color: #2780e3;"} focuses on equalizing [access to jobs]{.fg style="color: #2780e3;"}
+  - But by equalizing access, we also expect wages to equalize
+- Key initiative is [affirmative action]{.fg style="color: #2780e3;"} (aka employment equity)
 
-- Generally involves preferential treatment for minority groups 
+## Equal Employment Opportunity
 
-  - Idea is to overcome past and current discrimination
-  - Designed to be used temporarily to restore balance
-  
-- Not as rigid in Canada as in the U.S.
+::: {.callout-important}
+## Affirmative Action
+Generally involves [preferential treatment for minority groups]{.fg style="color: #2780e3;"}
 
-  - Applies only to federal workforce, about 10% of jobs
-  - Applies to four targeted groups: women, visible minorities, disabled persons, indigenous peoples
-  
-- Continues to be very controversial  
-  
-## Facilitating Policies  
+- Intended to overcome past and current discrimination
+- Designed to be used temporarily to restore balance
 
-- Finally, there are policies that can help facilitate women in the workforce
+In Canada:
 
-- Examples include
+- Applies only to federal workforce (~10% of jobs)
+- Applies to four targeted groups: women, visible minorities, disabled persons, indigenous peoples
+- [Continues to be very controversial]{.fg style="color: #c7254e;"}
+:::
 
-  - Parental leave
-  - Child care subsidies
-  - Flexible work arrangements
-  
-- Canada has done well on the first two
+## Facilitating Policies
 
-  - Expansion of child care subsidies recently is a good example
-  
-## Facilitating Policies  
+Finally, there are policies that can help [facilitate women in the workforce]{.fg style="color: #5cb85c;"}:
 
-- Some consider expanding unionization to be a facilitating policy
+- [Parental leave]{.fg style="color: #2780e3;"}
+- [Child care subsidies]{.fg style="color: #2780e3;"}
+- [Flexible work arrangements]{.fg style="color: #2780e3;"}
 
-  - Unions bargain for greater pay, working conditions
+Canada has done well on the first two — expansion of child care subsidies recently is a good example
+
+## Facilitating Policies
+
+- Some consider [expanding unionization]{.fg style="color: #2780e3;"} to be a facilitating policy
+  - Unions bargain for greater pay and working conditions
   - Expanding this to cover more women would help
-  - May also help generate more power for women to argue for other types of legislation we discussed
-  
-- Finally, removing pay secrecy has the ability to help
+  - May also generate more power for women to argue for other types of legislation
 
+- [Removing pay secrecy]{.fg style="color: #2780e3;"} can also help
   - If employees know what others are paid, they can better negotiate
   - Pay secrecy tends to hide discrimination
   - Some jurisdictions have passed laws banning pay secrecy
-  
+
 ## Preference and Attitudes
 
-- We saw that discrimination in part is due to preferences and attitudes
-
-  - Taste based discrimination is one example
-  
-- Could use public policy to try to change these attitudes
-
+- We saw that discrimination in part is due to [preferences and attitudes]{.fg style="color: #2780e3;"}
+  - Taste-based discrimination is one example
+- Could use public policy to try to change these attitudes:
   - Public awareness campaigns
   - Education programs
-  
 - Not clear how well this works
-
 
 # Impact of Policies
 
 ## Introduction
 
-- We have outlined briefly the different anti-discrimination policies
-
+- We have outlined the different anti-discrimination policies
 - How effective are these policies?
-
-- Relatively straighforward to analyze statistically
-
+- Relatively straightforward to analyze statistically
   - Use Program Evaluation techniques
   - Data generally available
 
-
-
-
-
 ## Pay Equity
 
-- Generally these are ineffective in closing gender gap
-    
+::: {.callout-note}
+## Pay Equity Effectiveness
+- Generally [ineffective]{.fg style="color: #c7254e;"} in closing the gender gap
 - Some evidence of an impact in the UK
-  
-- In U.S., pay equity difficult to disentangle from other civil rights legislation
+- In the U.S., pay equity is difficult to disentangle from other civil rights legislation — effects are inconclusive
+:::
 
-  - Effects are inconclusive
-  
-  
 ## Equal Pay for Equal Work
 
-- Analyzed mostly in the public sector
-
-- Recall that the legislation is limited in scope
-
+- Analyzed mostly in the [public sector]{.fg style="color: #2780e3;"}
+- Recall the legislation is limited in scope
   - Male/female dominated jobs in same firm/industry
-  
-- Policy shown to closes about one-third of the gender gap in public sector
+- Policy shown to close about [one-third of the gender gap in the public sector]{.fg style="color: #5cb85c;"}
+  - Limited evidence in the private sector
 
-  - Limited evidence in private sector
-  
 ## Affirmative Action
 
 - Affirmative action is most prominent in the U.S.
+- Several studies have examined its effect:
+  - [Evidence that it helped employment opportunities of Black men]{.fg style="color: #5cb85c;"}
+    - Were the main targets of the legislation in earlier years
+  - In later years, [helped both Black men and women]{.fg style="color: #5cb85c;"}
+    - Targets were expanded in later years
 
-- Several studies have examined its effect
-
-- Evidence that it helped employment opportunities of Black men
-
-  - Were the main targets of the legislation in earlier years
-  
-- In later years, helped both Black men and women 
-
-  - Targets were explanded in later years
-  
 ## Facilitating Policies
 
-- Parental leave policies help create job continuity
+::: {.callout-note}
+## Evidence on Facilitating Policies
+- [Parental leave]{.fg style="color: #5cb85c;"} policies help create job continuity
+- [Subsidized child care]{.fg style="color: #5cb85c;"} increases female labour force participation — good evidence from Quebec
+- [Pay transparency]{.fg style="color: #5cb85c;"} reduces the gender gap by about 30% in academia — using evidence from the "sunshine list" in Ontario
+- ["Tenure clock stopping"]{.fg style="color: #c7254e;"} policies reduce tenure rates for women — unintended consequence: men can increase productivity
+- [Banning criminal history questions]{.fg style="color: #c7254e;"} hurt employment of Black men — increased use of discrimination
+:::
 
-- Subsidized child care increases female labour force participation
-
-    - Good evidence from Quebec
-    
-- Pay transparency reduces the gender gap by about 30% in academia
-  
-    - Using evidence from "sunshine list" in Ontario
-    
-- "Tenure clock stopping" policies reduce tenure rates for women
-
-  - Unintended consequence is men are able to increase productivity
-  
-- Banning asking about past criminal history hurt employment of Black men
-
-  - Increased use of discrimination
-  
 # Summary
 
 ## Summary
 
-- Discrimination can arise from tastes, statistical discrimination, supply-side factors, and non-competitive markets
-
-- Measuring discrimination is difficult because productivity is not observed
-
-    -   Blinder-Oaxaca decomposition is a common method
-    
-- Collider bias is a potential issue when controlling for certain variables
-
+- [Discrimination can arise from]{.fg style="color: #2780e3;"} tastes (Becker), statistical discrimination, supply-side factors, and non-competitive markets
+- [Measuring discrimination is difficult]{.fg style="color: #2780e3;"} because productivity is not observed
+  - Blinder-Oaxaca decomposition is a common method
+- [Collider bias]{.fg style="color: #c7254e;"} is a potential issue when controlling for variables that are themselves outcomes of discrimination
 - There are a number of initiatives to reduce discrimination
-
-    -   Mixed evidence on their effectiveness
+  - [Mixed evidence on their effectiveness]{.fg style="color: #555;"}

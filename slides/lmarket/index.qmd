@@ -1,5 +1,5 @@
 ---
-format: 
+format:
   revealjs:
     theme: [default, hygge.scss]
     center-title-slide: false
@@ -23,7 +23,7 @@ editor: visual
 
 <h2>Wilfrid Laurier University</h2>
 
-<h2>Fall 2025</h2>
+<h2>Winter 2026</h2>
 
 ![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
 
@@ -31,77 +31,63 @@ editor: visual
 
 ## Goals of This Section
 
--   Bring together demand and supply to determine wages and employment
+Today we will:
 
--   Discuss the effect of market power in goods market on equilibrium wages and employment
-
--   Discuss the effect of market power in the labour market on equilibrium wages and employment
-
--   Analyze minimum wages
+- Bring together demand and supply to determine wages and employment
+- Discuss the effect of market power in the goods market on equilibrium wages and employment
+- Discuss the effect of market power in the labour market on equilibrium wages and employment
+- Analyze minimum wages
 
 # Introduction
 
 ## Introduction
 
--   We have analyzed labour demand and supply separately in detail
-
--   The equilibrium wage and employment is determined by the interaction of the two
-
--   Market power plays an important role
-
-    -   In both goods markets and labour markets
-
--   With a full understanding on how wages and employment are determined, we can analyze policies
-
--   The minimum wage is one of the most prominent labour market policies
-
-    -   In theory, it leads to unemployment
-    -   The evidence is more mixed
+- We have analyzed labour demand and supply separately in detail
+- [Equilibrium wage and employment]{.fg style="color: #2780e3;"} is determined by the interaction of the two
+- Market power plays an important role
+  - In both goods markets and labour markets
+- With a full understanding on how wages and employment are determined, we can analyze policies
+- The [minimum wage]{.fg style="color: #2780e3;"} is one of the most prominent labour market policies
+  - In theory, it leads to unemployment
+  - The evidence is more mixed
 
 # Competitive Firms
 
 # Introduction
 
--   We start with firms that are competitive in the goods and labour markets
+::: {.callout-note}
+## Assumptions
+We start with firms that are [competitive in both goods and labour markets]{.fg style="color: #5cb85c;"}
 
--   Perfect competition in both implies that
+- Firms take the market wage as given
+- They take the market price as given
+- Competition means they are too small to influence either
+:::
 
-    -   Firms take the market wage as given
-    -   They take the market price as given
-    -   Competition means they are too small to influence either
-
--   We analyze the equilibrium wage and employment for a homogeneous type of labour
-
-    -   All workers are the same
-
-## Market Demand and Supply
-
--   The market demand and supply are the sum of the individual firms' demand and supply at each wage
-
--   Here we determine the demand and supply curve for a single labour market
-
-    -   Could be an specific occupation in a specific region
-    -   Example: electricians in Ontario, professors in Canada, etc.
-    -   How the market is defined depends on context
-    -   But it is for a single type of labour
+- We analyze the equilibrium wage and employment for a [homogeneous]{.fg style="color: #2780e3;"} type of labour
+  - All workers are the same
 
 ## Market Demand and Supply
 
--   Example is two firms with different elasticities of demand
+- The [market demand and supply]{.fg style="color: #2780e3;"} are the sum of the individual firms' demand and supply at each wage
+- Here we determine the demand and supply curve for a single labour market
+  - Could be a specific occupation in a specific region
+  - Example: electricians in Ontario, professors in Canada, etc.
+  - How the market is defined depends on context
+  - But it is for a single type of labour
 
-    -   Each firm demand curve is their value of marginal product
-    -   Firms may face different product prices if they sell different things (but hire the same labour)
+## Market Demand and Supply
 
--   Each firm faces the same wage in the labour market
-
-    -   They perceive the supply curve as horizontal in the long run
-    -   They take the wage as given and can get as much laour as they want at that wage
-    -   Market supply is upward sloping
-
--   Market demand is horizontal sum of individual demands
-
-    -   Add up the quantities demanded at each wage for each firm
-    -   Repeat for all wages
+- Example is two firms with different elasticities of demand
+  - Each firm demand curve is their value of marginal product
+  - Firms may face different product prices if they sell different things (but hire the same labour)
+- Each firm faces the same wage in the labour market
+  - They perceive the supply curve as [horizontal in the long run]{.fg style="color: #5cb85c;"}
+  - They take the wage as given and can get as much labour as they want at that wage
+  - Market supply is upward sloping
+- [Market demand]{.fg style="color: #2780e3;"} is horizontal sum of individual demands
+  - Add up the quantities demanded at each wage for each firm
+  - Repeat for all wages
 
 ## Market Demand and Supply
 
@@ -109,21 +95,15 @@ editor: visual
 
 ## Firm Demand and Supply in the Short Run
 
--   Above we analyzed the longer run
-
-    -   Firms can get as much labour as they want at the going wage
-
--   In the short run, firms may face an upward sloping supply curve
-
-    -   They have to pay higher wages to attract more workers
-    -   This could be because of contracts, or other frictions
-
--   If demand rises, they would pay higher wages to attract workers
-
--   But because wages are high, over the long term more workers enter the market
-
-    -   Short run supply shifts out
-    -   Wage falls back down to long run level
+- Above we analyzed the longer run
+  - Firms can get as much labour as they want at the going wage
+- In the [short run]{.fg style="color: #c7254e;"}, firms may face an upward sloping supply curve
+  - They have to pay higher wages to attract more workers
+  - This could be because of contracts, or other frictions
+- If demand rises, they would pay higher wages to attract workers
+- But because wages are high, over the long term more workers enter the market
+  - Short run supply shifts out
+  - Wage falls back down to long run level
 
 ## Firm Demand and Supply in the Short Run
 
@@ -133,22 +113,16 @@ editor: visual
 
 ## Monopoly
 
--   In competitive markets there are many sellers of a product
+::: {.callout-important}
+## Monopoly
+[Monopoly:]{.fg style="color: #2780e3;"} a single seller with market power — the ability to set prices above marginal cost
+:::
 
--   In a monopoly, there is only one
-
--   This gives the firm market power
-
-    -   The ability to set prices above marginal cost
-
--   For a monopolist, the demand curve is where wage equals marginal revenue product
-
-    $$w = MR \times MPP_N$$
-
--   For a monopolist, marginal revenue is less than price
-
-    -   Because to sell more, they have to lower price on all units sold
-    -   So marginal revenue product is less than value of marginal product ($VMP$)
+- For a monopolist, the labour demand curve is where wage equals marginal revenue product:
+  $$w = MR \times MPP_N$$
+- For a monopolist, [marginal revenue is less than price]{.fg style="color: #c7254e;"}
+  - Because to sell more, they have to lower price on all units sold
+  - So marginal revenue product is less than value of marginal product ($VMP$)
 
 ## Monopoly
 
@@ -156,144 +130,108 @@ editor: visual
 
 ## Monopoly
 
--   Because monopolists have market power
+::: {.callout-warning}
+Monopolists raise the price of their product above the competitive level, which decreases output — so they demand [fewer workers]{.fg style="color: #c7254e;"} than a competitive firm in the same market
+:::
 
-    -   They can raise the price of their product above competitive level
-    -   This will decrease output
-    -   They demand less labour
-
--   Monopolists therefore will hire fewer workers
-
-    -   Compared to a competitive firm in the same market
-
--   Note that power in the product market does not mean power in the labour market
-
-    -   The firm is still one of many hiring workers in a particular labour market
+- Note that power in the product market does not mean power in the labour market
+  - The firm is still one of many hiring workers in a particular labour market
 
 ## Monopolistic Competition and Oligopoly
 
--   Many markets are neither perfectly competitive nor pure monopoly
+- Many markets are neither perfectly competitive nor pure monopoly
 
--   Monopolistic competition
+[Monopolistic competition:]{.fg style="color: #2780e3;"}
 
-    -   Many firms selling differentiated products
-    -   Each firm has some market power because of product differentiation
-    -   Can set prices above marginal cost
+- Many firms selling differentiated products
+- Each firm has some market power because of product differentiation
+- Can set prices above marginal cost
 
--   Oligopoly
+[Oligopoly:]{.fg style="color: #2780e3;"}
 
-    -   A few firms dominate the market
-    -   Each firm has significant market power
-    -   But must consider reactions of competitors when setting prices
+- A few firms dominate the market
+- Each firm has significant market power
+- But must consider reactions of competitors when setting prices
 
--   Demand for labour is still based on marginal revenue product
-
-    -   Which is less than value of marginal product
-    -   So firms hire fewer workers than in competitive markets
+::: {.callout-note}
+In both cases, demand for labour is based on marginal revenue product — which is less than VMP — so firms hire fewer workers than in competitive markets
+:::
 
 ## Additional Details
 
--   All of the previous analysis assumes that labour markets are perfectly competitive
-
-    -   Firms can hire all labour they want at the given wage
-
--   That is not always the case in reality when firms have power in the product market
-
-    -   Employees may unionize
-    -   Firms may hire a large number of the market's workers
-
--   In these cases, firms may not face a perfectly elastic supply curve for labour
-
--   Later we will analyze imperfect competition in the labour market
+- All of the previous analysis assumes that labour markets are perfectly competitive
+  - Firms can hire all labour they want at the given wage
+- That is not always the case in reality when firms have power in the product market
+  - Employees may unionize
+  - Firms may hire a large number of the market's workers
+- In these cases, firms may not face a perfectly elastic supply curve for labour
+- Later we will analyze imperfect competition in the labour market
 
 # Math of Labour Market Equilibrium
 
 ## Introduction
 
--   We know that market equilibrium is where demand and supply are equal
-
--   You can do that graphically or mathematically
-
--   In this section we cover both
-
--   To make the math easier, we use linear demand and supply curves
-
-    -   This is just for simplicity
-    -   The same principles apply with non-linear curves
+- We know that market equilibrium is where demand and supply are equal
+- You can do that graphically or mathematically
+- In this section we cover both
+- To make the math easier, we use [linear demand and supply curves]{.fg style="color: #2780e3;"}
+  - This is just for simplicity — the same principles apply with non-linear curves
 
 ## Demand and Supply Functions
 
--   The demand and supply for labour are functions of wages and other factors
+[Variables in the model:]{.fg style="color: #2780e3;"}
 
-    -   Demand: $N^D = f(w, Z)$
+- Demand: $N^D = f(w, Z)$
+  - $Z$ is a list of other factors affecting demand
+- Supply: $N^S = g(w, X)$
+  - $X$ is a list of other factors affecting supply
 
-        -   $Z$ is a list of other factors affecting demand
+[Exogenous variables]{.fg style="color: #555;"} ($Z$ and $X$) shift the curves:
 
-    -   Supply: $N^S = g(w, X)$
+- Examples: technology, prices of other inputs, preferences, demographics
+- Determined [outside]{.fg style="color: #c7254e;"} the model
 
-        -   $X$ is a list of other factors affecting supply
+[Endogenous variables]{.fg style="color: #555;"} ($N^D$, $N^S$, and $w$):
 
--   $Z$ and $X$ are things that shift the curves
-
-    -   For example, technology, prices of other inputs, preferences, demographics, etc.
-
-    -   We call these **exogenous** variables
-
-        -   Determined outside the model
-
--   $N^D$, $N^S$, and $w$ are **endogenous**
-
-    -   Determined within the model
+- Determined [within]{.fg style="color: #5cb85c;"} the model
 
 ## Demand and Supply Functions
 
--   Assume the demand and supply functions are linear
+Assume the demand and supply functions are [linear]{.fg style="color: #2780e3;"}:
 
-    -   Demand: $N^D = a + b w$
+- Demand: $N^D = a + b w$ (where $a$, $b$ are constants)
+- Supply: $N^S = c + f w$ (where $c$, $f$ are constants)
 
-        -   $a$, $b$ are constants
-
-    -   Supply: $N^S = c + f w$
-
-        -   $c$, $f$ are constants
-
--   To find equilibrium, set demand equal to supply
+To find equilibrium, set demand equal to supply:
 
 $$a + b w^* = c + f w^*$$
 
 ## Demand and Supply Functions
 
--   Rearranging to solve for equilibrium wage:
+::: {.callout-tip}
+## Equilibrium Solutions
 
+Equilibrium wage:
 $$w^* = \frac{c - a}{b - f}$$
 
--   Rearranging to solve for equilibrium employment:
-
+Equilibrium employment:
 $$N^* = \frac{b c - a f }{b - f}$$
+:::
 
--   Use these equations to analyze how changes in exogenous variables
+Use these equations to analyze how changes in exogenous variables affect equilibrium:
 
-    -   Changing $a$ would shift the demand curve
-
-        -   Example: increase in product price
-
-    -   Changing $c$ would shift the supply curve
-
-        -   Example: increase in population
+- Changing $a$ shifts the demand curve (e.g., increase in product price)
+- Changing $c$ shifts the supply curve (e.g., increase in population)
 
 ## Demand and Supply Functions
 
--   To draw the demand and supply curves, we need $w$ on the left side
+To draw the demand and supply curves, we need $w$ on the left side:
 
--   Rearranging the demand function:
-
+Rearranging the demand function:
 $$w = \frac{N^D - a}{b}$$
 
--   Rearranging the supply function:
-
+Rearranging the supply function:
 $$w = \frac{N^S - c}{f}$$
-
--   Next slide plots these functions
 
 ## Demand and Supply Functions
 
@@ -301,51 +239,44 @@ $$w = \frac{N^S - c}{f}$$
 
 ## Payroll Tax
 
--   We can use this model to analyze various policies
-
--   One common policy is a payroll tax on employers
-
-    -   Examples: Canada Pension Plan (CPP), Employment Insurance (EI)
-
--   These are typically a percentage of wages paid by employers
-
--   But we will analyze a fixed amount per hour for simplicity
-
-    -   Suppose the tax is $T$ per hour
-
--   This drives a "wedge" between the wage paid by employers and the wage received by workers in equilibrium
+- We can use this model to analyze various policies
+- One common policy is a [payroll tax on employers]{.fg style="color: #2780e3;"}
+  - Examples: Canada Pension Plan (CPP), Employment Insurance (EI)
+- These are typically a percentage of wages paid by employers
+- We will analyze a fixed amount per hour for simplicity: suppose the tax is $T$ per hour
+- This drives a "wedge" between the wage paid by employers and the wage received by workers:
 
 $$w_r = w_e - T$$
 
 ## Payroll Tax
 
--   The demand function is:
-
+The demand function is:
 $$w_e = \frac{N^D - a}{b} $$
 
--   The supply function is:
-
+The supply function is:
 $$w_r = \frac{N^S - c}{f}$$
 
 ## Payroll Tax
 
--   Substitute into the equilibrium price equation and set quantity demanded equal to quantity supplied:
+Substitute into the equilibrium price equation and set quantity demanded equal to quantity supplied:
 
 $$\frac{N^* - c}{f} = \frac{N^* - a}{b} - T $$
 
--   Rearranging to solve for equilibrium employment:
+Rearranging to solve for equilibrium employment:
 
 $$N^* = \frac{b c - a f - b f T}{b - f} $$
 
 ## Payroll Tax
 
--   The equilibrium wage received by workers is
+::: {.callout-tip}
+## Equilibrium Wages Under Payroll Tax
 
+Wage received by workers:
 $$w_r^* = \frac{c-a}{b-f} - \frac{b}{b-f} T $$
 
--   The equilibrium wage paid by employers is
-
+Wage paid by employers:
 $$w_e^* = \frac{c-a}{b-f} - \frac{f}{b-f} T $$
+:::
 
 ## Payroll Tax
 
@@ -353,79 +284,60 @@ $$w_e^* = \frac{c-a}{b-f} - \frac{f}{b-f} T $$
 
 ## Payroll Tax
 
--   The previous slide highlights the difference between the statutory and economic incdidence of a tax
+::: {.callout-important}
+## Tax Incidence
+- [Statutory incidence:]{.fg style="color: #2780e3;"} who is legally responsible for paying the tax (here: firms)
+- [Economic incidence:]{.fg style="color: #2780e3;"} who actually bears the burden of the tax (here: shared between firms and workers)
+:::
 
-    -   Statutory incidence: who is legally responsible for paying the tax
+Economic incidence depends on [elasticities of supply and demand]{.fg style="color: #2780e3;"}:
 
-        -   In this case, firms
-
-    -   Economic incidence: who actually bears the burden of the tax
-
-        -   Shared between firms and workers
-        -   Workers receive a lower wage than before
-        -   Firms pay a higher one
-
--   Economic incidence depends on elasticities of supply and demand
-
-    -   More elastic supply means workers bear less of the tax burden
-    -   More elastic demand means firms bear less of the tax burden
+- More elastic supply → workers bear [less]{.fg style="color: #5cb85c;"} of the tax burden
+- More elastic demand → firms bear [less]{.fg style="color: #5cb85c;"} of the tax burden
 
 ## Evidence
 
--   Theory predicts lower employment from a payroll tax
-
--   Also predicts economic incidence may be shared between firms and workers
-
--   Evidence based on empirical studies is
-
-    -   In the long run, workers bear most of the burden of the tax through lower wages
-    -   Employment effects are small
+::: {.callout-note}
+## Empirical Findings on Payroll Taxes
+- In the long run, [workers bear most of the burden]{.fg style="color: #c7254e;"} through lower wages
+- Employment effects are [small]{.fg style="color: #5cb85c;"}
+:::
 
 # Monopsony in the Labour Market
 
 ## Introduction
 
--   Market power can be a feature on both the buying and selling side of markets
+::: {.callout-important}
+## Monopsony
+[Monopsony:]{.fg style="color: #2780e3;"} a single buyer with market power in the labour market
 
-    -   Monopoly: single seller with market power
-    -   Monopsony: single buyer with market power
+- Contrast with [monopoly]{.fg style="color: #555;"}: single seller with market power in the goods market
+:::
 
--   Typically we discuss monopoly in the goods market, but monopsony in the labour market
+Some examples of monopsony in the labour market:
 
-    -   But you can have power in both buying and selling in both markets
+- Company/factory towns
+- Hospital labour markets
+- University professor labour markets
+- Public sector in small areas
 
--   In this section we will consider monopsony in the labour market
-
-## Introduction
-
--   Some examples of monopsony in the labour market
-
-    -   Company/factory towns
-    -   Hospital labour markets
-    -   University professor labour markets
-    -   Public sector in small areas
-
--   In all case there is a large buyer of labour
-
--   This gives the buyer power to set wages
-
--   Affects both wages and employment
-
-    -   To attract labour, it must raise wages
+In all cases, there is a large buyer of labour — giving the buyer power to set wages, affecting both wages and employment
 
 ## Simple Monopsony
 
--   In a monopsony, the firm faces the market supply curve for labour
+- In a monopsony, the firm faces the [market supply curve]{.fg style="color: #2780e3;"} for labour
+  - Supply is upward sloping
+  - Contrast to perfect competition where supply is [horizontal]{.fg style="color: #5cb85c;"}
+  - To hire more workers, the firm must pay a higher wage
 
-    -   Supply is upward sloping
-    -   Contrast to perfect competition where supply is horizontal
-    -   To hire more workers, the firm must pay a higher wage
+::: {.callout-important}
+## Marginal Cost of Labour
+The firm's [marginal cost of labour is above the supply curve]{.fg style="color: #c7254e;"}
 
--   The firms marginal cost of labour is above the supply curve
-
-    -   Because to hire an additional worker, the firm must raise the wage for all workers
-    -   So MC is equal to cost of additional worker plus the increase in wage paid to existing workers
-    -   Analogous to how monopolists face MR below demand
+- To hire an additional worker, the firm must raise the wage for **all** workers
+- MC = cost of additional worker + increase in wage paid to existing workers
+- Analogous to how monopolists face MR below demand
+:::
 
 ## Simple Monopsony
 
@@ -437,12 +349,11 @@ $$w_e^* = \frac{c-a}{b-f} - \frac{f}{b-f} T $$
 ::::
 
 ::: {.column width="50%"}
--   Monopsony depicted to the left
--   Firm demand is its value of marginal product
--   Faces upward sloping supply curve
--   MC is above supply
--   Optimal labour is where MC = VMP
--   Wage comes from supply curve at that quantity of labour
+- Firm demand is its value of marginal product
+- Faces upward sloping supply curve
+- MC is above supply
+- [Optimal labour is where MC = VMP]{.fg style="color: #2780e3;"}
+- Wage comes from supply curve at that quantity of labour
 :::
 ::::::
 
@@ -456,16 +367,16 @@ $$w_e^* = \frac{c-a}{b-f} - \frac{f}{b-f} T $$
 ::::
 
 ::: {.column width="50%"}
--   For monopsony
+Compared to competitive equilibrium, monopsony results in:
 
-    -   Wage is below VMP
-    -   Wage is below competitive wage
-    -   Employment is below competitive employment
+- [Wage below VMP]{.fg style="color: #c7254e;"}
+- [Wage below competitive wage]{.fg style="color: #c7254e;"}
+- [Employment below competitive level]{.fg style="color: #c7254e;"}
 
--   Monopsony profit is rectangle $(VMP_m - W_m) \times N_m$
+Monopsony profit = $(VMP_m - W_m) \times N_m$
 
-    -   Wage bill is $W_m \times N_m$
-    -   Revenue contributed by workers is $VMP_m \times N_m$
+- Wage bill is $W_m \times N_m$
+- Revenue contributed by workers is $VMP_m \times N_m$
 :::
 ::::::
 
@@ -479,58 +390,49 @@ $$w_e^* = \frac{c-a}{b-f} - \frac{f}{b-f} T $$
 ::::
 
 ::: {.column width="50%"}
--   Monopsonies also leave jobs vacant
+Monopsonies also leave [jobs vacant]{.fg style="color: #c7254e;"}:
 
-    -   Because they restrict employment to raise wages
-    -   This creates inefficiency in the labour market
+- They restrict employment to maintain low wages
+- This creates inefficiency in the labour market
+- Vacancies are $V_m - S_m$
 
--   Vacancies are $V_m - S_m$
+At wage $W_m$:
 
--   At wage $W_m$
-
-    -   VMP is above wage
-    -   Firms would like to hire more -But to hire it must raise wages, so it is optimal to not hire more
+- VMP is above wage
+- Firms would like to hire more
+- But to hire, must raise wages — so it is optimal to not hire more
 :::
 ::::::
 
 ## Characteristics of Monopsonies
 
--   More prevalent in the short run
+Monopsonies tend to be:
 
-    -   In the long run, workers can move to find other jobs
-    -   In the short run, frictions may prevent this
-
--   Large relative to the labour market
-
-    -   Does not have to be a big firm, just large relative to the market
-    -   If the market is small, the firm does not have to be large to have power
-    -   Example: a restaurant in a seasonal tourist town
-
--   Workers have specialized skills
-
-    -   May naturally be few employers for specialized labour
-    -   Like academia, sports teams
+- [More prevalent in the short run]{.fg style="color: #2780e3;"}
+  - In the long run, workers can move to find other jobs
+  - In the short run, frictions may prevent this
+- [Large relative to the labour market]{.fg style="color: #2780e3;"}
+  - Does not have to be a big firm, just large relative to the market
+  - Example: a restaurant in a seasonal tourist town
+- [Associated with workers who have specialized skills]{.fg style="color: #2780e3;"}
+  - May naturally be few employers for specialized labour
+  - Like academia, sports teams
 
 ## Characteristics of Monopsonies
 
--   Wages are lower than competitive equilibrium, but not necessarily low in an absolute sense
+::: {.callout-note}
+Wages under monopsony are [lower than competitive equilibrium]{.fg style="color: #c7254e;"}, but not necessarily low in an absolute sense
 
-    -   Example: sports players
-    -   Not paid low wages, but market power makes them lower than they would be otherwise
+- Example: sports players are not paid low wages, but market power makes them lower than they would be otherwise
+:::
 
 ## Wage Differentiation
 
--   In previous analysis, we assumed all workers are the same
-
-    -   Single supply curve for labour
-
--   This leaves some surplus for workers
-
-    -   There are workers willing to work for less than the equilibrium wage
-
--   Firm can capture that surplus by differentiating wages
-
-    -   Paying different workers different wages based on their reservation wage
+- In previous analysis, we assumed all workers are the same (single supply curve)
+- This leaves some [surplus for workers]{.fg style="color: #5cb85c;"}
+  - There are workers willing to work for less than the equilibrium wage
+- A firm can capture that surplus by [differentiating wages]{.fg style="color: #2780e3;"}
+  - Paying different workers different wages based on their reservation wage
 
 ## Wage Differentiation
 
@@ -542,59 +444,51 @@ $$w_e^* = \frac{c-a}{b-f} - \frac{f}{b-f} T $$
 ::::
 
 ::: {.column width="50%"}
--   If the firm can pay different wages
+If the firm can pay different wages:
 
-    -   It can pay each worker their reservation wage
-    -   MC curve and supply curve become equal to supply curve
+- It can pay each worker their [reservation wage]{.fg style="color: #2780e3;"}
+- MC curve becomes equal to supply curve
+- Firm will hire up to [competitive level]{.fg style="color: #5cb85c;"}
+  - It no longer has to increase wage for all workers to hire more
 
--   Firm will hire up to competitive level
+To do this, firms try to make wages secret:
 
-    -   Because it does not have to increase wage for all workers to hire more
-
--   To do this, firms would try to make wages secret
-
-    -   Prevent workers from knowing what others are paid
-    -   Could do this with non-wage benefits for specific workers
+- Prevent workers from knowing what others are paid
+- Could use non-wage benefits for specific workers
 :::
 ::::::
 
 ## Evidence of Monopsonies
 
--   Pro sports
+[Pro sports:]{.fg style="color: #2780e3;"}
 
-    -   Baseball: free agency increased wages significantly
-        -   Increases competition among teams
-    -   Hockey: not much evidence of monopsony power
+- Baseball: free agency increased wages significantly — increases competition among teams
+- Hockey: not much evidence of monopsony power
 
--   Academia and nursing
+[Academia and nursing:]{.fg style="color: #2780e3;"}
 
-    -   Some evidence of monopsony power
-    -   In Canada, a bargaining model may be more appropriate given these labour markets are unionized
+- Some evidence of monopsony power
+- In Canada, a bargaining model may be more appropriate given these labour markets are unionized
 
--   Some academics argue that monopsonies are relatively common
-
-    -   Firms can set wages only if they have some market power
-    -   Evidence that this is widespread
+::: {.callout-note}
+Some academics argue that monopsonies are relatively common — firms can set wages only if they have some market power, and evidence suggests this is widespread
+:::
 
 # Minimum Wages
 
 ## Introduction
 
--   Minimum wages are a common policy tool
+::: {.callout-important}
+## Minimum Wage
+A [minimum wage]{.fg style="color: #2780e3;"} sets a legal floor on wages that employers must pay workers
 
-    -   Set a legal minimum wage that employers must pay workers
+- Intended to raise wages of low-wage workers, reduce poverty, increase standard of living
+:::
 
--   Intended to raise wages of low-wage workers
-
-    -   Reduce poverty
-    -   Increase standard of living
-
--   Standard economic theory predicts that minimum wages lead to unemployment
-
-    -   Because they set a wage above the equilibrium wage
-    -   Quantity of labour supplied exceeds quantity demanded
-
--   But statistical evidence is much more mixed
+- Standard economic theory predicts that minimum wages lead to [unemployment]{.fg style="color: #c7254e;"}
+  - Because they set a wage above the equilibrium wage
+  - Quantity of labour supplied exceeds quantity demanded
+- But statistical evidence is [much more mixed]{.fg style="color: #5cb85c;"}
 
 ## Minimum Wages by Province
 
@@ -610,7 +504,7 @@ minwage <- read_csv("canada_minimum_wage_2000_2025.csv") %>%
               clean_names(),
             by = "year") %>%
   mutate(cpi2025 = 100*cpi / 160.9,
-         rminimum_wage = 100*minimum_wage / cpi2025) 
+         rminimum_wage = 100*minimum_wage / cpi2025)
 
 ggplot(minwage, aes(x = year, y = minimum_wage, color = province)) +
   geom_line(size = 1) +
@@ -658,19 +552,16 @@ ggplot(minwage, aes(x = year, y = rminimum_wage, color = province)) +
 
 ## Minimum Wages in Competitive Labour Market
 
--   Suppose the labour market is competitive
+In a [competitive labour market]{.fg style="color: #5cb85c;"}:
 
--   The market demand is downward sloping
+- Market demand is downward sloping
+- Market supply is upward sloping
 
--   The market supply is upward sloping
+A minimum wage acts as a [wage floor]{.fg style="color: #c7254e;"} set above the competitive equilibrium wage:
 
--   Minimum wages are introduced as a wage floor
-
-    -   Above the competitive equilibrium wage
-
--   Creates excess supply of labour
-
-    -   Leads to unemployment
+::: {.callout-warning}
+A binding minimum wage in a competitive market creates [excess supply of labour]{.fg style="color: #c7254e;"}, leading to unemployment
+:::
 
 ## Minimum Wages in Competitive Labour Market
 
@@ -682,43 +573,29 @@ ggplot(minwage, aes(x = year, y = rminimum_wage, color = province)) +
 ::::
 
 ::: {.column width="50%"}
--   Impact of minimum wage illustrated to the left
-
--   Minimum wage is $W_m$ above competitive level $W_c$
-
--   Creates excess supply of labour
-
--   Leads to unemployment $N_s - N_m$
-
-    -   People who would have been employed at competitive equilibrium $N_c - N_m$
-    -   Others drawn into market by higher wage $N_s - N_c$
-
--   
+- Minimum wage $W_m$ is above competitive level $W_c$
+- Creates excess supply of labour
+- Unemployment = $N_s - N_m$
+  - [Previously employed, now not:]{.fg style="color: #c7254e;"} $N_c - N_m$
+  - [New entrants drawn in by higher wage:]{.fg style="color: #555;"} $N_s - N_c$
 :::
 ::::::
 
 ## Minimum Wages in Competitive Labour Market
 
--   Employment effects depend on elasticity of demand
-
-    -   More elastic demand means larger employment effects
-
--   In real world, industries with minimum wage tend to have elastic demands
-
-    -   Lots of substitutes for low-wage labour
-    -   Labour costs are a large share of total costs
-
--   Nevertheless, we will see that minimum wages may not affect employment much in practice
+- Employment effects depend on [elasticity of demand]{.fg style="color: #2780e3;"}
+  - More elastic demand → larger employment effects
+- In the real world, industries with minimum wage workers tend to have elastic demands
+  - Lots of substitutes for low-wage labour
+  - Labour costs are a large share of total costs
+- Nevertheless, we will see that minimum wages may not affect employment much in practice
 
 ## Minimum Wages in Monopsony
 
--   Effects of minimum wages are different in monopsonistic labour markets
-
--   It is possible that minimum wages increase both wages and employment
-
-    -   Depending on where the minimum wage is set
-
--   Graph on next slide illustrates this
+::: {.callout-tip}
+## Key Result
+In a [monopsonistic]{.fg style="color: #2780e3;"} labour market, minimum wages can [increase both wages and employment]{.fg style="color: #5cb85c;"}, depending on where the minimum wage is set
+:::
 
 ## Minimum Wages in Monopsony
 
@@ -730,96 +607,71 @@ ggplot(minwage, aes(x = year, y = rminimum_wage, color = province)) +
 ::::
 
 ::: {.column width="50%"}
--   Graph shows standard monopsony
-
--   Prior to minimum wage, wage is $W_0$ and employment is $N_0$
-
--   Imagine minimum wage set above $W_0$ but below competitive wage
-
--   MC curve is minimum wage up to $S_{1}$
-
-    -   Then jumps up to previous MC curve
-
--   Optimize where MC = VMP
-
-    -   Employment increases to $N_1$
+- Prior to minimum wage: wage is $W_0$, employment is $N_0$
+- Minimum wage set above $W_0$ but below competitive wage
+- MC curve = minimum wage up to $S_{1}$, then jumps to previous MC curve
+- Optimize where MC = VMP
+- [Employment increases to $N_1$]{.fg style="color: #5cb85c;"}
 :::
 ::::::
 
 ## Minimum Wages in Monopsony
 
--   Why would minimum wages cause employment to increase?
+Why would minimum wages cause employment to [increase]{.fg style="color: #5cb85c;"}?
 
-    -   Previously, firm had to increase wages to attract more labour
-    -   With minimum wage, it does not
-        -   Everyone is paid the same wage
-        -   Wage increases no longer inhibit employment growth
-    -   Effectively, minimum wage lowers marginal cost
+- Previously, firm had to increase wages to attract more labour
+- With minimum wage, it does not
+  - Everyone is paid the same wage
+  - Wage increases no longer inhibit employment growth
+- [Effectively, minimum wage lowers marginal cost]{.fg style="color: #2780e3;"}
 
--   This may be partly why we do not see large employment effects of minimum wages
+This may be partly why we do not see large employment effects of minimum wages
 
--   Note that monopsonists do not like minimum wages
-
-    -   They reduce their market power
-    -   Increases costs, reduces profits
+::: {.callout-note}
+Note that monopsonists do not like minimum wages — they reduce market power, increase costs, and reduce profits
+:::
 
 ## Offsetting Factors for Minimum Wage
 
--   As usual, in models we hold all else equal
+As usual, in models we hold all else equal — but in reality, many things change at once:
 
--   But in reality, many things are changing at once
-
-    -   Minimum wage could be accompanied by changes in demand
-
-        -   For example, fiscal stimulus increasing demand for goods and labour
-
-    -   Minimum wage could lead to changes in technology
-
-        -   May change demand for labour
-
-    -   Firms might choose to absorb minimum wage costs
+- [Demand changes]{.fg style="color: #2780e3;"} may accompany minimum wage increases
+  - E.g., fiscal stimulus increasing demand for goods and labour
+- [Technology changes]{.fg style="color: #2780e3;"} may follow
+  - May change demand for labour
+- [Firms might choose to absorb costs]{.fg style="color: #2780e3;"}
+  - Reducing profits rather than cutting employment
 
 ## Evidence
 
--   Minimum wages are one of the most researched areas in labour economics
-
--   Large amounts of evidence goes back at least 50 years
-
--   Early studies looked at time trends in employment and minimum wages
-
-    -   Subject to a lot of bias
-    -   Things often trend together over time without direct causation
-
--   Research in early 1990s used better methods
-
-    -   Natural experiments
-    -   Difference-in-differences
+- Minimum wages are one of the most researched areas in labour economics
+- Large amounts of evidence going back at least 50 years
+- [Early studies]{.fg style="color: #555;"} looked at time trends in employment and minimum wages
+  - Subject to a lot of bias — things often trend together over time without direct causation
+- [Research in the early 1990s]{.fg style="color: #2780e3;"} used better methods
+  - Natural experiments
+  - Difference-in-differences
 
 ## Evidence
 
--   Most prominent study is Card and Krueger (1994)
-
-    -   Looked at fast food restaurants in New Jersey and Pennsylvania
-    -   New Jersey increased minimum wage, Pennsylvania did not
-    -   Used difference-in-differences to estimate employment effects
-    -   Found no negative employment effects from minimum wage increase
-
--   Has been reevaluated several times
-
-    -   Conclusion remains that employment effects are small or non-existent
+::: {.callout-important}
+## Card and Krueger (1994)
+- Looked at fast food restaurants in [New Jersey]{.fg style="color: #5cb85c;"} (raised minimum wage) and [Pennsylvania]{.fg style="color: #555;"} (did not)
+- Used difference-in-differences to estimate employment effects
+- Found [no negative employment effects]{.fg style="color: #5cb85c;"} from the minimum wage increase
+- Has been reevaluated several times — conclusion remains that employment effects are small or non-existent
+:::
 
 ## Evidence
 
--   In Canada, minimum wages increase youth unemployment
+In Canada:
 
-    -   Studies looked at minimum wage changes across provinces in 1990s
-
--   Some Canadian studies look deeper at labour market dynamics
-
-    -   In any month, there is a lot of turnover in the labour market
-    -   Each month roughly 6% of employed people separate, 8% of non-employed people hired
-    -   Evidence shows minimum wages reduce both hiring and separations
-    -   Leads to no effect overall
+- Minimum wages [increase youth unemployment]{.fg style="color: #c7254e;"}
+  - Studies looked at minimum wage changes across provinces in the 1990s
+- Some Canadian studies look deeper at [labour market dynamics]{.fg style="color: #2780e3;"}
+  - In any month, roughly 6% of employed people separate, 8% of non-employed people are hired
+  - Evidence shows minimum wages reduce both hiring and separations
+  - [Net effect on employment is approximately zero]{.fg style="color: #5cb85c;"}
 
 ## Evidence
 
@@ -831,30 +683,22 @@ ggplot(minwage, aes(x = year, y = rminimum_wage, color = province)) +
 
 ## Evidence
 
-- Also recall that one point of miminum wage is to reduce poverty
+::: {.callout-warning}
+Minimum wages are generally [not effective at reducing poverty]{.fg style="color: #c7254e;"}
 
-- Evidence shows they are generally not successful
+- Many poor individuals do not work
+- Many people on minimum wages are not poor (e.g., youth living in high-income families)
 
-  - Both Canada and US studies show no link
-  
-- Why do they not work?
+Both Canadian and US studies show no link between minimum wages and poverty reduction
+:::
 
-  - Many poor individuals do not work
-  - Many people on minimum wages are not poor
-      - Youth living in high income families
-      
 # Summary
 
 ## Summary
 
--   We analyzed how wages and employment are determined in a single labour market
-
--   Market power in the goods market reduces both wages and employment
-
--   Market power in the labour market reduces wages and employment
-
--   Minimum wages may reduce employment in competitive markets
-
--   Minimum wages may increase employment in monopsonistic markets
-
--   Empirical evidence shows minimum wages have small effects on employment
+- We analyzed how wages and employment are determined in a single labour market
+- [Market power in the goods market]{.fg style="color: #c7254e;"} reduces both wages and employment
+- [Market power in the labour market (monopsony)]{.fg style="color: #c7254e;"} reduces wages and employment
+- Minimum wages [may reduce employment]{.fg style="color: #c7254e;"} in competitive markets
+- Minimum wages [may increase employment]{.fg style="color: #5cb85c;"} in monopsonistic markets
+- Empirical evidence shows minimum wages have [small effects on employment]{.fg style="color: #2780e3;"}

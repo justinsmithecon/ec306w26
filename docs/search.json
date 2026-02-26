@@ -823,28 +823,28 @@
     "href": "slides/lmarket/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nBring together demand and supply to determine wages and employment\nDiscuss the effect of market power in goods market on equilibrium wages and employment\nDiscuss the effect of market power in the labour market on equilibrium wages and employment\nAnalyze minimum wages"
+    "text": "Goals of This Section\nToday we will:\n\nBring together demand and supply to determine wages and employment\nDiscuss the effect of market power in the goods market on equilibrium wages and employment\nDiscuss the effect of market power in the labour market on equilibrium wages and employment\nAnalyze minimum wages"
   },
   {
     "objectID": "slides/lmarket/index.html#introduction-1",
     "href": "slides/lmarket/index.html#introduction-1",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nWe have analyzed labour demand and supply separately in detail\nThe equilibrium wage and employment is determined by the interaction of the two\nMarket power plays an important role\n\nIn both goods markets and labour markets\n\nWith a full understanding on how wages and employment are determined, we can analyze policies\nThe minimum wage is one of the most prominent labour market policies\n\nIn theory, it leads to unemployment\nThe evidence is more mixed"
+    "text": "Introduction\n\nWe have analyzed labour demand and supply separately in detail\nEquilibrium wage and employment is determined by the interaction of the two\nMarket power plays an important role\n\nIn both goods markets and labour markets\n\nWith a full understanding on how wages and employment are determined, we can analyze policies\nThe minimum wage is one of the most prominent labour market policies\n\nIn theory, it leads to unemployment\nThe evidence is more mixed"
   },
   {
     "objectID": "slides/lmarket/index.html#market-demand-and-supply",
     "href": "slides/lmarket/index.html#market-demand-and-supply",
     "title": "EC306 - Wages and Employment",
     "section": "Market Demand and Supply",
-    "text": "Market Demand and Supply\n\nThe market demand and supply are the sum of the individual firms’ demand and supply at each wage\nHere we determine the demand and supply curve for a single labour market\n\nCould be an specific occupation in a specific region\nExample: electricians in Ontario, professors in Canada, etc.\nHow the market is defined depends on context\nBut it is for a single type of labour"
+    "text": "Market Demand and Supply\n\nThe market demand and supply are the sum of the individual firms’ demand and supply at each wage\nHere we determine the demand and supply curve for a single labour market\n\nCould be a specific occupation in a specific region\nExample: electricians in Ontario, professors in Canada, etc.\nHow the market is defined depends on context\nBut it is for a single type of labour"
   },
   {
     "objectID": "slides/lmarket/index.html#market-demand-and-supply-1",
     "href": "slides/lmarket/index.html#market-demand-and-supply-1",
     "title": "EC306 - Wages and Employment",
     "section": "Market Demand and Supply",
-    "text": "Market Demand and Supply\n\nExample is two firms with different elasticities of demand\n\nEach firm demand curve is their value of marginal product\nFirms may face different product prices if they sell different things (but hire the same labour)\n\nEach firm faces the same wage in the labour market\n\nThey perceive the supply curve as horizontal in the long run\nThey take the wage as given and can get as much laour as they want at that wage\nMarket supply is upward sloping\n\nMarket demand is horizontal sum of individual demands\n\nAdd up the quantities demanded at each wage for each firm\nRepeat for all wages"
+    "text": "Market Demand and Supply\n\nExample is two firms with different elasticities of demand\n\nEach firm demand curve is their value of marginal product\nFirms may face different product prices if they sell different things (but hire the same labour)\n\nEach firm faces the same wage in the labour market\n\nThey perceive the supply curve as horizontal in the long run\nThey take the wage as given and can get as much labour as they want at that wage\nMarket supply is upward sloping\n\nMarket demand is horizontal sum of individual demands\n\nAdd up the quantities demanded at each wage for each firm\nRepeat for all wages"
   },
   {
     "objectID": "slides/lmarket/index.html#market-demand-and-supply-2",
@@ -872,7 +872,7 @@
     "href": "slides/lmarket/index.html#monopoly",
     "title": "EC306 - Wages and Employment",
     "section": "Monopoly",
-    "text": "Monopoly\n\nIn competitive markets there are many sellers of a product\nIn a monopoly, there is only one\nThis gives the firm market power\n\nThe ability to set prices above marginal cost\n\nFor a monopolist, the demand curve is where wage equals marginal revenue product\n\\[w = MR \\times MPP_N\\]\nFor a monopolist, marginal revenue is less than price\n\nBecause to sell more, they have to lower price on all units sold\nSo marginal revenue product is less than value of marginal product (\\(VMP\\))"
+    "text": "Monopoly\n\n\n\n\n\n\nMonopoly\n\n\nMonopoly: a single seller with market power — the ability to set prices above marginal cost\n\n\n\n\nFor a monopolist, the labour demand curve is where wage equals marginal revenue product: \\[w = MR \\times MPP_N\\]\nFor a monopolist, marginal revenue is less than price\n\nBecause to sell more, they have to lower price on all units sold\nSo marginal revenue product is less than value of marginal product (\\(VMP\\))"
   },
   {
     "objectID": "slides/lmarket/index.html#monopoly-1",
@@ -886,14 +886,14 @@
     "href": "slides/lmarket/index.html#monopoly-2",
     "title": "EC306 - Wages and Employment",
     "section": "Monopoly",
-    "text": "Monopoly\n\nBecause monopolists have market power\n\nThey can raise the price of their product above competitive level\nThis will decrease output\nThey demand less labour\n\nMonopolists therefore will hire fewer workers\n\nCompared to a competitive firm in the same market\n\nNote that power in the product market does not mean power in the labour market\n\nThe firm is still one of many hiring workers in a particular labour market"
+    "text": "Monopoly"
   },
   {
     "objectID": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly",
     "href": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly",
     "title": "EC306 - Wages and Employment",
     "section": "Monopolistic Competition and Oligopoly",
-    "text": "Monopolistic Competition and Oligopoly\n\nMany markets are neither perfectly competitive nor pure monopoly\nMonopolistic competition\n\nMany firms selling differentiated products\nEach firm has some market power because of product differentiation\nCan set prices above marginal cost\n\nOligopoly\n\nA few firms dominate the market\nEach firm has significant market power\nBut must consider reactions of competitors when setting prices\n\nDemand for labour is still based on marginal revenue product\n\nWhich is less than value of marginal product\nSo firms hire fewer workers than in competitive markets"
+    "text": "Monopolistic Competition and Oligopoly\n\nMany markets are neither perfectly competitive nor pure monopoly\n\nMonopolistic competition:\n\nMany firms selling differentiated products\nEach firm has some market power because of product differentiation\nCan set prices above marginal cost\n\nOligopoly:\n\nA few firms dominate the market\nEach firm has significant market power\nBut must consider reactions of competitors when setting prices\n\n\n\n\n\n\n\nNote\n\n\nIn both cases, demand for labour is based on marginal revenue product — which is less than VMP — so firms hire fewer workers than in competitive markets"
   },
   {
     "objectID": "slides/lmarket/index.html#additional-details",
@@ -907,35 +907,35 @@
     "href": "slides/lmarket/index.html#introduction-3",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nWe know that market equilibrium is where demand and supply are equal\nYou can do that graphically or mathematically\nIn this section we cover both\nTo make the math easier, we use linear demand and supply curves\n\nThis is just for simplicity\nThe same principles apply with non-linear curves"
+    "text": "Introduction\n\nWe know that market equilibrium is where demand and supply are equal\nYou can do that graphically or mathematically\nIn this section we cover both\nTo make the math easier, we use linear demand and supply curves\n\nThis is just for simplicity — the same principles apply with non-linear curves"
   },
   {
     "objectID": "slides/lmarket/index.html#demand-and-supply-functions",
     "href": "slides/lmarket/index.html#demand-and-supply-functions",
     "title": "EC306 - Wages and Employment",
     "section": "Demand and Supply Functions",
-    "text": "Demand and Supply Functions\n\nThe demand and supply for labour are functions of wages and other factors\n\nDemand: \\(N^D = f(w, Z)\\)\n\n\\(Z\\) is a list of other factors affecting demand\n\nSupply: \\(N^S = g(w, X)\\)\n\n\\(X\\) is a list of other factors affecting supply\n\n\n\\(Z\\) and \\(X\\) are things that shift the curves\n\nFor example, technology, prices of other inputs, preferences, demographics, etc.\nWe call these exogenous variables\n\nDetermined outside the model\n\n\n\\(N^D\\), \\(N^S\\), and \\(w\\) are endogenous\n\nDetermined within the model"
+    "text": "Demand and Supply Functions\nVariables in the model:\n\nDemand: \\(N^D = f(w, Z)\\)\n\n\\(Z\\) is a list of other factors affecting demand\n\nSupply: \\(N^S = g(w, X)\\)\n\n\\(X\\) is a list of other factors affecting supply\n\n\nExogenous variables (\\(Z\\) and \\(X\\)) shift the curves:\n\nExamples: technology, prices of other inputs, preferences, demographics\nDetermined outside the model\n\nEndogenous variables (\\(N^D\\), \\(N^S\\), and \\(w\\)):\n\nDetermined within the model"
   },
   {
     "objectID": "slides/lmarket/index.html#demand-and-supply-functions-1",
     "href": "slides/lmarket/index.html#demand-and-supply-functions-1",
     "title": "EC306 - Wages and Employment",
     "section": "Demand and Supply Functions",
-    "text": "Demand and Supply Functions\n\nAssume the demand and supply functions are linear\n\nDemand: \\(N^D = a + b w\\)\n\n\\(a\\), \\(b\\) are constants\n\nSupply: \\(N^S = c + f w\\)\n\n\\(c\\), \\(f\\) are constants\n\n\nTo find equilibrium, set demand equal to supply\n\n\\[a + b w^* = c + f w^*\\]"
+    "text": "Demand and Supply Functions\nAssume the demand and supply functions are linear:\n\nDemand: \\(N^D = a + b w\\) (where \\(a\\), \\(b\\) are constants)\nSupply: \\(N^S = c + f w\\) (where \\(c\\), \\(f\\) are constants)\n\nTo find equilibrium, set demand equal to supply:\n\\[a + b w^* = c + f w^*\\]"
   },
   {
     "objectID": "slides/lmarket/index.html#demand-and-supply-functions-2",
     "href": "slides/lmarket/index.html#demand-and-supply-functions-2",
     "title": "EC306 - Wages and Employment",
     "section": "Demand and Supply Functions",
-    "text": "Demand and Supply Functions\n\nRearranging to solve for equilibrium wage:\n\n\\[w^* = \\frac{c - a}{b - f}\\]\n\nRearranging to solve for equilibrium employment:\n\n\\[N^* = \\frac{b c - a f }{b - f}\\]\n\nUse these equations to analyze how changes in exogenous variables\n\nChanging \\(a\\) would shift the demand curve\n\nExample: increase in product price\n\nChanging \\(c\\) would shift the supply curve\n\nExample: increase in population"
+    "text": "Demand and Supply Functions\n\n\n\n\n\n\nEquilibrium Solutions\n\n\nEquilibrium wage: \\[w^* = \\frac{c - a}{b - f}\\]\nEquilibrium employment: \\[N^* = \\frac{b c - a f }{b - f}\\]\n\n\n\nUse these equations to analyze how changes in exogenous variables affect equilibrium:\n\nChanging \\(a\\) shifts the demand curve (e.g., increase in product price)\nChanging \\(c\\) shifts the supply curve (e.g., increase in population)"
   },
   {
     "objectID": "slides/lmarket/index.html#demand-and-supply-functions-3",
     "href": "slides/lmarket/index.html#demand-and-supply-functions-3",
     "title": "EC306 - Wages and Employment",
     "section": "Demand and Supply Functions",
-    "text": "Demand and Supply Functions\n\nTo draw the demand and supply curves, we need \\(w\\) on the left side\nRearranging the demand function:\n\n\\[w = \\frac{N^D - a}{b}\\]\n\nRearranging the supply function:\n\n\\[w = \\frac{N^S - c}{f}\\]\n\nNext slide plots these functions"
+    "text": "Demand and Supply Functions\nTo draw the demand and supply curves, we need \\(w\\) on the left side:\nRearranging the demand function: \\[w = \\frac{N^D - a}{b}\\]\nRearranging the supply function: \\[w = \\frac{N^S - c}{f}\\]"
   },
   {
     "objectID": "slides/lmarket/index.html#demand-and-supply-functions-4",
@@ -949,28 +949,28 @@
     "href": "slides/lmarket/index.html#payroll-tax",
     "title": "EC306 - Wages and Employment",
     "section": "Payroll Tax",
-    "text": "Payroll Tax\n\nWe can use this model to analyze various policies\nOne common policy is a payroll tax on employers\n\nExamples: Canada Pension Plan (CPP), Employment Insurance (EI)\n\nThese are typically a percentage of wages paid by employers\nBut we will analyze a fixed amount per hour for simplicity\n\nSuppose the tax is \\(T\\) per hour\n\nThis drives a “wedge” between the wage paid by employers and the wage received by workers in equilibrium\n\n\\[w_r = w_e - T\\]"
+    "text": "Payroll Tax\n\nWe can use this model to analyze various policies\nOne common policy is a payroll tax on employers\n\nExamples: Canada Pension Plan (CPP), Employment Insurance (EI)\n\nThese are typically a percentage of wages paid by employers\nWe will analyze a fixed amount per hour for simplicity: suppose the tax is \\(T\\) per hour\nThis drives a “wedge” between the wage paid by employers and the wage received by workers:\n\n\\[w_r = w_e - T\\]"
   },
   {
     "objectID": "slides/lmarket/index.html#payroll-tax-1",
     "href": "slides/lmarket/index.html#payroll-tax-1",
     "title": "EC306 - Wages and Employment",
     "section": "Payroll Tax",
-    "text": "Payroll Tax\n\nThe demand function is:\n\n\\[w_e = \\frac{N^D - a}{b} \\]\n\nThe supply function is:\n\n\\[w_r = \\frac{N^S - c}{f}\\]"
+    "text": "Payroll Tax\nThe demand function is: \\[w_e = \\frac{N^D - a}{b} \\]\nThe supply function is: \\[w_r = \\frac{N^S - c}{f}\\]"
   },
   {
     "objectID": "slides/lmarket/index.html#payroll-tax-2",
     "href": "slides/lmarket/index.html#payroll-tax-2",
     "title": "EC306 - Wages and Employment",
     "section": "Payroll Tax",
-    "text": "Payroll Tax\n\nSubstitute into the equilibrium price equation and set quantity demanded equal to quantity supplied:\n\n\\[\\frac{N^* - c}{f} = \\frac{N^* - a}{b} - T \\]\n\nRearranging to solve for equilibrium employment:\n\n\\[N^* = \\frac{b c - a f - b f T}{b - f} \\]"
+    "text": "Payroll Tax\nSubstitute into the equilibrium price equation and set quantity demanded equal to quantity supplied:\n\\[\\frac{N^* - c}{f} = \\frac{N^* - a}{b} - T \\]\nRearranging to solve for equilibrium employment:\n\\[N^* = \\frac{b c - a f - b f T}{b - f} \\]"
   },
   {
     "objectID": "slides/lmarket/index.html#payroll-tax-3",
     "href": "slides/lmarket/index.html#payroll-tax-3",
     "title": "EC306 - Wages and Employment",
     "section": "Payroll Tax",
-    "text": "Payroll Tax\n\nThe equilibrium wage received by workers is\n\n\\[w_r^* = \\frac{c-a}{b-f} - \\frac{b}{b-f} T \\]\n\nThe equilibrium wage paid by employers is\n\n\\[w_e^* = \\frac{c-a}{b-f} - \\frac{f}{b-f} T \\]"
+    "text": "Payroll Tax\n\n\n\n\n\n\nEquilibrium Wages Under Payroll Tax\n\n\nWage received by workers: \\[w_r^* = \\frac{c-a}{b-f} - \\frac{b}{b-f} T \\]\nWage paid by employers: \\[w_e^* = \\frac{c-a}{b-f} - \\frac{f}{b-f} T \\]"
   },
   {
     "objectID": "slides/lmarket/index.html#payroll-tax-4",
@@ -984,91 +984,91 @@
     "href": "slides/lmarket/index.html#payroll-tax-5",
     "title": "EC306 - Wages and Employment",
     "section": "Payroll Tax",
-    "text": "Payroll Tax\n\nThe previous slide highlights the difference between the statutory and economic incdidence of a tax\n\nStatutory incidence: who is legally responsible for paying the tax\n\nIn this case, firms\n\nEconomic incidence: who actually bears the burden of the tax\n\nShared between firms and workers\nWorkers receive a lower wage than before\nFirms pay a higher one\n\n\nEconomic incidence depends on elasticities of supply and demand\n\nMore elastic supply means workers bear less of the tax burden\nMore elastic demand means firms bear less of the tax burden"
+    "text": "Payroll Tax\n\n\n\n\n\n\nTax Incidence\n\n\n\nStatutory incidence: who is legally responsible for paying the tax (here: firms)\nEconomic incidence: who actually bears the burden of the tax (here: shared between firms and workers)\n\n\n\n\nEconomic incidence depends on elasticities of supply and demand:\n\nMore elastic supply → workers bear less of the tax burden\nMore elastic demand → firms bear less of the tax burden"
   },
   {
     "objectID": "slides/lmarket/index.html#evidence",
     "href": "slides/lmarket/index.html#evidence",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nTheory predicts lower employment from a payroll tax\nAlso predicts economic incidence may be shared between firms and workers\nEvidence based on empirical studies is\n\nIn the long run, workers bear most of the burden of the tax through lower wages\nEmployment effects are small"
+    "text": "Evidence\n\n\n\n\n\n\nEmpirical Findings on Payroll Taxes\n\n\n\nIn the long run, workers bear most of the burden through lower wages\nEmployment effects are small"
   },
   {
     "objectID": "slides/lmarket/index.html#introduction-4",
     "href": "slides/lmarket/index.html#introduction-4",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nMarket power can be a feature on both the buying and selling side of markets\n\nMonopoly: single seller with market power\nMonopsony: single buyer with market power\n\nTypically we discuss monopoly in the goods market, but monopsony in the labour market\n\nBut you can have power in both buying and selling in both markets\n\nIn this section we will consider monopsony in the labour market"
+    "text": "Introduction\n\n\n\n\n\n\nMonopsony\n\n\nMonopsony: a single buyer with market power in the labour market\n\nContrast with monopoly: single seller with market power in the goods market\n\n\n\n\nSome examples of monopsony in the labour market:\n\nCompany/factory towns\nHospital labour markets\nUniversity professor labour markets\nPublic sector in small areas\n\nIn all cases, there is a large buyer of labour — giving the buyer power to set wages, affecting both wages and employment"
   },
   {
     "objectID": "slides/lmarket/index.html#introduction-5",
     "href": "slides/lmarket/index.html#introduction-5",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nSome examples of monopsony in the labour market\n\nCompany/factory towns\nHospital labour markets\nUniversity professor labour markets\nPublic sector in small areas\n\nIn all case there is a large buyer of labour\nThis gives the buyer power to set wages\nAffects both wages and employment\n\nTo attract labour, it must raise wages"
+    "text": "Introduction\n\n\n\n\n\n\nMinimum Wage\n\n\nA minimum wage sets a legal floor on wages that employers must pay workers\n\nIntended to raise wages of low-wage workers, reduce poverty, increase standard of living\n\n\n\n\n\nStandard economic theory predicts that minimum wages lead to unemployment\n\nBecause they set a wage above the equilibrium wage\nQuantity of labour supplied exceeds quantity demanded\n\nBut statistical evidence is much more mixed"
   },
   {
     "objectID": "slides/lmarket/index.html#simple-monopsony",
     "href": "slides/lmarket/index.html#simple-monopsony",
     "title": "EC306 - Wages and Employment",
     "section": "Simple Monopsony",
-    "text": "Simple Monopsony\n\nIn a monopsony, the firm faces the market supply curve for labour\n\nSupply is upward sloping\nContrast to perfect competition where supply is horizontal\nTo hire more workers, the firm must pay a higher wage\n\nThe firms marginal cost of labour is above the supply curve\n\nBecause to hire an additional worker, the firm must raise the wage for all workers\nSo MC is equal to cost of additional worker plus the increase in wage paid to existing workers\nAnalogous to how monopolists face MR below demand"
+    "text": "Simple Monopsony\n\nIn a monopsony, the firm faces the market supply curve for labour\n\nSupply is upward sloping\nContrast to perfect competition where supply is horizontal\nTo hire more workers, the firm must pay a higher wage\n\n\n\n\n\n\n\n\nMarginal Cost of Labour\n\n\nThe firm’s marginal cost of labour is above the supply curve\n\nTo hire an additional worker, the firm must raise the wage for all workers\nMC = cost of additional worker + increase in wage paid to existing workers\nAnalogous to how monopolists face MR below demand"
   },
   {
     "objectID": "slides/lmarket/index.html#simple-monopsony-1",
     "href": "slides/lmarket/index.html#simple-monopsony-1",
     "title": "EC306 - Wages and Employment",
     "section": "Simple Monopsony",
-    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonopsony depicted to the left\nFirm demand is its value of marginal product\nFaces upward sloping supply curve\nMC is above supply\nOptimal labour is where MC = VMP\nWage comes from supply curve at that quantity of labour"
+    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirm demand is its value of marginal product\nFaces upward sloping supply curve\nMC is above supply\nOptimal labour is where MC = VMP\nWage comes from supply curve at that quantity of labour"
   },
   {
     "objectID": "slides/lmarket/index.html#simple-monopsony-2",
     "href": "slides/lmarket/index.html#simple-monopsony-2",
     "title": "EC306 - Wages and Employment",
     "section": "Simple Monopsony",
-    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor monopsony\n\nWage is below VMP\nWage is below competitive wage\nEmployment is below competitive employment\n\nMonopsony profit is rectangle \\((VMP_m - W_m) \\times N_m\\)\n\nWage bill is \\(W_m \\times N_m\\)\nRevenue contributed by workers is \\(VMP_m \\times N_m\\)"
+    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nCompared to competitive equilibrium, monopsony results in:\n\nWage below VMP\nWage below competitive wage\nEmployment below competitive level\n\nMonopsony profit = \\((VMP_m - W_m) \\times N_m\\)\n\nWage bill is \\(W_m \\times N_m\\)\nRevenue contributed by workers is \\(VMP_m \\times N_m\\)"
   },
   {
     "objectID": "slides/lmarket/index.html#simple-monopsony-3",
     "href": "slides/lmarket/index.html#simple-monopsony-3",
     "title": "EC306 - Wages and Employment",
     "section": "Simple Monopsony",
-    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonopsonies also leave jobs vacant\n\nBecause they restrict employment to raise wages\nThis creates inefficiency in the labour market\n\nVacancies are \\(V_m - S_m\\)\nAt wage \\(W_m\\)\n\nVMP is above wage\nFirms would like to hire more -But to hire it must raise wages, so it is optimal to not hire more"
+    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nMonopsonies also leave jobs vacant:\n\nThey restrict employment to maintain low wages\nThis creates inefficiency in the labour market\nVacancies are \\(V_m - S_m\\)\n\nAt wage \\(W_m\\):\n\nVMP is above wage\nFirms would like to hire more\nBut to hire, must raise wages — so it is optimal to not hire more"
   },
   {
     "objectID": "slides/lmarket/index.html#characteristics-of-monopsonies",
     "href": "slides/lmarket/index.html#characteristics-of-monopsonies",
     "title": "EC306 - Wages and Employment",
     "section": "Characteristics of Monopsonies",
-    "text": "Characteristics of Monopsonies\n\nMore prevalent in the short run\n\nIn the long run, workers can move to find other jobs\nIn the short run, frictions may prevent this\n\nLarge relative to the labour market\n\nDoes not have to be a big firm, just large relative to the market\nIf the market is small, the firm does not have to be large to have power\nExample: a restaurant in a seasonal tourist town\n\nWorkers have specialized skills\n\nMay naturally be few employers for specialized labour\nLike academia, sports teams"
+    "text": "Characteristics of Monopsonies\nMonopsonies tend to be:\n\nMore prevalent in the short run\n\nIn the long run, workers can move to find other jobs\nIn the short run, frictions may prevent this\n\nLarge relative to the labour market\n\nDoes not have to be a big firm, just large relative to the market\nExample: a restaurant in a seasonal tourist town\n\nAssociated with workers who have specialized skills\n\nMay naturally be few employers for specialized labour\nLike academia, sports teams"
   },
   {
     "objectID": "slides/lmarket/index.html#characteristics-of-monopsonies-1",
     "href": "slides/lmarket/index.html#characteristics-of-monopsonies-1",
     "title": "EC306 - Wages and Employment",
     "section": "Characteristics of Monopsonies",
-    "text": "Characteristics of Monopsonies\n\nWages are lower than competitive equilibrium, but not necessarily low in an absolute sense\n\nExample: sports players\nNot paid low wages, but market power makes them lower than they would be otherwise"
+    "text": "Characteristics of Monopsonies\n\n\n\n\n\n\nNote\n\n\nWages under monopsony are lower than competitive equilibrium, but not necessarily low in an absolute sense\n\nExample: sports players are not paid low wages, but market power makes them lower than they would be otherwise"
   },
   {
     "objectID": "slides/lmarket/index.html#wage-differentiation",
     "href": "slides/lmarket/index.html#wage-differentiation",
     "title": "EC306 - Wages and Employment",
     "section": "Wage Differentiation",
-    "text": "Wage Differentiation\n\nIn previous analysis, we assumed all workers are the same\n\nSingle supply curve for labour\n\nThis leaves some surplus for workers\n\nThere are workers willing to work for less than the equilibrium wage\n\nFirm can capture that surplus by differentiating wages\n\nPaying different workers different wages based on their reservation wage"
+    "text": "Wage Differentiation\n\nIn previous analysis, we assumed all workers are the same (single supply curve)\nThis leaves some surplus for workers\n\nThere are workers willing to work for less than the equilibrium wage\n\nA firm can capture that surplus by differentiating wages\n\nPaying different workers different wages based on their reservation wage"
   },
   {
     "objectID": "slides/lmarket/index.html#wage-differentiation-1",
     "href": "slides/lmarket/index.html#wage-differentiation-1",
     "title": "EC306 - Wages and Employment",
     "section": "Wage Differentiation",
-    "text": "Wage Differentiation\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf the firm can pay different wages\n\nIt can pay each worker their reservation wage\nMC curve and supply curve become equal to supply curve\n\nFirm will hire up to competitive level\n\nBecause it does not have to increase wage for all workers to hire more\n\nTo do this, firms would try to make wages secret\n\nPrevent workers from knowing what others are paid\nCould do this with non-wage benefits for specific workers"
+    "text": "Wage Differentiation\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIf the firm can pay different wages:\n\nIt can pay each worker their reservation wage\nMC curve becomes equal to supply curve\nFirm will hire up to competitive level\n\nIt no longer has to increase wage for all workers to hire more\n\n\nTo do this, firms try to make wages secret:\n\nPrevent workers from knowing what others are paid\nCould use non-wage benefits for specific workers"
   },
   {
     "objectID": "slides/lmarket/index.html#evidence-of-monopsonies",
     "href": "slides/lmarket/index.html#evidence-of-monopsonies",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence of Monopsonies",
-    "text": "Evidence of Monopsonies\n\nPro sports\n\nBaseball: free agency increased wages significantly\n\nIncreases competition among teams\n\nHockey: not much evidence of monopsony power\n\nAcademia and nursing\n\nSome evidence of monopsony power\nIn Canada, a bargaining model may be more appropriate given these labour markets are unionized\n\nSome academics argue that monopsonies are relatively common\n\nFirms can set wages only if they have some market power\nEvidence that this is widespread"
+    "text": "Evidence of Monopsonies\nPro sports:\n\nBaseball: free agency increased wages significantly — increases competition among teams\nHockey: not much evidence of monopsony power\n\nAcademia and nursing:\n\nSome evidence of monopsony power\nIn Canada, a bargaining model may be more appropriate given these labour markets are unionized\n\n\n\n\n\n\n\nNote\n\n\nSome academics argue that monopsonies are relatively common — firms can set wages only if they have some market power, and evidence suggests this is widespread"
   },
   {
     "objectID": "slides/lmarket/index.html#introduction-6",
@@ -1103,70 +1103,70 @@
     "href": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market",
     "title": "EC306 - Wages and Employment",
     "section": "Minimum Wages in Competitive Labour Market",
-    "text": "Minimum Wages in Competitive Labour Market\n\nSuppose the labour market is competitive\nThe market demand is downward sloping\nThe market supply is upward sloping\nMinimum wages are introduced as a wage floor\n\nAbove the competitive equilibrium wage\n\nCreates excess supply of labour\n\nLeads to unemployment"
+    "text": "Minimum Wages in Competitive Labour Market\nIn a competitive labour market:\n\nMarket demand is downward sloping\nMarket supply is upward sloping\n\nA minimum wage acts as a wage floor set above the competitive equilibrium wage:\n\n\n\n\n\n\nWarning\n\n\nA binding minimum wage in a competitive market creates excess supply of labour, leading to unemployment"
   },
   {
     "objectID": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-1",
     "href": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-1",
     "title": "EC306 - Wages and Employment",
     "section": "Minimum Wages in Competitive Labour Market",
-    "text": "Minimum Wages in Competitive Labour Market\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of minimum wage illustrated to the left\nMinimum wage is \\(W_m\\) above competitive level \\(W_c\\)\nCreates excess supply of labour\nLeads to unemployment \\(N_s - N_m\\)\n\nPeople who would have been employed at competitive equilibrium \\(N_c - N_m\\)\nOthers drawn into market by higher wage \\(N_s - N_c\\)"
+    "text": "Minimum Wages in Competitive Labour Market\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMinimum wage \\(W_m\\) is above competitive level \\(W_c\\)\nCreates excess supply of labour\nUnemployment = \\(N_s - N_m\\)\n\nPreviously employed, now not: \\(N_c - N_m\\)\nNew entrants drawn in by higher wage: \\(N_s - N_c\\)"
   },
   {
     "objectID": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-2",
     "href": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-2",
     "title": "EC306 - Wages and Employment",
     "section": "Minimum Wages in Competitive Labour Market",
-    "text": "Minimum Wages in Competitive Labour Market\n\nEmployment effects depend on elasticity of demand\n\nMore elastic demand means larger employment effects\n\nIn real world, industries with minimum wage tend to have elastic demands\n\nLots of substitutes for low-wage labour\nLabour costs are a large share of total costs\n\nNevertheless, we will see that minimum wages may not affect employment much in practice"
+    "text": "Minimum Wages in Competitive Labour Market\n\nEmployment effects depend on elasticity of demand\n\nMore elastic demand → larger employment effects\n\nIn the real world, industries with minimum wage workers tend to have elastic demands\n\nLots of substitutes for low-wage labour\nLabour costs are a large share of total costs\n\nNevertheless, we will see that minimum wages may not affect employment much in practice"
   },
   {
     "objectID": "slides/lmarket/index.html#minimum-wages-in-monopsony",
     "href": "slides/lmarket/index.html#minimum-wages-in-monopsony",
     "title": "EC306 - Wages and Employment",
     "section": "Minimum Wages in Monopsony",
-    "text": "Minimum Wages in Monopsony\n\nEffects of minimum wages are different in monopsonistic labour markets\nIt is possible that minimum wages increase both wages and employment\n\nDepending on where the minimum wage is set\n\nGraph on next slide illustrates this"
+    "text": "Minimum Wages in Monopsony\n\n\n\n\n\n\nKey Result\n\n\nIn a monopsonistic labour market, minimum wages can increase both wages and employment, depending on where the minimum wage is set"
   },
   {
     "objectID": "slides/lmarket/index.html#minimum-wages-in-monopsony-1",
     "href": "slides/lmarket/index.html#minimum-wages-in-monopsony-1",
     "title": "EC306 - Wages and Employment",
     "section": "Minimum Wages in Monopsony",
-    "text": "Minimum Wages in Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph shows standard monopsony\nPrior to minimum wage, wage is \\(W_0\\) and employment is \\(N_0\\)\nImagine minimum wage set above \\(W_0\\) but below competitive wage\nMC curve is minimum wage up to \\(S_{1}\\)\n\nThen jumps up to previous MC curve\n\nOptimize where MC = VMP\n\nEmployment increases to \\(N_1\\)"
+    "text": "Minimum Wages in Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrior to minimum wage: wage is \\(W_0\\), employment is \\(N_0\\)\nMinimum wage set above \\(W_0\\) but below competitive wage\nMC curve = minimum wage up to \\(S_{1}\\), then jumps to previous MC curve\nOptimize where MC = VMP\nEmployment increases to \\(N_1\\)"
   },
   {
     "objectID": "slides/lmarket/index.html#minimum-wages-in-monopsony-2",
     "href": "slides/lmarket/index.html#minimum-wages-in-monopsony-2",
     "title": "EC306 - Wages and Employment",
     "section": "Minimum Wages in Monopsony",
-    "text": "Minimum Wages in Monopsony\n\nWhy would minimum wages cause employment to increase?\n\nPreviously, firm had to increase wages to attract more labour\nWith minimum wage, it does not\n\nEveryone is paid the same wage\nWage increases no longer inhibit employment growth\n\nEffectively, minimum wage lowers marginal cost\n\nThis may be partly why we do not see large employment effects of minimum wages\nNote that monopsonists do not like minimum wages\n\nThey reduce their market power\nIncreases costs, reduces profits"
+    "text": "Minimum Wages in Monopsony\nWhy would minimum wages cause employment to increase?\n\nPreviously, firm had to increase wages to attract more labour\nWith minimum wage, it does not\n\nEveryone is paid the same wage\nWage increases no longer inhibit employment growth\n\nEffectively, minimum wage lowers marginal cost\n\nThis may be partly why we do not see large employment effects of minimum wages\n\n\n\n\n\n\nNote\n\n\nNote that monopsonists do not like minimum wages — they reduce market power, increase costs, and reduce profits"
   },
   {
     "objectID": "slides/lmarket/index.html#offsetting-factors-for-minimum-wage",
     "href": "slides/lmarket/index.html#offsetting-factors-for-minimum-wage",
     "title": "EC306 - Wages and Employment",
     "section": "Offsetting Factors for Minimum Wage",
-    "text": "Offsetting Factors for Minimum Wage\n\nAs usual, in models we hold all else equal\nBut in reality, many things are changing at once\n\nMinimum wage could be accompanied by changes in demand\n\nFor example, fiscal stimulus increasing demand for goods and labour\n\nMinimum wage could lead to changes in technology\n\nMay change demand for labour\n\nFirms might choose to absorb minimum wage costs"
+    "text": "Offsetting Factors for Minimum Wage\nAs usual, in models we hold all else equal — but in reality, many things change at once:\n\nDemand changes may accompany minimum wage increases\n\nE.g., fiscal stimulus increasing demand for goods and labour\n\nTechnology changes may follow\n\nMay change demand for labour\n\nFirms might choose to absorb costs\n\nReducing profits rather than cutting employment"
   },
   {
     "objectID": "slides/lmarket/index.html#evidence-1",
     "href": "slides/lmarket/index.html#evidence-1",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nMinimum wages are one of the most researched areas in labour economics\nLarge amounts of evidence goes back at least 50 years\nEarly studies looked at time trends in employment and minimum wages\n\nSubject to a lot of bias\nThings often trend together over time without direct causation\n\nResearch in early 1990s used better methods\n\nNatural experiments\nDifference-in-differences"
+    "text": "Evidence\n\nMinimum wages are one of the most researched areas in labour economics\nLarge amounts of evidence going back at least 50 years\nEarly studies looked at time trends in employment and minimum wages\n\nSubject to a lot of bias — things often trend together over time without direct causation\n\nResearch in the early 1990s used better methods\n\nNatural experiments\nDifference-in-differences"
   },
   {
     "objectID": "slides/lmarket/index.html#evidence-2",
     "href": "slides/lmarket/index.html#evidence-2",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nMost prominent study is Card and Krueger (1994)\n\nLooked at fast food restaurants in New Jersey and Pennsylvania\nNew Jersey increased minimum wage, Pennsylvania did not\nUsed difference-in-differences to estimate employment effects\nFound no negative employment effects from minimum wage increase\n\nHas been reevaluated several times\n\nConclusion remains that employment effects are small or non-existent"
+    "text": "Evidence\n\n\n\n\n\n\nCard and Krueger (1994)\n\n\n\nLooked at fast food restaurants in New Jersey (raised minimum wage) and Pennsylvania (did not)\nUsed difference-in-differences to estimate employment effects\nFound no negative employment effects from the minimum wage increase\nHas been reevaluated several times — conclusion remains that employment effects are small or non-existent"
   },
   {
     "objectID": "slides/lmarket/index.html#evidence-3",
     "href": "slides/lmarket/index.html#evidence-3",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nIn Canada, minimum wages increase youth unemployment\n\nStudies looked at minimum wage changes across provinces in 1990s\n\nSome Canadian studies look deeper at labour market dynamics\n\nIn any month, there is a lot of turnover in the labour market\nEach month roughly 6% of employed people separate, 8% of non-employed people hired\nEvidence shows minimum wages reduce both hiring and separations\nLeads to no effect overall"
+    "text": "Evidence\nIn Canada:\n\nMinimum wages increase youth unemployment\n\nStudies looked at minimum wage changes across provinces in the 1990s\n\nSome Canadian studies look deeper at labour market dynamics\n\nIn any month, roughly 6% of employed people separate, 8% of non-employed people are hired\nEvidence shows minimum wages reduce both hiring and separations\nNet effect on employment is approximately zero"
   },
   {
     "objectID": "slides/lmarket/index.html#evidence-4",
@@ -1187,14 +1187,14 @@
     "href": "slides/lmarket/index.html#evidence-6",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nAlso recall that one point of miminum wage is to reduce poverty\nEvidence shows they are generally not successful\n\nBoth Canada and US studies show no link\n\nWhy do they not work?\n\nMany poor individuals do not work\nMany people on minimum wages are not poor\n\nYouth living in high income families"
+    "text": "Evidence\n\n\n\n\n\n\nWarning\n\n\nMinimum wages are generally not effective at reducing poverty\n\nMany poor individuals do not work\nMany people on minimum wages are not poor (e.g., youth living in high-income families)\n\nBoth Canadian and US studies show no link between minimum wages and poverty reduction"
   },
   {
     "objectID": "slides/lmarket/index.html#summary-1",
     "href": "slides/lmarket/index.html#summary-1",
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
-    "text": "Summary\n\nWe analyzed how wages and employment are determined in a single labour market\nMarket power in the goods market reduces both wages and employment\nMarket power in the labour market reduces wages and employment\nMinimum wages may reduce employment in competitive markets\nMinimum wages may increase employment in monopsonistic markets\nEmpirical evidence shows minimum wages have small effects on employment"
+    "text": "Summary\n\nWe analyzed how wages and employment are determined in a single labour market\nMarket power in the goods market reduces both wages and employment\nMarket power in the labour market (monopsony) reduces wages and employment\nMinimum wages may reduce employment in competitive markets\nMinimum wages may increase employment in monopsonistic markets\nEmpirical evidence shows minimum wages have small effects on employment"
   },
   {
     "objectID": "slides/ldemand1/index.html#goals-of-this-section-1",
@@ -1572,7 +1572,7 @@
     "href": "slides/hcapital/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDiscuss trends in educational attainment in Canada\nIntroduce Human Capital Theory of education investment\nIntroduce Signalling Model of education investment\nDiscuss empirical methods to estimate returns to schooling\nReview empirical evidence on returns to schooling\nDiscuss job training"
+    "text": "Goals of This Section\nToday we will:\n\nDiscuss trends in educational attainment in Canada\nIntroduce Human Capital Theory of education investment\nIntroduce the Signalling Model of education investment\nDiscuss empirical methods to estimate returns to schooling\nReview empirical evidence on returns to schooling\nDiscuss job training"
   },
   {
     "objectID": "slides/hcapital/index.html#educational-attainment",
@@ -1600,210 +1600,210 @@
     "href": "slides/hcapital/index.html#human-capital-theory-1",
     "title": "EC306 - Wages and Employment",
     "section": "Human Capital Theory",
-    "text": "Human Capital Theory\n\nFirms often invest in physical capital (e.g., machines, tools, buildings)\n\nIncur some cost today to invest in capital\n\nBoosts the productive ability of workers\n\nIncreases the output flow in the future\n\nDecision to invest is made by comparing costs to benefits\n\nInvest if benefits outweigh costs\n\nCosts are usually upfront, while benefits occur slowly over time"
+    "text": "Human Capital Theory\n\nFirms often invest in physical capital (e.g., machines, tools, buildings)\n\nIncur some cost today to invest in capital\nBoosts the productive ability of workers\nIncreases the output flow in the future\n\nDecision to invest is made by comparing costs to benefits\n\nInvest if benefits outweigh costs\nCosts are usually upfront, while benefits occur slowly over time"
   },
   {
     "objectID": "slides/hcapital/index.html#human-capital-theory-2",
     "href": "slides/hcapital/index.html#human-capital-theory-2",
     "title": "EC306 - Wages and Employment",
     "section": "Human Capital Theory",
-    "text": "Human Capital Theory\n\nIndividuals make similar investments in human capital\n\nHuman Capital: An individual’s stock of productive skills, knowledge, and abilities\n\nPeople incur upfront costs for education, training, etc.\n\nTraining improves productivity, and therefore income\n\nIndividuals earn higher income streams in the future\n\nWe will study investments in human capital in a similar way to physical capital"
+    "text": "Human Capital Theory\n\n\n\n\n\n\nHuman Capital\n\n\nHuman Capital: an individual’s stock of productive skills, knowledge, and abilities\n\nPeople incur upfront costs for education, training, etc.\nTraining improves productivity, and therefore income\nIndividuals earn higher income streams in the future\n\n\n\n\nWe study investments in human capital in a similar way to physical capital"
   },
   {
     "objectID": "slides/hcapital/index.html#human-capital-theory-3",
     "href": "slides/hcapital/index.html#human-capital-theory-3",
     "title": "EC306 - Wages and Employment",
     "section": "Human Capital Theory",
-    "text": "Human Capital Theory\n\nHuman capital investments involve some special considerations\n\nNon-wage benefits\n\nConsumption value\nDifferences in risk of unemployment in downturns\n\nIt is more difficult to finance education investments\n\nNo collateral\n\n\nSocial versus private costs/benefits\n\nPrivate costs and benefits are specific to the individual\nBut there may be social costs and benefits as well\n\nE.g., positive externalities from education"
+    "text": "Human Capital Theory\nHuman capital investments involve some special considerations:\nNon-wage benefits:\n\nConsumption value of education\nDifferences in risk of unemployment in downturns\n\nFinancing:\n\nMore difficult to finance education investments — no collateral\n\nSocial versus private costs/benefits:\n\nPrivate costs and benefits are specific to the individual\nBut there may be social costs and benefits as well (e.g., positive externalities from education)"
   },
   {
     "objectID": "slides/hcapital/index.html#introduction-1",
     "href": "slides/hcapital/index.html#introduction-1",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nThe human capital investment decision boils down to comparing lifetime income streams\n\nDifferent streams of income are associated with different levels of schooling\n\nHigher levels of schooling usually lead to higher income streams\n\nWe will outline a process to decide which stream to choose\n\nTo make the model tractable, we assume:\n\nNo direct utility or disutility from schooling\n\nHours of work are held fixed\n\nCertainty of income streams\n\nIndividuals can borrow and lend at interest rate \\(r\\)"
+    "text": "Introduction\n\nThe human capital investment decision boils down to comparing lifetime income streams\n\nDifferent streams of income are associated with different levels of schooling\nHigher levels of schooling usually lead to higher income streams\n\nWe will outline a process to decide which stream to choose\n\nTo make the model tractable, we assume:\n\nNo direct utility or disutility from schooling\nHours of work are held fixed\nCertainty of income streams\nIndividuals can borrow and lend at interest rate \\(r\\)"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university",
     "href": "slides/hcapital/index.html#attending-university",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\nSuppose we want to analyze whether it is financially worthwhile to attend university\n\nStart from the perspective of an 18-year-old high school graduate\n\nThis student is deciding whether or not to attend university\n\nStudents who do not attend university move immediately into the workforce\n\nThe graph on next slide depicts two income streams:\n\nBlack line: university path\n\nBlue line: high school path\n\nRed and yellow: costs of attending university\n\nGreen: benefits of university education"
+    "text": "Attending University\n\nSuppose we want to analyze whether it is financially worthwhile to attend university\n\nStart from the perspective of an 18-year-old high school graduate\nThis student is deciding whether or not to attend university\nStudents who do not attend university move immediately into the workforce\n\nThe graph on next slide depicts two income streams:\n\nBlack line: university path\nBlue line: high school path\nRed and yellow: costs of attending university\nGreen: benefits of university education"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-1",
     "href": "slides/hcapital/index.html#attending-university-1",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDirect costs are in red\n\nBooks, fees, tuition\n\nForegone wages are in yellow\n\nIncome not earned during the time in university\n\nNet gains in wages are in green\n\nEarnings of university grad above a high school grad\n\nBeneficial to attend if present value of green exceeds present value of yellow plus red"
+    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDirect costs are in red: books, fees, tuition\nForegone wages are in yellow: income not earned during university\nNet wage gains are in green: earnings of university grad above high school grad\n\nBeneficial to attend if present value of green exceeds present value of yellow plus red"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-2",
     "href": "slides/hcapital/index.html#attending-university-2",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\nPeople will choose the level of schooling that maximizes the net present value of lifetime earnings\nWe illustrated that graphically above\nMathematically, express the present value of earnings for a high school graduate as\n\n\\[PV = \\frac{Y}{(1+r)^0} + \\frac{Y}{(1+r)^1} + \\ldots + \\frac{Y}{(1+r)^{T-18}}\\]\n\nIn this equation\n\n\\(Y\\) = annual earnings of high school graduate\n\\(r\\) = interest rate\n\\(T\\) = expected retirement age"
+    "text": "Attending University\n\nPeople will choose the level of schooling that maximizes the net present value of lifetime earnings\nExpress the present value of earnings for a high school graduate as:\n\n\\[PV = \\frac{Y}{(1+r)^0} + \\frac{Y}{(1+r)^1} + \\ldots + \\frac{Y}{(1+r)^{T-18}}\\]\nWhere:\n\n\\(Y\\) = annual earnings of high school graduate\n\\(r\\) = interest rate\n\\(T\\) = expected retirement age"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-3",
     "href": "slides/hcapital/index.html#attending-university-3",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\nWe can approximate the present value of earnings for a high school graduate as\n\n\\[PV \\approx Y + \\frac{Y}{r} \\]\n\nApproximation works if \\(T\\) is long enough\nNow consider a person who attends one year of university\nThey incur direct costs \\(D\\) in the first year and earn no income in that year\nEvery year they work, they gain an amount \\(\\Delta Y\\) above the high school graduate"
+    "text": "Attending University\nWe can approximate the present value of earnings for a high school graduate as:\n\\[PV \\approx Y + \\frac{Y}{r} \\]\n(Approximation works if \\(T\\) is long enough)\nNow consider a person who attends one year of university:\n\nIncurs direct costs \\(D\\) in the first year and earns no income in that year\nEvery year they work, they gain an amount \\(\\Delta Y\\) above the high school graduate"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-4",
     "href": "slides/hcapital/index.html#attending-university-4",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\nTheir income stream is\n\n\\[PV^* = \\frac{-D}{(1+r)^0} + \\frac{Y + \\Delta Y}{(1+r)^1} + \\ldots + \\frac{Y + \\Delta Y}{(1+r)^{T-18}}\\]\n\nThis can be approximated as\n\n\\[PV^* \\approx -D + \\frac{Y + \\Delta Y}{r} \\]\n\nThe net present value of attending this additional year of university is\n\n\\[NPV = PV^* - PV \\approx -(D + Y) + \\frac{\\Delta Y}{r} \\]"
+    "text": "Attending University\nTheir income stream is:\n\\[PV^* = \\frac{-D}{(1+r)^0} + \\frac{Y + \\Delta Y}{(1+r)^1} + \\ldots + \\frac{Y + \\Delta Y}{(1+r)^{T-18}}\\]\nWhich can be approximated as:\n\\[PV^* \\approx -D + \\frac{Y + \\Delta Y}{r} \\]\nThe net present value of attending this additional year of university is:\n\\[NPV = PV^* - PV \\approx -(D + Y) + \\frac{\\Delta Y}{r} \\]"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-5",
     "href": "slides/hcapital/index.html#attending-university-5",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\nThe term \\(D + Y\\) is the marginal cost of attending university for one year\nThe term \\(\\frac{\\Delta Y}{r}\\) is the marginal benefit of attending university for one year\nAttending university for one year is worthwhile if\n\n\\[NPV &gt; 0 \\implies \\frac{\\Delta Y}{r} &gt; D + Y \\]\n\nA person will continue to attend more years of schooling until \\(MB = MC\\), or\n\n\\[ \\frac{\\Delta Y}{r} = D + Y \\]"
+    "text": "Attending University\n\n\n\n\n\n\nInvestment Condition\n\n\nAttending university for one year is worthwhile if:\n\\[NPV &gt; 0 \\implies \\frac{\\Delta Y}{r} &gt; D + Y \\]\nA person will continue attending more years of schooling until \\(MB = MC\\):\n\\[ \\frac{\\Delta Y}{r} = D + Y \\]"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-6",
     "href": "slides/hcapital/index.html#attending-university-6",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph on left illustrates optimal schooling decision\nMarginal benefit curve is downward sloping\n\nEach additional year of schooling yields a smaller increase in wages\n\nMarginal cost curve is upward sloping\n\nEach additional year of schooling incurs higher direct costs, foregone wages, psychic costs\n\nOptimum is where MB = MC"
+    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nMarginal benefit curve is downward sloping\n\nEach additional year of schooling yields a smaller increase in wages\n\nMarginal cost curve is upward sloping\n\nEach additional year of schooling incurs higher direct costs, foregone wages, psychic costs\n\nOptimum is where MB = MC"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-7",
     "href": "slides/hcapital/index.html#attending-university-7",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\nAnother way to look at the schooling decision is through the rate of return to schooling\nThis method uses the concept of the internal rate of return (IRR)\nThe IRR is the interest rate that makes the NPV of an investment equal to zero\nIn our setup, the IRR is the interest rate that satisfies\n\n\\[ 0 = -(D + Y) + \\frac{\\Delta Y}{IRR} \\]\n\nRearranging gives\n\n\\[ IRR = \\frac{\\Delta Y}{D + Y} \\]\n\nThe IRR is the percentage return on the investment in schooling"
+    "text": "Attending University\nAnother way to look at the schooling decision: the internal rate of return (IRR)\n\nThe IRR is the interest rate that makes the NPV of an investment equal to zero\nIn our setup, the IRR satisfies:\n\n\\[ 0 = -(D + Y) + \\frac{\\Delta Y}{IRR} \\]\nRearranging gives:\n\\[ IRR = \\frac{\\Delta Y}{D + Y} \\]\nThe IRR is the percentage return on the investment in schooling"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-8",
     "href": "slides/hcapital/index.html#attending-university-8",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\nThe alternative to attending university is to invest the money \\(D + Y\\) at the market interest rate \\(r\\)\n\nOpportunity cost of investing in schooling is \\(r\\)\n\nIf the IRR exceeds \\(r\\), then investing in schooling is worthwhile\nA person would continue to attend more years of schooling until\n\n\\[ IRR = r \\implies \\frac{\\Delta Y}{D + Y} = r \\]"
+    "text": "Attending University\n\nThe alternative to attending university is to invest \\(D + Y\\) at market interest rate \\(r\\)\n\nOpportunity cost of investing in schooling is \\(r\\)\n\nIf the IRR exceeds \\(r\\), then investing in schooling is worthwhile\nA person would continue to attend more years of schooling until:\n\n\\[ IRR = r \\implies \\frac{\\Delta Y}{D + Y} = r \\]"
   },
   {
     "objectID": "slides/hcapital/index.html#attending-university-9",
     "href": "slides/hcapital/index.html#attending-university-9",
     "title": "EC306 - Wages and Employment",
     "section": "Attending University",
-    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph on left illustrates alternative optimal schooling decision\nMarket interest rate is \\(r\\)\nInternal rate of return IRR is decreasing in schooling\n\nEach additional year of schooling yields a smaller increase in wages\n\nOptimum is where IRR = r\nYields same optimal schooling level as previous method"
+    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nMarket interest rate is \\(r\\) (horizontal line)\nInternal rate of return IRR is decreasing in schooling\n\nEach additional year of schooling yields a smaller wage increase\n\nOptimum is where IRR = r\nYields same optimal schooling level as the MB = MC method"
   },
   {
     "objectID": "slides/hcapital/index.html#comparative-statics",
     "href": "slides/hcapital/index.html#comparative-statics",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
-    "text": "Comparative Statics\n\nWe can use this framework to see how changes in parameters and policies affect schooling decisions\nSuppose the direct costs \\(D\\) of attending university decrease\n\nE.g., government introduces tuition subsidies\nThis decreases the marginal cost of schooling\nLeads to an increase in optimal schooling level\n\nSuppose the market interest rate \\(r\\) decreases\n\nE.g., due to monetary policy\nThis increases the present value of future earnings\nLeads to an increase in optimal schooling level"
+    "text": "Comparative Statics\nWe can use this framework to analyze how policy and parameter changes affect schooling decisions:\n\nDecrease in direct costs \\(D\\) (e.g., government introduces tuition subsidies)\n\nDecreases marginal cost of schooling → increases optimal schooling\n\nDecrease in market interest rate \\(r\\) (e.g., due to monetary policy)\n\nIncreases present value of future earnings → increases optimal schooling"
   },
   {
     "objectID": "slides/hcapital/index.html#comparative-statics-1",
     "href": "slides/hcapital/index.html#comparative-statics-1",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
-    "text": "Comparative Statics\n\nWhat if the income tax system becomes more progressive?\n\nHigher taxes on high income earners\nDecreases the after-tax increase in earnings \\(\\Delta Y\\)\nLeads to a decrease in optimal schooling level\n\nSuppose the pay for jobs in the oil sector increases substantially\n\nE.g., due to a boom in oil prices\nIncreases the earnings of high school graduates \\(Y\\)\nLeads to a decrease in optimal schooling level"
+    "text": "Comparative Statics\n\nMore progressive income tax (higher taxes on high earners)\n\nDecreases after-tax earnings gain \\(\\Delta Y\\) → decreases optimal schooling\n\nIncrease in pay for high school jobs (e.g., oil sector boom)\n\nIncreases earnings of high school graduates \\(Y\\)\nRaises the opportunity cost of attending school → decreases optimal schooling"
   },
   {
     "objectID": "slides/hcapital/index.html#complications",
     "href": "slides/hcapital/index.html#complications",
     "title": "EC306 - Wages and Employment",
     "section": "Complications",
-    "text": "Complications\n\nInformation asymmetries\n\nStudents may not know the true costs and benefits of schooling\nMay lead to under- or over-investment in schooling\n\nDisutility of schooling\n\nStudents may dislike attending school\nThis adds to the marginal cost of schooling\n\nDifferent degrees have different returns\n\nSome fields of study lead to higher earnings than others\nStudents must choose not only how much schooling, but what type"
+    "text": "Complications\nInformation asymmetries:\n\nStudents may not know the true costs and benefits of schooling\nMay lead to under- or over-investment\n\nDisutility of schooling:\n\nStudents may dislike attending school — adds to marginal cost\n\nDifferent degrees have different returns:\n\nSome fields lead to higher earnings than others\nStudents must choose not only how much schooling, but what type"
   },
   {
     "objectID": "slides/hcapital/index.html#complications-1",
     "href": "slides/hcapital/index.html#complications-1",
     "title": "EC306 - Wages and Employment",
     "section": "Complications",
-    "text": "Complications\n\nA major complication is financing/credit constraints\n\nMany students cannot afford the upfront costs of schooling\nMay not be able to borrow against future earnings\nLeads to under-investment in schooling compared to optimal level"
+    "text": "Complications\n\n\n\n\n\n\nCredit Constraints\n\n\nA major complication is financing:\n\nMany students cannot afford the upfront costs of schooling\nMay not be able to borrow against future earnings\nLeads to under-investment in schooling compared to the optimal level"
   },
   {
     "objectID": "slides/hcapital/index.html#introduction-2",
     "href": "slides/hcapital/index.html#introduction-2",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nIn the Human Capital model, there are key assumptions that make the model work:\n\nEducation increases productivity\n\nProductivity is perfectly observed by employers\n\nWages are paid according to productivity\n\nThe signalling model emphasizes an alternative view:\n\nEducation may not increase productivity\nInstead, it reveals productivity to employers\nIt acts as a signal of worker ability\nPeople only invest in education to signal their ability to employers"
+    "text": "Introduction\n\n\n\n\n\n\nHuman Capital vs. Signalling\n\n\nTwo competing explanations for why education raises wages:\n\nHuman Capital model: education increases productivity; employers pay accordingly\nSignalling model: education reveals (rather than creates) productivity — it acts as a signal of worker ability\n\n\n\n\nKey assumptions of the signalling model:\n\nEducation may not increase productivity\nInstead, it reveals productivity to employers\nPeople invest in education only to signal their ability to employers"
   },
   {
     "objectID": "slides/hcapital/index.html#model",
     "href": "slides/hcapital/index.html#model",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nThe basics of the model are\n\nEmployers do not observe productivity until after a worker is hired\n\nEmployees know their own ability but find it difficult to credibly reveal it to employers\n\nWithout knowing productivity, firms pay employees according to average productivity in the population\n\nUnder certain conditions, obtaining education can serve as a signal of productivity, allowing workers to be paid accordingly"
+    "text": "Model\nThe basics of the model:\n\nEmployers do not observe productivity until after a worker is hired\nEmployees know their own ability but find it difficult to credibly reveal it to employers\nWithout knowing productivity, firms pay employees according to average productivity in the population\nUnder certain conditions, obtaining education can serve as a signal of productivity, allowing workers to be paid accordingly"
   },
   {
     "objectID": "slides/hcapital/index.html#model-1",
     "href": "slides/hcapital/index.html#model-1",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nFor education to actually be informative about ability:\n\nIt must be costly to acquire\n\nIt must be sufficiently more costly for low-ability individuals than for high-ability individuals\n\nOtherwise, low-ability workers might find it profitable to fake high ability by acquiring education\n\n\nEmployers’ beliefs must be confirmed in the future\n\nOtherwise, they will update their wage offers\n\n\nGiven the conditions above, education helps solve an information problem:\n\nIt correctly reveals ability through educational attainment\n\nHigh- and low-ability workers are then correctly paid according to their productivity"
+    "text": "Model\n\n\n\n\n\n\nWhen Does Education Signal Ability?\n\n\nFor education to be informative about ability:\n\nIt must be costly to acquire\nIt must be sufficiently more costly for low-ability individuals than for high-ability individuals\n\nOtherwise, low-ability workers might find it profitable to fake high ability\n\nEmployers’ beliefs must be confirmed in the future — otherwise, they will update their wage offers\n\n\n\n\nGiven the conditions above, education helps solve an information problem — it correctly reveals ability through educational attainment, and workers are paid according to their true productivity"
   },
   {
     "objectID": "slides/hcapital/index.html#model-2",
     "href": "slides/hcapital/index.html#model-2",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nBelow we do a more formal treatment of the model\nAssume that:\n\nThere are two types of workers: low ability (L) and high ability (H)\n\nA fraction \\(q\\) are Type L, and \\((1 - q)\\) are Type H\nFor Type L workers:\n\nCost of education: \\(c_L(s) = s\\)\n\nMarginal Product (MP): \\(1\\)\n\nFor Type H workers:\n\nCost of education: \\(c_H(s) = \\frac{s}{2}\\)\n\nMarginal Product (MP): \\(2\\)"
+    "text": "Model\nAssume that:\n\nThere are two types of workers: low ability (L) and high ability (H)\nA fraction \\(q\\) are Type L, and \\((1 - q)\\) are Type H\n\nType L workers:\n\nCost of education: \\(c_L(s) = s\\)\nMarginal Product (MP): \\(1\\)\n\nType H workers:\n\nCost of education: \\(c_H(s) = \\frac{s}{2}\\)\nMarginal Product (MP): \\(2\\)"
   },
   {
     "objectID": "slides/hcapital/index.html#model-3",
     "href": "slides/hcapital/index.html#model-3",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nEmployees know their own ability, but employers do not\n\nEmployers instead form beliefs about employee ability based on observed education levels\nWhat would happen if there were no way to signal ability?\n\nFirms would have no way of knowing who is high or low ability\n\nSo they offer everyone the same wage.\n\nThe wage equals the average productivity:\n\n\\[\\bar{w} = 1 \\cdot q + 2 \\cdot (1 - q) = 2 - q\\]"
+    "text": "Model\n\nEmployees know their own ability, but employers do not\nEmployers form beliefs about employee ability based on observed education levels\nIf there were no way to signal ability, firms would offer everyone the same wage\n\nThe wage equals the average productivity:\n\n\n\\[\\bar{w} = 1 \\cdot q + 2 \\cdot (1 - q) = 2 - q\\]"
   },
   {
     "objectID": "slides/hcapital/index.html#model-4",
     "href": "slides/hcapital/index.html#model-4",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nExample: 50% Low-Ability Workers\n\nIf 50% of the population are low ability \\(( q = 0.5)\\):\n\n\n\\[\\bar{w} = 2 - q = 1.5\\]\n\nRecall that\n\nType L workers produce \\(MP = 1\\)\n\nType H workers produce \\(MP = 2\\)\n\nTherefore:\n\nType L is paid more than they produce\n\nType H is paid less than they produce\n\nOn average, total pay equals total production"
+    "text": "Model\nExample: 50% Low-Ability Workers (\\(q = 0.5\\)):\n\\[\\bar{w} = 2 - q = 1.5\\]\nRecall that:\n\nType L workers produce \\(MP = 1\\)\nType H workers produce \\(MP = 2\\)\n\nTherefore:\n\nType L is paid more than they produce\nType H is paid less than they produce\nOn average, total pay equals total production"
   },
   {
     "objectID": "slides/hcapital/index.html#model-5",
     "href": "slides/hcapital/index.html#model-5",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nSuppose employers observe education\nThey form beliefs about how it relates to ability, and pay according to those beliefs.\nOne possible set of employer beliefs:\n\nWorkers with education \\(s &gt; s^*\\) are Type H\n\nWorkers with education \\(s \\le s^*\\) are Type L\n\n\\(s^\\) is some cutoff level of education\n\nFirms pay wages according to the believed type:\n\n\\[w =\n\\begin{cases}\n2, & \\text{if } s &gt; s^* \\\\\n1, & \\text{if } s \\le s^*\n\\end{cases}\\]"
+    "text": "Model\nSuppose employers observe education and form beliefs about how it relates to ability. One possible set of employer beliefs:\n\nWorkers with education \\(s &gt; s^*\\) are Type H\nWorkers with education \\(s \\le s^*\\) are Type L\n\\(s^*\\) is some cutoff level of education\n\nFirms pay wages according to the believed type:\n\\[w =\n\\begin{cases}\n2, & \\text{if } s &gt; s^* \\\\\n1, & \\text{if } s \\le s^*\n\\end{cases}\\]"
   },
   {
     "objectID": "slides/hcapital/index.html#model-6",
     "href": "slides/hcapital/index.html#model-6",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nIn this model, workers decide how much education to acquire.\n\nA worker of type ( t ) maximizes utility:\n\n\\[\nU_t(s) = w(s) - c_t(s)\n\\]\n\nAll workers can obtain \\(U_t(s) = 1\\) by acquiring no education.\n\nTherefore, the payoff to acquiring any education must satisfy \\(U_t(s) \\ge 1\\)\n\nWorkers will never find it useful to obtain more than \\(s^*\\) years of education.\n\nDoing so increases costs without increasing payoffs.\n\n\nThus, the decision is binary: either 0 or \\(s^*\\) years of education."
+    "text": "Model\nWorkers decide how much education to acquire. A worker of type \\(t\\) maximizes utility:\n\\[U_t(s) = w(s) - c_t(s)\\]\n\nAll workers can obtain \\(U_t(s) = 1\\) by acquiring no education\n\nTherefore, the payoff to acquiring any education must satisfy \\(U_t(s) \\ge 1\\)\n\nWorkers will never find it useful to obtain more than \\(s^*\\) years of education\n\nDoing so increases costs without increasing payoffs\n\nThus, the decision is binary: either 0 or \\(s^*\\) years of education"
   },
   {
     "objectID": "slides/hcapital/index.html#model-7",
     "href": "slides/hcapital/index.html#model-7",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nType H Workers\n\n\\[\nU_H(0) = w(0) - c_H(0) = 1 - 0 = 1\n\\]\n\\[\nU_H(s^*) = w(s^*) - c_H(s^*) = 2 - \\frac{s^*}{2}\n\\]\n\nA Type H worker will acquire \\(s^*\\) years of education if:\n\n\\[\nU_H(s^*) &gt; U_H(0)\n\\]\n\\[\n2 - \\frac{s^*}{2} &gt; 1\n\\]\n\\[\ns^* &lt; 2\n\\]"
+    "text": "Model\nType H Workers:\n\\[U_H(0) = w(0) - c_H(0) = 1 - 0 = 1\\]\n\\[U_H(s^*) = w(s^*) - c_H(s^*) = 2 - \\frac{s^*}{2}\\]\nA Type H worker will acquire \\(s^*\\) years of education if \\(U_H(s^*) &gt; U_H(0)\\):\n\\[2 - \\frac{s^*}{2} &gt; 1 \\implies s^* &lt; 2\\]"
   },
   {
     "objectID": "slides/hcapital/index.html#model-8",
     "href": "slides/hcapital/index.html#model-8",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nFor Type L Workers\n\n\\[\nU_L(0) = w(0) - c_L(0) = 1 - 0 = 1\n\\]\n\\[\nU_L(s^*) = w(s^*) - c_L(s^*) = 2 - s^*\n\\]\n\nA Type L worker will acquire \\(s^*\\) years of education if:\n\n\\[\nU_L(s^*) &gt; U_L(0)\n\\]\n\\[\n2 - s^* &gt; 1\n\\]\n\\[\ns^* &lt; 1\n\\]"
+    "text": "Model\nType L Workers:\n\\[U_L(0) = w(0) - c_L(0) = 1 - 0 = 1\\]\n\\[U_L(s^*) = w(s^*) - c_L(s^*) = 2 - s^*\\]\nA Type L worker will acquire \\(s^*\\) years of education if \\(U_L(s^*) &gt; U_L(0)\\):\n\\[2 - s^* &gt; 1 \\implies s^* &lt; 1\\]"
   },
   {
     "objectID": "slides/hcapital/index.html#model-9",
     "href": "slides/hcapital/index.html#model-9",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nIf \\(s^* &lt; 1\\):\n\nBoth Type L and Type H acquire education \\(s^*\\)\nThe signal is not informative\n\nIf \\(s^* &gt; 2\\):\n\nBoth Type L and Type H acquire no education\n\nThe signal is not informative\n\nIf \\(1 &lt; s^* &lt; 2\\):\n\nType H obtains education \\(s^*\\)\n\nType L obtains no education\n\nEducation reveals worker type"
+    "text": "Model\n\n\n\n\n\n\nWhen Does Education Separate Types?\n\n\n\nIf \\(s^* &lt; 1\\): both types acquire education \\(s^*\\) — signal is not informative\nIf \\(s^* &gt; 2\\): both types acquire no education — signal is not informative\nIf \\(1 &lt; s^* &lt; 2\\): Type H obtains \\(s^*\\), Type L obtains none — education reveals worker type"
   },
   {
     "objectID": "slides/hcapital/index.html#model-10",
     "href": "slides/hcapital/index.html#model-10",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nEquilibrium\nOccurs when \\(s^*\\) lies between 1 and 2.\n\nThis is an equilibrium because the beliefs based on this strategy are correct\n\nA firm can only maintain beliefs if they are validated by observed behaviour\n\nAny \\(s^*\\) between 1 and 2 will satisfy equilibrium conditions\n\nThe equilibrium with the highest welfare is the one closer to \\(s^* = 1\\)\n\nThis is called a separating equilibrium.\n\nWhen everyone gets the same level of education, it is a pooling equilibrium.\n\nThe case where there is no education signal is one example of a pooling equilibrium."
+    "text": "Model\nEquilibrium occurs when \\(s^*\\) lies between 1 and 2:\n\nThis is an equilibrium because beliefs based on this strategy are correct\nA firm can only maintain beliefs if they are validated by observed behaviour\nAny \\(s^*\\) between 1 and 2 will satisfy equilibrium conditions\n\nThe equilibrium with the highest welfare is the one closer to \\(s^* = 1\\)\n\n\nSeparating equilibrium: different types choose different education levels\nPooling equilibrium: everyone gets the same education level (no signalling occurs)"
   },
   {
     "objectID": "slides/hcapital/index.html#model-11",
@@ -1817,42 +1817,42 @@
     "href": "slides/hcapital/index.html#model-12",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nSometimes everyone is worse off under the separating equilibrium:\nRecall inn the pooling equilibrium, nobody gets education.\n\nEveryone is paid \\(\\bar{w} = 2 - q\\)\n\nUnder the separating equilibrium:\n\nType L are paid $1 — they are worse off unless \\(q = 1\\)\n\nType H are paid \\(2 - \\frac{s^*}{2}\\) — they are worse off unless \\(2 - q &gt; 2 - \\frac{s^*}{2} \\rightarrow s^* &gt; 2q\\)\n\nIn our previous example where \\(q = 0.5\\)\n\nType H individuals are worse off for any \\(s^* &gt; 1\\)"
+    "text": "Model\nSometimes everyone is worse off under the separating equilibrium:\n\nRecall in the pooling equilibrium, nobody gets education — everyone is paid \\(\\bar{w} = 2 - q\\)\nUnder the separating equilibrium:\n\nType L are paid \\(1\\) — worse off unless \\(q = 1\\)\nType H are paid \\(2 - \\frac{s^*}{2}\\) — worse off unless \\(s^* &gt; 2q\\)\n\nIn our previous example where \\(q = 0.5\\): Type H individuals are worse off for any \\(s^* &gt; 1\\)"
   },
   {
     "objectID": "slides/hcapital/index.html#model-13",
     "href": "slides/hcapital/index.html#model-13",
     "title": "EC306 - Wages and Employment",
     "section": "Model",
-    "text": "Model\n\nKey Ideas of the Signalling Model\nDepending on firm beliefs about the relationship between education and ability, it may be worthwhile to acquire education.\n\nThere must be a difference in the cost of acquiring education for high- and low-ability workers.\n\nIf firms’ beliefs are not confirmed, they are not sustainable in equilibrium."
+    "text": "Model\n\n\n\n\n\n\nKey Ideas of the Signalling Model\n\n\n\nDepending on firm beliefs about the relationship between education and ability, it may be worthwhile to acquire education\nThere must be a difference in the cost of acquiring education for high- and low-ability workers\nIf firms’ beliefs are not confirmed, they are not sustainable in equilibrium"
   },
   {
     "objectID": "slides/hcapital/index.html#introduction-3",
     "href": "slides/hcapital/index.html#introduction-3",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nWe studied two theories of private education investment\n\nThese theories explain why individuals might invest in education\n\nEmpirical economists estimate the size of the return using data\nWe will study how empirical economists approach estimation\n\nMostly based on the Human Capital Earnings Function\n\nWe then discuss results from existing research\n\nRates of return to additional education are large\n\nSome evidence they are rising over time\nReturns are mostly attributed to human capital, but there is some evidence of signalling effects"
+    "text": "Introduction\n\nWe studied two theories of private education investment\n\nThese theories explain why individuals might invest in education\n\nEmpirical economists estimate the size of the return using data\nWe will study how empirical economists approach estimation\n\nMostly based on the Human Capital Earnings Function\n\nResults from existing research:\n\nRates of return to additional education are large\nSome evidence they are rising over time\nReturns are mostly attributed to human capital, but there is some evidence of signalling effects"
   },
   {
     "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function",
     "href": "slides/hcapital/index.html#the-human-capital-earnings-function",
     "title": "EC306 - Wages and Employment",
     "section": "The Human Capital Earnings Function",
-    "text": "The Human Capital Earnings Function\n\nMost estimates of the return to education are based on variations of the Human Capital Earnings Function (also known as the Mincer Equation)\n\n\\[\\ln Y = \\beta_0 + \\beta_1\\,schl + \\beta_2\\,exp + \\beta_3\\,exp^{2} + \\epsilon\\]\n\nThe variables are\n\n\\(Y\\) is some measure of earnings, income, or wages\n\n\\(schl\\) is years of schooling\n\n\\(exp\\) is potential experience\n\n\\(exp = age - schl - 5\\)\n\nUsed because actual experience is not always observed"
+    "text": "The Human Capital Earnings Function\n\n\n\n\n\n\nMincer Equation\n\n\nMost estimates of the return to education are based on the Human Capital Earnings Function (also known as the Mincer Equation):\n\\[\\ln Y = \\beta_0 + \\beta_1\\,schl + \\beta_2\\,exp + \\beta_3\\,exp^{2} + \\epsilon\\]\nWhere:\n\n\\(Y\\) is some measure of earnings, income, or wages\n\\(schl\\) is years of schooling\n\\(exp\\) is potential experience: \\(exp = age - schl - 5\\)"
   },
   {
     "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-1",
     "href": "slides/hcapital/index.html#the-human-capital-earnings-function-1",
     "title": "EC306 - Wages and Employment",
     "section": "The Human Capital Earnings Function",
-    "text": "The Human Capital Earnings Function\n\nThe Mincer equation uses the natural logarithm of \\(Y\\) as the dependent variable\nWhen we use the natural log of the dependent variable, coefficients measure the percent change in the dependent variable per unit change in the independent variable\n\n\\[\\beta_{1} = \\frac{\\partial \\ln Y}{\\partial schl}\\]\n\\[= \\frac{\\partial \\ln Y}{\\partial Y} \\cdot \\frac{\\partial Y}{\\partial schl}\\]\n\\[= \\frac{1}{Y} \\cdot \\frac{\\partial Y}{\\partial schl}\\]\n\nThis is the percent change in \\(Y\\) per additional year of schooling\n\\(\\beta_{1}\\) is interpreted as the IRR\n\nThe percent change in yearly earnings per additional year of schooling"
+    "text": "The Human Capital Earnings Function\nThe Mincer equation uses the natural logarithm of \\(Y\\) as the dependent variable\nWhen we use the natural log, coefficients measure the percent change in the dependent variable per unit change in the independent variable:\n\\[\\beta_{1} = \\frac{\\partial \\ln Y}{\\partial schl} = \\frac{\\partial \\ln Y}{\\partial Y} \\cdot \\frac{\\partial Y}{\\partial schl} = \\frac{1}{Y} \\cdot \\frac{\\partial Y}{\\partial schl}\\]\n\n\n\n\n\n\nInterpretation of \\(\\beta_1\\)\n\n\n\\(\\beta_{1}\\) is interpreted as the internal rate of return (IRR) — the percent change in yearly earnings per additional year of schooling"
   },
   {
     "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-2",
     "href": "slides/hcapital/index.html#the-human-capital-earnings-function-2",
     "title": "EC306 - Wages and Employment",
     "section": "The Human Capital Earnings Function",
-    "text": "The Human Capital Earnings Function\n\nOne way to estimate this equation is to use Ordinary Least Squares (OLS) regression\nThere are two main data sources in Canada for this\n\nThe Canadian Census\n\nLarge sample sizes\n\nDetailed information on education and income\n\nOnly conducted every 5 years\n\n\nThe Labour Force Survey (LFS)\n\nMonthly survey\n\nSmaller sample sizes\n\nLess detailed information on education and income"
+    "text": "The Human Capital Earnings Function\nOne way to estimate this equation is to use Ordinary Least Squares (OLS) regression\nTwo main data sources in Canada:\nCanadian Census:\n\nLarge sample sizes\nDetailed information on education and income\nOnly conducted every 5 years\n\nLabour Force Survey (LFS):\n\nMonthly survey\nSmaller sample sizes\nLess detailed information on education and income"
   },
   {
     "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-3",
@@ -1866,28 +1866,28 @@
     "href": "slides/hcapital/index.html#the-human-capital-earnings-function-4",
     "title": "EC306 - Wages and Employment",
     "section": "The Human Capital Earnings Function",
-    "text": "The Human Capital Earnings Function\n\nGraph above shows data on schooling and hourly earnings from the LFS in September 2025 (black dots)\nAlso shows the fitted OLS regression line (blue line)\nThere is a clear positive relationship between schooling and earnings\nIssues with this graph\n\nDoes not control for experience\nEducation data not actually stored in years of schooling\n\nActually stored in categories (e.g., high school graduate, some university, university degree)\nI converted categories to approximate years"
+    "text": "The Human Capital Earnings Function\n\nGraph above shows data on schooling and hourly earnings from the LFS in September 2025 (black dots) and the fitted OLS regression line (blue line)\nThere is a clear positive relationship between schooling and earnings\n\nIssues with this graph:\n\nDoes not control for experience\nEducation data not actually stored in years of schooling\n\nActually stored in categories (e.g., high school graduate, some university, university degree)\nCategories converted to approximate years"
   },
   {
     "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-5",
     "href": "slides/hcapital/index.html#the-human-capital-earnings-function-5",
     "title": "EC306 - Wages and Employment",
     "section": "The Human Capital Earnings Function",
-    "text": "The Human Capital Earnings Function\n\nThe more accurate way is to\n\nRun the full Mincer equation regression\n\nControl for experience or age\n\nUse categorical education variables instead of years of schooling\n\nNeed to omit one group\nThis forms the “reference category”\nCoefficients on the education categories measure the percent difference in earnings relative to the reference category\n\n\nSlide below shows results from a Mincer equation regression using September LFS data"
+    "text": "The Human Capital Earnings Function\nA more accurate approach:\n\nRun the full Mincer equation regression\n\nControl for experience or age\n\nUse categorical education variables instead of years of schooling\n\nOmit one group as the “reference category”\nCoefficients measure the percent difference in earnings relative to the reference category\n\nSlide below shows results from a Mincer equation regression using September LFS data"
   },
   {
     "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-6",
     "href": "slides/hcapital/index.html#the-human-capital-earnings-function-6",
     "title": "EC306 - Wages and Employment",
     "section": "The Human Capital Earnings Function",
-    "text": "The Human Capital Earnings Function\n\n\n\n\n    \n\n    \n    \n      \n        \n        \n              \n                 \n                Men\n                Women\n              \n        \n        \n        \n                \n                  0–8 years\n                  -0.125 (0.019)\n                  -0.178 (0.024)\n                \n                \n                  Some high school\n                  -0.073 (0.010)\n                  -0.103 (0.012)\n                \n                \n                  Some postsecondary\n                  0.065 (0.012)\n                  0.076 (0.012)\n                \n                \n                  Postsecondary certificate\n                  0.163 (0.007)\n                  0.141 (0.007)\n                \n                \n                  Bachelor’s degree\n                  0.296 (0.008)\n                  0.366 (0.007)\n                \n                \n                  Graduate degree\n                  0.397 (0.009)\n                  0.485 (0.009)\n                \n                \n                  Num.Obs.\n                  28560\n                  28320\n                \n                \n                  R2\n                  0.268\n                  0.296\n                \n                \n                  RMSE\n                  0.40\n                  0.37"
+    "text": "The Human Capital Earnings Function\n\n\n\n\n    \n\n    \n    \n      \n        \n        \n              \n                 \n                Men\n                Women\n              \n        \n        \n        \n                \n                  0–8 years\n                  -0.125 (0.019)\n                  -0.178 (0.024)\n                \n                \n                  Some high school\n                  -0.073 (0.010)\n                  -0.103 (0.012)\n                \n                \n                  Some postsecondary\n                  0.065 (0.012)\n                  0.076 (0.012)\n                \n                \n                  Postsecondary certificate\n                  0.163 (0.007)\n                  0.141 (0.007)\n                \n                \n                  Bachelor's degree\n                  0.296 (0.008)\n                  0.366 (0.007)\n                \n                \n                  Graduate degree\n                  0.397 (0.009)\n                  0.485 (0.009)\n                \n                \n                  Num.Obs.\n                  28560\n                  28320\n                \n                \n                  R2\n                  0.268\n                  0.296\n                \n                \n                  RMSE\n                  0.40\n                  0.37"
   },
   {
     "objectID": "slides/hcapital/index.html#ability-bias",
     "href": "slides/hcapital/index.html#ability-bias",
     "title": "EC306 - Wages and Employment",
     "section": "Ability Bias",
-    "text": "Ability Bias\n\nMajor problem with estimating returns to schooling is ability bias\n\nHigher ability people choose more schooling but would earn higher wages even without schooling\n\nSo OLS estimate reflects both the return to schooling and the return to ability\n\nAbility bias is thought to be positive\n\nHigher ability people choose more schooling on average\n\nThis leads to overestimating the return to schooling\n\nWe can illustrate this with a model"
+    "text": "Ability Bias\n\n\n\n\n\n\nAbility Bias\n\n\nAbility bias: higher-ability people choose more schooling but would earn higher wages even without schooling\n\nOLS estimate reflects both the return to schooling and the return to ability\nAbility bias is thought to be positive → OLS overestimates the return to schooling"
   },
   {
     "objectID": "slides/hcapital/index.html#ability-bias-1",
@@ -1901,49 +1901,49 @@
     "href": "slides/hcapital/index.html#ability-bias-2",
     "title": "EC306 - Wages and Employment",
     "section": "Ability Bias",
-    "text": "Ability Bias\n\nIf we estimate a regression omitting ability\n\n\\[\n\\ln Y = \\tilde{\\beta}_1 schl + e\n\\]\n\nThe OLS coefficient on schooling equals\n\n\\[\n\\tilde{\\beta}_s\n= \\frac{Cov(lnY, s)}{Var(s)}\n\\]"
+    "text": "Ability Bias\nSuppose the true earnings equation is:\n\\[\\ln Y = \\beta_{0} + \\beta_1 schl + \\beta_2 abil + \\epsilon\\]\nWhere \\(\\epsilon\\) has \\(E[\\epsilon \\mid schl, abil] = 0\\)\nAssume schooling increases with ability:\n\\[abil = \\alpha_0 + \\alpha_1 schl + v\\]\nwith \\(v\\) uncorrelated with \\(schl\\)"
   },
   {
     "objectID": "slides/hcapital/index.html#ability-bias-3",
     "href": "slides/hcapital/index.html#ability-bias-3",
     "title": "EC306 - Wages and Employment",
     "section": "Ability Bias",
-    "text": "Ability Bias\n\nPlug \\(\\ln Y = \\beta_1 schl + \\beta_2 abil + \\epsilon\\) into formula for \\(\\tilde{\\beta}_s\\)\n\n\\[\n\\tilde{\\beta}_s\n= \\frac{Cov(lnY, schl)}{Var(schl)} = \\frac{Cov(\\beta_{0} + \\beta_1 schl + \\beta_2 abil + \\epsilon, schl)}{Var(schl)}\n\\]\n\nBecause \\(\\beta_0\\) is constant and \\(\\epsilon\\) is uncorrelated with \\(schl\\)\n\n\\[\n\\tilde{\\beta}_s = \\frac{\\beta_1 Var(schl) + \\beta_2 Cov(abil, schl)}{Var(schl)} = \\beta_1 + \\beta_2 \\alpha_1\n\\]"
+    "text": "Ability Bias\nIf we estimate a regression omitting ability:\n\\[\\ln Y = \\tilde{\\beta}_1 schl + e\\]\nThe OLS coefficient on schooling equals:\n\\[\\tilde{\\beta}_s = \\frac{Cov(lnY, s)}{Var(s)}\\]"
   },
   {
     "objectID": "slides/hcapital/index.html#ability-bias-4",
     "href": "slides/hcapital/index.html#ability-bias-4",
     "title": "EC306 - Wages and Employment",
     "section": "Ability Bias",
-    "text": "Ability Bias\n\nThe term \\(\\beta_2 \\alpha_1\\) is the ability bias\nIt depends on\n\n\\(\\beta_2\\): the earnings return to ability\n\\(\\alpha_1\\): the relationship between ability and schooling\n\nIf both terms are positive, then ability bias is positive\nThis means that OLS overestimates the return to schooling\n\nEstimates partly reflect the return to ability, partly the return to schooling"
+    "text": "Ability Bias\nPlug \\(\\ln Y = \\beta_1 schl + \\beta_2 abil + \\epsilon\\) into the formula for \\(\\tilde{\\beta}_s\\):\n\\[\\tilde{\\beta}_s = \\frac{Cov(\\beta_{0} + \\beta_1 schl + \\beta_2 abil + \\epsilon, schl)}{Var(schl)}\\]\nBecause \\(\\beta_0\\) is constant and \\(\\epsilon\\) is uncorrelated with \\(schl\\):\n\\[\\tilde{\\beta}_s = \\frac{\\beta_1 Var(schl) + \\beta_2 Cov(abil, schl)}{Var(schl)} = \\beta_1 + \\beta_2 \\alpha_1\\]"
   },
   {
     "objectID": "slides/hcapital/index.html#addressing-ability-bias",
     "href": "slides/hcapital/index.html#addressing-ability-bias",
     "title": "EC306 - Wages and Employment",
     "section": "Addressing Ability Bias",
-    "text": "Addressing Ability Bias\n\nEconomists have developed methods to address ability bias\n\nTwin Studies: Compare earnings of identical twins with different schooling levels\n\nPresumably, twins have same level of ability\nComparing them avoids ability bias\n\nInstrumental Variables (IV): Method that isolates variation in schooling unrelated to ability\n\nE.g., changes in compulsory schooling laws, proximity to university\nThese changes affect schooling but are unrelated to ability"
+    "text": "Addressing Ability Bias\nEconomists have developed methods to address ability bias:\nTwin Studies:\n\nCompare earnings of identical twins with different schooling levels\nPresumably, twins have the same level of ability — comparing them avoids ability bias\n\nInstrumental Variables (IV):\n\nMethod that isolates variation in schooling unrelated to ability\nE.g., changes in compulsory schooling laws, proximity to university\nThese changes affect schooling but are unrelated to ability"
   },
   {
     "objectID": "slides/hcapital/index.html#twin-studies",
     "href": "slides/hcapital/index.html#twin-studies",
     "title": "EC306 - Wages and Employment",
     "section": "Twin Studies",
-    "text": "Twin Studies\n\nTwin studies compare earnings of identical twins with different schooling levels\nAshenfelter and Rouse (1998) use data on identical twins in the US\n\nAttended Twins festival and collected data on schooling and earnings\nVerified it with outside data\n\nUsing OLS, they estimate a biased return to schooling of about 11% per year\nUsing twin differences, they estimate a return of about 7% per year\n\nSuggests ability bias of about 4 percentage points"
+    "text": "Twin Studies\n\n\n\n\n\n\nAshenfelter and Rouse (1998)\n\n\n\nUsed data on identical twins in the US (collected at a Twins festival)\nOLS estimate: biased return of about 11% per year\nTwin differences estimate: return of about 7% per year\nSuggests ability bias of about 4 percentage points"
   },
   {
     "objectID": "slides/hcapital/index.html#compulsory-schooling",
     "href": "slides/hcapital/index.html#compulsory-schooling",
     "title": "EC306 - Wages and Employment",
     "section": "Compulsory Schooling",
-    "text": "Compulsory Schooling\n\nAnother method is to use changes in compulsory schooling laws as an instrument for schooling\nSeveral US states have a minimum school leaving age\n\nGenerally around 16 years old\n\nMeans that students born earlier in the year can leave school earlier\n\nSomeone born in January can leave earlier than someone born in December of the same year\nMeans that on average people born later in the year have more schooling\n\nAngrist and Krueger (1991) use this variation to estimate returns to schooling\n\nEstimate a return of about 7-10% per year of schooling"
+    "text": "Compulsory Schooling\n\nAnother method: use changes in compulsory schooling laws as an instrument for schooling\nSeveral US states have a minimum school leaving age (generally around 16 years old)\nStudents born earlier in the year can leave school earlier\n\nSomeone born in January can leave earlier than someone born in December of the same year\nOn average, people born later in the year have more schooling\n\nAngrist and Krueger (1991) use this variation to estimate returns to schooling\n\nEstimate a return of about 7–10% per year of schooling"
   },
   {
     "objectID": "slides/hcapital/index.html#compulsory-schooling-1",
     "href": "slides/hcapital/index.html#compulsory-schooling-1",
     "title": "EC306 - Wages and Employment",
     "section": "Compulsory Schooling",
-    "text": "Compulsory Schooling\n\nCan use compulsory schooling laws in a different way\nCanada has maximum school entry laws and minimum school leaving laws\n\nOver time, students mandated to enter school earlier and leave later\nThis increases average schooling levels, unrelated to ability\n\nOreopoulos (2006) uses this variation to estimate returns to schooling in Canada\n\nFinds that an additional year of compulsory schooling increases earnings by about 7-12%"
+    "text": "Compulsory Schooling\n\nCanada has maximum school entry laws and minimum school leaving laws\n\nOver time, students mandated to enter school earlier and leave later\nThis increases average schooling levels, unrelated to ability\n\nOreopoulos (2006) uses this variation to estimate returns to schooling in Canada\n\nFinds that an additional year of compulsory schooling increases earnings by about 7–12%"
   },
   {
     "objectID": "slides/hcapital/index.html#compulsory-schooling-2",
@@ -1957,21 +1957,21 @@
     "href": "slides/hcapital/index.html#signalling-1",
     "title": "EC306 - Wages and Employment",
     "section": "Signalling",
-    "text": "Signalling\n\nAll studies cited so far have attributed the returns to schooling to human capital accumulation\nSome studies have attempted to separate human capital from signalling effects\nFerrer and Riddell (2002) use Canadian data to estimate credential effects\n\nLook at people with same years of schooling, but different credentials\nE.g., Someone with a high school diploma versus someone with same years but did not graduate\n\nFind that obtaining the credential does matter"
+    "text": "Signalling\n\nAll studies cited so far have attributed returns to schooling to human capital accumulation\nSome studies have attempted to separate human capital from signalling effects\nFerrer and Riddell (2002) use Canadian data to estimate credential effects\n\nLook at people with same years of schooling, but different credentials\nE.g., someone with a high school diploma versus someone with the same years but did not graduate\n\nFind that obtaining the credential does matter — consistent with some signalling"
   },
   {
     "objectID": "slides/hcapital/index.html#social-returns-to-education-1",
     "href": "slides/hcapital/index.html#social-returns-to-education-1",
     "title": "EC306 - Wages and Employment",
     "section": "Social Returns to Education",
-    "text": "Social Returns to Education\n\nMost of the discussion so far has focused on private returns to education\n\nReturns to individuals of obtaining more schooling\n\nWe know there are spillovers to society as a whole\n\nPositive externalities from education\n\nStudies show that\n\nStates with higher average education levels have higher earnings in excess of the private return\nThe number of highly educated immiggrants in STEM has a positive effect on productivity of other workers\nMore highly educated populations have lower crime rates, better health outcomes, more civic participation"
+    "text": "Social Returns to Education\n\nMost discussion so far has focused on private returns to education (returns to the individual)\nWe know there are positive externalities to society as a whole:\n\nStates/provinces with higher average education have higher earnings in excess of the private return\nMore highly educated immigrants in STEM have a positive effect on productivity of other workers\nMore highly educated populations have lower crime rates, better health outcomes, more civic participation\n\n\n\n\n\n\n\n\nPolicy Implication\n\n\nBecause social returns exceed private returns, there is a rationale for public subsidies to education"
   },
   {
     "objectID": "slides/hcapital/index.html#education-and-inequality-1",
     "href": "slides/hcapital/index.html#education-and-inequality-1",
     "title": "EC306 - Wages and Employment",
     "section": "Education and Inequality",
-    "text": "Education and Inequality\n\nEarnings inequality has increased in many countries over the past few decades\nIn Canada\n\nRose over the 80s, 90s\nHas been stable since\n\nA couple of different sources for this\n\nReturns to schooling\nGrowth in inequality among people with the same level of schooling\n\nIn Canada, much of it is related to inequality within education groups\n\nBut still partly related to returns to schooling"
+    "text": "Education and Inequality\n\nEarnings inequality has increased in many countries over the past few decades\nIn Canada:\n\nRose over the 80s and 90s\nHas been stable since\n\n\nTwo sources of rising inequality:\n\nReturns to schooling: college premium has grown\nInequality within education groups: growing wage dispersion even among equally-educated workers\n\nIn Canada, much of the rise is related to inequality within education groups"
   },
   {
     "objectID": "slides/hcapital/index.html#education-and-inequality-2",
@@ -1992,105 +1992,105 @@
     "href": "slides/hcapital/index.html#education-and-inequality-4",
     "title": "EC306 - Wages and Employment",
     "section": "Education and Inequality",
-    "text": "Education and Inequality\n\nWhy has the return to education increased?\n\nSkill Biased Technological Change: New technologies increase demand for skilled workers\n\nIncreases wage premium for higher education\n\nGlobalization: Increased trade and outsourcing\n\nReduces demand for lower-skilled workers locally\n\nInstitutional Changes: Decline in unionization, changes in labor market policies\n\nNegatively affects bargaining power of lower-skilled workers\n\n\nSkill biased technical change is thought to be major driver in the 80s"
+    "text": "Education and Inequality\nWhy has the return to education increased?\nSkill-Biased Technological Change:\n\nNew technologies increase demand for skilled workers\nIncreases the wage premium for higher education\nThought to be the major driver in the 1980s\n\nGlobalization:\n\nIncreased trade and outsourcing\nReduces demand for lower-skilled workers locally\n\nInstitutional Changes:\n\nDecline in unionization, changes in labour market policies\nNegatively affects bargaining power of lower-skilled workers"
   },
   {
     "objectID": "slides/hcapital/index.html#introduction-4",
     "href": "slides/hcapital/index.html#introduction-4",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nFormal schooling is one way to develop human capital\nAnother important way is through job training\n\n** General Training**: Skills that are useful at many firms\n** Specific Training**: Skills that are only useful at a specific firm\n\nTraining helps develop skills that increase human capital\nIn this section we evaluate the economics of job training"
+    "text": "Introduction\n\nFormal schooling is one way to develop human capital\nAnother important way is through job training\n\n\n\n\n\n\n\nTypes of Training\n\n\n\nGeneral Training: skills that are useful at many firms\nSpecific Training: skills that are only useful at a specific firm\n\n\n\n\nTraining helps develop skills that increase human capital — in this section we evaluate the economics of job training"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training",
     "href": "slides/hcapital/index.html#who-pays-for-job-training",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\nIt is not uncommon for firms to pay for job training\n\nSome companies provide training to all employees\nOther will fund things like MBA\n\nUnder what circumstance would the firm pay versus the individual?\nDiffers for general versus specific training"
+    "text": "Who Pays for Job Training\n\nIt is not uncommon for firms to pay for job training\n\nSome companies provide training to all employees\nOthers fund things like MBA programs\n\nUnder what circumstances would the firm pay versus the individual?\nThe answer differs for general versus specific training"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-1",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-1",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\nGeneral training increases productivity at many firms\n\nEmployees can take skills to other firms\n\nFirms will offer higher wages to employees with general training\n\nVery similar to schooling\n\nBut employees fund then training themselves\n\nPay for it as long as the lifetime wage increase exceeds the cost of training"
+    "text": "Who Pays for Job Training\nGeneral training: employees fund training themselves\n\nGeneral training increases productivity at many firms\n\nEmployees can take skills to other firms\n\nFirms offer higher wages to employees with general training (very similar to schooling)\nBut employees fund the training themselves\n\nPay for it as long as lifetime wage increase exceeds the cost of training"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-2",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-2",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral training illustrated to left\nWithout training, employee earns wage \\(W_a\\)\nEquals VMP without training\nEmployee who gets training\n\nEarns lower wage equal to \\(VMP_t\\) during training period\nAfter training, earns higher wage equal to \\(VMP^*\\)\nTraining raises the productivity of the worker\n\nWorth it for employee to get training if present value of wage increase exceeds cost of training"
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral training illustrated:\n\nWithout training: employee earns wage \\(W_a\\) (equals VMP without training)\nEmployee who gets training:\n\nEarns lower wage \\(VMP_t\\) during training\nEarns higher wage \\(VMP^*\\) after training\n\nWorth it for employee if present value of wage increase exceeds cost of training"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-3",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-3",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\nDifferent for specific training\nSpecific training only increases productivity at one firm\n\nSkills not transferable to other firms\n\nCompany would pay if benefits exceed costs\n\nBenefits are higher productivity of employee\nCosts are wages paid during training period\n\nWould not have to pay higher wages\n\nThere is no competition for workers"
+    "text": "Who Pays for Job Training\nSpecific training: firms pay\n\nSpecific training only increases productivity at one firm\n\nSkills not transferable to other firms\n\nCompany would pay if benefits exceed costs\n\nBenefits: higher productivity of employee\nCosts: wages paid during training period\n\nWould not have to pay higher wages — there is no competition for workers with this specific skill"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-4",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-4",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecific training illustrated to left\nBefore and after training, employee earns wage \\(W_a\\)\nFirm costs are \\(W_a - VMP_t\\) during training period\nFirm benefits are \\(VMP^* - W_a\\) after training period\nWorth it if the present value of benefits exceeds present value of costs"
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecific training illustrated:\n\nBefore and after training: employee earns wage \\(W_a\\)\nFirm costs during training: \\(W_a - VMP_t\\)\nFirm benefits after training: \\(VMP^* - W_a\\)\nWorth it if present value of benefits exceeds present value of costs"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-5",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-5",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\nIndividuals and firms may also share the investment\n\nHappens when there is a risk of individual leaving after training\n\nFirms pay below \\(W_a\\) during the training period\n\nBut still above the VMP during the training period\n\nPay above \\(W_a\\) after training\n\nBut below the employee’s VMP\n\nIn this way the employee and employer share the costs"
+    "text": "Who Pays for Job Training\nShared investment — happens when there is a risk of the individual leaving after training:\n\nFirms pay below \\(W_a\\) during the training period (but still above the VMP during training)\nPay above \\(W_a\\) after training (but below the employee’s VMP)\nIn this way, employee and employer share the costs and benefits"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-6",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-6",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShared specific training is depicted to the left\nDuring the training period, employers pay a premium above VMP but below \\(W_a\\)\n\nCosts are shared between employer and employee\nEmployee cost: earning less than \\(W_a\\) during training\nEmployer cost: pay above VMP during training\n\nAfter training, employers pay a premium above \\(W_a\\) but below VMP\n\nBenefits are shared between employer and employee\nEmployee benefit: earning more than \\(W_a\\) after training\nEmployer benefit: pay below VMP after training"
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nShared specific training:\nDuring training period:\n\nEmployee cost: earning less than \\(W_a\\)\nEmployer cost: paying above VMP\n\nAfter training period:\n\nEmployee benefit: earning more than \\(W_a\\)\nEmployer benefit: paying below VMP"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-7",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-7",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\nFor illustrative purposes, we have depicted training as a one-time event\n\nIn reality, training is often ongoing throughout a worker’s career\nWorkers may receive multiple types of training at different times\nFirms may have formal training programs or informal on-the-job training\n\nA more gradual training leads to smoother curves\n\nBut lesson is still the same"
+    "text": "Who Pays for Job Training\n\nFor illustrative purposes, we have depicted training as a one-time event\n\nIn reality, training is often ongoing throughout a worker’s career\nWorkers may receive multiple types of training at different times\nFirms may have formal training programs or informal on-the-job training\n\nA more gradual training leads to smoother curves — but the lesson is still the same"
   },
   {
     "objectID": "slides/hcapital/index.html#who-pays-for-job-training-8",
     "href": "slides/hcapital/index.html#who-pays-for-job-training-8",
     "title": "EC306 - Wages and Employment",
     "section": "Who Pays for Job Training",
-    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure depicts gradual shared training\nLesson is still the same, except\n\nCosts gradually fall over time during training\nBenefits gradually get larger\n\nWorth it for employer and employee if benefits exceed costs"
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nGradual shared training:\n\nLesson is still the same\nCosts gradually fall over time during training\nBenefits gradually grow\nWorth it for employer and employee if benefits exceed costs"
   },
   {
     "objectID": "slides/hcapital/index.html#training-and-government",
     "href": "slides/hcapital/index.html#training-and-government",
     "title": "EC306 - Wages and Employment",
     "section": "Training and Government",
-    "text": "Training and Government\n\nGovernments often subsidize job training programs\n\nProvide funding to firms to encourage them to train workers\nProvide funding directly to individuals to help pay for training\n\nSeveral rationales for public funding of training\n\nPositive externalities\nIndividuals may underinvest in training due to credit constraints\nImperfect information about training benefits\n\nSome current government funding initiatives\n\nCanada-Ontario Job Grant funds businesses to train employees\nNPower Canada: registered charity providing tech training, funded by government"
+    "text": "Training and Government\nGovernments often subsidize job training programs. Several rationales for public funding:\n\nPositive externalities from a more productive workforce\nIndividuals may underinvest due to credit constraints\nImperfect information about training benefits\n\nSome current government funding initiatives:\n\nCanada-Ontario Job Grant: funds businesses to train employees\nNPower Canada: registered charity providing tech training, funded by government"
   },
   {
     "objectID": "slides/hcapital/index.html#training-and-government-1",
     "href": "slides/hcapital/index.html#training-and-government-1",
     "title": "EC306 - Wages and Employment",
     "section": "Training and Government",
-    "text": "Training and Government\n\nAn active area of labour economics is evaluating the effectiveness of government training programs\n\nCalled Program Evaluation\n\nIn some cases, people are randomly allocated to training programs\n\nCan compare outcomes of those who received training to those who did not\nIdentifies the causal effect of training\n\nIn most cases, people self-select into training programs\n\nPeople in training and comparison groups differ in many ways besides training\nMakes it difficult to isolate the effect of training itself"
+    "text": "Training and Government\n\nAn active area of labour economics is program evaluation — evaluating the effectiveness of government training programs\nIn some cases, people are randomly allocated to training programs\n\nCan directly compare outcomes of those who received training to those who did not\nIdentifies the causal effect of training\n\nIn most cases, people self-select into training programs\n\nPeople in training and comparison groups differ in many ways besides training\nMakes it difficult to isolate the effect of training itself"
   },
   {
     "objectID": "slides/hcapital/index.html#training-and-government-2",
     "href": "slides/hcapital/index.html#training-and-government-2",
     "title": "EC306 - Wages and Employment",
     "section": "Training and Government",
-    "text": "Training and Government\n\nProgram evaluation uses econometric techniques to address selection issues\n\nDifference-in-Differences (DiD): Compare changes in outcomes over time between treatment and control groups\nPropensity Score Matching (PSM): Match individuals in treatment and control groups based on observable characteristics\nInstrumental Variables (IV): Use external factors that affect training participation but not outcomes directly\n\nProgram evaluation literature shows\n\nU.S. training programs have positive results for young women from poorer backgrounds\nBut no effect for men\nThe more successful programs emphasize human capital investment over job search assistance"
+    "text": "Training and Government\nProgram evaluation uses econometric techniques to address selection issues:\n\nDifference-in-Differences (DiD): compare changes in outcomes over time between treatment and control groups\nPropensity Score Matching (PSM): match individuals in treatment and control groups based on observable characteristics\nInstrumental Variables (IV): use external factors that affect training participation but not outcomes directly\n\n\n\n\n\n\n\nEvidence from Program Evaluation\n\n\n\nU.S. training programs have positive results for young women from poorer backgrounds\nBut no effect for men\nMore successful programs emphasize human capital investment over job search assistance"
   },
   {
     "objectID": "slides/hcapital/index.html#summary-1",
     "href": "slides/hcapital/index.html#summary-1",
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
-    "text": "Summary\n\nEducation is an investment in human capital\n\nIncreases productivity and earnings potential\n\nThe Human Capital model explains schooling decisions based on costs and benefits\n\nPeople invest in schooling until marginal benefit equals marginal cost\n\nThe Signalling model emphasizes education as a signal of ability\n\nEducation reveals productivity to employers\n\nEmpirical estimates of returns to schooling are around 7-10% per year\n\nAbility bias may lead to overestimation\n\nJob training is another important way to develop human capital"
+    "text": "Summary\n\nEducation is an investment in human capital — increases productivity and earnings potential\nThe Human Capital model explains schooling decisions based on costs and benefits\n\nPeople invest in schooling until marginal benefit equals marginal cost\n\nThe Signalling model emphasizes education as a signal of ability\n\nEducation reveals productivity to employers rather than creating it\n\nEmpirical estimates of returns to schooling are around 7–10% per year\n\nAbility bias may lead to overestimation; twin and IV studies correct for this\n\nJob training is another important way to develop human capital\n\nGeneral training funded by workers; specific training funded by firms; often shared"
   },
   {
     "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
@@ -2732,7 +2732,7 @@
     "href": "slides/discrim/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDiscuss trends in educational attainment in Canada\nIntroduce Human Capital Theory of education investment\nIntroduce Signalling Model of education investment\nDiscuss empirical methods to estimate returns to schooling\nReview empirical evidence on returns to schooling\nDiscuss job training"
+    "text": "Goals of This Section\nToday we will:\n\nDiscuss trends in male-female earnings differentials in Canada\nIntroduce taste-based and statistical discrimination theories\nExplain supply-side and non-competitive theories of discrimination\nLearn the Oaxaca-Blinder decomposition to measure discrimination\nReview policies to address gender discrimination"
   },
   {
     "objectID": "slides/discrim/index.html#male-and-female-earnings",
@@ -2760,63 +2760,63 @@
     "href": "slides/discrim/index.html#male-and-female-earnings-3",
     "title": "EC306 - Wages and Employment",
     "section": "Male and Female Earnings",
-    "text": "Male and Female Earnings\n\nClearly men and women earn different amounts on average\nThere are two broad explanations for this gap:\n\nDifferences in characteristics (education, experience, occupation, industry, hours worked, etc.)\nDifferences in the returns to those characteristics (discrimination)\n\nOur models so far have not left room for discrimination\n\nWe treated all workers as the same\nSo there should not be any differences in returns"
+    "text": "Male and Female Earnings\n\nClearly men and women earn different amounts on average\nThere are two broad explanations for this gap:\n\nDifferences in characteristics (education, experience, occupation, industry, hours worked, etc.)\nDifferences in returns to those characteristics (discrimination)\n\nOur models so far have not left room for discrimination\n\nWe treated all workers as the same\nSo there should not be any differences in returns"
   },
   {
     "objectID": "slides/discrim/index.html#male-and-female-earnings-4",
     "href": "slides/discrim/index.html#male-and-female-earnings-4",
     "title": "EC306 - Wages and Employment",
     "section": "Male and Female Earnings",
-    "text": "Male and Female Earnings\n\nIn this section, we explore economic theories of discrimination\n\nCan come from employers, customers, co-workers\nCan be statistical or taste-based\n\nIt is difficult empirically to estimate discrimination\n\nNeed to control for all relevant characteristics\nNeed to separate out differences in characteristics from differences in returns\n\nThere are methods that can help us estimate discrimination\n\nOaxaca-Blinder decomposition\nAudit studies\nExperiments"
+    "text": "Male and Female Earnings\nIn this section, we explore economic theories of discrimination:\n\nCan come from employers, customers, co-workers\nCan be statistical or taste-based\n\nEstimating discrimination empirically is difficult:\n\nNeed to control for all relevant characteristics\nNeed to separate differences in characteristics from differences in returns\n\nMethods that can help:\n\nOaxaca-Blinder decomposition\nAudit studies\nField experiments"
   },
   {
     "objectID": "slides/discrim/index.html#demand-side-theories",
     "href": "slides/discrim/index.html#demand-side-theories",
     "title": "EC306 - Wages and Employment",
     "section": "Demand-Side Theories",
-    "text": "Demand-Side Theories\n\nDemand theories focus on the behavior of employers in demanding labor\nCan happen for various reasons:\n\nPure prejudice\nCustomer preference to buy from male workers\nMale aversion to working with women\n\nThese all cause a fall in the demand for women relative to men in the labour market\n\nReduces wages and employment of female workers"
+    "text": "Demand-Side Theories\nDemand-side theories focus on the behaviour of employers in demanding labour. Discrimination can happen for various reasons:\n\nPure prejudice against female workers\nCustomer preference to buy from male workers\nMale workers’ aversion to working with women\n\n\n\n\n\n\n\nWarning\n\n\nThese all cause a fall in the demand for women relative to men in the labour market — reducing wages and employment of female workers"
   },
   {
     "objectID": "slides/discrim/index.html#taste-based-discrimination",
     "href": "slides/discrim/index.html#taste-based-discrimination",
     "title": "EC306 - Wages and Employment",
     "section": "Taste-Based Discrimination",
-    "text": "Taste-Based Discrimination\n\nTheory of taste-based discrimination pioneered by Becker (1957)\nImagine that firms produce according to the production function:\n\n\\[y = f(N_m + N_w)\\]\n\nWith \\(N_m\\) indicating the number of male workers, and \\(N_f\\) indicating the number of female workers\nSo in a competitive market their profits are\n\n\\[ \\pi = p \\cdot f(N_m + N_w) - w_m N_m - w_w N_w \\]\n\nWith \\(w_m\\) indicating the wage of male workers, and \\(w_f\\) indicating the wage of female workers"
+    "text": "Taste-Based Discrimination\n\n\n\n\n\n\nBecker (1957)\n\n\nTaste-based discrimination: employers have a “taste” for discrimination — they behave as if hiring women is more costly than it actually is\n\n\n\n\nFirms produce according to: \\(y = f(N_m + N_w)\\)\nIn a competitive market, profits are: \\[ \\pi = p \\cdot f(N_m + N_w) - w_m N_m - w_w N_w \\]\nFirms do not maximize profit strictly, but instead maximize: \\[ U = \\pi - d \\cdot N_w \\]\n\n\\(d\\) measures the degree of discrimination\nIf \\(d = 0\\): no discrimination; if \\(d &gt; 0\\): firms get disutility from hiring women"
   },
   {
     "objectID": "slides/discrim/index.html#taste-based-discrimination-1",
     "href": "slides/discrim/index.html#taste-based-discrimination-1",
     "title": "EC306 - Wages and Employment",
     "section": "Taste-Based Discrimination",
-    "text": "Taste-Based Discrimination\n\nFirms do not maximize profit strictly, but instead maximize a utility function\n\n\\[ U = \\pi - d \\cdot N_w \\]\n\nUtility is partly a function of profit\nBut also includes \\(d\\), which measures the degree of discrimination\n\nif \\(d = 0\\), no discrimination and maximizing utility is the same as maximizing profit\nif \\(d=0\\) firms get a disutility from hiring women"
+    "text": "Taste-Based Discrimination\nThe first order conditions for utility maximization are:\n\\[ p \\cdot MP_{N_m} = w_m \\] \\[ p \\cdot MP_{N_w} = w_w + d \\]\n\nFor both men and women, firms hire up to where VMP equals the effective cost of hiring\nBut for women, there is an additional cost \\(d\\) due to discrimination\nIf \\(w_m = w_f\\) and men and women are equally productive, this implies firms hire fewer women\n\nDiscrimination drives a wedge between wages and the MRP"
   },
   {
     "objectID": "slides/discrim/index.html#taste-based-discrimination-2",
     "href": "slides/discrim/index.html#taste-based-discrimination-2",
     "title": "EC306 - Wages and Employment",
     "section": "Taste-Based Discrimination",
-    "text": "Taste-Based Discrimination\n\nThe first order conditions for utility maximization are: \\[ p \\cdot MP_{N_m} = w_m \\] \\[ p \\cdot MP_{N_w} = w_w + d \\]\nFor both men and women, firms hire up to the point where the value of the marginal product equals the cost of hiring\n\nBut for women, there is an additional cost \\(d\\) due to discrimination\n\nIf \\(w_m = w_f\\), and men and women are equally productive, this implies the firm hires less women\n\nDiscrimination drives a wedge between wages and the MRP"
+    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph plots labour demand for women\nDiscrimination shifts demand curve left\nWithout discrimination: firm hires where \\(w_f = MRP_{ND}\\)\nWith discrimination: firm hires where \\(w_f + d = MRP_D\\)\n\nOr equivalently \\(w_f = MRP_D - d\\)\n\nImplies a lower level of female labour"
   },
   {
     "objectID": "slides/discrim/index.html#taste-based-discrimination-3",
     "href": "slides/discrim/index.html#taste-based-discrimination-3",
     "title": "EC306 - Wages and Employment",
     "section": "Taste-Based Discrimination",
-    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph plots labour demand for women\nDiscrimination shifts demand curve left\nWithout discrimination, firm hires where \\(w_f = MRP_{ND}\\)\n\n\\(ND\\) = non-discriminatory\n\nWith discrimination, firm hires where \\(w_f + d = MRP_D\\)\n\nOr equivalently \\(w_f = MRP_D - d\\)\n\nImplies a lower level of female labour"
+    "text": "Taste-Based Discrimination\n\nAbove analysis is for a single employer\nEmployers discriminate along a spectrum — some have a high \\(d\\), some have a low or no \\(d\\)\nSuppose women are able to seek out the non-discriminating employers\nIf we order firms from lowest to highest by the amount of discrimination:\n\nWe can get the market demand curve by summing individual demand curves horizontally\n\nThis demand curve is plotted on the next slide"
   },
   {
     "objectID": "slides/discrim/index.html#taste-based-discrimination-4",
     "href": "slides/discrim/index.html#taste-based-discrimination-4",
     "title": "EC306 - Wages and Employment",
     "section": "Taste-Based Discrimination",
-    "text": "Taste-Based Discrimination\n\nAbove analysis is for a single employer\nEmployers discriminate along a spectrum\n\nSome have a high \\(d\\), some have a low or no \\(d\\)\n\nSuppose women are able to seek out the non-discriminating employers\nIf we order the firms from lowest to highest by the amount of discrimination\n\nWe can get the market demand curve by summing the individual demand curves horizontally\n\nThis demand curve is plotted on the next slide"
+    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVertical axis is the ratio of female to male wages\nFor non-discriminating firms, this ratio is 1\n\nA certain set of firms will hire women at this ratio (flat portion of demand curve)\n\nAs the supply of women grows, they must work at more discriminating firms\n\nThese firms will only hire when the wage ratio falls"
   },
   {
     "objectID": "slides/discrim/index.html#taste-based-discrimination-5",
     "href": "slides/discrim/index.html#taste-based-discrimination-5",
     "title": "EC306 - Wages and Employment",
     "section": "Taste-Based Discrimination",
-    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph plots demand for female labour in the market\nOn the vertical axis is the ration of female to male wages\nFor non-discriminating firms, this ratio is 1\n\nA certain set of firms will hire women at this ratio\nThis is the flat portion of the demand curve\n\nAs the supply of women grows, they must work at more discriminating firms\n\nThese firms will only hire when the wage ratio falls"
+    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf the supply of female labour is small enough, they can work at non-discriminating firms\n\nWage ratio is 1\n\nWith a larger supply, some will have to work at discriminating firms\n\nWage ratio falls below 1\nThis is where the demand curve slopes downwards\nWage gap emerges"
   },
   {
     "objectID": "slides/discrim/index.html#taste-based-discrimination-6",
@@ -2830,7 +2830,7 @@
     "href": "slides/discrim/index.html#statistical-discrimination",
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination\n\nTaste-based discrimination relies on employers having a “taste” for discrimination\n\nOvert prejudice\n\nSome discrimination may happen because of imperfect information\n\nEmployers do not know the productivity of workers perfectly\n\nInstead they use signals to infer worker quality\nWith statistical discrimination firms use group characteristics to infer individual productivity\n\nIf one group has lower average productivity, firms may pay them less on average"
+    "text": "Statistical Discrimination\n\n\n\n\n\n\nStatistical Discrimination\n\n\nStatistical discrimination: firms use group characteristics to infer individual productivity\n\nArises because of imperfect information — employers do not know individual worker productivity perfectly\nInstead they use signals to infer worker quality\nIf one group has lower average productivity (or a noisier signal), firms may pay them less on average\n\n\n\n\n\nContrast with taste-based discrimination, which relies on employers having overt prejudice"
   },
   {
     "objectID": "slides/discrim/index.html#statistical-discrimination-1",
@@ -2844,175 +2844,175 @@
     "href": "slides/discrim/index.html#theory",
     "title": "EC306 - Wages and Employment",
     "section": "Theory",
-    "text": "Theory\n\nAssume that the abilities of male and female workers are distributed with means \\(\\bar{a}_{m}\\) and \\(\\bar{a}_{f}\\)\nSuppose the firm has access to a signal of ability \\(x\\) for each person\nActual ability is not known with certainty, but expected ability is\n\n\\[a(x) = \\bar{a} + \\alpha (x - \\bar{a})\\]\n\nwhere \\(\\alpha\\) is the reliability of the signal\n\nIf \\(\\alpha = 0\\), the signal provides no information beyond the average\n\nIf \\(\\alpha = 1\\), the signal is perfectly informative\n\nWorkers are paid a wage equal to their marginal revenue product"
+    "text": "Theory\nAssume that the abilities of male and female workers are distributed with means \\(\\bar{a}_{m}\\) and \\(\\bar{a}_{f}\\). The firm has access to a signal of ability \\(x\\) for each person. Expected ability is:\n\\[a(x) = \\bar{a} + \\alpha (x - \\bar{a})\\]\nWhere \\(\\alpha\\) is the reliability of the signal:\n\nIf \\(\\alpha = 0\\): the signal provides no information beyond the average\nIf \\(\\alpha = 1\\): the signal is perfectly informative\n\nWorkers are paid a wage equal to their marginal revenue product"
   },
   {
     "objectID": "slides/discrim/index.html#statistical-discrimination-2",
     "href": "slides/discrim/index.html#statistical-discrimination-2",
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination\n\nPaying workers their marginal revenue product implies\n\n\\[w(x) = p a(x) = p \\bar{a} + p \\alpha (x - \\bar{a})\\]\n\nTo analyze discrimination, assume \\(\\bar{a}_{m} = \\bar{a}_{f}\\)\n\nMen and women are equally productive on average\n\nAssume the signal is more reliable for men than for women\n\nIf \\(\\alpha_m &gt; \\alpha_f\\)\n\nDifferences arise between workers who score the same on the signal\n\nIf a man and woman score above average \\((x - \\bar{a} &gt; 0)\\), then \\(w(x)_m &gt; w(x)_f\\)\nIf a man and woman score below average \\((x - \\bar{a} &lt; 0)\\), then \\(w(x)_m &lt; w(x)_f\\)"
+    "text": "Statistical Discrimination"
   },
   {
     "objectID": "slides/discrim/index.html#statistical-discrimination-3",
     "href": "slides/discrim/index.html#statistical-discrimination-3",
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph we have wages as a function of the signal\nThe male line is steeper because the signal is more reliable (\\(\\alpha_m &gt; \\alpha_f\\))\nFor test scores above average, men are paid more\nFor test scores below average, women are paid more\nAt the average, they are paid the same"
+    "text": "Statistical Discrimination\nPaying workers their marginal revenue product implies:\n\\[w(x) = p a(x) = p \\bar{a} + p \\alpha (x - \\bar{a})\\]\nAssume \\(\\bar{a}_{m} = \\bar{a}_{f}\\) (men and women are equally productive on average), but the signal is more reliable for men: \\(\\alpha_m &gt; \\alpha_f\\)\nDifferences arise between workers who score the same on the signal:\n\nIf a man and woman score above average (\\(x - \\bar{a} &gt; 0\\)), then men are paid more\nIf a man and woman score below average (\\(x - \\bar{a} &lt; 0\\)), then women are paid more"
   },
   {
     "objectID": "slides/discrim/index.html#statistical-discrimination-4",
     "href": "slides/discrim/index.html#statistical-discrimination-4",
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination\n\nThere are no underlying differences between males and females\n\nDifferences in wages arise because of differences in the quality of the signal\nFirms place more weight on average ability for female workers\nFirms place more weight on the actual signal for male workers\n\nAt low levels of the signal, women are paid more than men\nBut where does the assumption \\(\\alpha_m &gt; \\alpha_f\\) come from\n\nPossibly related to prejudicial attitudes of firms\nSome believe standardized tests favour males"
+    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nMale line is steeper because the signal is more reliable (\\(\\alpha_m &gt; \\alpha_f\\))\nFor test scores above average: men are paid more\nFor test scores below average: women are paid more\nAt the average: they are paid the same"
   },
   {
     "objectID": "slides/discrim/index.html#statistical-discrimination-5",
     "href": "slides/discrim/index.html#statistical-discrimination-5",
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination\n\nThere may also be differences in \\(\\bar{a}_m\\) and \\(\\bar{a}_f\\)\n\nPossibly due to pre-market discrimination leading to lower human capital among women\n\nIn this case, males are paid more at every signal level\nWage differences do not necessarily arise from overt discrimination\n\nThey may originate in differences in information signals\nBut it is difficult to explain why such differences in signal quality exist"
+    "text": "Statistical Discrimination\n\nThere are no underlying differences between males and females\n\nDifferences in wages arise because of differences in the quality of the signal\nFirms place more weight on average ability for female workers\nFirms place more weight on the actual signal for male workers\n\nBut where does the assumption \\(\\alpha_m &gt; \\alpha_f\\) come from?\n\nPossibly related to prejudicial attitudes of firms\nSome believe standardized tests favour males"
   },
   {
     "objectID": "slides/discrim/index.html#statistical-discrimination-6",
     "href": "slides/discrim/index.html#statistical-discrimination-6",
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph the quality of the signal is the same\nSlopes of the lines are the same\nBut there are differences in average productivity\n\nMale line lies above female line\n\nMen will be paid more because of the average difference"
+    "text": "Statistical Discrimination\n\nThere may also be differences in \\(\\bar{a}_m\\) and \\(\\bar{a}_f\\)\n\nPossibly due to pre-market discrimination leading to lower human capital among women\n\nIn this case, males are paid more at every signal level\nWage differences do not necessarily arise from overt discrimination\n\nThey may originate in differences in information signals or average productivity\nBut it is difficult to explain why such differences in signal quality exist"
   },
   {
     "objectID": "slides/discrim/index.html#supply-side-theories",
     "href": "slides/discrim/index.html#supply-side-theories",
     "title": "EC306 - Wages and Employment",
     "section": "Supply-Side Theories",
-    "text": "Supply-Side Theories\n\nWe discussed demand-side theories of discrimination\n\nFocused on employer behaviour\n\nDiscrimination may also arise on the labour supply side\n\nFactors that affect where women choose or are able to work"
+    "text": "Supply-Side Theories\n\nWe discussed demand-side theories — focused on employer behaviour\nDiscrimination may also arise on the labour supply side\n\nFactors that affect where women choose or are able to work"
   },
   {
     "objectID": "slides/discrim/index.html#crowding-hypothesis",
     "href": "slides/discrim/index.html#crowding-hypothesis",
     "title": "EC306 - Wages and Employment",
     "section": "Crowding Hypothesis",
-    "text": "Crowding Hypothesis\n\nOlder theory emphasizing that women are overrepresented in certain occupations\nThis pushes up their labour supply in those occupations\n\nWhich depresses wages relative to men\n\nDiscrimination comes from the supply side\n\nWomen are paid their marginal product\nBut are corralled into a small set of jobs, which depresses wages"
+    "text": "Crowding Hypothesis\n\n\n\n\n\n\nCrowding Hypothesis\n\n\nWomen are overrepresented in certain occupations, pushing up their labour supply in those occupations — which depresses wages relative to men\n\nWomen are paid their marginal product\nBut are corralled into a small set of jobs, which depresses wages"
   },
   {
     "objectID": "slides/discrim/index.html#dual-labour-market-theory",
     "href": "slides/discrim/index.html#dual-labour-market-theory",
     "title": "EC306 - Wages and Employment",
     "section": "Dual Labour Market Theory",
-    "text": "Dual Labour Market Theory\n\nSimilar in spirit to the crowding hypothesis\nTheory says there are two labour markets\n\nPrimary market\n\nHigh wages, good working conditions, opportunities for advancement\nUnionized, stable, expanding\n\nSecondary market\n\nLow wages, poor working conditions, little opportunity for advancement\nNon-unionized, highly competitive, declining\n\n\nTheory posits that women are concentrated in the secondary market\nPrejudice prevents women from entering primary market"
+    "text": "Dual Labour Market Theory\n\n\n\n\n\n\nDual Labour Market Theory\n\n\nThere are two distinct labour markets:\n\nPrimary market: high wages, good working conditions, opportunities for advancement; unionized, stable, expanding\nSecondary market: low wages, poor working conditions, little opportunity for advancement; non-unionized, highly competitive, declining\n\n\n\n\nTheory posits that women are concentrated in the secondary market — prejudice prevents women from entering the primary market"
   },
   {
     "objectID": "slides/discrim/index.html#lower-reservation-wages",
     "href": "slides/discrim/index.html#lower-reservation-wages",
     "title": "EC306 - Wages and Employment",
     "section": "Lower Reservation Wages",
-    "text": "Lower Reservation Wages\n\nOne theory is that female reservation wages are lower because\n\nCostly to search for non-discriminating employers\nJob search is limited by strong household ties\nAbility to negotiate higher pay limited by lower threat of leaving\n\nWith a lower reservation wage, women are more likely to be paid less\n\nContributes to pay gap\n\nSome evidence of this in empirical studies"
+    "text": "Lower Reservation Wages\nTheory: female reservation wages are lower because:\n\nCostly to search for non-discriminating employers\nJob search is limited by strong household ties\nAbility to negotiate higher pay limited by lower threat of leaving\n\n\n\n\n\n\n\nNote\n\n\nWith a lower reservation wage, women are more likely to be paid less — contributing to the pay gap\nSome empirical evidence supports this"
   },
   {
     "objectID": "slides/discrim/index.html#risk-aversion",
     "href": "slides/discrim/index.html#risk-aversion",
     "title": "EC306 - Wages and Employment",
     "section": "Risk Aversion",
-    "text": "Risk Aversion\n\nLarge literature documenting that women are less aggressive/competitive in bargaining\nAlso less confident in their abilities\nEvidence of this in many studies in economics and psychology\nMight mean women are less likely to compete for higher paying jobs"
+    "text": "Risk Aversion\n\nLarge literature documenting that women are less aggressive/competitive in bargaining\n\nAlso less confident in their abilities\nEvidence of this in many studies in economics and psychology\n\nMight mean women are less likely to compete for higher paying jobs"
   },
   {
     "objectID": "slides/discrim/index.html#differences-in-preferences",
     "href": "slides/discrim/index.html#differences-in-preferences",
     "title": "EC306 - Wages and Employment",
     "section": "Differences in Preferences",
-    "text": "Differences in Preferences\n\nMay be differences in preferences for\n\nEducation\nTraining\nHours\nWork conditions\nOccupation\n\nAll of these are correlated with pay\nIssue is that these choices are sometimes a product of discrimination\n\nSTEM fields are an example\nHistory of discrimination in this field may lead women not to choose it\n\nHard to separate out preferences from discrimination effects\nWe will cover this in more detail in a few slides"
+    "text": "Differences in Preferences\nMay be differences in preferences for education, training, hours, work conditions, occupation — all of these are correlated with pay\n\n\n\n\n\n\nThe Endogeneity Problem\n\n\nThese choices are sometimes a product of discrimination — so it is hard to separate preferences from discrimination effects\nExample: STEM fields pay well, but are male dominated — history of discrimination in this field may lead women not to choose it"
   },
   {
     "objectID": "slides/discrim/index.html#non-competitive-theories",
     "href": "slides/discrim/index.html#non-competitive-theories",
     "title": "EC306 - Wages and Employment",
     "section": "Non-Competitive Theories",
-    "text": "Non-Competitive Theories\n\nOne issue with the above theories is that they assume competitive markets\nMen and women are assumed to have equal productivity\nDiscriminating firms hire less women because of prejudice\nBut non-discriminating firms can hire more women at lower wages\n\nWould increase their profits\n\nNon-discriminating firms would bid up the wages of women\n\nShould close the gap"
+    "text": "Non-Competitive Theories\n\nOne issue with the above theories: they assume competitive markets\nMen and women are assumed to have equal productivity\nDiscriminating firms hire fewer women because of prejudice\nBut non-discriminating firms can hire more women at lower wages\n\nWould increase their profits\nNon-discriminating firms would bid up wages of women\nShould close the gap"
   },
   {
     "objectID": "slides/discrim/index.html#non-competitive-theories-1",
     "href": "slides/discrim/index.html#non-competitive-theories-1",
     "title": "EC306 - Wages and Employment",
     "section": "Non-Competitive Theories",
-    "text": "Non-Competitive Theories\n\nBut the gap continues to exist\nNon-competitive theories of discrimination try to explain this\nThe unifying theme is that markets are not perfectly competitive\n\nMay be monopsony power, imperfect information, search frictions, etc.\n\nThis can lead to persistent wage gaps"
+    "text": "Non-Competitive Theories\n\n\n\n\n\n\nWhy Does the Gap Persist?\n\n\nNon-competitive theories explain persistent wage gaps when markets are not perfectly competitive — due to monopsony power, imperfect information, search frictions, etc."
   },
   {
     "objectID": "slides/discrim/index.html#imperfect-information",
     "href": "slides/discrim/index.html#imperfect-information",
     "title": "EC306 - Wages and Employment",
     "section": "Imperfect Information",
-    "text": "Imperfect Information\n\nEven if firms know that they can increase profits by hiring more women, they might not be able to immediately change workforce\nHiring and recruiting are costly\n\nThere are search frictions\nQuasi-fixed costs\n\nFirms may be slow to adjust to profit opportunities\nThis can lead to persistent wage gaps\nBut does not explain why the gaps have persisted for so long"
+    "text": "Imperfect Information\n\nEven if firms know they can increase profits by hiring more women, they might not be able to immediately change their workforce\n\nHiring and recruiting are costly — search frictions, quasi-fixed costs\n\nFirms may be slow to adjust to profit opportunities\nThis can lead to persistent wage gaps\n\nBut does not explain why the gaps have persisted for so long"
   },
   {
     "objectID": "slides/discrim/index.html#queueing-theory",
     "href": "slides/discrim/index.html#queueing-theory",
     "title": "EC306 - Wages and Employment",
     "section": "Queueing Theory",
-    "text": "Queueing Theory\n\nSome firms pay efficiency wages\n\nWages above the market clearing level to increase productivity\n\nThis results in a queue of workers wanting to work at the firm\n\nDue to the higher wages\n\nWhile rationing jobs, firms may discriminate"
+    "text": "Queueing Theory\n\nSome firms pay efficiency wages\n\nWages above the market clearing level to increase productivity\n\nThis results in a queue of workers wanting to work at the firm\nWhile rationing jobs, firms may discriminate"
   },
   {
     "objectID": "slides/discrim/index.html#political-pressure",
     "href": "slides/discrim/index.html#political-pressure",
     "title": "EC306 - Wages and Employment",
     "section": "Political Pressure",
-    "text": "Political Pressure\n\nIt is sometimes the case that markets decisions are overriden by political pressures\nA male-centric government or union may\n\nHire more men in government jobs\nBe discriminatory with education and training\n\nThe political pressure could come from interest groups\n\nMay have a lot of money to lobby the government"
+    "text": "Political Pressure\n\nSometimes market decisions are overridden by political pressures\nA male-centric government or union may:\n\nHire more men in government jobs\nBe discriminatory with education and training\n\nThe political pressure could come from interest groups\n\nMay have significant resources to lobby the government"
   },
   {
     "objectID": "slides/discrim/index.html#monopsony-power",
     "href": "slides/discrim/index.html#monopsony-power",
     "title": "EC306 - Wages and Employment",
     "section": "Monopsony Power",
-    "text": "Monopsony Power\n\nMonopsony gives firms power to set wages\nMonopsonies may take advantage of relative immobility of women to lower their wages\n\nRecall they may have stronger ties to household\n\nThey may also try to pit men and women against each other\n\nCreate competition between the groups to lower wages"
+    "text": "Monopsony Power\n\nMonopsony gives firms power to set wages below competitive levels\nMonopsonies may take advantage of the relative immobility of women to lower their wages\n\nRecall women may have stronger ties to household\n\nThey may also try to pit men and women against each other\n\nCreate competition between the groups to lower wages"
   },
   {
     "objectID": "slides/discrim/index.html#systemic-discrimination",
     "href": "slides/discrim/index.html#systemic-discrimination",
     "title": "EC306 - Wages and Employment",
     "section": "Systemic Discrimination",
-    "text": "Systemic Discrimination\n\nIdea is that discrimination is embedded in social and economic systems\nHas been going on for so long, that it is now self-perpetuating\nCould come from\n\nExistence of “old boys” mentality\nOld job requirements that implicitly discriminate but continue to exist"
+    "text": "Systemic Discrimination\n\n\n\n\n\n\nSystemic Discrimination\n\n\nDiscrimination is embedded in social and economic systems — has been going on for so long that it is now self-perpetuating\nCould come from:\n\nExistence of “old boys” mentality\nOld job requirements that implicitly discriminate but continue to exist"
   },
   {
     "objectID": "slides/discrim/index.html#productivity-differences-1",
     "href": "slides/discrim/index.html#productivity-differences-1",
     "title": "EC306 - Wages and Employment",
     "section": "Productivity Differences",
-    "text": "Productivity Differences\n\nIt may be the case that men and women have productivity differences\n\nThis could determine pay differences even in competitive markets\n\nNote: not innate productivity differences\nDifferences coming from acquisision of human capital over time\n\nEducation\nTraining\nWork experience\n\nIf human capital investments are a choice, then pay differences are not discrimination\nBut it could be that choices are influenced by discrimination"
+    "text": "Productivity Differences\n\nIt may be the case that men and women have productivity differences\n\nThis could determine pay differences even in competitive markets\n\nNote: not innate productivity differences\nDifferences coming from acquisition of human capital over time:\n\nEducation\nTraining\nWork experience\n\nIf human capital investments are a choice, then pay differences are not discrimination\nBut it could be that choices are influenced by discrimination"
   },
   {
     "objectID": "slides/discrim/index.html#dual-role",
     "href": "slides/discrim/index.html#dual-role",
     "title": "EC306 - Wages and Employment",
     "section": "Dual Role",
-    "text": "Dual Role\n\nTraditionally women have more of a dual role than men\n\nBalance household and market work\n\nIf this continues to be true, then women\n\nHave less continuity in work (mainly from interruptions for children)\nAre more likely to have periods of paid work and labour force withdrawals\n\nThis leads to lower accumulation of human capital\n\nBecause there is less time to recoup the costs\n\nIn some sense this is a rational choice\n\nBut is rooted in a society that does not accommodate enough for working mothers"
+    "text": "Dual Role\n\nTraditionally women have more of a dual role than men — balancing household and market work\nIf this continues to be true, then women:\n\nHave less continuity in work (mainly from interruptions for children)\nAre more likely to have periods of paid work and labour force withdrawals\n\nThis leads to lower accumulation of human capital\n\nBecause there is less time to recoup the costs\n\nIn some sense this is a rational choice — but is rooted in a society that does not accommodate enough for working mothers"
   },
   {
     "objectID": "slides/discrim/index.html#pre-market-discrimination",
     "href": "slides/discrim/index.html#pre-market-discrimination",
     "title": "EC306 - Wages and Employment",
     "section": "Pre-Market Discrimination",
-    "text": "Pre-Market Discrimination\n\nDiscrimination may influence choices in\n\nEducation\nTraining\nCareer path\n\nThus what looks like a rational choice is itself affected by discrimination\n\nIn the literature this is called pre-market discrimination\n\nExample: STEM jobs\n\nPay well, but are male dominated\nWomen are discouraged from entering these fields\nThus do not have access to the higher pay that comes with these jobs"
+    "text": "Pre-Market Discrimination\n\n\n\n\n\n\nPre-Market Discrimination\n\n\nPre-market discrimination: discrimination that influences choices before workers even enter the labour market\n\nEducation\nTraining\nCareer path\n\nWhat looks like a rational choice is itself affected by discrimination\n\n\n\nExample: STEM jobs pay well but are male dominated — women are discouraged from entering these fields, and thus do not have access to the higher pay that comes with them"
   },
   {
     "objectID": "slides/discrim/index.html#introduction-1",
     "href": "slides/discrim/index.html#introduction-1",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nNow that we have discussed theories of discrimination, how do we measure it?\nDifficult because in most cases discrimination is not directly observable\n\nThere is not a “discrimination” variable in datasets\n\nCan design experiments to measure discrimination\n\nAudit studies\nField experiments\n\nBut in most cases we have to rely on observational data"
+    "text": "Introduction\n\nNow that we have discussed theories of discrimination, how do we measure it?\nDifficult because in most cases discrimination is not directly observable\n\nThere is no “discrimination” variable in datasets\n\nCan design experiments to measure discrimination:\n\nAudit studies\nField experiments\n\nBut in most cases we have to rely on observational data"
   },
   {
     "objectID": "slides/discrim/index.html#introduction-2",
     "href": "slides/discrim/index.html#introduction-2",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nMeasuring discrimination involves comparing people of equal productivity\n\nSo that any left over wage differences could be due to discrimination\n\nBut we do not observe productivity directly\nInstead, hold constant variables related to productivity\n\nEducation\nExperience\nOccupation\nIndustry\nHours worked\n\nThen decompose wage difference into part due to characteristics and part due to other factors"
+    "text": "Introduction\n\nMeasuring discrimination involves comparing people of equal productivity\n\nSo that any leftover wage differences could be due to discrimination\n\nBut we do not observe productivity directly\nInstead, hold constant variables related to productivity:\n\nEducation\nExperience\nOccupation\nIndustry\nHours worked\n\nThen decompose the wage difference into part due to characteristics and part due to other factors"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nMethod to decompose differences in average earnings between any two groups into\n\nPart due to differences in characteristics (explained)\nPart due to differences in returns to those characteristics (unexplained)\n\nSuppose we estimate a regression of log earnings on observed characteristics for men and women\nThe predicted value (which is also equal to the mean of log earnings) is\n\n\\[ \\ln(Y_m) =\\hat\\beta_m  \\bar{X}_m \\]\n\\[ \\ln(Y_f) =\\hat\\beta_f  \\bar{X}_f \\]"
+    "text": "Blinder-Oaxaca Decomposition\n\n\n\n\n\n\nBlinder-Oaxaca Decomposition\n\n\nMethod to decompose differences in average earnings between two groups into:\n\nExplained part: due to differences in characteristics (endowments)\nUnexplained part: due to differences in returns to those characteristics (potentially discrimination)\n\n\n\n\nSuppose we estimate a regression of log earnings on observed characteristics for men and women:\n\\[ \\ln(Y_m) =\\hat\\beta_m  \\bar{X}_m \\]\n\\[ \\ln(Y_f) =\\hat\\beta_f  \\bar{X}_f \\]"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-1",
@@ -3026,70 +3026,70 @@
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-2",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe second part is the unexplained part\n\nDue to differences in returns to characteristics\nHolds the average characteristics constant at \\(\\bar{X}_f\\) and looks at differences in slopes\nThe slopes are the returns to characteristics\n\nTraditionally, the unexplained part is interpreted as discrimination\n\nBut could also be due to unobserved productivity differences"
+    "text": "Blinder-Oaxaca Decomposition\nThe difference in average log earnings is:\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\hat\\beta_m  \\bar{X}_m - \\hat\\beta_f  \\bar{X}_f \\]\nAdd and subtract \\(\\hat\\beta_m  \\bar{X}_f\\):\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\underbrace{\\hat\\beta_m  (\\bar{X}_m - \\bar{X}_f)}_{\\text{explained}} + \\underbrace{\\bar{X}_f (\\hat\\beta_m - \\hat\\beta_f)}_{\\text{unexplained}} \\]\n\nExplained: holds slope constant at \\(\\hat\\beta_m\\), looks at differences in average \\(X\\)\nUnexplained: holds average characteristics constant at \\(\\bar{X}_f\\), looks at differences in slopes (returns)"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-3",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-3",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition"
+    "text": "Blinder-Oaxaca Decomposition\n\n\n\n\n\n\nWarning\n\n\nTraditionally, the unexplained part is interpreted as discrimination — but could also be due to unobserved productivity differences"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-4",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-4",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nHere is an example of how this works\nSuppose we have run the following regression separately for men and women\n\n\\[\n\\ln Y  = \\beta_0 + \\beta_1 \\text{Educ} + \\beta_2 \\text{Experience}\n\\]\n\nThe estimated coefficients are:\nMen: \\(\\beta^M = (\\beta_0^M, \\beta_1^M, \\beta_2^M) = (2.0,\\; 0.10,\\; 0.02)\\)\n\nWomen: \\(\\beta^F = (\\beta_0^F, \\beta_1^F, \\beta_2^F) = (1.8,\\; 0.08,\\; 0.015)\\)"
+    "text": "Blinder-Oaxaca Decomposition"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-5",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-5",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe mean of the observed characteristics are\nMen: \\(\\bar{\\text{Educ}}_M = 14\\), \\(\\bar{\\text{Exp}}_M = 15\\)\n\nWomen: \\(\\bar{\\text{Educ}}_F = 13\\), \\(\\bar{\\text{Exp}}_F = 12\\)\nThe average predicted log wage for men\n\n\\[\n\\bar{ln Y}_M\n= 2.0 + 0.10 \\cdot 14 + 0.02 \\cdot 15\n= 2.0 + 1.4 + 0.3\n= 3.7\n\\]"
+    "text": "Blinder-Oaxaca Decomposition\nSuppose we have run the following regression separately for men and women:\n\\[\\ln Y  = \\beta_0 + \\beta_1 \\text{Educ} + \\beta_2 \\text{Experience}\\]\nEstimated coefficients:\n\nMen: \\(\\beta^M = (2.0,\\; 0.10,\\; 0.02)\\)\nWomen: \\(\\beta^F = (1.8,\\; 0.08,\\; 0.015)\\)"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-6",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-6",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe average predicted log wage for women\n\n\\[\n\\bar{ln Y}_F\n= 1.8 + 0.08 \\cdot 13 + 0.015 \\cdot 12\n= 1.8 + 1.04 + 0.18\n= 3.02\n\\]\n\nThe wage gap us therefore\n\n\\[\n\\bar{ln Y}_M - \\bar{ln Y}_F = 3.70 - 3.02 = 0.68\n\\]\n\nThis says that the wage gap is about \\(0.68\\) log points\n\nRoughly a 68% higher wage for men"
+    "text": "Blinder-Oaxaca Decomposition\nMean observed characteristics:\n\nMen: \\(\\bar{\\text{Educ}}_M = 14\\), \\(\\bar{\\text{Exp}}_M = 15\\)\nWomen: \\(\\bar{\\text{Educ}}_F = 13\\), \\(\\bar{\\text{Exp}}_F = 12\\)\n\nAverage predicted log wage for men:\n\\[\\bar{\\ln Y}_M = 2.0 + 0.10 \\cdot 14 + 0.02 \\cdot 15 = 2.0 + 1.4 + 0.3 = 3.7\\]"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-7",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-7",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\nWe decompose:\n\\[\n\\bar{\\ln Y}_M - \\bar{\\ln Y}_F = \\text{Explained} + \\text{Unexplained}\n\\]\n\nExplained (due to characteristics) component is\n\n\\[\n\\text{Explained}\n= (\\bar{X}_M - \\bar{X}_F)\\beta^M\n\\]\n\nCompute differences in means:\nEducation: \\(14 - 13 = 1\\)\n\nExperience: \\(15 - 12 = 3\\)"
+    "text": "Blinder-Oaxaca Decomposition\nAverage predicted log wage for women:\n\\[\\bar{\\ln Y}_F = 1.8 + 0.08 \\cdot 13 + 0.015 \\cdot 12 = 1.8 + 1.04 + 0.18 = 3.02\\]\nThe wage gap is therefore:\n\\[\\bar{\\ln Y}_M - \\bar{\\ln Y}_F = 3.70 - 3.02 = 0.68\\]\nThis says that the wage gap is about 0.68 log points — roughly 68% higher wages for men"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-8",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-8",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThen:\n\n\\[\n\\text{Explained}\n= 1 \\cdot 0.10 + 3 \\cdot 0.02\n= 0.10 + 0.06\n= 0.16\n\\]\n-About \\(0.16\\) log points of the gap are due to men having more education and experience.\n-Unexplained (slopes) component is\n\\[\n\\text{Unexplained (slopes)}\n= \\bar{X}_F \\left(\\beta_M - \\beta_F\\right)\n\\]\n\nCoefficient differences:\nEducation: \\(0.10 - 0.08 = 0.02\\)\n\nExperience: \\(0.02 - 0.015 = 0.005\\)"
+    "text": "Blinder-Oaxaca Decomposition\nWe decompose: \\(\\bar{\\ln Y}_M - \\bar{\\ln Y}_F = \\text{Explained} + \\text{Unexplained}\\)\nExplained (due to characteristics):\n\\[\\text{Explained} = (\\bar{X}_M - \\bar{X}_F)\\beta^M\\]\nDifferences in means: Education: \\(14 - 13 = 1\\), Experience: \\(15 - 12 = 3\\)\n\\[\\text{Explained} = 1 \\cdot 0.10 + 3 \\cdot 0.02 = 0.10 + 0.06 = 0.16\\]\nAbout \\(0.16\\) log points of the gap are due to men having more education and experience."
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-9",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-9",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThen:\n\n\\[\n\\text{Unexplained (slopes)}\n= 13 \\cdot 0.02 + 12 \\cdot 0.005\n= 0.26 + 0.06\n= 0.32\n\\]\n\nIntercept difference:\n\n\\[\n\\beta_{0M} - \\beta_{0F} = 2.0 - 1.8 = 0.20\n\\]\n\nThis is also part of the unexplained component (baseline difference not due to \\(X\\)).\nTotal unexplained:\n\n\\[\n\\text{Unexplained (total)}\n= 0.32 + 0.20 = 0.52\n\\]"
+    "text": "Blinder-Oaxaca Decomposition\nUnexplained (returns to characteristics):\n\\[\\text{Unexplained (slopes)} = \\bar{X}_F \\left(\\beta_M - \\beta_F\\right)\\]\nCoefficient differences: Education: \\(0.10 - 0.08 = 0.02\\), Experience: \\(0.02 - 0.015 = 0.005\\)\n\\[\\text{Unexplained (slopes)} = 13 \\cdot 0.02 + 12 \\cdot 0.005 = 0.26 + 0.06 = 0.32\\]\nIntercept difference: \\(\\beta_{0M} - \\beta_{0F} = 2.0 - 1.8 = 0.20\\)\nTotal unexplained: \\(0.32 + 0.20 = 0.52\\)"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-10",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-10",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe decomposition is therefore:\n\n\\[\n0.68 = \\underbrace{0.16}_{\\text{explained}} + \\underbrace{0.52}_{\\text{unexplained}}\n\\]\n\nInterpretation:\nExplained: \\(0.16\\) (about \\(24\\%\\) of the gap)\n\nDue to men having higher average education and experience.\n\n\nUnexplained: \\(0.52\\) (about \\(76\\%\\) of the gap)\n\nDue to different returns to characteristics and intercept differences"
+    "text": "Blinder-Oaxaca Decomposition\n\n\n\n\n\n\nFinal Decomposition\n\n\n\\[0.68 = \\underbrace{0.16}_{\\text{explained (24\\%)}} + \\underbrace{0.52}_{\\text{unexplained (76\\%)}}\\]\n\nExplained (\\(0.16\\), ~24%): due to men having higher average education and experience\nUnexplained (\\(0.52\\), ~76%): due to different returns to characteristics and intercept differences"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-11",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-11",
     "title": "EC306 - Wages and Employment",
     "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nHere is an example using real data from Canada\n\nLabour Force Survey from September 2025\nRestricted to people aged 35-54\nHave wages \\(&gt;0\\)\n\nFirst examine some summary statistics\nThen do a regular regression\nFinish with decomposition"
+    "text": "Blinder-Oaxaca Decomposition\nHere is an example using real data from Canada:\n\nLabour Force Survey from September 2025\nRestricted to people aged 35–54 with wages &gt; 0\nFirst examine summary statistics, then run a regular regression, then the decomposition"
   },
   {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-12",
@@ -3138,7 +3138,7 @@
     "href": "slides/discrim/index.html#collider-bias",
     "title": "EC306 - Wages and Employment",
     "section": "Collider Bias",
-    "text": "Collider Bias\n\nSometimes researchers will control for variables in a regression to adjust the wage gap\n\nWhat is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.\n\nThe idea is to compare people who are the same on all relevant characteristics\n\nSo that any remaining difference is (possibly) due to discrimination\n\nWhen doing this, you run into a tricky issue called collider bias\n\nControlling for certain variables can actually create bias in estimates"
+    "text": "Collider Bias\n\nSometimes researchers control for variables in a regression to adjust the wage gap\n\nWhat is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.?\n\nThe idea is to compare people who are the same on all relevant characteristics\n\n\n\n\n\n\n\nCollider Bias\n\n\nCollider bias: controlling for certain variables (like occupation) can actually create bias in discrimination estimates if those variables are themselves outcomes of discrimination"
   },
   {
     "objectID": "slides/discrim/index.html#collider-bias-1",
@@ -3152,56 +3152,56 @@
     "href": "slides/discrim/index.html#collider-bias-2",
     "title": "EC306 - Wages and Employment",
     "section": "Collider Bias",
-    "text": "Collider Bias\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis happened at Google several years back\nThere was a complaint that women were being underpaid\nBut they did an analysis and found that men were underpaid\nWas a perfect example of collider bias\n\nThey looked within jobs\nWomen of very high ability were likely selected into those jobs\nTheir wages were higher because of that"
+    "text": "Collider Bias\nExample — the tech industry:\n\nMen and women have equal ability in the general population\nWomen face discrimination in tech, so to get the job they must have very high ability\nMen can enter even with moderate ability\nIf you look at the wage gap in tech jobs, it might appear to favour women\n\nIn the same occupation, women will have higher ability because they had to overcome discrimination\nComparing men and women within occupation creates ability bias"
   },
   {
     "objectID": "slides/discrim/index.html#collider-bias-3",
     "href": "slides/discrim/index.html#collider-bias-3",
     "title": "EC306 - Wages and Employment",
     "section": "Collider Bias",
-    "text": "Collider Bias\n\nHow to avoid collider bias?\nDo not add variables that are outcomes of discrimination to regression\n\nOccupation is often an outcome of discrimination\nIndustry may also be an outcome\n\nInstead include only predetermined characteristics\n\nThings that are not affected by discrimination\nIncludes mainly basic demographics, possibly education and exprience"
+    "text": "Collider Bias\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nThis happened at Google:\n\nThere was a complaint that women were being underpaid\nAn analysis found that men were underpaid\nA perfect example of collider bias\n\nThey looked within jobs\nWomen of very high ability were selected into those jobs\nTheir wages were higher because of that"
   },
   {
     "objectID": "slides/discrim/index.html#introduction-3",
     "href": "slides/discrim/index.html#introduction-3",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nThere has been significant statistical work on this issue\nWhy?\n\nIts importance\nAvailability of data\n\nWe will briefly review some of the evidence here\n\nA slightly greater focus on Canadian studies"
+    "text": "Introduction\n\nSignificant statistical work has been done on this issue\n\nWhy? Its importance and availability of data\n\nWe will briefly review some of the evidence here, with a focus on Canadian studies"
   },
   {
     "objectID": "slides/discrim/index.html#evidence",
     "href": "slides/discrim/index.html#evidence",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nAcross several studies, women in Canada earn about 60% of what men earn\nAfter controlling for characteristics, the gap shrinks to about 85%\nPay gap is smaller in the public sector\n\nPay practices are more egalitarian in the government\n\nGap has been falling over time\n\nMany factors could contribute to this\n\nInternationally, gaps are smaller with stronger bargaining structures\nGap is smaller the more competitive the industry"
+    "text": "Evidence\nKey findings:\n\nWomen in Canada earn about 60% of what men earn (unconditional gap)\nAfter controlling for characteristics, the gap shrinks to about 85%\nPay gap is smaller in the public sector — pay practices are more egalitarian in government\nGap has been falling over time — many factors could contribute\nInternationally, gaps are smaller with stronger bargaining structures\nGap is smaller the more competitive the industry"
   },
   {
     "objectID": "slides/discrim/index.html#evidence-1",
     "href": "slides/discrim/index.html#evidence-1",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nOccupational segregation does not explain a large part of the gap\n\nGap is explained more by industry rather than occupation\n\nWomen face career penalties from family responsibilities\nGlass ceilings are an observed phenomenon\n\nAt the top end of the pay distribution, gaps are larger\nLots of international evidence of differences in career advancement\n\nUnions have a higher impact on women than men\n\nOffset by the fact that women are less likely to be unionized"
+    "text": "Evidence\nAdditional findings:\n\nOccupational segregation does not explain a large part of the gap\n\nGap is explained more by industry than occupation\n\nWomen face career penalties from family responsibilities\nGlass ceilings are an observed phenomenon\n\nAt the top end of the pay distribution, gaps are larger\nLots of international evidence of differences in career advancement\n\nUnions have a higher impact on women than men\n\nOffset by the fact that women are less likely to be unionized"
   },
   {
     "objectID": "slides/discrim/index.html#evidence-2",
     "href": "slides/discrim/index.html#evidence-2",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence",
-    "text": "Evidence\n\nMixed evidence on job protected leave\n\nLeave is good because it protects jobs for women\nBut might make employers less likely to hire women in the first place\nEvidence shows it lowers wages for women in the U.S.\nIn Canada it increases job continuity\n\nSome evidence that gap grows with more work experience\n\nUpon initial entry, gap is small\nGrows over time"
+    "text": "Evidence\n\nMixed evidence on job-protected leave\n\nLeave is good because it protects jobs for women\nBut might make employers less likely to hire women in the first place\nEvidence shows it lowers wages for women in the U.S.\nIn Canada it increases job continuity\n\nSome evidence that gap grows with more work experience\n\nUpon initial entry, gap is small\nGrows over time"
   },
   {
     "objectID": "slides/discrim/index.html#introduction-4",
     "href": "slides/discrim/index.html#introduction-4",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nThe chapter is nominally about gender wage gaps\nBut the same techniques can be used to estimate gaps for other groups\nThis is usually done by race or ethnicity\n\nU.S. studies have focused in particular on racial discrimination\n\nWe will briefly cover this here"
+    "text": "Introduction\n\nThe same techniques used to analyze gender wage gaps can be used to estimate gaps for other groups\nThis is usually done by race or ethnicity\n\nU.S. studies have focused in particular on racial discrimination"
   },
   {
     "objectID": "slides/discrim/index.html#evidence-for-other-groups",
     "href": "slides/discrim/index.html#evidence-for-other-groups",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence for Other Groups",
-    "text": "Evidence for Other Groups\n\nIndigenous peoples in Canada face significant wage gaps\n\nAbout 85% of non-Indigenous wages off reserve\nShrinks after controlling for characteristics\n\nSome work on ethnic-white wage gaps in Canada\n\nComplicated by the fact that many non-white Canadians are also immigrants\nImmigration has its own independent effect on wages\nControlling for this, gaps are very high\nSummarized on next slide"
+    "text": "Evidence for Other Groups\nIndigenous peoples in Canada:\n\nAbout 85% of non-Indigenous wages off reserve\nShrinks after controlling for characteristics\n\nEthnic-white wage gaps in Canada:\n\nComplicated by the fact that many non-white Canadians are also immigrants\nImmigration has its own independent effect on wages\nControlling for this, gaps are very high — summarized on next slide"
   },
   {
     "objectID": "slides/discrim/index.html#evidence-for-other-groups-1",
@@ -3215,35 +3215,35 @@
     "href": "slides/discrim/index.html#evidence-for-other-groups-2",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence for Other Groups",
-    "text": "Evidence for Other Groups\n\nEvidence is different in the U.S.\nLarge literature on Black-white wage gaps\n\nAbout 68% of white wages\nShrinks when controlling for past test scores (as measure of pre-market productivity)\n\nDiscrimination also coming from pre-market factors\n\nLarge component of discrimination\n\nGaps favour Chinese and Southeast Asian workers\n\nNot the same in Canada"
+    "text": "Evidence for Other Groups\nEvidence in the U.S.:\n\nLarge literature on Black-white wage gaps — about 68% of white wages\n\nShrinks when controlling for past test scores (measure of pre-market productivity)\nPre-market discrimination also plays a large role\nLarge component of discrimination remains\n\nGaps favour Chinese and Southeast Asian workers — not the same in Canada"
   },
   {
     "objectID": "slides/discrim/index.html#introduction-5",
     "href": "slides/discrim/index.html#introduction-5",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nGender discrimination has been an issue for a long time\nSeveral policies are enacted to combat these\nSome examples:\n\nEqual pay\nEqual employment opportunity\nPolicies to facilitate female employment"
+    "text": "Introduction\n\nGender discrimination has been an issue for a long time\nSeveral policies are enacted to combat it:\n\nEqual pay\nEqual employment opportunity\nPolicies to facilitate female employment"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay",
     "href": "slides/discrim/index.html#equal-pay",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay",
-    "text": "Equal Pay\n\nEqual pay legislation takes two forms\n\nPay equity\nEqual pay for equal work\n\nPay equity requires that jobs which are substantially similar receive equal pay\n\nLooks at very similar jobs\nMinor differences are allowed\nIssue is that it deals with similar jobs in similar establishments\n\nDoes not address equity issues across jobs/industries"
+    "text": "Equal Pay\nPay equity: requires that jobs which are substantially similar receive equal pay\n\nLooks at very similar jobs; minor differences are allowed\nIssue: deals with similar jobs in similar establishments — does not address equity issues across jobs/industries\n\nEqual pay for equal work: broadens the scope\n\nAssigns points to jobs based on skill, effort, responsibility, working conditions\nJobs with similar points should receive similar pay\nCan apply to different occupations, but still in same firm/industry\nApplies only to jobs that are predominantly male or female (&gt;70%) — pay in female-dominated jobs adjusted to that of male-dominated jobs"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay-1",
     "href": "slides/discrim/index.html#equal-pay-1",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay",
-    "text": "Equal Pay\n\nEqual pay for equal work broadens the scope of pay equity\n\nAssigns points to jobs based on skill, effort, responsibility, working conditions\nJobs with similar points should receive similar pay\nCan apply to different occupations, but still in same firm/industry\nApplies only to jobs that are predominantly male or female (&gt;70 percent in one gender)\nPay in female dominated jobs adjusted to that of male dominated jobs"
+    "text": "Equal Pay\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nEqual pay for equal work example:\n\nPay plotted against point scores\nIn this example, male dominated jobs have generally higher pay\nSolutions could be:\n\nRaise female line to male line\nRaise female pay to male pay point-by-point for similar scores\nRaise female points to male line at each point value"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay-2",
     "href": "slides/discrim/index.html#equal-pay-2",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay",
-    "text": "Equal Pay\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEqual pay for equal work example to the left\nPay is plotted against point scores\nIn this example, male dominated jobs have generally higher pay\nSolutions could be\n\nRaise female line to male line\nRaise female pay to male pay point by point for similar scores\nRaise female points to male line at each point value"
+    "text": "Equal Pay\n\n\n\n\n\n\nNote\n\n\nEqual pay for equal work is based on administrative concept of value (points for skill, effort, responsibility, working conditions) — not based on economic (market) value\n\nThis is purposeful: market value reflects discrimination; administrative value tries to remove this"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay-3",
@@ -3257,56 +3257,56 @@
     "href": "slides/discrim/index.html#equal-employment-opportunity",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Employment Opportunity",
-    "text": "Equal Employment Opportunity\n\nAs the name suggests, equal pay focused on equalizing wages\nEqual opportunity focused on equalizing access to jobs\n\nBut by equalizing access, we also expect wages to equalize\n\nKey initiative is affirmative action (aka employment equity)"
+    "text": "Equal Employment Opportunity\n\nEqual pay focused on equalizing wages\nEqual employment opportunity focuses on equalizing access to jobs\n\nBut by equalizing access, we also expect wages to equalize\n\nKey initiative is affirmative action (aka employment equity)"
   },
   {
     "objectID": "slides/discrim/index.html#equal-employment-opportunity-1",
     "href": "slides/discrim/index.html#equal-employment-opportunity-1",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Employment Opportunity",
-    "text": "Equal Employment Opportunity\n\nAffirmative action is the most salient equal employment policy\nGenerally involves preferential treatment for minority groups\n\nIdea is to overcome past and current discrimination\nDesigned to be used temporarily to restore balance\n\nNot as rigid in Canada as in the U.S.\n\nApplies only to federal workforce, about 10% of jobs\nApplies to four targeted groups: women, visible minorities, disabled persons, indigenous peoples\n\nContinues to be very controversial"
+    "text": "Equal Employment Opportunity\n\n\n\n\n\n\nAffirmative Action\n\n\nGenerally involves preferential treatment for minority groups\n\nIntended to overcome past and current discrimination\nDesigned to be used temporarily to restore balance\n\nIn Canada:\n\nApplies only to federal workforce (~10% of jobs)\nApplies to four targeted groups: women, visible minorities, disabled persons, indigenous peoples\nContinues to be very controversial"
   },
   {
     "objectID": "slides/discrim/index.html#facilitating-policies",
     "href": "slides/discrim/index.html#facilitating-policies",
     "title": "EC306 - Wages and Employment",
     "section": "Facilitating Policies",
-    "text": "Facilitating Policies\n\nFinally, there are policies that can help facilitate women in the workforce\nExamples include\n\nParental leave\nChild care subsidies\nFlexible work arrangements\n\nCanada has done well on the first two\n\nExpansion of child care subsidies recently is a good example"
+    "text": "Facilitating Policies\nFinally, there are policies that can help facilitate women in the workforce:\n\nParental leave\nChild care subsidies\nFlexible work arrangements\n\nCanada has done well on the first two — expansion of child care subsidies recently is a good example"
   },
   {
     "objectID": "slides/discrim/index.html#facilitating-policies-1",
     "href": "slides/discrim/index.html#facilitating-policies-1",
     "title": "EC306 - Wages and Employment",
     "section": "Facilitating Policies",
-    "text": "Facilitating Policies\n\nSome consider expanding unionization to be a facilitating policy\n\nUnions bargain for greater pay, working conditions\nExpanding this to cover more women would help\nMay also help generate more power for women to argue for other types of legislation we discussed\n\nFinally, removing pay secrecy has the ability to help\n\nIf employees know what others are paid, they can better negotiate\nPay secrecy tends to hide discrimination\nSome jurisdictions have passed laws banning pay secrecy"
+    "text": "Facilitating Policies\n\nSome consider expanding unionization to be a facilitating policy\n\nUnions bargain for greater pay and working conditions\nExpanding this to cover more women would help\nMay also generate more power for women to argue for other types of legislation\n\nRemoving pay secrecy can also help\n\nIf employees know what others are paid, they can better negotiate\nPay secrecy tends to hide discrimination\nSome jurisdictions have passed laws banning pay secrecy"
   },
   {
     "objectID": "slides/discrim/index.html#preference-and-attitudes",
     "href": "slides/discrim/index.html#preference-and-attitudes",
     "title": "EC306 - Wages and Employment",
     "section": "Preference and Attitudes",
-    "text": "Preference and Attitudes\n\nWe saw that discrimination in part is due to preferences and attitudes\n\nTaste based discrimination is one example\n\nCould use public policy to try to change these attitudes\n\nPublic awareness campaigns\nEducation programs\n\nNot clear how well this works"
+    "text": "Preference and Attitudes\n\nWe saw that discrimination in part is due to preferences and attitudes\n\nTaste-based discrimination is one example\n\nCould use public policy to try to change these attitudes:\n\nPublic awareness campaigns\nEducation programs\n\nNot clear how well this works"
   },
   {
     "objectID": "slides/discrim/index.html#introduction-6",
     "href": "slides/discrim/index.html#introduction-6",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nWe have outlined briefly the different anti-discrimination policies\nHow effective are these policies?\nRelatively straighforward to analyze statistically\n\nUse Program Evaluation techniques\nData generally available"
+    "text": "Introduction\n\nWe have outlined the different anti-discrimination policies\nHow effective are these policies?\nRelatively straightforward to analyze statistically\n\nUse Program Evaluation techniques\nData generally available"
   },
   {
     "objectID": "slides/discrim/index.html#pay-equity",
     "href": "slides/discrim/index.html#pay-equity",
     "title": "EC306 - Wages and Employment",
     "section": "Pay Equity",
-    "text": "Pay Equity\n\nGenerally these are ineffective in closing gender gap\nSome evidence of an impact in the UK\nIn U.S., pay equity difficult to disentangle from other civil rights legislation\n\nEffects are inconclusive"
+    "text": "Pay Equity\n\n\n\n\n\n\nPay Equity Effectiveness\n\n\n\nGenerally ineffective in closing the gender gap\nSome evidence of an impact in the UK\nIn the U.S., pay equity is difficult to disentangle from other civil rights legislation — effects are inconclusive"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay-for-equal-work",
     "href": "slides/discrim/index.html#equal-pay-for-equal-work",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay for Equal Work",
-    "text": "Equal Pay for Equal Work\n\nAnalyzed mostly in the public sector\nRecall that the legislation is limited in scope\n\nMale/female dominated jobs in same firm/industry\n\nPolicy shown to closes about one-third of the gender gap in public sector\n\nLimited evidence in private sector"
+    "text": "Equal Pay for Equal Work\n\nAnalyzed mostly in the public sector\nRecall the legislation is limited in scope\n\nMale/female dominated jobs in same firm/industry\n\nPolicy shown to close about one-third of the gender gap in the public sector\n\nLimited evidence in the private sector"
   },
   {
     "objectID": "slides/discrim/index.html#affirmative-action",
@@ -3320,14 +3320,14 @@
     "href": "slides/discrim/index.html#facilitating-policies-2",
     "title": "EC306 - Wages and Employment",
     "section": "Facilitating Policies",
-    "text": "Facilitating Policies\n\nParental leave policies help create job continuity\nSubsidized child care increases female labour force participation\n\nGood evidence from Quebec\n\nPay transparency reduces the gender gap by about 30% in academia\n\nUsing evidence from “sunshine list” in Ontario\n\n“Tenure clock stopping” policies reduce tenure rates for women\n\nUnintended consequence is men are able to increase productivity\n\nBanning asking about past criminal history hurt employment of Black men\n\nIncreased use of discrimination"
+    "text": "Facilitating Policies\n\n\n\n\n\n\nEvidence on Facilitating Policies\n\n\n\nParental leave policies help create job continuity\nSubsidized child care increases female labour force participation — good evidence from Quebec\nPay transparency reduces the gender gap by about 30% in academia — using evidence from the “sunshine list” in Ontario\n“Tenure clock stopping” policies reduce tenure rates for women — unintended consequence: men can increase productivity\nBanning criminal history questions hurt employment of Black men — increased use of discrimination"
   },
   {
     "objectID": "slides/discrim/index.html#summary-1",
     "href": "slides/discrim/index.html#summary-1",
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
-    "text": "Summary\n\nDiscrimination can arise from tastes, statistical discrimination, supply-side factors, and non-competitive markets\nMeasuring discrimination is difficult because productivity is not observed\n\nBlinder-Oaxaca decomposition is a common method\n\nCollider bias is a potential issue when controlling for certain variables\nThere are a number of initiatives to reduce discrimination\n\nMixed evidence on their effectiveness"
+    "text": "Summary\n\nDiscrimination can arise from tastes (Becker), statistical discrimination, supply-side factors, and non-competitive markets\nMeasuring discrimination is difficult because productivity is not observed\n\nBlinder-Oaxaca decomposition is a common method\n\nCollider bias is a potential issue when controlling for variables that are themselves outcomes of discrimination\nThere are a number of initiatives to reduce discrimination\n\nMixed evidence on their effectiveness"
   },
   {
     "objectID": "slides/intro/index.html#goals-of-this-section-1",
@@ -4840,5 +4840,40 @@
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
     "text": "Summary\nFertility decisions are affected by:\nIncome, prices, tastes, and technology\nRetirement decisions are affected by:\nAge, wealth, health, family, and pensions"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#monopoly-3",
+    "href": "slides/lmarket/index.html#monopoly-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Monopoly",
+    "text": "Monopoly\n\n\n\n\n\n\nWarning\n\n\nMonopolists raise the price of their product above the competitive level, which decreases output — so they demand fewer workers than a competitive firm in the same market\n\n\n\n\nNote that power in the product market does not mean power in the labour market\n\nThe firm is still one of many hiring workers in a particular labour market"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#ability-bias-5",
+    "href": "slides/hcapital/index.html#ability-bias-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Ability Bias",
+    "text": "Ability Bias\n\n\n\n\n\n\nThe Bias Formula\n\n\n\\[\\tilde{\\beta}_s = \\underbrace{\\beta_1}_{\\text{true return}} + \\underbrace{\\beta_2 \\alpha_1}_{\\text{ability bias}}\\]\nThe ability bias \\(\\beta_2 \\alpha_1\\) depends on:\n\n\\(\\beta_2\\): the earnings return to ability\n\\(\\alpha_1\\): the relationship between ability and schooling\n\nIf both are positive → ability bias is positive → OLS overestimates the return to schooling"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-7",
+    "href": "slides/discrim/index.html#statistical-discrimination-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph the quality of the signal is the same (equal slopes)\nBut there are differences in average productivity\n\nMale line lies above female line\n\nMen will be paid more because of the average difference"
+  },
+  {
+    "objectID": "slides/discrim/index.html#collider-bias-4",
+    "href": "slides/discrim/index.html#collider-bias-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Collider Bias",
+    "text": "Collider Bias\nHow to avoid collider bias:\n\n\n\n\n\n\nBest Practice\n\n\nDo not add variables that are outcomes of discrimination to the regression\n\nOccupation is often an outcome of discrimination\nIndustry may also be an outcome\n\nInstead include only predetermined characteristics: things that are not affected by discrimination — mainly basic demographics, possibly education and experience"
+  },
+  {
+    "objectID": "slides/discrim/index.html#affirmative-action-1",
+    "href": "slides/discrim/index.html#affirmative-action-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Affirmative Action",
+    "text": "Affirmative Action\n\nAffirmative action is most prominent in the U.S.\nSeveral studies have examined its effect:\n\nEvidence that it helped employment opportunities of Black men\n\nWere the main targets of the legislation in earlier years\n\nIn later years, helped both Black men and women\n\nTargets were expanded in later years"
   }
 ]
