@@ -153,6 +153,8 @@ Monopolists raise the price of their product above the competitive level, which 
 - Each firm has significant market power
 - But must consider reactions of competitors when setting prices
 
+## Monopolistic Competition and Oligopoly
+
 ::: {.callout-note}
 In both cases, demand for labour is based on marginal revenue product — which is less than VMP — so firms hire fewer workers than in competitive markets
 :::

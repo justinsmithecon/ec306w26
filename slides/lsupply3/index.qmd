@@ -594,6 +594,10 @@ We explicitly account for substituting time between various uses:
   - [Substitution effect:]{.fg style="color: #5cb85c;"} less home production, more processed food
   - [Income effect:]{.fg style="color: #f0ad4e;"} higher wage → higher income → more consumption of all goods
 
+## Comparative Statics
+
+[Increase in wage rate $W$ (continued):]{.fg style="color: #c7254e;"}
+
 - Effect on rest is same as before
   - [Substitution effect:]{.fg style="color: #5cb85c;"} less rest, more work
   - [Income effect:]{.fg style="color: #f0ad4e;"} higher income → more rest
@@ -691,7 +695,7 @@ Income is positively related to the number of children — higher income → hig
 - [Direct costs:]{.fg style="color: #5cb85c;"} food, clothing, housework, etc.
 - [Opportunity costs:]{.fg style="color: #f0ad4e;"} time spent caring for children could be spent working for pay
 
-
+## Variables Affecting Fertility - Price of Children
 
 [A higher price (wage rate) creates income and substitution effects:]{.fg style="color: #2780e3;"}
 
@@ -758,7 +762,7 @@ An increase in the price of a complementary good reduces demand. Higher price of
 - [Medical care:]{.fg style="color: #5cb85c;"} reduces infant mortality, so fewer children needed to ensure some survive
 - [Home technology:]{.fg style="color: #5cb85c;"} reduces time cost of childcare, so lower opportunity cost of children
 
-
+## Variables Affecting Fertility - Technology
 
 ::: {.callout-tip}
 Higher technology in any of these areas tends to increase demand for children
@@ -854,7 +858,7 @@ Can also think of this in a lifecycle model
 - Health of family members can also play a role
 - Might operate through non-labour income or preferences
 
-
+## Determinants of Retirement - Other
 
 [Changing nature of work:]{.fg style="color: #2780e3;"}
 
@@ -902,7 +906,7 @@ Public and private pension plans determine most income in retirement
 - Can start receiving as early as age 60 (reduced) or as late as age 70 (increased)
 - Based on average earnings over working life, up to a maximum limit
 
-
+## Retirement Income
 
 [3. Employer Pension Plans]{.fg style="color: #2780e3;"}
 

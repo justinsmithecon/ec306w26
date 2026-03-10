@@ -417,7 +417,14 @@
     "href": "slides/lsupply2/index.html#evidence-quebecs-5day-program",
     "title": "EC306 - Wages and Employment",
     "section": "Evidence: Quebec’s $5/Day Program",
-    "text": "Evidence: Quebec’s $5/Day Program\n\n\nProgram details:\n\nImplemented in 2000\nCurrently sliding scale: $8.25 to $21.45\n\n\nResearch design:\n\nDifference-in-differences approach\nCompared Quebec mothers to mothers in other provinces\nOther provinces = control group\n\n\n\n\n\n\n\n\nKey Finding\n\n\nLabour force participation of mothers with young children ↑ 7.7 percentage points\n\n\n\n\n\n\n\n\n\nWarning\n\n\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
+    "text": "Evidence: Quebec’s $5/Day Program\n\n\nProgram details:\n\nImplemented in 2000\nCurrently sliding scale: $8.25 to $21.45\n\n\nResearch design:\n\nDifference-in-differences approach\nCompared Quebec mothers to mothers in other provinces\nOther provinces = control group\n\n\n\n\n\n\n\n\nKey Finding\n\n\nLabour force participation of mothers with young children ↑ 7.7 percentage points"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#evidence-quebecs-5day-program-1",
+    "href": "slides/lsupply2/index.html#evidence-quebecs-5day-program-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence: Quebec’s $5/Day Program",
+    "text": "Evidence: Quebec’s $5/Day Program\n\n\n\n\n\n\nWarning\n\n\nUnfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life"
   },
   {
     "objectID": "slides/lsupply2/index.html#evidence-visual-summary",
@@ -875,13 +882,6 @@
     "text": "Monopoly\n\n\n\n\n\n\nMonopoly\n\n\nMonopoly: a single seller with market power — the ability to set prices above marginal cost\n\n\n\n\nFor a monopolist, the labour demand curve is where wage equals marginal revenue product: \\[w = MR \\times MPP_N\\]\nFor a monopolist, marginal revenue is less than price\n\nBecause to sell more, they have to lower price on all units sold\nSo marginal revenue product is less than value of marginal product (\\(VMP\\))"
   },
   {
-    "objectID": "slides/lmarket/index.html#monopoly-1",
-    "href": "slides/lmarket/index.html#monopoly-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Monopoly",
-    "text": "Monopoly"
-  },
-  {
     "objectID": "slides/lmarket/index.html#monopoly-2",
     "href": "slides/lmarket/index.html#monopoly-2",
     "title": "EC306 - Wages and Employment",
@@ -889,11 +889,25 @@
     "text": "Monopoly"
   },
   {
+    "objectID": "slides/lmarket/index.html#monopoly-3",
+    "href": "slides/lmarket/index.html#monopoly-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Monopoly",
+    "text": "Monopoly\n\n\n\n\n\n\nWarning\n\n\nMonopolists raise the price of their product above the competitive level, which decreases output — so they demand fewer workers than a competitive firm in the same market\n\n\n\n\nNote that power in the product market does not mean power in the labour market\n\nThe firm is still one of many hiring workers in a particular labour market"
+  },
+  {
     "objectID": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly",
     "href": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly",
     "title": "EC306 - Wages and Employment",
     "section": "Monopolistic Competition and Oligopoly",
-    "text": "Monopolistic Competition and Oligopoly\n\nMany markets are neither perfectly competitive nor pure monopoly\n\nMonopolistic competition:\n\nMany firms selling differentiated products\nEach firm has some market power because of product differentiation\nCan set prices above marginal cost\n\nOligopoly:\n\nA few firms dominate the market\nEach firm has significant market power\nBut must consider reactions of competitors when setting prices\n\n\n\n\n\n\n\nNote\n\n\nIn both cases, demand for labour is based on marginal revenue product — which is less than VMP — so firms hire fewer workers than in competitive markets"
+    "text": "Monopolistic Competition and Oligopoly\n\nMany markets are neither perfectly competitive nor pure monopoly\n\nMonopolistic competition:\n\nMany firms selling differentiated products\nEach firm has some market power because of product differentiation\nCan set prices above marginal cost\n\nOligopoly:\n\nA few firms dominate the market\nEach firm has significant market power\nBut must consider reactions of competitors when setting prices"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly-1",
+    "href": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Monopolistic Competition and Oligopoly",
+    "text": "Monopolistic Competition and Oligopoly\n\n\n\n\n\n\nNote\n\n\nIn both cases, demand for labour is based on marginal revenue product — which is less than VMP — so firms hire fewer workers than in competitive markets"
   },
   {
     "objectID": "slides/lmarket/index.html#additional-details",
@@ -1001,13 +1015,6 @@
     "text": "Introduction\n\n\n\n\n\n\nMonopsony\n\n\nMonopsony: a single buyer with market power in the labour market\n\nContrast with monopoly: single seller with market power in the goods market\n\n\n\n\nSome examples of monopsony in the labour market:\n\nCompany/factory towns\nHospital labour markets\nUniversity professor labour markets\nPublic sector in small areas\n\nIn all cases, there is a large buyer of labour — giving the buyer power to set wages, affecting both wages and employment"
   },
   {
-    "objectID": "slides/lmarket/index.html#introduction-5",
-    "href": "slides/lmarket/index.html#introduction-5",
-    "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\n\n\n\n\n\n\nMinimum Wage\n\n\nA minimum wage sets a legal floor on wages that employers must pay workers\n\nIntended to raise wages of low-wage workers, reduce poverty, increase standard of living\n\n\n\n\n\nStandard economic theory predicts that minimum wages lead to unemployment\n\nBecause they set a wage above the equilibrium wage\nQuantity of labour supplied exceeds quantity demanded\n\nBut statistical evidence is much more mixed"
-  },
-  {
     "objectID": "slides/lmarket/index.html#simple-monopsony",
     "href": "slides/lmarket/index.html#simple-monopsony",
     "title": "EC306 - Wages and Employment",
@@ -1071,11 +1078,11 @@
     "text": "Evidence of Monopsonies\nPro sports:\n\nBaseball: free agency increased wages significantly — increases competition among teams\nHockey: not much evidence of monopsony power\n\nAcademia and nursing:\n\nSome evidence of monopsony power\nIn Canada, a bargaining model may be more appropriate given these labour markets are unionized\n\n\n\n\n\n\n\nNote\n\n\nSome academics argue that monopsonies are relatively common — firms can set wages only if they have some market power, and evidence suggests this is widespread"
   },
   {
-    "objectID": "slides/lmarket/index.html#introduction-6",
-    "href": "slides/lmarket/index.html#introduction-6",
+    "objectID": "slides/lmarket/index.html#introduction-5",
+    "href": "slides/lmarket/index.html#introduction-5",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nMinimum wages are a common policy tool\n\nSet a legal minimum wage that employers must pay workers\n\nIntended to raise wages of low-wage workers\n\nReduce poverty\nIncrease standard of living\n\nStandard economic theory predicts that minimum wages lead to unemployment\n\nBecause they set a wage above the equilibrium wage\nQuantity of labour supplied exceeds quantity demanded\n\nBut statistical evidence is much more mixed"
+    "text": "Introduction\n\n\n\n\n\n\nMinimum Wage\n\n\nA minimum wage sets a legal floor on wages that employers must pay workers\n\nIntended to raise wages of low-wage workers, reduce poverty, increase standard of living\n\n\n\n\n\nStandard economic theory predicts that minimum wages lead to unemployment\n\nBecause they set a wage above the equilibrium wage\nQuantity of labour supplied exceeds quantity demanded\n\nBut statistical evidence is much more mixed"
   },
   {
     "objectID": "slides/lmarket/index.html#minimum-wages-by-province",
@@ -1369,25 +1376,32 @@
     "href": "slides/ldemand1/index.html#cost-minimization-math-4",
     "title": "EC306 - Wages and Employment",
     "section": "Cost Minimization – Math",
-    "text": "Cost Minimization – Math\nUse \\(\\dfrac{K}{N}=\\dfrac{\\alpha w}{\\beta r}\\) to get \\(N^*\\):\n\\[N^*(y;w,r)=\\frac{\\beta r}{\\alpha w}\\,K^* =y^{\\frac{1}{\\alpha+\\beta}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]\nThe cost function:\n\\[C(w,r,y)= r K^*(y;w,r) + w N^*(y;w,r) = \\phi(w,r)\\, y^{\\frac{1}{\\alpha+\\beta}}\\]\nWhere:\n\\[\\phi(w,r) = r \\left( \\frac{\\alpha w}{\\beta r} \\right)^{\\frac{\\beta}{\\alpha+\\beta}} + w \\left( \\frac{\\alpha w}{\\beta r} \\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]"
+    "text": "Cost Minimization – Math\nUse \\(\\dfrac{K}{N}=\\dfrac{\\alpha w}{\\beta r}\\) to get \\(N^*\\):\n\\[N^*(y;w,r)=\\frac{\\beta r}{\\alpha w}\\,K^* =y^{\\frac{1}{\\alpha+\\beta}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]\nThe cost function:\n\\[C(w,r,y)= r K^*(y;w,r) + w N^*(y;w,r) = \\phi(w,r)\\, y^{\\frac{1}{\\alpha+\\beta}}\\]"
   },
   {
     "objectID": "slides/ldemand1/index.html#cost-minimization-math-5",
     "href": "slides/ldemand1/index.html#cost-minimization-math-5",
     "title": "EC306 - Wages and Employment",
     "section": "Cost Minimization – Math",
-    "text": "Cost Minimization – Math\nStage 2: choosing output level to maximize profit\nSuppose firm is a price taker in product market with price \\(p\\)\nProfit:\n\\[\\pi(y)= py - C(y;w,r) = py - \\phi(w,r)\\, y^{\\frac{1}{\\alpha+\\beta}}\\]\nOptimize profit with respect to \\(y\\):\n\\[\\frac{d\\pi}{dy}=p-\n\\phi(w,r) \\cdot \\frac{1}{\\alpha+\\beta}\n\\cdot y^{\\frac{1}{\\alpha+\\beta} - 1}\\]\nOptimal output level (set \\(\\frac{d\\pi}{dy}=0\\)):\n\\[y^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{\\alpha+\\beta}{1-(\\alpha+\\beta)}}\\]"
+    "text": "Cost Minimization – Math\nWhere:\n\\[\\phi(w,r) = r \\left( \\frac{\\alpha w}{\\beta r} \\right)^{\\frac{\\beta}{\\alpha+\\beta}} + w \\left( \\frac{\\alpha w}{\\beta r} \\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]"
   },
   {
     "objectID": "slides/ldemand1/index.html#cost-minimization-math-6",
     "href": "slides/ldemand1/index.html#cost-minimization-math-6",
     "title": "EC306 - Wages and Employment",
     "section": "Cost Minimization – Math",
-    "text": "Cost Minimization – Math\nYou can then plug in to get optimal inputs:\n\\[K^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{1}{1-(\\alpha+\\beta)}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{\\frac{\\beta}{\\alpha+\\beta}}\\]\n\\[N^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{1}{1-(\\alpha+\\beta)}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]"
+    "text": "Cost Minimization – Math\nStage 2: choosing output level to maximize profit\nSuppose firm is a price taker in product market with price \\(p\\)\nProfit:\n\\[\\pi(y)= py - C(y;w,r) = py - \\phi(w,r)\\, y^{\\frac{1}{\\alpha+\\beta}}\\]\nOptimize profit with respect to \\(y\\):\n\\[\\frac{d\\pi}{dy}=p-\n\\phi(w,r) \\cdot \\frac{1}{\\alpha+\\beta}\n\\cdot y^{\\frac{1}{\\alpha+\\beta} - 1}\\]\nOptimal output level (set \\(\\frac{d\\pi}{dy}=0\\)):\n\\[y^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{\\alpha+\\beta}{1-(\\alpha+\\beta)}}\\]"
   },
   {
     "objectID": "slides/ldemand1/index.html#cost-minimization-math-7",
     "href": "slides/ldemand1/index.html#cost-minimization-math-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\nYou can then plug in to get optimal inputs:\n\\[K^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{1}{1-(\\alpha+\\beta)}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{\\frac{\\beta}{\\alpha+\\beta}}\\]\n\\[N^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{1}{1-(\\alpha+\\beta)}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-8",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-8",
     "title": "EC306 - Wages and Employment",
     "section": "Cost Minimization – Math",
     "text": "Cost Minimization – Math\n\n\n\n\n\n\nDon’t Get Bogged Down\n\n\nI will not ask you to recreate this derivation on exams\n\n\n\nKey points:\n\nFirst minimize cost → optimal inputs as function of output and input prices\n\nAs you vary any of those three things, the inputs change\n\nGiven cost function, choose output to maximize profit\n\nOutput depends on product price and input prices\nChanges in input prices change both optimal inputs and output level"
@@ -1890,13 +1904,6 @@
     "text": "Ability Bias\n\n\n\n\n\n\nAbility Bias\n\n\nAbility bias: higher-ability people choose more schooling but would earn higher wages even without schooling\n\nOLS estimate reflects both the return to schooling and the return to ability\nAbility bias is thought to be positive → OLS overestimates the return to schooling"
   },
   {
-    "objectID": "slides/hcapital/index.html#ability-bias-1",
-    "href": "slides/hcapital/index.html#ability-bias-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Ability Bias",
-    "text": "Ability Bias\n\nSuppose the true earnings equation is\n\n\\[\n\\ln Y = \\beta_{0} + \\beta_1 schl + \\beta_2 abil + \\epsilon\n\\]\n\n\\(s\\): schooling\n\n\\(a\\): ability\n\n\\(\\epsilon\\): other factors with \\(E[\\epsilon \\mid s, a] = 0\\)\nAssume schooling increases with ability through a linear relationship\n\n\\[\nabil = \\alpha_0 + \\alpha_1 schl + v\n\\]\nwith \\(v\\) uncorrelated with \\(a\\)"
-  },
-  {
     "objectID": "slides/hcapital/index.html#ability-bias-2",
     "href": "slides/hcapital/index.html#ability-bias-2",
     "title": "EC306 - Wages and Employment",
@@ -1916,6 +1923,13 @@
     "title": "EC306 - Wages and Employment",
     "section": "Ability Bias",
     "text": "Ability Bias\nPlug \\(\\ln Y = \\beta_1 schl + \\beta_2 abil + \\epsilon\\) into the formula for \\(\\tilde{\\beta}_s\\):\n\\[\\tilde{\\beta}_s = \\frac{Cov(\\beta_{0} + \\beta_1 schl + \\beta_2 abil + \\epsilon, schl)}{Var(schl)}\\]\nBecause \\(\\beta_0\\) is constant and \\(\\epsilon\\) is uncorrelated with \\(schl\\):\n\\[\\tilde{\\beta}_s = \\frac{\\beta_1 Var(schl) + \\beta_2 Cov(abil, schl)}{Var(schl)} = \\beta_1 + \\beta_2 \\alpha_1\\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#ability-bias-5",
+    "href": "slides/hcapital/index.html#ability-bias-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Ability Bias",
+    "text": "Ability Bias\n\n\n\n\n\n\nThe Bias Formula\n\n\n\\[\\tilde{\\beta}_s = \\underbrace{\\beta_1}_{\\text{true return}} + \\underbrace{\\beta_2 \\alpha_1}_{\\text{ability bias}}\\]\nThe ability bias \\(\\beta_2 \\alpha_1\\) depends on:\n\n\\(\\beta_2\\): the earnings return to ability\n\\(\\alpha_1\\): the relationship between ability and schooling\n\nIf both are positive → ability bias is positive → OLS overestimates the return to schooling"
   },
   {
     "objectID": "slides/hcapital/index.html#addressing-ability-bias",
@@ -2090,7 +2104,14 @@
     "href": "slides/hcapital/index.html#summary-1",
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
-    "text": "Summary\n\nEducation is an investment in human capital — increases productivity and earnings potential\nThe Human Capital model explains schooling decisions based on costs and benefits\n\nPeople invest in schooling until marginal benefit equals marginal cost\n\nThe Signalling model emphasizes education as a signal of ability\n\nEducation reveals productivity to employers rather than creating it\n\nEmpirical estimates of returns to schooling are around 7–10% per year\n\nAbility bias may lead to overestimation; twin and IV studies correct for this\n\nJob training is another important way to develop human capital\n\nGeneral training funded by workers; specific training funded by firms; often shared"
+    "text": "Summary\n\nEducation is an investment in human capital — increases productivity and earnings potential\nThe Human Capital model explains schooling decisions based on costs and benefits\n\nPeople invest in schooling until marginal benefit equals marginal cost\n\nThe Signalling model emphasizes education as a signal of ability\n\nEducation reveals productivity to employers rather than creating it"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#summary-2",
+    "href": "slides/hcapital/index.html#summary-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\n\nEmpirical estimates of returns to schooling are around 7–10% per year\n\nAbility bias may lead to overestimation; twin and IV studies correct for this\n\nJob training is another important way to develop human capital\n\nGeneral training funded by workers; specific training funded by firms; often shared"
   },
   {
     "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
@@ -2215,28 +2236,48 @@
     "href": "content/lmarket.html",
     "title": "Wages and Employment in a Single Labour Market",
     "section": "",
-    "text": "BGLRS Chapter 7"
+    "text": "BGLRS Chapter 7",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
   },
   {
     "objectID": "content/lmarket.html#readings",
     "href": "content/lmarket.html#readings",
     "title": "Wages and Employment in a Single Labour Market",
     "section": "",
-    "text": "BGLRS Chapter 7"
+    "text": "BGLRS Chapter 7",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
   },
   {
     "objectID": "content/lmarket.html#slides",
     "href": "content/lmarket.html#slides",
     "title": "Wages and Employment in a Single Labour Market",
     "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF."
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
   },
   {
     "objectID": "content/lmarket.html#sample-questions",
     "href": "content/lmarket.html#sample-questions",
     "title": "Wages and Employment in a Single Labour Market",
     "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here."
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
   },
   {
     "objectID": "content/ldemand1.html",
@@ -2767,7 +2808,14 @@
     "href": "slides/discrim/index.html#male-and-female-earnings-4",
     "title": "EC306 - Wages and Employment",
     "section": "Male and Female Earnings",
-    "text": "Male and Female Earnings\nIn this section, we explore economic theories of discrimination:\n\nCan come from employers, customers, co-workers\nCan be statistical or taste-based\n\nEstimating discrimination empirically is difficult:\n\nNeed to control for all relevant characteristics\nNeed to separate differences in characteristics from differences in returns\n\nMethods that can help:\n\nOaxaca-Blinder decomposition\nAudit studies\nField experiments"
+    "text": "Male and Female Earnings\nIn this section, we explore economic theories of discrimination:\n\nCan come from employers, customers, co-workers\nCan be statistical or taste-based\n\nEstimating discrimination empirically is difficult:\n\nNeed to control for all relevant characteristics\nNeed to separate differences in characteristics from differences in returns"
+  },
+  {
+    "objectID": "slides/discrim/index.html#male-and-female-earnings-5",
+    "href": "slides/discrim/index.html#male-and-female-earnings-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Male and Female Earnings",
+    "text": "Male and Female Earnings\nMethods that can help:\n\nOaxaca-Blinder decomposition\nAudit studies\nField experiments"
   },
   {
     "objectID": "slides/discrim/index.html#demand-side-theories",
@@ -2819,13 +2867,6 @@
     "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf the supply of female labour is small enough, they can work at non-discriminating firms\n\nWage ratio is 1\n\nWith a larger supply, some will have to work at discriminating firms\n\nWage ratio falls below 1\nThis is where the demand curve slopes downwards\nWage gap emerges"
   },
   {
-    "objectID": "slides/discrim/index.html#taste-based-discrimination-6",
-    "href": "slides/discrim/index.html#taste-based-discrimination-6",
-    "title": "EC306 - Wages and Employment",
-    "section": "Taste-Based Discrimination",
-    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf the supply of female labour is small enough, they can work at non-discriminating firms\n\nWage ratio is 1\n\nWith a larger supply, some will have to work at discriminating firms\n\nWage ratio falls below 1\nThis is where the demand curve slopes downwards\nWage gap emerges"
-  },
-  {
     "objectID": "slides/discrim/index.html#statistical-discrimination",
     "href": "slides/discrim/index.html#statistical-discrimination",
     "title": "EC306 - Wages and Employment",
@@ -2833,8 +2874,8 @@
     "text": "Statistical Discrimination\n\n\n\n\n\n\nStatistical Discrimination\n\n\nStatistical discrimination: firms use group characteristics to infer individual productivity\n\nArises because of imperfect information — employers do not know individual worker productivity perfectly\nInstead they use signals to infer worker quality\nIf one group has lower average productivity (or a noisier signal), firms may pay them less on average\n\n\n\n\n\nContrast with taste-based discrimination, which relies on employers having overt prejudice"
   },
   {
-    "objectID": "slides/discrim/index.html#statistical-discrimination-1",
-    "href": "slides/discrim/index.html#statistical-discrimination-1",
+    "objectID": "slides/discrim/index.html#statistical-discrimination-2",
+    "href": "slides/discrim/index.html#statistical-discrimination-2",
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
     "text": "Statistical Discrimination"
@@ -2845,13 +2886,6 @@
     "title": "EC306 - Wages and Employment",
     "section": "Theory",
     "text": "Theory\nAssume that the abilities of male and female workers are distributed with means \\(\\bar{a}_{m}\\) and \\(\\bar{a}_{f}\\). The firm has access to a signal of ability \\(x\\) for each person. Expected ability is:\n\\[a(x) = \\bar{a} + \\alpha (x - \\bar{a})\\]\nWhere \\(\\alpha\\) is the reliability of the signal:\n\nIf \\(\\alpha = 0\\): the signal provides no information beyond the average\nIf \\(\\alpha = 1\\): the signal is perfectly informative\n\nWorkers are paid a wage equal to their marginal revenue product"
-  },
-  {
-    "objectID": "slides/discrim/index.html#statistical-discrimination-2",
-    "href": "slides/discrim/index.html#statistical-discrimination-2",
-    "title": "EC306 - Wages and Employment",
-    "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination"
   },
   {
     "objectID": "slides/discrim/index.html#statistical-discrimination-3",
@@ -2880,6 +2914,13 @@
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
     "text": "Statistical Discrimination\n\nThere may also be differences in \\(\\bar{a}_m\\) and \\(\\bar{a}_f\\)\n\nPossibly due to pre-market discrimination leading to lower human capital among women\n\nIn this case, males are paid more at every signal level\nWage differences do not necessarily arise from overt discrimination\n\nThey may originate in differences in information signals or average productivity\nBut it is difficult to explain why such differences in signal quality exist"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-7",
+    "href": "slides/discrim/index.html#statistical-discrimination-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph the quality of the signal is the same (equal slopes)\nBut there are differences in average productivity\n\nMale line lies above female line\n\nMen will be paid more because of the average difference"
   },
   {
     "objectID": "slides/discrim/index.html#supply-side-theories",
@@ -3015,13 +3056,6 @@
     "text": "Blinder-Oaxaca Decomposition\n\n\n\n\n\n\nBlinder-Oaxaca Decomposition\n\n\nMethod to decompose differences in average earnings between two groups into:\n\nExplained part: due to differences in characteristics (endowments)\nUnexplained part: due to differences in returns to those characteristics (potentially discrimination)\n\n\n\n\nSuppose we estimate a regression of log earnings on observed characteristics for men and women:\n\\[ \\ln(Y_m) =\\hat\\beta_m  \\bar{X}_m \\]\n\\[ \\ln(Y_f) =\\hat\\beta_f  \\bar{X}_f \\]"
   },
   {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-1",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe difference in average log earnings is\n\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\hat\\beta_m  \\bar{X}_m - \\hat\\beta_f  \\bar{X}_f \\]\n\nWe can add and subtract \\(\\hat\\beta_m  \\bar{X}_f\\) to get\n\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\hat\\beta_m  (\\bar{X}_m - \\bar{X}_f) + \\bar{X}_f (\\hat\\beta_m - \\hat\\beta_f) \\]\n\nDoing this allows us to separate the difference into two parts\nThe first part is the explained part\n\nDue to differences in characteristics\nHolds the slope constant at \\(\\hat\\beta_m\\) and looks at differences in average \\(X\\)"
-  },
-  {
     "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-2",
     "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-2",
     "title": "EC306 - Wages and Employment",
@@ -3141,13 +3175,6 @@
     "text": "Collider Bias\n\nSometimes researchers control for variables in a regression to adjust the wage gap\n\nWhat is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.?\n\nThe idea is to compare people who are the same on all relevant characteristics\n\n\n\n\n\n\n\nCollider Bias\n\n\nCollider bias: controlling for certain variables (like occupation) can actually create bias in discrimination estimates if those variables are themselves outcomes of discrimination"
   },
   {
-    "objectID": "slides/discrim/index.html#collider-bias-1",
-    "href": "slides/discrim/index.html#collider-bias-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Collider Bias",
-    "text": "Collider Bias\n\nEasiest to understand with an example\nSuppose we examine the tech industry\n\nMen and women have equal ability in the general population\nAbility is positively related to wages\nWomen face discrimination in tech, so to get the job they must have very high ability\nMen can enter even with moderate ability\n\nIf you look at the wage gap in tech jobs, it might appear to favour women\n\nIn the same occupation, women will have higher ability because they had to overcome discrimination\nSo comparing men and women within occupation creates ability bias"
-  },
-  {
     "objectID": "slides/discrim/index.html#collider-bias-2",
     "href": "slides/discrim/index.html#collider-bias-2",
     "title": "EC306 - Wages and Employment",
@@ -3160,6 +3187,13 @@
     "title": "EC306 - Wages and Employment",
     "section": "Collider Bias",
     "text": "Collider Bias\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nThis happened at Google:\n\nThere was a complaint that women were being underpaid\nAn analysis found that men were underpaid\nA perfect example of collider bias\n\nThey looked within jobs\nWomen of very high ability were selected into those jobs\nTheir wages were higher because of that"
+  },
+  {
+    "objectID": "slides/discrim/index.html#collider-bias-4",
+    "href": "slides/discrim/index.html#collider-bias-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Collider Bias",
+    "text": "Collider Bias\nHow to avoid collider bias:\n\n\n\n\n\n\nBest Practice\n\n\nDo not add variables that are outcomes of discrimination to the regression\n\nOccupation is often an outcome of discrimination\nIndustry may also be an outcome\n\nInstead include only predetermined characteristics: things that are not affected by discrimination — mainly basic demographics, possibly education and experience"
   },
   {
     "objectID": "slides/discrim/index.html#introduction-3",
@@ -3229,28 +3263,28 @@
     "href": "slides/discrim/index.html#equal-pay",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay",
-    "text": "Equal Pay\nPay equity: requires that jobs which are substantially similar receive equal pay\n\nLooks at very similar jobs; minor differences are allowed\nIssue: deals with similar jobs in similar establishments — does not address equity issues across jobs/industries\n\nEqual pay for equal work: broadens the scope\n\nAssigns points to jobs based on skill, effort, responsibility, working conditions\nJobs with similar points should receive similar pay\nCan apply to different occupations, but still in same firm/industry\nApplies only to jobs that are predominantly male or female (&gt;70%) — pay in female-dominated jobs adjusted to that of male-dominated jobs"
+    "text": "Equal Pay\nPay equity: requires that jobs which are substantially similar receive equal pay\n\nLooks at very similar jobs; minor differences are allowed\nIssue: deals with similar jobs in similar establishments — does not address equity issues across jobs/industries\n\nEqual pay for equal work: broadens the scope\n\nAssigns points to jobs based on skill, effort, responsibility, working conditions\nJobs with similar points should receive similar pay\nCan apply to different occupations, but still in same firm/industry"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay-1",
     "href": "slides/discrim/index.html#equal-pay-1",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay",
-    "text": "Equal Pay\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nEqual pay for equal work example:\n\nPay plotted against point scores\nIn this example, male dominated jobs have generally higher pay\nSolutions could be:\n\nRaise female line to male line\nRaise female pay to male pay point-by-point for similar scores\nRaise female points to male line at each point value"
+    "text": "Equal Pay\n\nApplies only to jobs that are predominantly male or female (&gt;70%) — pay in female-dominated jobs adjusted to that of male-dominated jobs"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay-2",
     "href": "slides/discrim/index.html#equal-pay-2",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay",
-    "text": "Equal Pay\n\n\n\n\n\n\nNote\n\n\nEqual pay for equal work is based on administrative concept of value (points for skill, effort, responsibility, working conditions) — not based on economic (market) value\n\nThis is purposeful: market value reflects discrimination; administrative value tries to remove this"
+    "text": "Equal Pay\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nEqual pay for equal work example:\n\nPay plotted against point scores\nIn this example, male dominated jobs have generally higher pay\nSolutions could be:\n\nRaise female line to male line\nRaise female pay to male pay point-by-point for similar scores\nRaise female points to male line at each point value"
   },
   {
     "objectID": "slides/discrim/index.html#equal-pay-3",
     "href": "slides/discrim/index.html#equal-pay-3",
     "title": "EC306 - Wages and Employment",
     "section": "Equal Pay",
-    "text": "Equal Pay\n\nWorth noting that equal pay for equal work is based on administrative concept of value\n\nPoints assigned for skill, effort, responsibility, working conditions\n\nIt is not based on economic (market) value\n\nJobs may be worth different amounts in the market\n\nThis is purposeful\n\nMarket value reflects discrimination\nAdministrative value tries to remove this"
+    "text": "Equal Pay\n\n\n\n\n\n\nNote\n\n\nEqual pay for equal work is based on administrative concept of value (points for skill, effort, responsibility, working conditions) — not based on economic (market) value\n\nThis is purposeful: market value reflects discrimination; administrative value tries to remove this"
   },
   {
     "objectID": "slides/discrim/index.html#equal-employment-opportunity",
@@ -3309,11 +3343,11 @@
     "text": "Equal Pay for Equal Work\n\nAnalyzed mostly in the public sector\nRecall the legislation is limited in scope\n\nMale/female dominated jobs in same firm/industry\n\nPolicy shown to close about one-third of the gender gap in the public sector\n\nLimited evidence in the private sector"
   },
   {
-    "objectID": "slides/discrim/index.html#affirmative-action",
-    "href": "slides/discrim/index.html#affirmative-action",
+    "objectID": "slides/discrim/index.html#affirmative-action-1",
+    "href": "slides/discrim/index.html#affirmative-action-1",
     "title": "EC306 - Wages and Employment",
     "section": "Affirmative Action",
-    "text": "Affirmative Action\n\nAffirmative action is most prominent in the U.S.\nSeveral studies have examined its effect\nEvidence that it helped employment opportunities of Black men\n\nWere the main targets of the legislation in earlier years\n\nIn later years, helped both Black men and women\n\nTargets were explanded in later years"
+    "text": "Affirmative Action\n\nAffirmative action is most prominent in the U.S.\nSeveral studies have examined its effect:\n\nEvidence that it helped employment opportunities of Black men\n\nWere the main targets of the legislation in earlier years\n\nIn later years, helped both Black men and women\n\nTargets were expanded in later years"
   },
   {
     "objectID": "slides/discrim/index.html#facilitating-policies-2",
@@ -4678,18 +4712,25 @@
     "href": "slides/lsupply3/index.html#comparative-statics",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
-    "text": "Comparative Statics\nWhat happens when we start changing some of the prices?\nIncrease in wage rate \\(W\\):\n\nCost of time affects both rest and production of raw food\nHigher wage makes home production more expensive\n\nTime spent cooking becomes more expensive\nSubstitute away from home production to processed food\nSubstitution effect: less home production, more processed food\nIncome effect: higher wage → higher income → more consumption of all goods\n\nEffect on rest is same as before\n\nSubstitution effect: less rest, more work\nIncome effect: higher income → more rest"
+    "text": "Comparative Statics\nWhat happens when we start changing some of the prices?\nIncrease in wage rate \\(W\\):\n\nCost of time affects both rest and production of raw food\nHigher wage makes home production more expensive\n\nTime spent cooking becomes more expensive\nSubstitute away from home production to processed food\nSubstitution effect: less home production, more processed food\nIncome effect: higher wage → higher income → more consumption of all goods"
   },
   {
     "objectID": "slides/lsupply3/index.html#comparative-statics-1",
     "href": "slides/lsupply3/index.html#comparative-statics-1",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
-    "text": "Comparative Statics\nDecrease in price of processed food \\(P_c\\):\n\nProcessed food becomes cheaper relative to other goods\nSubstitution effect: more processed food, less home production\nIncome effect: lower price → higher real income → more consumption of all goods\n\nDecrease in price of raw food \\(P_r\\):\n\nRaw food becomes relatively cheaper\nSubstitution effect: more raw food, less processed food\nIncome effect: lower price → higher real income → more consumption of all goods"
+    "text": "Comparative Statics\nIncrease in wage rate \\(W\\) (continued):\n\nEffect on rest is same as before\n\nSubstitution effect: less rest, more work\nIncome effect: higher income → more rest"
   },
   {
     "objectID": "slides/lsupply3/index.html#comparative-statics-2",
     "href": "slides/lsupply3/index.html#comparative-statics-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Comparative Statics",
+    "text": "Comparative Statics\nDecrease in price of processed food \\(P_c\\):\n\nProcessed food becomes cheaper relative to other goods\nSubstitution effect: more processed food, less home production\nIncome effect: lower price → higher real income → more consumption of all goods\n\nDecrease in price of raw food \\(P_r\\):\n\nRaw food becomes relatively cheaper\nSubstitution effect: more raw food, less processed food\nIncome effect: lower price → higher real income → more consumption of all goods"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#comparative-statics-3",
+    "href": "slides/lsupply3/index.html#comparative-statics-3",
     "title": "EC306 - Wages and Employment",
     "section": "Comparative Statics",
     "text": "Comparative Statics\nDecrease in time required to prepare raw food \\(d\\):\n\nExample: technology that reduces cooking time (e.g. Instant Pot)\nHome production becomes relatively cheaper (through lower time cost)\n\nEffects:\n\nSubstitution effect: more raw food, less processed food\nAdditional substitution effect: higher real wage (keep more of their wage) → less rest, more work\nIncome effect: lower time cost → higher real income → more consumption of all goods"
@@ -4720,7 +4761,14 @@
     "href": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-children",
     "title": "EC306 - Wages and Employment",
     "section": "Variables Affecting Fertility - Price of Children",
-    "text": "Variables Affecting Fertility - Price of Children\nLike goods, the demand curve for children slopes down\n\nHigher “price” of children → fewer children are chosen\n\nPrice of children includes:\n\nDirect costs: food, clothing, housework, etc.\nOpportunity costs: time spent caring for children could be spent working for pay\n\nA higher price (wage rate) creates income and substitution effects:\n\nIncome effect: higher price → higher lifetime income → more children\nSubstitution effect: higher price → time with children more expensive → fewer children\n\n\n\n\n\n\n\nNote\n\n\nEffect is theoretically ambiguous, but empirically substitution effect dominates"
+    "text": "Variables Affecting Fertility - Price of Children\nLike goods, the demand curve for children slopes down\n\nHigher “price” of children → fewer children are chosen\n\nPrice of children includes:\n\nDirect costs: food, clothing, housework, etc.\nOpportunity costs: time spent caring for children could be spent working for pay"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-children-1",
+    "href": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-children-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Variables Affecting Fertility - Price of Children",
+    "text": "Variables Affecting Fertility - Price of Children\nA higher price (wage rate) creates income and substitution effects:\n\nIncome effect: higher price → higher lifetime income → more children\nSubstitution effect: higher price → time with children more expensive → fewer children\n\n\n\n\n\n\n\nNote\n\n\nEffect is theoretically ambiguous, but empirically substitution effect dominates"
   },
   {
     "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-related-goods",
@@ -4741,7 +4789,14 @@
     "href": "slides/lsupply3/index.html#variables-affecting-fertility---technology",
     "title": "EC306 - Wages and Employment",
     "section": "Variables Affecting Fertility - Technology",
-    "text": "Variables Affecting Fertility - Technology\nTechnology in this case could mean several things:\n\nCould refer to the “production” of children\nMight also relate to the goods and services used with children (e.g. home automation, disposable diapers)\n\nKey developments in the last few decades:\n\nBirth control: allows people to better plan timing and number of children\nFertility treatments: allows some people to have children who otherwise could not\nMedical care: reduces infant mortality, so fewer children needed to ensure some survive\nHome technology: reduces time cost of childcare, so lower opportunity cost of children\n\n\n\n\n\n\n\nTip\n\n\nHigher technology in any of these areas tends to increase demand for children"
+    "text": "Variables Affecting Fertility - Technology\nTechnology in this case could mean several things:\n\nCould refer to the “production” of children\nMight also relate to the goods and services used with children (e.g. home automation, disposable diapers)\n\nKey developments in the last few decades:\n\nBirth control: allows people to better plan timing and number of children\nFertility treatments: allows some people to have children who otherwise could not\nMedical care: reduces infant mortality, so fewer children needed to ensure some survive\nHome technology: reduces time cost of childcare, so lower opportunity cost of children"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---technology-1",
+    "href": "slides/lsupply3/index.html#variables-affecting-fertility---technology-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Variables Affecting Fertility - Technology",
+    "text": "Variables Affecting Fertility - Technology\n\n\n\n\n\n\nTip\n\n\nHigher technology in any of these areas tends to increase demand for children"
   },
   {
     "objectID": "slides/lsupply3/index.html#empirical-evidence",
@@ -4776,11 +4831,18 @@
     "href": "slides/lsupply3/index.html#determinants-of-retirement---other",
     "title": "EC306 - Wages and Employment",
     "section": "Determinants of Retirement - Other",
-    "text": "Determinants of Retirement - Other\nHealth is an important determinant:\n\nPoor health can force people to retire early\nGood health can allow people to work longer\nHealth of family members can also play a role\nMight operate through non-labour income or preferences\n\nChanging nature of work:\n\nMove towards less physically demanding jobs can prolong work life\nMore flexible work arrangements can allow people to work longer\nAlternatively, more stressful jobs can lead to earlier retirement\nAutomation might force early retirement\nCould affect the budget constraint or preferences"
+    "text": "Determinants of Retirement - Other\nHealth is an important determinant:\n\nPoor health can force people to retire early\nGood health can allow people to work longer\nHealth of family members can also play a role\nMight operate through non-labour income or preferences"
   },
   {
     "objectID": "slides/lsupply3/index.html#determinants-of-retirement---other-1",
     "href": "slides/lsupply3/index.html#determinants-of-retirement---other-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Determinants of Retirement - Other",
+    "text": "Determinants of Retirement - Other\nChanging nature of work:\n\nMove towards less physically demanding jobs can prolong work life\nMore flexible work arrangements can allow people to work longer\nAlternatively, more stressful jobs can lead to earlier retirement\nAutomation might force early retirement\nCould affect the budget constraint or preferences"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#determinants-of-retirement---other-2",
+    "href": "slides/lsupply3/index.html#determinants-of-retirement---other-2",
     "title": "EC306 - Wages and Employment",
     "section": "Determinants of Retirement - Other",
     "text": "Determinants of Retirement - Other\nChanging nature of family:\n\nMany more two-earner families now\n\nCan lead to earlier retirement for one spouse\nOr could prolong work if spouses want to work together longer\n\nChildren living at home for longer can affect retirement timing\nIncrease in caring for elderly parents can lead to earlier or later retirement\nMight affect budget constraint or preferences"
@@ -4797,7 +4859,14 @@
     "href": "slides/lsupply3/index.html#retirement-income-1",
     "title": "EC306 - Wages and Employment",
     "section": "Retirement Income",
-    "text": "Retirement Income\n2. Canada/Quebec Pension Plan (CPP/QPP)\n\nEarnings-related pension available to those who have contributed\nFunded by contributions from employees, employers, and self-employed\nMonthly max is $1,433 in 2025 (age 65)\nCan start receiving as early as age 60 (reduced) or as late as age 70 (increased)\nBased on average earnings over working life, up to a maximum limit\n\n3. Employer Pension Plans\n\nMany employers offer pension plans to employees\nCan be defined benefit or defined contribution plans\nVary widely in terms of benefits and eligibility\nIncludes private savings from RRSPs"
+    "text": "Retirement Income\n2. Canada/Quebec Pension Plan (CPP/QPP)\n\nEarnings-related pension available to those who have contributed\nFunded by contributions from employees, employers, and self-employed\nMonthly max is $1,433 in 2025 (age 65)\nCan start receiving as early as age 60 (reduced) or as late as age 70 (increased)\nBased on average earnings over working life, up to a maximum limit"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#retirement-income-2",
+    "href": "slides/lsupply3/index.html#retirement-income-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Retirement Income",
+    "text": "Retirement Income\n3. Employer Pension Plans\n\nMany employers offer pension plans to employees\nCan be defined benefit or defined contribution plans\nVary widely in terms of benefits and eligibility\nIncludes private savings from RRSPs"
   },
   {
     "objectID": "slides/lsupply3/index.html#old-age-security",
@@ -4840,40 +4909,5 @@
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
     "text": "Summary\nFertility decisions are affected by:\nIncome, prices, tastes, and technology\nRetirement decisions are affected by:\nAge, wealth, health, family, and pensions"
-  },
-  {
-    "objectID": "slides/lmarket/index.html#monopoly-3",
-    "href": "slides/lmarket/index.html#monopoly-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "Monopoly",
-    "text": "Monopoly\n\n\n\n\n\n\nWarning\n\n\nMonopolists raise the price of their product above the competitive level, which decreases output — so they demand fewer workers than a competitive firm in the same market\n\n\n\n\nNote that power in the product market does not mean power in the labour market\n\nThe firm is still one of many hiring workers in a particular labour market"
-  },
-  {
-    "objectID": "slides/hcapital/index.html#ability-bias-5",
-    "href": "slides/hcapital/index.html#ability-bias-5",
-    "title": "EC306 - Wages and Employment",
-    "section": "Ability Bias",
-    "text": "Ability Bias\n\n\n\n\n\n\nThe Bias Formula\n\n\n\\[\\tilde{\\beta}_s = \\underbrace{\\beta_1}_{\\text{true return}} + \\underbrace{\\beta_2 \\alpha_1}_{\\text{ability bias}}\\]\nThe ability bias \\(\\beta_2 \\alpha_1\\) depends on:\n\n\\(\\beta_2\\): the earnings return to ability\n\\(\\alpha_1\\): the relationship between ability and schooling\n\nIf both are positive → ability bias is positive → OLS overestimates the return to schooling"
-  },
-  {
-    "objectID": "slides/discrim/index.html#statistical-discrimination-7",
-    "href": "slides/discrim/index.html#statistical-discrimination-7",
-    "title": "EC306 - Wages and Employment",
-    "section": "Statistical Discrimination",
-    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph the quality of the signal is the same (equal slopes)\nBut there are differences in average productivity\n\nMale line lies above female line\n\nMen will be paid more because of the average difference"
-  },
-  {
-    "objectID": "slides/discrim/index.html#collider-bias-4",
-    "href": "slides/discrim/index.html#collider-bias-4",
-    "title": "EC306 - Wages and Employment",
-    "section": "Collider Bias",
-    "text": "Collider Bias\nHow to avoid collider bias:\n\n\n\n\n\n\nBest Practice\n\n\nDo not add variables that are outcomes of discrimination to the regression\n\nOccupation is often an outcome of discrimination\nIndustry may also be an outcome\n\nInstead include only predetermined characteristics: things that are not affected by discrimination — mainly basic demographics, possibly education and experience"
-  },
-  {
-    "objectID": "slides/discrim/index.html#affirmative-action-1",
-    "href": "slides/discrim/index.html#affirmative-action-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Affirmative Action",
-    "text": "Affirmative Action\n\nAffirmative action is most prominent in the U.S.\nSeveral studies have examined its effect:\n\nEvidence that it helped employment opportunities of Black men\n\nWere the main targets of the legislation in earlier years\n\nIn later years, helped both Black men and women\n\nTargets were expanded in later years"
   }
 ]

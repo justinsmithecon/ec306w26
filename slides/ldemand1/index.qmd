@@ -462,6 +462,8 @@ The cost function:
 
 $$C(w,r,y)= r K^*(y;w,r) + w N^*(y;w,r) = \phi(w,r)\, y^{\frac{1}{\alpha+\beta}}$$
 
+## Cost Minimization – Math
+
 Where:
 
 $$\phi(w,r) = r \left( \frac{\alpha w}{\beta r} \right)^{\frac{\beta}{\alpha+\beta}} + w \left( \frac{\alpha w}{\beta r} \right)^{-\frac{\alpha}{\alpha+\beta}}$$

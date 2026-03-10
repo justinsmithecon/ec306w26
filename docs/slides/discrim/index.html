@@ -209,6 +209,9 @@ Winter 2026
 <li>Need to control for all relevant characteristics</li>
 <li>Need to separate differences in characteristics from differences in returns</li>
 </ul>
+</section>
+<section id="male-and-female-earnings-5" class="slide level2">
+<h2>Male and Female Earnings</h2>
 <p>Methods that can help:</p>
 <ul>
 <li><span class="fg" style="color: #2780e3;">Oaxaca-Blinder decomposition</span></li>
@@ -1001,8 +1004,8 @@ Winter 2026
 
     <script>
 
-      function styleCell_wontsg76knv2xetw26of(i, j, css_id) {
-          var table = document.getElementById("tinytable_wontsg76knv2xetw26of");
+      function styleCell_oygc4bbt3a52tp27pv6f(i, j, css_id) {
+          var table = document.getElementById("tinytable_oygc4bbt3a52tp27pv6f");
           var cell = table.rows[i]?.cells[j];  // Safe navigation to avoid errors
           if (cell) {
               console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
@@ -1012,7 +1015,7 @@ Winter 2026
           }
       }
       function insertSpanRow(i, colspan, content) {
-        var table = document.getElementById('tinytable_wontsg76knv2xetw26of');
+        var table = document.getElementById('tinytable_oygc4bbt3a52tp27pv6f');
         var newRow = table.insertRow(i);
         var newCell = newRow.insertCell(0);
         newCell.setAttribute("colspan", colspan);
@@ -1020,8 +1023,8 @@ Winter 2026
         // this may be unsafe, but innerText does not interpret <br>
         newCell.innerHTML = content;
       }
-      function spanCell_wontsg76knv2xetw26of(i, j, rowspan, colspan) {
-        var table = document.getElementById("tinytable_wontsg76knv2xetw26of");
+      function spanCell_oygc4bbt3a52tp27pv6f(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_oygc4bbt3a52tp27pv6f");
         const targetRow = table.rows[i];
         const targetCell = targetRow.cells[j];
         for (let r = 0; r < rowspan; r++) {
@@ -1051,20 +1054,20 @@ Winter 2026
       window.addEventListener('load', function () {
           var cellsToStyle = [
             // tinytable style arrays after
-          { positions: [ { i: 10, j: 2 }, { i: 10, j: 1 }, { i: 10, j: 3 },  ], css_id: 'tinytable_css_36ukq1g5gu07cujcxp0j',}, 
-          { positions: [ { i: 2, j: 3 }, { i: 2, j: 1 }, { i: 2, j: 2 },  ], css_id: 'tinytable_css_px4y710h7i2psolfuvvt',}, 
-          { positions: [ { i: 4, j: 2 }, { i: 4, j: 1 }, { i: 1, j: 1 }, { i: 6, j: 1 }, { i: 3, j: 1 }, { i: 8, j: 1 }, { i: 5, j: 1 }, { i: 1, j: 3 }, { i: 7, j: 1 }, { i: 1, j: 2 }, { i: 4, j: 3 }, { i: 3, j: 2 }, { i: 6, j: 3 }, { i: 5, j: 2 }, { i: 6, j: 2 }, { i: 7, j: 2 }, { i: 8, j: 2 }, { i: 9, j: 2 }, { i: 3, j: 3 }, { i: 9, j: 1 }, { i: 5, j: 3 }, { i: 7, j: 3 }, { i: 8, j: 3 }, { i: 9, j: 3 },  ], css_id: 'tinytable_css_ucx4kpv0kdfit5mmuzv4',}, 
-          { positions: [ { i: 0, j: 1 }, { i: 0, j: 3 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_gvr6i3cjuiq1g8pu9jir',}, 
-          { positions: [ { i: 10, j: 0 },  ], css_id: 'tinytable_css_u4kvlvwrz4k9auz8ul2k',}, 
-          { positions: [ { i: 2, j: 0 },  ], css_id: 'tinytable_css_4asd2flgup2j38yph5km',}, 
-          { positions: [ { i: 1, j: 0 }, { i: 6, j: 0 }, { i: 3, j: 0 }, { i: 4, j: 0 }, { i: 5, j: 0 }, { i: 7, j: 0 }, { i: 8, j: 0 }, { i: 9, j: 0 },  ], css_id: 'tinytable_css_nq1xahxwf8wpny89cfmr',}, 
-          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_nr86d54fppm5rfm1m9oi',}, 
+          { positions: [ { i: 10, j: 2 }, { i: 10, j: 1 }, { i: 10, j: 3 },  ], css_id: 'tinytable_css_lrv96p4eji33i563rng0',}, 
+          { positions: [ { i: 2, j: 3 }, { i: 2, j: 1 }, { i: 2, j: 2 },  ], css_id: 'tinytable_css_17s25wnnvjt4268ooyis',}, 
+          { positions: [ { i: 4, j: 2 }, { i: 4, j: 1 }, { i: 1, j: 1 }, { i: 6, j: 1 }, { i: 3, j: 1 }, { i: 8, j: 1 }, { i: 5, j: 1 }, { i: 1, j: 3 }, { i: 7, j: 1 }, { i: 1, j: 2 }, { i: 4, j: 3 }, { i: 3, j: 2 }, { i: 6, j: 3 }, { i: 5, j: 2 }, { i: 6, j: 2 }, { i: 7, j: 2 }, { i: 8, j: 2 }, { i: 9, j: 2 }, { i: 3, j: 3 }, { i: 9, j: 1 }, { i: 5, j: 3 }, { i: 7, j: 3 }, { i: 8, j: 3 }, { i: 9, j: 3 },  ], css_id: 'tinytable_css_pcjbrtvq8oltgoxk9t7y',}, 
+          { positions: [ { i: 0, j: 1 }, { i: 0, j: 3 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_vyecijqkfik8xyue1dz9',}, 
+          { positions: [ { i: 10, j: 0 },  ], css_id: 'tinytable_css_cxjata8989mlzpal6ddy',}, 
+          { positions: [ { i: 2, j: 0 },  ], css_id: 'tinytable_css_e42pav0p0ug2sj99z37w',}, 
+          { positions: [ { i: 1, j: 0 }, { i: 6, j: 0 }, { i: 3, j: 0 }, { i: 4, j: 0 }, { i: 5, j: 0 }, { i: 7, j: 0 }, { i: 8, j: 0 }, { i: 9, j: 0 },  ], css_id: 'tinytable_css_1bv6xr9bjznv5tu317uu',}, 
+          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_7ndktkl061fx5pii7owa',}, 
           ];
 
           // Loop over the arrays to style the cells
           cellsToStyle.forEach(function (group) {
               group.positions.forEach(function (cell) {
-                  styleCell_wontsg76knv2xetw26of(cell.i, cell.j, group.css_id);
+                  styleCell_oygc4bbt3a52tp27pv6f(cell.i, cell.j, group.css_id);
               });
           });
       });
@@ -1072,17 +1075,17 @@ Winter 2026
 
     <style>
       /* tinytable css entries after */
-      .table td.tinytable_css_36ukq1g5gu07cujcxp0j, .table th.tinytable_css_36ukq1g5gu07cujcxp0j { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
-      .table td.tinytable_css_px4y710h7i2psolfuvvt, .table th.tinytable_css_px4y710h7i2psolfuvvt { text-align: center; border-bottom: solid black 0.05em; }
-      .table td.tinytable_css_ucx4kpv0kdfit5mmuzv4, .table th.tinytable_css_ucx4kpv0kdfit5mmuzv4 { text-align: center; }
-      .table td.tinytable_css_gvr6i3cjuiq1g8pu9jir, .table th.tinytable_css_gvr6i3cjuiq1g8pu9jir { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
-      .table td.tinytable_css_u4kvlvwrz4k9auz8ul2k, .table th.tinytable_css_u4kvlvwrz4k9auz8ul2k { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
-      .table td.tinytable_css_4asd2flgup2j38yph5km, .table th.tinytable_css_4asd2flgup2j38yph5km { text-align: left; border-bottom: solid black 0.05em; }
-      .table td.tinytable_css_nq1xahxwf8wpny89cfmr, .table th.tinytable_css_nq1xahxwf8wpny89cfmr { text-align: left; }
-      .table td.tinytable_css_nr86d54fppm5rfm1m9oi, .table th.tinytable_css_nr86d54fppm5rfm1m9oi { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_lrv96p4eji33i563rng0, .table th.tinytable_css_lrv96p4eji33i563rng0 { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_17s25wnnvjt4268ooyis, .table th.tinytable_css_17s25wnnvjt4268ooyis { text-align: center; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_pcjbrtvq8oltgoxk9t7y, .table th.tinytable_css_pcjbrtvq8oltgoxk9t7y { text-align: center; }
+      .table td.tinytable_css_vyecijqkfik8xyue1dz9, .table th.tinytable_css_vyecijqkfik8xyue1dz9 { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_cxjata8989mlzpal6ddy, .table th.tinytable_css_cxjata8989mlzpal6ddy { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_e42pav0p0ug2sj99z37w, .table th.tinytable_css_e42pav0p0ug2sj99z37w { text-align: left; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_1bv6xr9bjznv5tu317uu, .table th.tinytable_css_1bv6xr9bjznv5tu317uu { text-align: left; }
+      .table td.tinytable_css_7ndktkl061fx5pii7owa, .table th.tinytable_css_7ndktkl061fx5pii7owa { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
     </style>
     <div class="container">
-      <table class="table table-borderless" id="tinytable_wontsg76knv2xetw26of" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+      <table class="table table-borderless" id="tinytable_oygc4bbt3a52tp27pv6f" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
         <thead>
         
               <tr>
@@ -1422,10 +1425,15 @@ Winter 2026
 <li>Assigns points to jobs based on skill, effort, responsibility, working conditions</li>
 <li>Jobs with similar points should receive similar pay</li>
 <li>Can apply to different occupations, but still in same firm/industry</li>
-<li>Applies only to jobs that are predominantly male or female (&gt;70%) — pay in female-dominated jobs adjusted to that of male-dominated jobs</li>
 </ul>
 </section>
 <section id="equal-pay-1" class="slide level2">
+<h2>Equal Pay</h2>
+<ul>
+<li>Applies only to jobs that are predominantly male or female (&gt;70%) — pay in female-dominated jobs adjusted to that of male-dominated jobs</li>
+</ul>
+</section>
+<section id="equal-pay-2" class="slide level2">
 <h2>Equal Pay</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -1459,7 +1467,7 @@ Winter 2026
 </ul>
 </div></div>
 </section>
-<section id="equal-pay-2" class="slide level2">
+<section id="equal-pay-3" class="slide level2">
 <h2>Equal Pay</h2>
 <div class="callout callout-note callout-titled callout-style-default">
 <div class="callout-body">

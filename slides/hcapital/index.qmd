@@ -1118,6 +1118,9 @@ Program evaluation uses econometric techniques to address selection issues:
   - People invest in schooling until marginal benefit equals marginal cost
 - The [Signalling model]{.fg style="color: #2780e3;"} emphasizes education as a signal of ability
   - Education reveals productivity to employers rather than creating it
+
+## Summary
+
 - Empirical estimates of [returns to schooling are around 7–10% per year]{.fg style="color: #2780e3;"}
   - Ability bias may lead to overestimation; twin and IV studies correct for this
 - [Job training]{.fg style="color: #2780e3;"} is another important way to develop human capital

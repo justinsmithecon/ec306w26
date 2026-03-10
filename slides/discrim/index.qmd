@@ -75,6 +75,8 @@ Estimating discrimination empirically is difficult:
 - Need to control for all relevant characteristics
 - Need to separate differences in characteristics from differences in returns
 
+## Male and Female Earnings
+
 Methods that can help:
 
 - [Oaxaca-Blinder decomposition]{.fg style="color: #2780e3;"}
@@ -872,6 +874,9 @@ Additional findings:
 - Assigns points to jobs based on skill, effort, responsibility, working conditions
 - Jobs with similar points should receive similar pay
 - Can apply to different occupations, but still in same firm/industry
+
+## Equal Pay
+
 - Applies only to jobs that are predominantly male or female (>70%) — pay in female-dominated jobs adjusted to that of male-dominated jobs
 
 ## Equal Pay
