@@ -50,8 +50,8 @@ website:
               file: content/ldemand2.qmd                
             - text: "Wages and Employment in a Single Labour Market"
               file: content/lmarket.qmd  
-#            - text: "Human Capital Theory"
-#              file: content/hcapital.qmd 
+            - text: "Human Capital Theory"
+              file: content/hcapital.qmd 
 #            - text: "Discrimination and Male-Female Earnings Differentials"
 #              file: content/discrim.qmd 
               
