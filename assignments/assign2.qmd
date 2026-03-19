@@ -2,6 +2,10 @@
 title: "Assignment 2"
 ---
 
+::: {.callout-important title="Due Date"}
+This assignment is due **Friday, March 27, 2026**.
+:::
+
 ## Description
 
 In this assignment you will create an infographic that effectively communicates key information about a topic related to labour economics. Infographics are becoming a popular way to communicate complex information in a visually appealing and easy-to-understand format. You should aim to make your infographic engaging and informative, using a combination of text, images, and data visualizations to convey your message. The scope is broad: you can choose any topic that relates to labour economics (including topics we have not covered). I encourage you to be creative and try to have fun with it (to the extent that is possible for a academic assignment at the end of term).

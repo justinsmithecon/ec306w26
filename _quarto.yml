@@ -67,7 +67,9 @@ website:
         - section: "Assignments"
           contents:
             - text: "Assignment 1"
-              file: assignments/assign1.qmd          
+              file: assignments/assign1.qmd
+            - text: "Assignment 2"
+              file: assignments/assign2.qmd
               
 format:
   html:
