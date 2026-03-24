@@ -52,8 +52,8 @@ website:
               file: content/lmarket.qmd  
             - text: "Human Capital Theory"
               file: content/hcapital.qmd 
-#            - text: "Discrimination and Male-Female Earnings Differentials"
-#              file: content/discrim.qmd 
+            - text: "Discrimination and Male-Female Earnings Differentials"
+              file: content/discrim.qmd
               
     - title: "Assignments"
       style: "docked"
